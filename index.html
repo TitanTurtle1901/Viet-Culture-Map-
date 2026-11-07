@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Viet Culture Map – Bản đồ văn hóa Việt Nam</title>
+  <meta name="description" content="Khám phá văn hóa, lịch sử, ẩm thực và di sản của 34 tỉnh/thành phố Việt Nam trên bản đồ hành chính tương tác.">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/vietnam-silhouette.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="js/tailwind-config.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home" data-hero="true">
+  <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-white focus:p-3 focus:rounded">Bỏ qua điều hướng</a>
+  <div id="site-header"></div>
+
+  <main id="main">
+    <!-- ============ HERO ============ -->
+    <section class="hero-bg relative overflow-hidden text-white pt-32 pb-28 sm:pt-40 sm:pb-36" aria-labelledby="hero-title">
+      <svg class="hero-mountains" viewBox="0 0 1200 200" preserveAspectRatio="none" aria-hidden="true">
+        <path d="M0 200V120l90-50 80 40 110-80 100 70 90-40 120 90 110-70 100 50 90-30 120 80 90-40 90 60V200Z" fill="#0f2e3c"/>
+        <path d="M0 200V150l120-40 90 30 130-60 110 60 90-30 140 70 100-50 120 40 100-20 100 50V200Z" fill="#26553a" opacity=".85"/>
+      </svg>
+      <div class="relative max-w-5xl mx-auto px-4 sm:px-6 text-center">
+        <p class="inline-block text-xs sm:text-sm tracking-[.2em] uppercase text-ochre-400 font-semibold mb-4">34 tỉnh · thành phố · một bản đồ</p>
+        <h1 id="hero-title" class="font-display text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">Khám phá vẻ đẹp văn hóa Việt Nam</h1>
+        <p class="mt-5 text-base sm:text-lg text-white/85 max-w-3xl mx-auto leading-relaxed">Hành trình khám phá những giá trị văn hóa, lịch sử, ẩm thực và vẻ đẹp thiên nhiên trên khắp mọi miền Tổ quốc.</p>
+        <form id="hero-search-form" class="mt-9 max-w-2xl mx-auto flex flex-col sm:flex-row gap-3" role="search" action="explore.html" method="get">
+          <label for="hero-search-input" class="sr-only">Tìm kiếm tỉnh thành, địa điểm hoặc đặc sản</label>
+          <input id="hero-search-input" name="q" type="search" autocomplete="off" class="field flex-1 !rounded-full !pl-6 !py-3.5 text-ink" placeholder="Tìm kiếm tỉnh thành, địa điểm hoặc đặc sản...">
+          <button type="submit" class="btn-primary !rounded-full !px-8">Tìm kiếm</button>
+        </form>
+        <p class="mt-4 text-sm text-white/70">Gợi ý: <a class="underline hover:text-ochre-400" href="explore.html?q=Hội%20An">Hội An</a>, <a class="underline hover:text-ochre-400" href="explore.html?q=bánh">bánh</a>, <a class="underline hover:text-ochre-400" href="explore.html?q=Quan%20họ">Quan họ</a></p>
+      </div>
+    </section>
+
+    <!-- ============ BẢN ĐỒ ============ -->
+    <section id="ban-do" class="max-w-7xl mx-auto px-4 sm:px-6 -mt-14 relative" aria-labelledby="map-heading">
+      <div class="bg-white rounded-3xl shadow-card p-4 sm:p-8 border border-cream-200">
+        <div class="max-w-3xl">
+          <h2 id="map-heading" class="font-display text-3xl font-bold text-deep-700">Bản đồ hành chính 34 tỉnh, thành phố</h2>
+          <p class="mt-2 text-gray-700 leading-relaxed">Rê chuột vào một địa phương để xem thông tin nhanh; nhấn để mở hồ sơ đầy đủ. Trên điện thoại, chạm vào địa phương để xem thông tin nhanh rồi chọn “Xem chi tiết”.</p>
+        </div>
+
+        <div class="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] items-start">
+          <!-- Khung bản đồ -->
+          <div>
+            <div class="map-stage">
+              <div class="map-controls" role="group" aria-label="Điều khiển bản đồ">
+                <button type="button" class="map-btn" id="map-zoom-in" aria-label="Phóng to">+</button>
+                <button type="button" class="map-btn" id="map-zoom-out" aria-label="Thu nhỏ">−</button>
+                <button type="button" class="map-btn !text-base" id="map-reset" aria-label="Đặt lại khung nhìn" title="Đặt lại">⟲</button>
+              </div>
+              <div id="map-container" aria-live="polite">
+                <div class="map-loading" style="min-height:24rem"><div class="spinner" role="status" aria-label="Đang tải bản đồ"></div></div>
+              </div>
+            </div>
+            <p class="mt-2 text-xs text-gray-500">Kéo để di chuyển khi đã phóng to · Ctrl + cuộn chuột hoặc chụm hai ngón tay để phóng to/thu nhỏ. Hoàng Sa, Trường Sa nằm trong khung phụ (không theo vị trí và tỷ lệ thật).</p>
+          </div>
+
+          <!-- Bảng điều khiển bên phải -->
+          <div class="space-y-5">
+            <div>
+              <h3 class="font-semibold text-deep-700 mb-2">Lọc theo miền</h3>
+              <div class="flex flex-wrap gap-2" id="region-chips" role="group" aria-label="Lọc bản đồ theo miền"></div>
+              <ul class="flex flex-wrap gap-x-5 gap-y-1 mt-3 text-sm text-gray-600" id="map-legend"></ul>
+            </div>
+            <div>
+              <h3 class="font-semibold text-deep-700 mb-2">Danh sách địa phương <span class="text-sm font-normal text-gray-500" id="province-count"></span></h3>
+              <div id="province-list" class="grid sm:grid-cols-2 gap-x-3 max-h-[26rem] overflow-y-auto pr-1" role="list"></div>
+              <p class="text-xs text-gray-500 mt-2">Di chuột hoặc dùng bàn phím trên danh sách để làm nổi bật địa phương tương ứng trên bản đồ.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ ĐỊA PHƯƠNG NỔI BẬT ============ -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 mt-20" aria-labelledby="featured-heading">
+      <div class="flex items-end justify-between flex-wrap gap-3 mb-8">
+        <div>
+          <h2 id="featured-heading" class="font-display text-3xl font-bold text-deep-700">Địa phương nổi bật</h2>
+          <p class="text-gray-600 mt-1">Tám địa phương đại diện cho nhiều vùng và nhiều loại hình di sản.</p>
+        </div>
+        <a href="explore.html" class="btn-secondary">Xem cả 34 địa phương</a>
+      </div>
+      <div id="featured-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div class="col-span-full flex justify-center py-12"><div class="spinner" role="status" aria-label="Đang tải"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ THEO VÙNG MIỀN ============ -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 mt-20" aria-labelledby="region-heading">
+      <h2 id="region-heading" class="font-display text-3xl font-bold text-deep-700">Khám phá theo vùng miền</h2>
+      <p class="text-gray-600 mt-1 max-w-3xl" id="region-rule"></p>
+      <div id="region-grid" class="grid gap-6 md:grid-cols-3 mt-8"></div>
+    </section>
+
+    <!-- ============ GIỚI THIỆU ============ -->
+    <section id="gioi-thieu" class="max-w-7xl mx-auto px-4 sm:px-6 mt-20" aria-labelledby="about-heading">
+      <div class="grid gap-10 lg:grid-cols-2 items-center bg-deep-800 text-cream-200 rounded-3xl p-8 sm:p-12">
+        <div>
+          <h2 id="about-heading" class="font-display text-3xl font-bold text-white">Một địa phương, nhiều tầng di sản</h2>
+          <p class="mt-4 leading-relaxed">Sau đợt sắp xếp đơn vị hành chính cấp tỉnh năm 2025, Việt Nam có 34 đơn vị cấp tỉnh. Mỗi hồ sơ trên Viet Culture Map giữ <strong class="text-white">thông tin hành chính hiện hành</strong> tách biệt với <strong class="text-white">lịch sử và văn hóa của tất cả đơn vị tiền thân</strong>, để bản sắc của từng vùng đất không bị mất đi sau sáp nhập.</p>
+          <p class="mt-3 leading-relaxed">Mỗi địa điểm, đặc sản, lễ hội và loại hình nghệ thuật đều ghi khu vực tiền thân có nguồn gốc và nguồn tham khảo. Dữ liệu chưa xác minh được đánh dấu rõ.</p>
+        </div>
+        <ul class="grid grid-cols-2 gap-4 text-center" id="about-stats" aria-label="Quy mô dữ liệu"></ul>
+      </div>
+    </section>
+  </main>
+
+  <div id="province-popup" class="province-popup" role="dialog" aria-label="Thông tin nhanh địa phương" aria-live="polite"></div>
+  <div id="site-footer"></div>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

@@ -1,0 +1,715 @@
+{
+  "id": "lang-son",
+  "name": "Tỉnh Lạng Sơn",
+  "administrativeType": "Tỉnh",
+  "region": "Đông Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Lạng Sơn – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Lạng Sơn là tỉnh biên giới Đông Bắc, nổi bật với địa hình núi đá vôi, thung lũng Bắc Sơn, cửa khẩu Hữu Nghị và các cộng đồng Tày, Nùng, Dao. Công viên địa chất toàn cầu UNESCO, lễ hội Kỳ Cùng – Tả Phủ, hát Sli và Then là những giá trị văn hóa quan trọng.",
+    "featuredDestinationIds": [
+      "cong-vien-dia-chat-toan-cau-lang-son",
+      "khu-du-lich-mau-son"
+    ],
+    "featuredSpecialtyIds": [
+      "na-chi-lang",
+      "vit-quay-lang-son"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Lạng Sơn",
+      "administrativeCode": "20",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "12"
+      ],
+      "areaKm2": 8310.18,
+      "areaYear": 2025,
+      "population": {
+        "value": 881384,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh biên giới vùng Đông Bắc, giáp Trung Quốc và các tỉnh Cao Bằng, Quảng Ninh, Bắc Ninh, Thái Nguyên theo địa giới hiện hành.",
+      "boundaries": [
+        "Phía bắc giáp Cao Bằng và Trung Quốc.",
+        "Phía đông giáp Trung Quốc.",
+        "Phía nam giáp Quảng Ninh và Bắc Ninh.",
+        "Phía tây giáp Thái Nguyên."
+      ],
+      "naturalFeatures": "Địa hình núi đá vôi, thung lũng karst, hang động, sông Kỳ Cùng, vùng núi cao Mẫu Sơn và các thung lũng nông nghiệp.",
+      "climate": null,
+      "history": "Lạng Sơn là vùng cửa ngõ giao lưu Việt Nam – Trung Quốc, có lịch sử gắn với các tuyến đường biên, thương mại và nhiều sự kiện quân sự. Các cộng đồng Tày, Nùng, Dao cùng các nhóm cư dân khác tạo nên mạng lưới văn hóa đa dạng.",
+      "description": "Lạng Sơn kết hợp di sản lịch sử vùng biên với cảnh quan địa chất, hang động, thung lũng và văn hóa Tày – Nùng. Những điểm nổi bật gồm Mẫu Sơn, Tam Thanh – Nhị Thanh, Ải Chi Lăng, Bắc Sơn và Công viên địa chất toàn cầu UNESCO Lạng Sơn.",
+      "sourceIds": [
+        "src-197",
+        "src-198",
+        "src-199",
+        "src-200",
+        "src-211",
+        "src-212",
+        "src-213",
+        "src-214"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "khu-du-lich-mau-son",
+        "name": "Khu du lịch Mẫu Sơn",
+        "category": "Danh lam thắng cảnh; du lịch nghỉ dưỡng",
+        "originArea": "Lạng Sơn – khu vực Lộc Bình cũ.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch Mẫu Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Mẫu Sơn, tỉnh Lạng Sơn.",
+        "coordinates": null,
+        "shortDescription": "Khu núi cao có khí hậu mát lạnh theo mùa, cảnh quan núi rừng và bản làng.",
+        "fullDescription": "Mẫu Sơn được quy hoạch phát triển du lịch sinh thái, nghỉ dưỡng; điều kiện giao thông và thời tiết cần kiểm tra trước khi đi.",
+        "highlights": "Cảnh quan núi cao; khí hậu; văn hóa bản địa.",
+        "historicalCulturalValue": "Giá trị cảnh quan tự nhiên và phát triển du lịch vùng biên.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-213",
+          "src-214"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "cum-di-tich-tam-thanh-nhi-thanh",
+        "name": "Cụm danh thắng Tam Thanh – Nhị Thanh",
+        "category": "Danh lam thắng cảnh; hang động; di tích tín ngưỡng",
+        "originArea": "Lạng Sơn – khu vực đô thị Lạng Sơn cũ.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Cụm danh thắng Tam Thanh – Nhị Thanh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Tam Thanh và các khu vực lân cận, tỉnh Lạng Sơn.",
+        "coordinates": null,
+        "shortDescription": "Cụm hang động đá vôi và không gian tín ngưỡng nổi tiếng của Lạng Sơn.",
+        "fullDescription": "Hai hang động gắn với cảnh quan karst, dấu tích văn hóa và các hoạt động tín ngưỡng; địa chỉ xã/phường hiện hành cần theo bảng địa giới cập nhật.",
+        "highlights": "Hang động; nhũ đá; di tích và không gian thờ tự.",
+        "historicalCulturalValue": "Kết hợp giá trị địa chất, cảnh quan và lịch sử văn hóa.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-213",
+          "src-214"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "thanh-nha-mac-lang-son",
+        "name": "Thành nhà Mạc",
+        "category": "Di tích lịch sử; kiến trúc quân sự",
+        "originArea": "Lạng Sơn – khu vực đô thị Lạng Sơn cũ.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Thành nhà Mạc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Tam Thanh, tỉnh Lạng Sơn.",
+        "coordinates": null,
+        "shortDescription": "Dấu tích thành lũy gắn với lịch sử quân sự và phòng thủ ở vùng biên.",
+        "fullDescription": "Di tích nằm trong hệ thống điểm đến lịch sử – văn hóa của Lạng Sơn; cần dùng hồ sơ di tích và quyết định xếp hạng gốc để xác định chính xác giá trị và niên đại từng bộ phận.",
+        "highlights": "Dấu tích tường thành; địa hình núi đá; cảnh quan đô thị.",
+        "historicalCulturalValue": "Giá trị lịch sử và kiến trúc quân sự.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-213",
+          "src-214"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "thung-lung-bac-son",
+        "name": "Thung lũng Bắc Sơn",
+        "category": "Danh lam thắng cảnh; cảnh quan nông nghiệp",
+        "originArea": "Lạng Sơn – vùng Bắc Sơn cũ.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Thung lũng Bắc Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Bắc Sơn, tỉnh Lạng Sơn.",
+        "coordinates": null,
+        "shortDescription": "Thung lũng giữa núi đá vôi, có cánh đồng và bản làng tạo nên cảnh quan đặc trưng.",
+        "fullDescription": "Cảnh quan gắn với sản xuất nông nghiệp và du lịch cộng đồng; mùa lúa và thời điểm ngắm cảnh tùy mùa vụ.",
+        "highlights": "Núi đá vôi; cánh đồng; bản làng; điểm nhìn toàn thung lũng.",
+        "historicalCulturalValue": "Giá trị cảnh quan và không gian cư trú nông nghiệp vùng núi.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-213",
+          "src-214"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "ai-chi-lang",
+        "name": "Ải Chi Lăng",
+        "category": "Di tích lịch sử; địa danh chiến trận",
+        "originArea": "Lạng Sơn – vùng Chi Lăng cũ.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Ải Chi Lăng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Chi Lăng, tỉnh Lạng Sơn.",
+        "coordinates": null,
+        "shortDescription": "Địa danh lịch sử gắn với các trận đánh quan trọng trong lịch sử chống ngoại xâm.",
+        "fullDescription": "Thung lũng hẹp giữa các dãy núi đá vôi tạo địa thế chiến lược. Khi diễn giải cần phân biệt các mốc lịch sử và sự kiện, tránh kể lẫn truyền thuyết với sử liệu.",
+        "highlights": "Địa hình ải; dấu tích và địa danh lịch sử; núi đá vôi.",
+        "historicalCulturalValue": "Giá trị đặc biệt trong lịch sử quân sự và ký ức vùng biên.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-213",
+          "src-214"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "cong-khau-huu-nghi",
+        "name": "Cửa khẩu quốc tế Hữu Nghị",
+        "category": "Cửa khẩu; không gian kinh tế biên giới",
+        "originArea": "Lạng Sơn – vùng Đồng Đăng, Cao Lộc cũ.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Cửa khẩu quốc tế Hữu Nghị – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Đồng Đăng, tỉnh Lạng Sơn.",
+        "coordinates": null,
+        "shortDescription": "Cửa khẩu quốc tế quan trọng trên hành lang giao thương Việt Nam – Trung Quốc.",
+        "fullDescription": "Đây là điểm có tính chất hạ tầng biên giới và kinh tế đối ngoại; điều kiện tiếp cận, giấy tờ và phạm vi khách tham quan phải tuân thủ quy định hiện hành.",
+        "highlights": "Không gian cửa khẩu; cột mốc và tuyến giao thương.",
+        "historicalCulturalValue": "Phản ánh vai trò cửa ngõ giao thương và giao lưu văn hóa vùng biên.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-214"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "cong-vien-dia-chat-toan-cau-lang-son",
+        "name": "Công viên địa chất toàn cầu UNESCO Lạng Sơn",
+        "category": "Di sản địa chất; du lịch khám phá",
+        "originArea": "Lạng Sơn – nhiều địa bàn trong tỉnh.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Công viên địa chất toàn cầu UNESCO Lạng Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Nhiều xã thuộc tỉnh Lạng Sơn; cần sử dụng bản đồ tuyến công viên để định vị từng điểm.",
+        "coordinates": null,
+        "shortDescription": "Không gian địa chất gồm núi đá vôi Bắc Sơn, trầm tích và các dấu tích cổ sinh – địa chất có ý nghĩa khoa học.",
+        "fullDescription": "UNESCO ghi danh Lạng Sơn vào Mạng lưới Công viên địa chất toàn cầu năm 2025. Đây là danh hiệu về địa chất – cảnh quan, không đồng nghĩa di sản thế giới.",
+        "highlights": "Địa tầng; hóa thạch; cảnh quan karst; các điểm di sản địa chất.",
+        "historicalCulturalValue": "Giá trị khoa học, giáo dục, văn hóa và phát triển bền vững.",
+        "recognition": "UNESCO Global Geopark, công nhận năm 2025.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-211",
+          "src-212"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "vit-quay-lang-son",
+        "name": "Vịt quay Lạng Sơn",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Lạng Sơn – các cơ sở ẩm thực tại nhiều địa bàn.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Vịt quay Lạng Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Vịt quay Lạng Sơn gắn với Lạng Sơn – các cơ sở ẩm thực tại nhiều địa bàn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt vịt",
+          "Gia vị, lá và quả mắc mật cùng các nguyên liệu ướp tùy cơ sở."
+        ],
+        "preparation": "Vịt được làm sạch, tẩm ướp, quay theo kỹ thuật của từng cơ sở; không khẳng định mọi nơi có cùng công thức.",
+        "characteristics": "Da vịt quay có màu nâu đỏ, thơm mùi gia vị; thường ăn cùng nước chấm.",
+        "culturalContext": "Món ăn gắn với ẩm thực vùng xứ Lạng và kỹ thuật sử dụng gia vị địa phương.",
+        "recognition": "Chưa gán chỉ dẫn địa lý/nhãn hiệu nếu chưa có văn bằng cụ thể.",
+        "sourceIds": [
+          "src-213"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "pho-chua-lang-son",
+        "name": "Phở chua Lạng Sơn",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Lạng Sơn – không gian đô thị và các địa bàn trong tỉnh.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Phở chua Lạng Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Phở chua Lạng Sơn gắn với Lạng Sơn – không gian đô thị và các địa bàn trong tỉnh.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Bánh phở",
+          "Thịt, rau, lạc, gia vị và nước sốt chua ngọt theo công thức cơ sở."
+        ],
+        "preparation": "Thành phần được phối hợp thành món phở trộn hoặc ăn kèm nước sốt; biến thể theo quán.",
+        "characteristics": "Vị chua ngọt và độ giòn của các thành phần ăn kèm tạo dấu ấn riêng.",
+        "culturalContext": "Món ăn đô thị và ẩm thực địa phương xứ Lạng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-213"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "khau-nhuc-lang-son",
+        "name": "Khâu nhục",
+        "category": "Món ăn; món thịt hầm truyền thống",
+        "originArea": "Cộng đồng và ẩm thực Lạng Sơn; món ăn cũng có biến thể ở một số địa phương miền núi phía Bắc.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Khâu nhục – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Khâu nhục gắn với Cộng đồng và ẩm thực Lạng Sơn; món ăn cũng có biến thể ở một số địa phương miền núi phía Bắc.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt ba chỉ",
+          "Khoai môn hoặc nguyên liệu ăn kèm",
+          "Gia vị, rau và thảo mộc theo công thức."
+        ],
+        "preparation": "Thịt được sơ chế, tẩm ướp, hấp/hầm lâu; cách làm khác nhau giữa cộng đồng và gia đình.",
+        "characteristics": "Thịt mềm, đậm gia vị, thường xuất hiện trong mâm cỗ và dịp lễ.",
+        "culturalContext": "Gắn với sinh hoạt ẩm thực cộng đồng, cần tránh tuyên bố là món chỉ có ở Lạng Sơn.",
+        "recognition": null,
+        "sourceIds": [
+          "src-213"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "na-chi-lang",
+        "name": "Na Chi Lăng",
+        "category": "Nông sản; trái cây",
+        "originArea": "Lạng Sơn – vùng Chi Lăng.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Na Chi Lăng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Na Chi Lăng gắn với Lạng Sơn – vùng Chi Lăng.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Quả na trồng tại khu vực Chi Lăng."
+        ],
+        "preparation": "Canh tác vườn na trên địa hình phù hợp; thu hoạch theo mùa và tiêu chuẩn của từng vùng trồng.",
+        "characteristics": "Quả có múi, vị ngọt; chất lượng tùy giống và điều kiện canh tác.",
+        "culturalContext": "Là sản vật nông nghiệp gắn với vùng núi đá Chi Lăng.",
+        "recognition": "Cần đối chiếu nhãn hiệu/chứng nhận theo văn bản sở hữu trí tuệ cụ thể.",
+        "sourceIds": [
+          "src-213"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "quyt-bac-son",
+        "name": "Quýt Bắc Sơn",
+        "category": "Nông sản; trái cây",
+        "originArea": "Lạng Sơn – vùng Bắc Sơn.",
+        "currentProvinceId": "lang-son",
+        "image": {
+          "file": null,
+          "alt": "Quýt Bắc Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Quýt Bắc Sơn gắn với Lạng Sơn – vùng Bắc Sơn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Quýt trồng tại vùng Bắc Sơn."
+        ],
+        "preparation": "Canh tác cây ăn quả theo mùa; kỹ thuật khác nhau giữa hộ và vùng trồng.",
+        "characteristics": "Quả có múi, mùi thơm và vị ngọt/chua tùy giống, độ chín.",
+        "culturalContext": "Gắn với sản xuất nông nghiệp vùng thung lũng Bắc Sơn.",
+        "recognition": "Chưa khẳng định chứng nhận địa lý nếu chưa kiểm tra hồ sơ hiện hành.",
+        "sourceIds": [
+          "src-213"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-tay-lang-son",
+          "name": "Cộng đồng Tày",
+          "originArea": "Nhiều địa bàn trong tỉnh Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Cộng đồng Tày có truyền thống nhà sàn, hát Then, đàn tính, lễ hội và tri thức canh tác; các thực hành có khác biệt theo vùng.",
+          "sourceIds": [
+            "src-212",
+            "src-219"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        },
+        {
+          "id": "cong-dong-nung-lang-son",
+          "name": "Cộng đồng Nùng",
+          "originArea": "Nhiều địa bàn trong tỉnh Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Cộng đồng Nùng duy trì các làn điệu Sli, Lượn, múa sư tử, nghề thủ công và lễ hội truyền thống; cách thực hành theo từng nhóm địa phương.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-lang-son",
+          "name": "Cộng đồng Dao",
+          "originArea": "Các vùng núi của Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Cộng đồng Dao có hệ thống nghi lễ, trang phục, ngôn ngữ và tri thức dân gian riêng; cần ghi đúng nhóm Dao và địa bàn cư trú khi mô tả chi tiết.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "cho-phien-xu-lang",
+          "name": "Chợ phiên và sinh hoạt vùng biên",
+          "originArea": "Các xã miền núi, vùng cửa khẩu và khu vực nông thôn.",
+          "currentProvinceId": "lang-son",
+          "description": "Chợ phiên là không gian trao đổi nông sản, sản phẩm thủ công và gặp gỡ giữa các nhóm cư dân; tần suất và vai trò khác nhau từng địa bàn.",
+          "sourceIds": [
+            "src-213",
+            "src-214"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-ky-cung-ta-phu",
+          "name": "Lễ hội Kỳ Cùng – Tả Phủ",
+          "originArea": "Lạng Sơn – khu vực đền Kỳ Cùng và đền Tả Phủ.",
+          "currentProvinceId": "lang-son",
+          "description": "Lễ hội truyền thống có nghi thức rước, tế và sinh hoạt cộng đồng, gắn với tín ngưỡng tại các di tích ở Lạng Sơn.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "timeAndLocation": "Phường Kỳ Lừa và khu vực đền Kỳ Cùng – Tả Phủ; lịch cụ thể cần xác minh hằng năm.",
+          "originUnitIds": [
+            "lang-son"
+          ]
+        },
+        {
+          "id": "le-hoi-na-nhem",
+          "name": "Lễ hội Ná Nhèm",
+          "originArea": "Lạng Sơn – cộng đồng Tày tại vùng Trấn Yên cũ.",
+          "currentProvinceId": "lang-son",
+          "description": "Lễ hội truyền thống do cộng đồng chủ thể thực hành, với các nghi thức và trò diễn mang ý nghĩa cầu mùa, tưởng niệm và giáo dục cộng đồng; cần ghi theo hồ sơ di sản.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "timeAndLocation": "Xã Hưng Vũ; lịch theo quy định của cộng đồng và địa phương.",
+          "originUnitIds": [
+            "lang-son"
+          ]
+        },
+        {
+          "id": "le-hoi-bung-kham",
+          "name": "Lễ hội Bủng Kham",
+          "originArea": "Lạng Sơn – vùng Thất Khê cũ.",
+          "currentProvinceId": "lang-son",
+          "description": "Lễ hội gắn với tín ngưỡng và sinh hoạt cộng đồng địa phương; nội dung chi tiết nên lấy từ hồ sơ kiểm kê và thực hành của cộng đồng.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "timeAndLocation": "Xã Thất Khê; ngày tổ chức cần tra cứu lịch từng năm.",
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-tay-nung-lang-son",
+          "name": "Trang phục truyền thống Tày và Nùng",
+          "originArea": "Các cộng đồng Tày và Nùng ở Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Trang phục có khác biệt về màu sắc, kiểu áo, khăn và phụ kiện theo nhóm địa phương, giới và dịp sử dụng; không mô tả như một bộ trang phục chung.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "sinh-hoat-cong-dong-tay-nung",
+          "name": "Sinh hoạt cộng đồng Tày – Nùng",
+          "originArea": "Nhiều bản làng ở Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Sinh hoạt cộng đồng gắn với nhà ở, chợ, lễ hội, hát dân ca và nghề nông; mỗi nhóm có vai trò và quy ước riêng.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-san-tay-nung",
+          "name": "Nhà sàn và không gian bản Tày – Nùng",
+          "originArea": "Các cộng đồng Tày, Nùng ở Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Nhà sàn là hình thức kiến trúc cư trú phổ biến ở nhiều cộng đồng; cấu trúc và vật liệu thay đổi theo địa hình, điều kiện kinh tế và nhóm địa phương.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-then-tay-nung-lang-son",
+          "name": "Thực hành Then của người Tày, Nùng",
+          "originArea": "Cộng đồng Tày, Nùng ở Lạng Sơn và nhiều tỉnh miền núi phía Bắc.",
+          "currentProvinceId": "lang-son",
+          "description": "Then là thực hành nghi lễ – nghệ thuật gắn với cộng đồng Tày, Nùng, Thái; không đồng nhất với một tiết mục sân khấu.",
+          "sourceIds": [
+            "src-219",
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "cong-vien-dia-chat-lang-son",
+          "name": "Công viên địa chất toàn cầu UNESCO Lạng Sơn",
+          "originArea": "Nhiều địa bàn trong tỉnh Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "Được UNESCO công nhận năm 2025 nhờ giá trị địa chất, sinh thái và văn hóa; không phải di sản thế giới.",
+          "sourceIds": [
+            "src-211"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        },
+        {
+          "id": "di-san-then-lang-son",
+          "name": "Thực hành Then của người Tày, Nùng, Thái",
+          "originArea": "Cộng đồng Tày, Nùng, Thái ở nhiều tỉnh, gồm Lạng Sơn.",
+          "currentProvinceId": "lang-son",
+          "description": "UNESCO ghi danh năm 2019; tỉnh Lạng Sơn ghi nhận Then trong danh mục di sản phi vật thể và không nên gán riêng cho địa phương.",
+          "sourceIds": [
+            "src-219",
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        },
+        {
+          "id": "di-san-ky-cung-ta-phu",
+          "name": "Lễ hội Kỳ Cùng – Tả Phủ",
+          "originArea": "Lạng Sơn – phường Kỳ Lừa và khu vực đền liên quan.",
+          "currentProvinceId": "lang-son",
+          "description": "Di sản văn hóa phi vật thể cấp quốc gia theo danh mục kiểm kê tỉnh công bố năm 2026.",
+          "sourceIds": [
+            "src-212"
+          ],
+          "originUnitIds": [
+            "lang-son"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-sli-nung",
+        "name": "Hát Sli của người Nùng",
+        "category": "Dân ca; hát giao duyên",
+        "image": {
+          "file": null,
+          "alt": "Hát Sli của người Nùng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Nùng ở Lạng Sơn.",
+        "origin": null,
+        "originArea": "Cộng đồng Nùng ở Lạng Sơn.",
+        "currentProvinceId": "lang-son",
+        "characteristics": "Sli là hình thức dân ca truyền thống, có các làn điệu và ngữ cảnh diễn xướng khác nhau.",
+        "instrumentsOrPerformance": "Hát đối đáp trong sinh hoạt cộng đồng, dịp hội và giao lưu; cần tránh áp một cấu trúc duy nhất cho mọi nhóm Nùng.",
+        "culturalValue": "Lưu truyền tiếng nói, ký ức và quan hệ cộng đồng.",
+        "recognition": "Danh mục kiểm kê tỉnh Lạng Sơn 2026 nêu Hát Sli trong nhóm di sản cấp quốc gia.",
+        "sourceIds": [
+          "src-212"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "hat-then-dan-tinh-lang-son",
+        "name": "Hát Then và đàn tính",
+        "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng ở Lạng Sơn và các tỉnh khác.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày, Nùng ở Lạng Sơn và các tỉnh khác.",
+        "currentProvinceId": "lang-son",
+        "characteristics": "Then kết hợp lời hát, đàn tính và hệ thống nghi lễ; cách thực hành có biến thể giữa cộng đồng.",
+        "instrumentsOrPerformance": "Đàn tính dây gảy làm nhạc cụ đệm; lời Then được thực hành trong nghi lễ hoặc bối cảnh văn hóa phù hợp.",
+        "culturalValue": "Là không gian lưu truyền tri thức nghi lễ và nghệ thuật dân gian.",
+        "recognition": "UNESCO ghi danh thực hành Then năm 2019; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-219",
+          "src-212"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      },
+      {
+        "id": "mua-su-tu-tay-nung",
+        "name": "Múa sư tử của người Tày, Nùng",
+        "category": "Múa dân gian; diễn xướng lễ hội",
+        "image": {
+          "file": null,
+          "alt": "Múa sư tử của người Tày, Nùng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng ở Lạng Sơn.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày, Nùng ở Lạng Sơn.",
+        "currentProvinceId": "lang-son",
+        "characteristics": "Múa sư tử gắn với lễ hội và sinh hoạt cộng đồng, có các hình thức, động tác và ý nghĩa khác nhau theo vùng.",
+        "instrumentsOrPerformance": "Người diễn phối hợp trống, chiêng và động tác mô phỏng sư tử; trình diễn trong dịp lễ hội.",
+        "culturalValue": "Tạo không khí hội và biểu đạt ước vọng may mắn, bình an.",
+        "recognition": "Danh mục kiểm kê Lạng Sơn năm 2026 nêu Múa sư tử trong nhóm di sản cấp quốc gia.",
+        "sourceIds": [
+          "src-212"
+        ],
+        "originUnitIds": [
+          "lang-son"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Lạng Sơn giữ nguyên đơn vị hành chính cấp tỉnh trong sắp xếp năm 2025.",
+      "Diện tích 8.310,18 km² và quy mô dân số 881.384 người theo hồ sơ hành chính năm 2025; Cục Thống kê ghi 65 đơn vị cấp xã năm 2026.",
+      "Mã tỉnh 20; biển số 12.",
+      "UNESCO Global Geopark Lạng Sơn được công nhận năm 2025. Danh mục kiểm kê di sản phi vật thể 2026 được phê duyệt theo Quyết định 1903/QĐ-UBND.",
+      "Phân bố cấp xã chi tiết, trung tâm hành chính, tọa độ và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-197",
+      "src-198",
+      "src-199",
+      "src-200",
+      "src-211",
+      "src-212",
+      "src-213",
+      "src-214"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "lang-son",
+      "name": "Lạng Sơn"
+    }
+  ]
+}

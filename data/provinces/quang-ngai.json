@@ -1,0 +1,698 @@
+{
+  "id": "quang-ngai",
+  "name": "Tỉnh Quảng Ngãi",
+  "administrativeType": "Tỉnh",
+  "region": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Quảng Ngãi – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Quảng Ngãi mới kết nối dải duyên hải Quảng Ngãi cũ với cao nguyên Kon Tum cũ. Lý Sơn, Sa Huỳnh, Sơn Mỹ, Măng Đen, nhà thờ gỗ Kon Tum, văn hóa Ba Na – Xơ Đăng – Hrê và lễ Khao lề thế lính Hoàng Sa là những lớp bản sắc tiêu biểu.",
+    "featuredDestinationIds": [
+      "dac-khu-ly-son",
+      "mang-den"
+    ],
+    "featuredSpecialtyIds": [
+      "toi-ly-son",
+      "sam-ngoc-linh-quang-ngai"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Quảng Ngãi",
+      "administrativeCode": "51",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "76",
+        "82"
+      ],
+      "areaKm2": 14832.55,
+      "areaYear": 2025,
+      "population": {
+        "value": 2161755,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh mới gồm Quảng Ngãi và Kon Tum cũ, trải từ duyên hải Nam Trung Bộ tới cao nguyên và dãy Trường Sơn; có biên giới với Lào và Campuchia.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình trải từ đảo núi lửa, bờ biển, đồng bằng sông đến cao nguyên, núi cao và rừng đầu nguồn; gồm các hệ sinh thái biển – đảo và rừng nhiệt đới.",
+      "climate": null,
+      "history": "Tỉnh hình thành từ toàn bộ Quảng Ngãi và Kon Tum cũ, chính quyền mới hoạt động từ 01/07/2025. Không gian duyên hải gắn với Sa Huỳnh, văn hóa biển và đội Hoàng Sa; vùng cao nguyên gắn với lịch sử cư trú của Ba Na, Xơ Đăng, Hrê và các cộng đồng khác.",
+      "description": "Quảng Ngãi là không gian liên kết biển – đảo với cao nguyên. Lý Sơn, Sa Huỳnh, Măng Đen, nhà thờ gỗ Kon Tum và các di sản của cộng đồng miền núi tạo nên bản sắc đa dạng.",
+      "sourceIds": [
+        "src-226",
+        "src-227",
+        "src-230",
+        "src-234",
+        "src-244",
+        "src-245",
+        "src-246",
+        "src-247"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "dac-khu-ly-son",
+        "name": "Đặc khu Lý Sơn",
+        "category": "Đảo; cảnh quan địa chất; di sản văn hóa",
+        "originArea": "Quảng Ngãi cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Đặc khu Lý Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Lý Sơn, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Quần đảo núi lửa ngoài khơi với vách đá bazan, miệng núi lửa, bãi biển và di tích đội Hoàng Sa.",
+        "fullDescription": "Lý Sơn gồm đảo Lớn, đảo Bé và hòn Mù Cu; cảnh quan địa chất gắn với lịch sử cư dân, nghề trồng tỏi và ký ức Hải đội Hoàng Sa. Địa chỉ và điều kiện tàu tuyến cần kiểm tra trước chuyến đi.",
+        "highlights": "Núi Thới Lới; Hang Câu; cổng Tò Vò; Âm Linh Tự; đảo Bé.",
+        "historicalCulturalValue": "Giá trị địa chất, lịch sử biển đảo và văn hóa cư dân đảo.",
+        "recognition": "Đặc khu; có di sản văn hóa phi vật thể quốc gia Khao lề thế lính Hoàng Sa.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-247",
+          "src-245",
+          "src-244"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "khu-chung-tich-son-my",
+        "name": "Khu chứng tích Sơn Mỹ",
+        "category": "Di tích lịch sử; bảo tàng",
+        "originArea": "Quảng Ngãi cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Khu chứng tích Sơn Mỹ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tịnh Khê, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Địa điểm tưởng niệm các nạn nhân vụ thảm sát Mỹ Lai ngày 16/03/1968.",
+        "fullDescription": "Khu chứng tích bảo tồn không gian tưởng niệm, hiện vật và tư liệu liên quan đến sự kiện lịch sử; nội dung giới thiệu cần dùng ngôn ngữ nhân văn, chính xác và tôn trọng nạn nhân.",
+        "highlights": "Nhà trưng bày; bia tưởng niệm; dấu tích làng Sơn Mỹ.",
+        "historicalCulturalValue": "Giá trị lịch sử, giáo dục hòa bình và tưởng niệm.",
+        "recognition": "Di tích lịch sử quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "van-hoa-sa-huynh",
+        "name": "Không gian văn hóa Sa Huỳnh",
+        "category": "Di chỉ khảo cổ; di sản văn hóa",
+        "originArea": "Quảng Ngãi cũ – vùng Sa Huỳnh.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Không gian văn hóa Sa Huỳnh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Sa Huỳnh, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Không gian khảo cổ học gắn với văn hóa Sa Huỳnh, một nền văn hóa khảo cổ quan trọng ở miền Trung.",
+        "fullDescription": "Các phát hiện mộ chum, đồ trang sức và đồ sắt góp phần nhận diện mạng lưới giao lưu cổ ở ven biển miền Trung. Cần phân biệt di chỉ khảo cổ và khu trưng bày/bảo tàng.",
+        "highlights": "Di chỉ mộ chum; hiện vật trang sức; dấu tích cư trú ven biển.",
+        "historicalCulturalValue": "Giá trị khảo cổ học và nghiên cứu lịch sử cư dân cổ.",
+        "recognition": "Di sản khảo cổ; tình trạng xếp hạng từng địa điểm cần đối chiếu hồ sơ chuyên ngành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "bien-my-khe-quang-ngai",
+        "name": "Biển Mỹ Khê Quảng Ngãi",
+        "category": "Bãi biển; du lịch sinh thái",
+        "originArea": "Quảng Ngãi cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Biển Mỹ Khê Quảng Ngãi – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực ven biển Mỹ Khê, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Bãi biển cát, vùng cửa sông và làng cư dân ven biển gần thành phố Quảng Ngãi cũ.",
+        "fullDescription": "Điểm đến nghỉ dưỡng và trải nghiệm bờ biển; các dịch vụ, tình trạng bãi tắm và an toàn biển cần xem thông báo chính thức.",
+        "highlights": "Bãi cát; cảnh quan biển; sinh hoạt làng chài.",
+        "historicalCulturalValue": "Giá trị cảnh quan và sinh kế ven biển.",
+        "recognition": "Điểm du lịch địa phương.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "nha-tho-go-kon-tum",
+        "name": "Nhà thờ gỗ Kon Tum",
+        "category": "Công trình kiến trúc; tôn giáo",
+        "originArea": "Kon Tum cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Nhà thờ gỗ Kon Tum – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Kon Tum, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Công trình nhà thờ Công giáo bằng gỗ, kết hợp kỹ thuật và mô típ kiến trúc bản địa Tây Nguyên với phong cách châu Âu.",
+        "fullDescription": "Nhà thờ gắn với lịch sử truyền giáo và cộng đồng Công giáo địa phương; mô tả kiến trúc nên chỉ rõ yếu tố vật liệu, kết cấu và trang trí.",
+        "highlights": "Kết cấu gỗ; mái cao; họa tiết và không gian nhà thờ.",
+        "historicalCulturalValue": "Giá trị kiến trúc và lịch sử cộng đồng.",
+        "recognition": "Công trình kiến trúc tôn giáo tiêu biểu; chưa tự gán cấp di tích.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "kon-tum"
+        ]
+      },
+      {
+        "id": "mang-den",
+        "name": "Khu du lịch sinh thái Măng Đen",
+        "category": "Du lịch sinh thái; cao nguyên",
+        "originArea": "Kon Tum cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch sinh thái Măng Đen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Măng Đen, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Cao nguyên có rừng thông, hồ, thác và các làng cộng đồng thuộc khu vực Kon Plông cũ.",
+        "fullDescription": "Măng Đen là điểm đến sinh thái – nghỉ dưỡng; cảnh quan, khí hậu và văn hóa cộng đồng cần thể hiện sự khác biệt giữa các làng và nhóm cư dân.",
+        "highlights": "Rừng thông; hồ Đăk Ke; thác Pa Sỹ; làng văn hóa.",
+        "historicalCulturalValue": "Giá trị cảnh quan rừng, sinh thái và văn hóa Tây Nguyên.",
+        "recognition": "Điểm du lịch sinh thái; không tự gán danh hiệu UNESCO.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-244",
+          "src-246"
+        ],
+        "originUnitIds": [
+          "kon-tum"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-chu-mom-ray",
+        "name": "Vườn quốc gia Chư Mom Ray",
+        "category": "Vườn quốc gia; bảo tồn thiên nhiên",
+        "originArea": "Kon Tum cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Chư Mom Ray – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Sa Thầy, tỉnh Quảng Ngãi.",
+        "coordinates": null,
+        "shortDescription": "Vùng rừng biên giới có đa dạng sinh học, cảnh quan núi và hệ sinh thái rừng nhiệt đới.",
+        "fullDescription": "Chư Mom Ray có vai trò bảo tồn hệ sinh thái và sinh cảnh của nhiều loài; thông tin tuyến tham quan và vùng lõi phải theo ban quản lý.",
+        "highlights": "Rừng thường xanh; núi; sông suối; sinh cảnh động thực vật.",
+        "historicalCulturalValue": "Bảo tồn thiên nhiên, nghiên cứu sinh thái và sinh kế cộng đồng.",
+        "recognition": "Vườn quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "kon-tum"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "toi-ly-son",
+        "name": "Tỏi Lý Sơn",
+        "category": "Nông sản; gia vị",
+        "originArea": "Quảng Ngãi cũ – đặc khu Lý Sơn.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Tỏi Lý Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Tỏi Lý Sơn gắn với Quảng Ngãi cũ – đặc khu Lý Sơn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Củ tỏi trồng trên đất bazan và nền cát có vật liệu san hô, cát biển."
+        ],
+        "preparation": "Trồng theo vụ, chăm sóc và thu hoạch; một số sản phẩm chế biến từ tỏi.",
+        "characteristics": "Củ nhỏ, mùi vị đặc trưng; chất lượng phụ thuộc giống và điều kiện canh tác.",
+        "culturalContext": "Gắn với kinh nghiệm canh tác trên đảo và hệ thống ruộng cát.",
+        "recognition": "Sản phẩm nổi bật của Lý Sơn; chỉ dẫn/chứng nhận cụ thể cần kiểm tra theo văn bằng còn hiệu lực.",
+        "sourceIds": [
+          "src-247",
+          "src-246"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "mach-nha-quang-ngai",
+        "name": "Mạch nha Quảng Ngãi",
+        "category": "Sản phẩm chế biến; thực phẩm ngọt",
+        "originArea": "Quảng Ngãi cũ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Mạch nha Quảng Ngãi – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mạch nha Quảng Ngãi gắn với Quảng Ngãi cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Mộng lúa hoặc mạch nha nguyên liệu truyền thống",
+          "Gạo nếp và nguyên liệu tùy công thức."
+        ],
+        "preparation": "Nguyên liệu được nấu, đường hóa, lọc và cô đặc theo quy trình sản xuất mạch nha.",
+        "characteristics": "Dạng sánh, màu vàng nâu, vị ngọt dịu và mùi thơm ngũ cốc.",
+        "culturalContext": "Sản phẩm gắn với nghề chế biến truyền thống và quà tặng địa phương.",
+        "recognition": "Được nguồn tỉnh giới thiệu trong nhóm sản phẩm chủ lực; không tự gán OCOP 5 sao nếu không có quyết định cụ thể.",
+        "sourceIds": [
+          "src-246"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "sam-ngoc-linh-quang-ngai",
+        "name": "Sâm Ngọc Linh",
+        "category": "Dược liệu; nông sản đặc hữu",
+        "originArea": "Kon Tum cũ – vùng núi Ngọc Linh.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Sâm Ngọc Linh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sâm Ngọc Linh gắn với Kon Tum cũ – vùng núi Ngọc Linh.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Sâm Ngọc Linh (Panax vietnamensis)."
+        ],
+        "preparation": "Canh tác dưới tán rừng theo điều kiện sinh thái vùng núi cao; thu hoạch và sơ chế theo quy định chuyên ngành.",
+        "characteristics": "Dược liệu quý, sản lượng và chất lượng phụ thuộc tuổi cây, nguồn giống và truy xuất nguồn gốc.",
+        "culturalContext": "Gắn với tri thức cây thuốc và sinh kế vùng núi; cần phân biệt vùng trồng được cấp phép với hàng giả/hàng không rõ nguồn gốc.",
+        "recognition": "Cây dược liệu có chỉ dẫn địa lý; chi tiết văn bằng và phạm vi vùng trồng cần kiểm tra trước khi hiển thị.",
+        "sourceIds": [
+          "src-246"
+        ],
+        "originUnitIds": [
+          "kon-tum"
+        ]
+      },
+      {
+        "id": "ca-phe-mang-den",
+        "name": "Cà phê Măng Đen",
+        "category": "Nông sản; đồ uống",
+        "originArea": "Kon Tum cũ – vùng Măng Đen.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Cà phê Măng Đen – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cà phê Măng Đen gắn với Kon Tum cũ – vùng Măng Đen.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Hạt cà phê trồng ở vùng cao nguyên."
+        ],
+        "preparation": "Thu hái, sơ chế, rang xay theo từng cơ sở và phương pháp.",
+        "characteristics": "Hương vị tùy giống, độ cao, phương pháp sơ chế và rang.",
+        "culturalContext": "Sản phẩm địa phương đang được giới thiệu trong chương trình quảng bá đặc sản Quảng Ngãi mới.",
+        "recognition": "Nguồn tỉnh giới thiệu là sản phẩm chủ lực; không tự gán chứng nhận chất lượng.",
+        "sourceIds": [
+          "src-246"
+        ],
+        "originUnitIds": [
+          "kon-tum"
+        ]
+      },
+      {
+        "id": "don-quang-ngai",
+        "name": "Don Quảng Ngãi",
+        "category": "Món ăn; thủy sản nước lợ",
+        "originArea": "Quảng Ngãi cũ – vùng sông Trà và sông Vệ.",
+        "currentProvinceId": "quang-ngai",
+        "image": {
+          "file": null,
+          "alt": "Don Quảng Ngãi – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Don Quảng Ngãi gắn với Quảng Ngãi cũ – vùng sông Trà và sông Vệ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Don (nhuyễn thể hai mảnh vỏ địa phương)",
+          "Hành, rau, gia vị và bánh tráng."
+        ],
+        "preparation": "Don được làm sạch, luộc lấy nước, nêm gia vị và dùng với bánh tráng nướng.",
+        "characteristics": "Nước dùng ngọt, món ăn giản dị, thường ăn nóng.",
+        "culturalContext": "Gắn với hệ sinh thái sông và ẩm thực bình dân Quảng Ngãi.",
+        "recognition": "Món ăn địa phương; không khẳng định độc quyền.",
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-ba-na-xo-dang-kon-tum",
+          "name": "Cộng đồng Ba Na và Xơ Đăng",
+          "originArea": "Kon Tum cũ – vùng núi và cao nguyên.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Các cộng đồng Ba Na và Xơ Đăng có hệ thống làng, nhà rông, lễ hội, cồng chiêng và tri thức nông nghiệp riêng; cần nêu rõ nhóm và địa bàn cụ thể.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "originUnitIds": [
+            "kon-tum"
+          ]
+        },
+        {
+          "id": "cong-dong-hre-quang-ngai",
+          "name": "Cộng đồng Hrê",
+          "originArea": "Quảng Ngãi cũ – vùng miền núi.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Cộng đồng Hrê duy trì ngôn ngữ, trang phục, nghề dệt và thực hành âm nhạc – lễ hội; tư liệu chi tiết nên gắn với làng và chủ thể.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-ly-son-sa-huynh",
+          "name": "Cộng đồng cư dân Kinh vùng biển đảo",
+          "originArea": "Quảng Ngãi cũ – Lý Sơn, Sa Huỳnh và ven biển.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Lịch sử cư trú, nghề biển, thờ cúng tổ tiên và ký ức đội Hoàng Sa tạo nên bản sắc văn hóa vùng đảo và ven biển.",
+          "sourceIds": [
+            "src-245",
+            "src-244"
+          ],
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "le-khao-le-the-linh-hoang-sa",
+          "name": "Lễ Khao lề thế lính Hoàng Sa",
+          "originArea": "Quảng Ngãi cũ – đặc khu Lý Sơn.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Nghi lễ tưởng nhớ những người lính thuộc Hải đội Hoàng Sa, gắn với ký ức đi biển, thực thi nhiệm vụ và bảo vệ chủ quyền biển đảo.",
+          "sourceIds": [
+            "src-245"
+          ],
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-khao-le-hoang-sa",
+          "name": "Lễ Khao lề thế lính Hoàng Sa",
+          "originArea": "Quảng Ngãi cũ – Lý Sơn.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Lễ hội dân gian truyền thống của các tộc họ trên đảo, tổ chức để tưởng niệm và tri ân những người đi làm nhiệm vụ tại Hoàng Sa, Trường Sa.",
+          "sourceIds": [
+            "src-245",
+            "src-244"
+          ],
+          "timeAndLocation": "Âm Linh Tự và các đình làng ở Lý Sơn; thường trong tháng 2–3 âm lịch, lịch cụ thể theo thông báo địa phương.",
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        },
+        {
+          "id": "le-hoi-dien-truong-ba",
+          "name": "Lễ hội Điện Trường Bà",
+          "originArea": "Quảng Ngãi cũ – vùng Trà Bồng.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Lễ hội tín ngưỡng gắn với di tích Điện Trường Bà và lịch sử giao lưu văn hóa các cộng đồng địa phương.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "timeAndLocation": "Khu di tích Điện Trường Bà; lịch hội theo kế hoạch của địa phương.",
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        },
+        {
+          "id": "le-hoi-thao-nguyen-mang-den",
+          "name": "Sự kiện văn hóa – du lịch Măng Đen",
+          "originArea": "Kon Tum cũ – xã Măng Đen.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Các sự kiện văn hóa và du lịch đương đại được tổ chức theo kế hoạch từng năm; không đồng nhất với lễ hội truyền thống nếu không có căn cứ.",
+          "sourceIds": [
+            "src-246"
+          ],
+          "timeAndLocation": "Xã Măng Đen; thời gian theo kế hoạch từng năm.",
+          "originUnitIds": [
+            "kon-tum"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-ba-na-xo-dang-hre",
+          "name": "Trang phục Ba Na, Xơ Đăng và Hrê",
+          "originArea": "Các cộng đồng thuộc Kon Tum cũ và Quảng Ngãi cũ.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Trang phục dệt thủ công, hoa văn và cách sử dụng khác nhau theo tộc người, nhóm địa phương và bối cảnh nghi lễ; cần mô tả theo chủ thể cụ thể.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "originUnitIds": [
+            "quang-ngai",
+            "kon-tum"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "nha-rong-va-khong-gian-lang-tay-nguyen",
+          "name": "Nhà rông và không gian làng Tây Nguyên",
+          "originArea": "Kon Tum cũ – cộng đồng Ba Na, Xơ Đăng.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Nhà rông là không gian cộng đồng tại nhiều làng, gắn với hội họp, nghi lễ và truyền dạy tri thức; cấu trúc và tên gọi có biến thể giữa các nhóm.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "originUnitIds": [
+            "kon-tum"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-tho-go-kon-tum-kien-truc",
+          "name": "Kiến trúc nhà thờ gỗ và công trình tôn giáo Kon Tum",
+          "originArea": "Kon Tum cũ.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Các công trình tôn giáo tại Kon Tum cho thấy sự giao lưu giữa kiến trúc phương Tây, vật liệu gỗ và kỹ thuật bản địa.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "originUnitIds": [
+            "kon-tum"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-tho-cung-hoang-sa",
+          "name": "Tập quán thờ cúng và tưởng niệm đội Hoàng Sa",
+          "originArea": "Quảng Ngãi cũ – Lý Sơn.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Các tộc họ duy trì nghi lễ tưởng niệm người đi biển và đội Hoàng Sa; tập quán gắn với ký ức gia đình, dòng họ và cộng đồng đảo.",
+          "sourceIds": [
+            "src-245"
+          ],
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "khao-le-the-linh-hoang-sa-di-san",
+          "name": "Lễ Khao lề thế lính Hoàng Sa",
+          "originArea": "Quảng Ngãi cũ – Lý Sơn.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2013, loại hình tập quán xã hội và tín ngưỡng.",
+          "sourceIds": [
+            "src-245"
+          ],
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        },
+        {
+          "id": "van-hoa-sa-huynh-hao",
+          "name": "Di sản khảo cổ văn hóa Sa Huỳnh",
+          "originArea": "Quảng Ngãi cũ.",
+          "currentProvinceId": "quang-ngai",
+          "description": "Văn hóa Sa Huỳnh là một nền văn hóa khảo cổ quan trọng ở miền Trung; cần phân biệt không gian phân bố rộng với từng di chỉ cụ thể.",
+          "sourceIds": [
+            "src-244"
+          ],
+          "originUnitIds": [
+            "quang-ngai"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "bai-choi-quang-ngai",
+        "name": "Nghệ thuật Bài chòi",
+        "category": "Nghệ thuật trình diễn dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật Bài chòi – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Vùng duyên hải Quảng Ngãi cũ và các tỉnh Nam Trung Bộ.",
+        "origin": null,
+        "originArea": "Vùng duyên hải Quảng Ngãi cũ và các tỉnh Nam Trung Bộ.",
+        "currentProvinceId": "quang-ngai",
+        "characteristics": "Bài chòi kết hợp âm nhạc, thơ ca, diễn xuất và trò chơi dân gian; có hình thức trình diễn bài chòi và chơi bài chòi.",
+        "instrumentsOrPerformance": "Người hô hiệu sử dụng câu thai, làn điệu và nhạc cụ; người chơi tham gia trong không gian hội.",
+        "culturalValue": "Tạo không gian giao tiếp, giải trí và lưu truyền ngôn ngữ địa phương.",
+        "recognition": "Nghệ thuật Bài chòi Trung Bộ được UNESCO ghi danh năm 2017; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      },
+      {
+        "id": "cong-chieng-ba-na-xo-dang",
+        "name": "Không gian âm nhạc cồng chiêng Ba Na – Xơ Đăng",
+        "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Không gian âm nhạc cồng chiêng Ba Na – Xơ Đăng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Kon Tum cũ.",
+        "origin": null,
+        "originArea": "Kon Tum cũ.",
+        "currentProvinceId": "quang-ngai",
+        "characteristics": "Cồng chiêng gắn với vòng đời, lễ hội và sinh hoạt cộng đồng; thang âm, bài bản và cách sử dụng khác nhau giữa nhóm dân tộc.",
+        "instrumentsOrPerformance": "Hòa tấu dàn chiêng, trống và nhạc cụ gõ; chủ thể thực hành là nghệ nhân và cộng đồng tại làng.",
+        "culturalValue": "Duy trì tri thức âm nhạc và quan hệ cộng đồng Tây Nguyên.",
+        "recognition": "Không gian văn hóa cồng chiêng Tây Nguyên được UNESCO ghi danh năm 2008; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-244"
+        ],
+        "originUnitIds": [
+          "kon-tum"
+        ]
+      },
+      {
+        "id": "dien-xuong-hoi-dua-thuyen-tu-linh",
+        "name": "Diễn xướng và hội đua thuyền tứ linh",
+        "category": "Diễn xướng dân gian; lễ hội",
+        "image": {
+          "file": null,
+          "alt": "Diễn xướng và hội đua thuyền tứ linh – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Quảng Ngãi cũ – Lý Sơn.",
+        "origin": null,
+        "originArea": "Quảng Ngãi cũ – Lý Sơn.",
+        "currentProvinceId": "quang-ngai",
+        "characteristics": "Hội đua thuyền gắn với các lễ hội và sinh hoạt cộng đồng trên đảo; biểu tượng và nghi thức thay đổi theo làng, tộc họ.",
+        "instrumentsOrPerformance": "Các đội thuyền tham gia đua trong khuôn khổ lễ hội; cần cập nhật lịch và quy tắc từng năm.",
+        "culturalValue": "Thể hiện ký ức biển, tinh thần cộng đồng và mong ước bình an.",
+        "recognition": null,
+        "sourceIds": [
+          "src-245"
+        ],
+        "originUnitIds": [
+          "quang-ngai"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Kon Tum + Quảng Ngãi; chính quyền mới hoạt động từ 01/07/2025.",
+      "Diện tích 14.832,55 km²; quy mô dân số 2.161.755 người theo hồ sơ sắp xếp 2025.",
+      "Mã tỉnh 51; 96 đơn vị cấp xã (86 xã, 9 phường, 1 đặc khu) theo Nghị quyết sắp xếp cấp xã 2025; biển số 76, 82.",
+      "Nội dung Kon Tum cũ và Quảng Ngãi cũ có originArea riêng. Di sản cồng chiêng và Bài chòi là các di sản liên tỉnh.",
+      "Trung tâm hành chính, ranh giới cấp xã cụ thể, tọa độ và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-226",
+      "src-227",
+      "src-230",
+      "src-234",
+      "src-244",
+      "src-245",
+      "src-246",
+      "src-247"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "quang-ngai",
+      "name": "Quảng Ngãi"
+    },
+    {
+      "id": "kon-tum",
+      "name": "Kon Tum"
+    }
+  ]
+}

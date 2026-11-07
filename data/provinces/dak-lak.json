@@ -1,0 +1,763 @@
+{
+  "id": "dak-lak",
+  "name": "Tỉnh Đắk Lắk",
+  "administrativeType": "Tỉnh",
+  "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Ảnh đại diện Tỉnh Đắk Lắk; ảnh chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Đắk Lắk mới được hình thành từ Đắk Lắk và Phú Yên trước đây, nối không gian cao nguyên bazan với duyên hải Nam Trung Bộ. Bản sắc của tỉnh mới gồm văn hóa cồng chiêng, cộng đồng Ê Đê – M’nông, cà phê Buôn Ma Thuột, cùng di sản biển và văn hóa Chăm ở khu vực Phú Yên cũ.",
+    "featuredDestinationIds": [
+      "vuon-quoc-gia-yok-don",
+      "buon-don"
+    ],
+    "featuredSpecialtyIds": [
+      "ca-phe-buon-ma-thuot",
+      "ga-nuong-buon-don"
+    ],
+    "sourceIds": [
+      "src-145",
+      "src-158",
+      "src-136",
+      "src-135"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Đắk Lắk",
+      "administrativeCode": "66",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "47",
+        "78"
+      ],
+      "areaKm2": 18096.4,
+      "areaYear": 2025,
+      "population": {
+        "value": 3346853,
+        "year": 2026,
+        "unit": "người"
+      },
+      "geographicLocation": null,
+      "boundaries": [
+        "Phía bắc giáp Gia Lai.",
+        "Phía đông giáp Biển Đông.",
+        "Phía nam giáp Khánh Hòa và Lâm Đồng.",
+        "Phía tây giáp Campuchia."
+      ],
+      "naturalFeatures": "Tỉnh mới trải từ cao nguyên bazan, rừng khộp và lưu vực sông Sêrêpốk tới đồng bằng ven biển, đầm vịnh và bờ biển Phú Yên cũ.",
+      "climate": null,
+      "history": "Khu vực Đắk Lắk cũ gắn với lịch sử các cộng đồng Tây Nguyên và văn hóa Ê Đê, M’nông; khu vực Phú Yên cũ gắn với lịch sử Champa, các cộng đồng ven biển và văn hóa ngư nghiệp. Năm 2025, hai tỉnh được sắp xếp thành tỉnh Đắk Lắk mới; hồ sơ văn hóa giữ nguồn gốc địa lý để không hòa lẫn hai vùng.",
+      "description": "Đắk Lắk mới được hình thành từ Đắk Lắk và Phú Yên trước đây, nối không gian cao nguyên bazan với duyên hải Nam Trung Bộ. Bản sắc của tỉnh mới gồm văn hóa cồng chiêng, cộng đồng Ê Đê – M’nông, cà phê Buôn Ma Thuột, cùng di sản biển và văn hóa Chăm ở khu vực Phú Yên cũ.",
+      "sourceIds": [
+        "src-135",
+        "src-136",
+        "src-145",
+        "src-158"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "vuon-quoc-gia-yok-don",
+        "name": "Vườn quốc gia Yok Đôn",
+        "category": "Vườn quốc gia; Du lịch sinh thái",
+        "originArea": "Đắk Lắk cũ – khu vực Buôn Đôn và Ea Súp.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Yok Đôn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Buôn Đôn, tỉnh Đắk Lắk; địa chỉ cấp xã hiện hành cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Khu bảo tồn rừng khộp và cảnh quan sinh thái đặc trưng Tây Nguyên.",
+        "fullDescription": "Yok Đôn bảo tồn các kiểu rừng khộp, rừng thường xanh và đa dạng sinh học; các hoạt động trải nghiệm phải tuân thủ quy định bảo tồn.",
+        "highlights": [
+          "Hệ sinh thái rừng khộp.",
+          "Cảnh quan sông Sêrêpốk và vùng Buôn Đôn."
+        ],
+        "historicalCulturalValue": "Không gian sinh thái gắn với đời sống các cộng đồng cư dân Tây Nguyên.",
+        "recognition": "Vườn quốc gia; tình trạng Ramsar/diện tích cụ thể cần kiểm tra quyết định chuyên ngành trước khi ghi.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-145",
+          "src-162"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "buon-don",
+        "name": "Không gian văn hóa – du lịch Buôn Đôn",
+        "category": "Du lịch cộng đồng; Di sản văn hóa địa phương",
+        "originArea": "Đắk Lắk cũ – huyện Buôn Đôn cũ.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Không gian văn hóa – du lịch Buôn Đôn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Buôn Đôn, tỉnh Đắk Lắk; địa chỉ xã hiện hành cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Không gian văn hóa gắn với cộng đồng bản địa, sông Sêrêpốk và lịch sử giao thương vùng biên.",
+        "fullDescription": "Buôn Đôn được biết đến với các cộng đồng Ê Đê, M’nông, Lào và truyền thống sinh kế rừng – sông. Các hoạt động liên quan voi cần tuân thủ phúc lợi động vật và quy định bảo tồn.",
+        "highlights": [
+          "Không gian nhà dài và bản làng.",
+          "Cảnh quan sông Sêrêpốk."
+        ],
+        "historicalCulturalValue": "Lưu giữ các lớp văn hóa bản địa của vùng Tây Nguyên.",
+        "recognition": "Chưa gán danh hiệu di sản cho toàn bộ không gian Buôn Đôn.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-162"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "thac-dray-nur",
+        "name": "Thác Dray Nur",
+        "category": "Danh lam thắng cảnh; Thác nước",
+        "originArea": "Đắk Lắk cũ – khu vực Krông Ana/Cư Kuin trước sắp xếp.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Thác Dray Nur – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực sông Sêrêpốk; địa chỉ xã/phường mới cần xác minh.",
+        "coordinates": null,
+        "shortDescription": "Thác nước lớn trên hệ thống sông Sêrêpốk, cảnh quan đá và rừng.",
+        "fullDescription": "Thác Dray Nur là điểm tham quan thiên nhiên của vùng Đắk Lắk cũ. Thông tin quản lý khai thác, vé và giờ mở cửa cần kiểm tra.",
+        "highlights": [
+          "Dòng thác và ghềnh đá.",
+          "Cảnh quan rừng ven sông."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan và du lịch sinh thái.",
+        "recognition": "Chưa ghi danh hiệu riêng trong hồ sơ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-162"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "ho-lak",
+        "name": "Hồ Lắk",
+        "category": "Danh lam thắng cảnh; Hồ tự nhiên; Du lịch cộng đồng",
+        "originArea": "Đắk Lắk cũ – huyện Lắk cũ.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Hồ Lắk – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực hồ Lắk, tỉnh Đắk Lắk; địa chỉ cấp xã cần xác minh.",
+        "coordinates": null,
+        "shortDescription": "Hồ nước ngọt lớn giữa không gian cao nguyên, gắn với các buôn làng M’nông.",
+        "fullDescription": "Hồ Lắk kết hợp cảnh quan mặt nước, rừng và các không gian văn hóa M’nông. Mọi hoạt động trải nghiệm cần tôn trọng cộng đồng và hệ sinh thái.",
+        "highlights": [
+          "Cảnh quan hồ và núi.",
+          "Không gian văn hóa M’nông."
+        ],
+        "historicalCulturalValue": "Gắn với sinh kế, tín ngưỡng và văn hóa cư dân quanh hồ.",
+        "recognition": "Chưa gán một danh hiệu quốc tế riêng trong hồ sơ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-145"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "ganh-da-dia",
+        "name": "Danh thắng quốc gia đặc biệt Gành Đá Đĩa",
+        "category": "Danh lam thắng cảnh; Di tích quốc gia đặc biệt",
+        "originArea": "Phú Yên cũ – huyện Tuy An cũ.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Danh thắng quốc gia đặc biệt Gành Đá Đĩa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã An Ninh Đông cũ; đơn vị cấp xã mới cần rà soát.",
+        "coordinates": null,
+        "shortDescription": "Bãi đá bazan có cấu trúc cột đá xếp lớp độc đáo ven biển.",
+        "fullDescription": "Gành Đá Đĩa là điểm địa chất – cảnh quan nổi tiếng ở khu vực Phú Yên cũ. Các cột đá bazan hình thành từ quá trình nguội lạnh dung nham, tạo nên bề mặt dạng khối đặc trưng.",
+        "highlights": [
+          "Cột đá bazan dạng lăng trụ.",
+          "Cảnh quan ven biển."
+        ],
+        "historicalCulturalValue": "Giá trị địa chất, cảnh quan và nhận diện du lịch vùng duyên hải.",
+        "recognition": "Di tích quốc gia đặc biệt theo quyết định của Thủ tướng; cần trích số quyết định cụ thể trước phát hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-147",
+          "src-163"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      },
+      {
+        "id": "thap-nhan",
+        "name": "Tháp Nhạn",
+        "category": "Di tích kiến trúc nghệ thuật; Di tích quốc gia đặc biệt",
+        "originArea": "Phú Yên cũ – thành phố Tuy Hòa cũ.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Tháp Nhạn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tuy Hòa cũ, tỉnh Đắk Lắk; địa chỉ phường mới cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Công trình kiến trúc Chăm trên núi Nhạn, nhìn ra khu vực đô thị ven sông Đà Rằng.",
+        "fullDescription": "Tháp Nhạn là dấu tích kiến trúc Chăm có giá trị nghệ thuật và lịch sử. Việc diễn giải cần phân biệt lớp lịch sử Champa và địa giới hành chính hiện tại.",
+        "highlights": [
+          "Kiến trúc tháp gạch.",
+          "Tầm nhìn khu vực Tuy Hòa cũ."
+        ],
+        "historicalCulturalValue": "Di sản kiến trúc gắn với lịch sử văn hóa Chăm ở duyên hải Nam Trung Bộ.",
+        "recognition": "Di tích quốc gia đặc biệt; cần bổ sung văn bản xếp hạng gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-147"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      },
+      {
+        "id": "vung-ro",
+        "name": "Vịnh Vũng Rô",
+        "category": "Danh lam thắng cảnh; Di tích lịch sử cách mạng",
+        "originArea": "Phú Yên cũ – thị xã Đông Hòa cũ.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Vịnh Vũng Rô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Vũng Rô, tỉnh Đắk Lắk; địa chỉ xã/phường mới cần xác minh.",
+        "coordinates": null,
+        "shortDescription": "Vịnh biển kín gió, gắn với cảnh quan ven bờ và lịch sử đường Hồ Chí Minh trên biển.",
+        "fullDescription": "Vũng Rô có giá trị cảnh quan và lịch sử, đặc biệt gắn với bến tàu không số và hoạt động vận chuyển chiến lược trong kháng chiến.",
+        "highlights": [
+          "Cảnh quan vịnh và núi ven biển.",
+          "Di tích bến tàu không số."
+        ],
+        "historicalCulturalValue": "Kết nối di sản lịch sử cách mạng với không gian biển đảo Phú Yên cũ.",
+        "recognition": "Di tích lịch sử gắn với bến Vũng Rô; cần kiểm tra cấp xếp hạng cụ thể.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-147"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "ca-phe-buon-ma-thuot",
+        "name": "Cà phê Buôn Ma Thuột",
+        "category": "Nông sản; Sản phẩm chế biến",
+        "originArea": "Đắk Lắk cũ – khu vực Buôn Ma Thuột và các vùng trồng cà phê.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Cà phê Buôn Ma Thuột – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Đắk Lắk cũ – khu vực Buôn Ma Thuột và các vùng trồng cà phê..",
+        "ingredients": [
+          "Hạt cà phê, chủ yếu Robusta tại nhiều vùng trồng."
+        ],
+        "preparation": "Thu hái, sơ chế khô/ướt, rang xay và chế biến thành đồ uống; chất lượng tùy giống, vùng trồng và quy trình.",
+        "characteristics": "Cà phê là cây trồng, sản phẩm kinh tế và biểu tượng văn hóa của vùng Đắk Lắk cũ.",
+        "culturalContext": "Gắn với lịch sử phát triển nông nghiệp hàng hóa, văn hóa quán cà phê và lễ hội cà phê.",
+        "recognition": "Thương hiệu/chỉ dẫn địa lý Buôn Ma Thuột áp dụng theo phạm vi và quy chế riêng; cần kiểm tra khi gắn vào sản phẩm cụ thể.",
+        "sourceIds": [
+          "src-146",
+          "src-145"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "ga-nuong-buon-don",
+        "name": "Gà nướng Buôn Đôn",
+        "category": "Món ăn địa phương",
+        "originArea": "Đắk Lắk cũ – vùng Buôn Đôn.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Gà nướng Buôn Đôn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Đắk Lắk cũ – vùng Buôn Đôn..",
+        "ingredients": [
+          "Gà thả vườn",
+          "Gia vị, muối và nguyên liệu ướp tùy cơ sở."
+        ],
+        "preparation": "Gà được tẩm ướp và nướng; cách chế biến có biến thể theo nhà hàng/cộng đồng.",
+        "characteristics": "Món gà nướng được giới thiệu trong nhóm ẩm thực đặc trưng Buôn Đôn.",
+        "culturalContext": "Gắn với ẩm thực du lịch và sinh hoạt cộng đồng vùng Tây Nguyên.",
+        "recognition": "Không phải sản phẩm có chứng nhận địa lý đã xác minh.",
+        "sourceIds": [
+          "src-146"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "com-lam-tay-nguyen",
+        "name": "Cơm lam",
+        "category": "Món ăn truyền thống",
+        "originArea": "Cộng đồng các dân tộc Tây Nguyên, trong đó có địa bàn Đắk Lắk cũ.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Cơm lam – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Cộng đồng các dân tộc Tây Nguyên, trong đó có địa bàn Đắk Lắk cũ..",
+        "ingredients": [
+          "Gạo nếp",
+          "Ống tre/nứa và nước."
+        ],
+        "preparation": "Gạo nếp được cho vào ống tre/nứa, thêm nước và nướng chín.",
+        "characteristics": "Món cơm nấu trong ống tre, hương vị phụ thuộc loại nếp và ống tre.",
+        "culturalContext": "Gắn với sinh hoạt và ẩm thực của nhiều cộng đồng Tây Nguyên; không riêng Đắk Lắk.",
+        "recognition": null,
+        "sourceIds": [
+          "src-146"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "ca-ngu-dai-duong-phu-yen",
+        "name": "Cá ngừ đại dương",
+        "category": "Hải sản; Đặc sản biển",
+        "originArea": "Phú Yên cũ – cộng đồng ngư dân và nghề cá ngừ đại dương.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Cá ngừ đại dương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Phú Yên cũ – cộng đồng ngư dân và nghề cá ngừ đại dương..",
+        "ingredients": [
+          "Cá ngừ đại dương."
+        ],
+        "preparation": "Khai thác biển, sơ chế và chế biến thành nhiều món; quy trình bảo quản sau khai thác ảnh hưởng chất lượng.",
+        "characteristics": "Cá ngừ đại dương là sản phẩm biển gắn với nghề cá khu vực Phú Yên cũ.",
+        "culturalContext": "Gắn với kinh tế biển và văn hóa ẩm thực duyên hải.",
+        "recognition": "Không ghi chỉ dẫn địa lý nếu chưa xác minh chứng nhận sản phẩm.",
+        "sourceIds": [
+          "src-146"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      },
+      {
+        "id": "tom-hum-song-cau",
+        "name": "Tôm hùm Sông Cầu",
+        "category": "Thủy sản nuôi trồng; Đặc sản biển",
+        "originArea": "Phú Yên cũ – vùng đầm, vịnh Sông Cầu.",
+        "currentProvinceId": "dak-lak",
+        "image": {
+          "file": null,
+          "alt": "Tôm hùm Sông Cầu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Phú Yên cũ – vùng đầm, vịnh Sông Cầu..",
+        "ingredients": [
+          "Tôm hùm nuôi biển."
+        ],
+        "preparation": "Nuôi lồng bè và chế biến theo món ăn; điều kiện nuôi và truy xuất nguồn gốc tùy hộ/cơ sở.",
+        "characteristics": "Sản phẩm gắn với vùng nuôi biển Sông Cầu.",
+        "culturalContext": "Gắn với sinh kế nuôi biển và ẩm thực vùng duyên hải.",
+        "recognition": "Cần kiểm tra vùng nuôi, chứng nhận và truy xuất của sản phẩm cụ thể.",
+        "sourceIds": [
+          "src-146"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-ede",
+          "name": "Cộng đồng Ê Đê",
+          "originArea": "Đắk Lắk cũ – các buôn ở cao nguyên.",
+          "description": "Cộng đồng Ê Đê có các thực hành văn hóa gắn với nhà dài, luật tục, mẫu hệ, sử thi, âm nhạc và cồng chiêng; cần mô tả theo địa bàn và nhóm cụ thể.",
+          "sourceIds": [
+            "src-148"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "dak-lak"
+          ]
+        },
+        {
+          "id": "cong-dong-mnong",
+          "name": "Cộng đồng M’nông",
+          "originArea": "Đắk Lắk cũ – khu vực hồ Lắk, Buôn Đôn và vùng phụ cận.",
+          "description": "Cộng đồng M’nông có đời sống văn hóa gắn với rừng, hồ, nông nghiệp, nhạc cụ và lễ hội. Không quy đồng thực hành giữa các nhóm địa phương.",
+          "sourceIds": [
+            "src-148"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "dak-lak"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-phu-yen",
+          "name": "Cộng đồng Kinh vùng duyên hải",
+          "originArea": "Phú Yên cũ – các vùng ven biển và đồng bằng.",
+          "description": "Đời sống cư dân Kinh vùng duyên hải gắn với nghề biển, nông nghiệp, lễ hội cầu ngư, Bài Chòi và các tín ngưỡng ven biển.",
+          "sourceIds": [
+            "src-149",
+            "src-147"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        },
+        {
+          "id": "cong-dong-cham-phu-yen",
+          "name": "Dấu tích và cộng đồng văn hóa Chăm",
+          "originArea": "Phú Yên cũ – vùng có di tích Champa và cộng đồng liên quan.",
+          "description": "Di sản kiến trúc Chăm thể hiện lịch sử văn hóa Champa tại duyên hải; cần phân biệt di tích lịch sử với cộng đồng người Chăm hiện cư trú.",
+          "sourceIds": [
+            "src-147"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "khong-gian-van-hoa-cong-chieng",
+          "name": "Không gian văn hóa cồng chiêng Tây Nguyên",
+          "originArea": "Các cộng đồng Ê Đê, M’nông và những cộng đồng Tây Nguyên khác.",
+          "description": "Cồng chiêng được thực hành trong nghi lễ, lễ hội và đời sống cộng đồng; chủ thể, bộ chiêng và bài bản khác nhau theo nhóm dân tộc.",
+          "sourceIds": [
+            "src-148"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": []
+        },
+        {
+          "id": "le-hoi-cau-ngu",
+          "name": "Tập quán và lễ hội cầu ngư",
+          "originArea": "Cộng đồng ngư dân vùng Phú Yên cũ.",
+          "description": "Nghi lễ cầu an, cầu mùa biển và sinh hoạt cộng đồng gắn với nghề biển; lịch và nghi thức khác nhau ở từng làng chài.",
+          "sourceIds": [
+            "src-147"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-ca-phe-buon-ma-thuot",
+          "name": "Lễ hội Cà phê Buôn Ma Thuột",
+          "originArea": "Đắk Lắk cũ – Buôn Ma Thuột.",
+          "currentProvinceId": "dak-lak",
+          "description": "Sự kiện văn hóa – du lịch giới thiệu cây cà phê, sản phẩm, văn hóa Tây Nguyên và hoạt động xúc tiến thương mại.",
+          "time": "Được tổ chức theo kỳ; cần kiểm tra thông báo chính thức cho từng năm.",
+          "sourceIds": [
+            "src-146",
+            "src-145"
+          ],
+          "originUnitIds": [
+            "dak-lak"
+          ]
+        },
+        {
+          "id": "le-hoi-cau-ngu-phu-yen",
+          "name": "Lễ hội Cầu ngư",
+          "originArea": "Các làng chài vùng Phú Yên cũ.",
+          "currentProvinceId": "dak-lak",
+          "description": "Lễ hội tín ngưỡng ngư dân với các nghi thức cầu an, tưởng nhớ cá Ông và cầu mong mùa biển thuận lợi.",
+          "time": "Thời gian khác nhau theo làng chài; cần tra lịch từng địa phương.",
+          "sourceIds": [
+            "src-147"
+          ],
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        },
+        {
+          "id": "le-hoi-dua-thuyen-doc-song",
+          "name": "Lễ hội/hoạt động đua thuyền truyền thống",
+          "originArea": "Địa bàn ven sông, hồ và cộng đồng địa phương; nguồn chi tiết chưa đủ.",
+          "currentProvinceId": "dak-lak",
+          "description": "Hoạt động thể thao – văn hóa có thể được tổ chức tại nhiều địa phương; chưa xác định một lễ hội duy nhất có phạm vi toàn tỉnh.",
+          "time": "Chưa xác minh lịch và địa bàn cụ thể.",
+          "sourceIds": [
+            "src-162"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "sinh-ke-ca-phe-tay-nguyen",
+          "name": "Sinh kế nông nghiệp cà phê",
+          "originArea": "Đắk Lắk cũ – các vùng trồng cà phê.",
+          "description": "Cà phê định hình kinh tế hộ, chuỗi thu mua – chế biến và không gian văn hóa quán cà phê tại cao nguyên.",
+          "sourceIds": [
+            "src-145",
+            "src-146"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "dak-lak"
+          ]
+        },
+        {
+          "id": "sinh-ke-ngu-dan-phu-yen",
+          "name": "Sinh kế ngư dân và nuôi biển",
+          "originArea": "Phú Yên cũ – các làng chài, đầm vịnh.",
+          "description": "Nghề cá, nuôi tôm hùm và chế biến hải sản là sinh kế quan trọng tại một số vùng ven biển.",
+          "sourceIds": [
+            "src-146"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-dai-ede",
+          "name": "Nhà dài Ê Đê",
+          "originArea": "Cộng đồng Ê Đê, Đắk Lắk cũ.",
+          "description": "Nhà dài là dạng kiến trúc truyền thống liên quan tổ chức gia đình mẫu hệ; chiều dài và bố trí không gian thay đổi theo gia đình, làng và thời kỳ.",
+          "sourceIds": [
+            "src-148"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "dak-lak"
+          ]
+        },
+        {
+          "id": "khong-gian-lang-chai",
+          "name": "Không gian làng chài và nhà ven biển",
+          "originArea": "Phú Yên cũ.",
+          "description": "Làng chài, bến cá, lăng thờ Nam Hải và không gian sinh hoạt ven biển gắn với nghề cá và tín ngưỡng cộng đồng.",
+          "sourceIds": [
+            "src-147"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-ben-nuoc-tay-nguyen",
+          "name": "Tín ngưỡng và nghi lễ gắn với bến nước, rừng và mùa vụ",
+          "originArea": "Một số cộng đồng Tây Nguyên; cần xác định chủ thể cụ thể.",
+          "description": "Các nghi lễ gắn với môi trường tự nhiên và vòng đời nông nghiệp khác nhau theo cộng đồng; không khẳng định một nghi lễ chung cho mọi nhóm.",
+          "sourceIds": [
+            "src-148"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "khong-gian-van-hoa-cong-chieng-di-san",
+          "name": "Không gian văn hóa cồng chiêng Tây Nguyên",
+          "originArea": "Các cộng đồng Tây Nguyên, trong đó có Ê Đê và M’nông ở Đắk Lắk cũ.",
+          "description": "Không gian văn hóa gồm nhạc cụ cồng chiêng, nghệ nhân, bài bản, nghi lễ và môi trường thực hành cộng đồng.",
+          "recognition": "UNESCO ghi danh năm 2005 (Tuyên bố kiệt tác), chuyển sang Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại năm 2008.",
+          "sourceIds": [
+            "src-148"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "dak-lak"
+          ]
+        },
+        {
+          "id": "bai-choi-phu-yen",
+          "name": "Nghệ thuật Bài Chòi Trung Bộ",
+          "originArea": "Cộng đồng thực hành tại Phú Yên cũ và các tỉnh miền Trung.",
+          "description": "Bài Chòi kết hợp âm nhạc, thơ ca, diễn xướng và trò chơi dân gian; các hình thức thực hành khác nhau giữa bài chòi chiếu và bài chòi hội.",
+          "recognition": "UNESCO ghi danh năm 2017 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-149"
+          ],
+          "currentProvinceId": "dak-lak",
+          "originUnitIds": [
+            "phu-yen"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "cong-chieng-tay-nguyen",
+        "name": "Không gian văn hóa cồng chiêng Tây Nguyên",
+        "category": "Âm nhạc truyền thống; Diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Không gian văn hóa cồng chiêng Tây Nguyên – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Ê Đê, M’nông và các cộng đồng Tây Nguyên.",
+        "origin": "Không gian văn hóa Tây Nguyên; tại tỉnh mới có khu vực Đắk Lắk cũ.",
+        "originArea": "Không gian văn hóa Tây Nguyên; tại tỉnh mới có khu vực Đắk Lắk cũ.",
+        "currentProvinceId": "dak-lak",
+        "characteristics": "Các dàn cồng chiêng được sử dụng trong nghi lễ, lễ hội và sinh hoạt cộng đồng.",
+        "instrumentsOrPerformance": "Âm sắc, biên chế dàn chiêng và bài bản khác nhau theo cộng đồng.",
+        "culturalValue": "Gắn kết cộng đồng và truyền tải tri thức, tín ngưỡng.",
+        "recognition": "UNESCO ghi danh 2005; chuyển danh sách đại diện năm 2008.",
+        "sourceIds": [
+          "src-148"
+        ],
+        "originUnitIds": [
+          "dak-lak"
+        ]
+      },
+      {
+        "id": "bai-choi",
+        "name": "Nghệ thuật Bài Chòi",
+        "category": "Diễn xướng dân gian; Trò chơi – âm nhạc",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật Bài Chòi – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng miền Trung, gồm khu vực Phú Yên cũ.",
+        "origin": "Không gian Bài Chòi Trung Bộ; tại tỉnh mới có vùng Phú Yên cũ.",
+        "originArea": "Không gian Bài Chòi Trung Bộ; tại tỉnh mới có vùng Phú Yên cũ.",
+        "currentProvinceId": "dak-lak",
+        "characteristics": "Hình thức diễn xướng kết hợp hô hát, âm nhạc, thơ và trò chơi.",
+        "instrumentsOrPerformance": "Có các làn điệu, câu thai và cách trình diễn phụ thuộc địa phương.",
+        "culturalValue": "Là sinh hoạt văn hóa cộng đồng, phản ánh ngôn ngữ và đời sống miền Trung.",
+        "recognition": "UNESCO ghi danh năm 2017.",
+        "sourceIds": [
+          "src-149"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      },
+      {
+        "id": "trong-doi-cong-ba-chieng-nam",
+        "name": "Trình diễn trống đôi – cồng ba – chiêng năm",
+        "category": "Nghệ thuật trình diễn dân gian",
+        "image": {
+          "file": null,
+          "alt": "Trình diễn trống đôi – cồng ba – chiêng năm – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng thực hành tại Phú Yên cũ.",
+        "origin": "Địa bàn cộng đồng cụ thể cần ghi theo hồ sơ di sản gốc ở vùng Phú Yên.",
+        "originArea": "Địa bàn cộng đồng cụ thể cần ghi theo hồ sơ di sản gốc ở vùng Phú Yên.",
+        "currentProvinceId": "dak-lak",
+        "characteristics": "Hình thức trình diễn nhạc cụ bộ gõ và chiêng trong sinh hoạt, lễ hội cộng đồng.",
+        "instrumentsOrPerformance": "Cấu trúc trống đôi, cồng ba, chiêng năm tạo nên tiết tấu và sắc thái riêng.",
+        "culturalValue": "Gắn với văn hóa diễn xướng và bản sắc cộng đồng địa phương.",
+        "recognition": "Nguồn địa phương liệt kê là di sản văn hóa phi vật thể cấp quốc gia; cần bổ sung quyết định ghi danh gốc.",
+        "sourceIds": [
+          "src-147"
+        ],
+        "originUnitIds": [
+          "phu-yen"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Tỉnh Đắk Lắk mới hợp nhất toàn bộ tỉnh Đắk Lắk và tỉnh Phú Yên cũ, chính quyền địa phương mới hoạt động từ 01/07/2025. Diện tích và quy mô dân số lấy từ cổng tỉnh sau sáp nhập, không phải kết quả điều tra dân số cuối năm 2026.",
+      "Tỉnh mới hợp nhất toàn bộ Đắk Lắk và Phú Yên cũ; mọi điểm đến, đặc sản, di sản phải giữ `originArea`.",
+      "Số liệu diện tích 18.096,40 km², quy mô dân số 3.346.853 và 102 đơn vị cấp xã lấy từ cổng tỉnh sau sáp nhập; cần đối chiếu kỳ thống kê dân số cụ thể trước khi dùng ở biểu đồ.",
+      "Trường hành chính chưa điền vị trí trung tâm do chưa đối chiếu quyết định trụ sở cấp tỉnh sau hợp nhất.",
+      "Biển số 47 và 78 là mã liên quan đến hai địa phương tiền thân theo thông tư; cần kiểm tra nếu có thay đổi mới về đăng ký xe.",
+      "Địa chỉ hiện hành cho nhiều điểm ở vùng Phú Yên cũ cần cập nhật theo danh sách xã/phường mới.",
+      "Ảnh và tọa độ chưa đủ căn cứ nên để null/unverified."
+    ],
+    "sourceIds": [
+      "src-135",
+      "src-136",
+      "src-145",
+      "src-146",
+      "src-147",
+      "src-148",
+      "src-149",
+      "src-158",
+      "src-162",
+      "src-163"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "dak-lak",
+      "name": "Đắk Lắk"
+    },
+    {
+      "id": "phu-yen",
+      "name": "Phú Yên"
+    }
+  ]
+}

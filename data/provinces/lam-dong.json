@@ -1,0 +1,727 @@
+{
+  "id": "lam-dong",
+  "name": "Tỉnh Lâm Đồng",
+  "administrativeType": "Tỉnh",
+  "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Lâm Đồng – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Lâm Đồng mới kết nối ba không gian tiền thân: cao nguyên Lâm Đồng, không gian địa chất – văn hóa Đắk Nông và dải duyên hải Bình Thuận. Đà Lạt, Tà Đùng, Mũi Né, văn hóa cồng chiêng, Chăm và các sản phẩm nông nghiệp là những lớp bản sắc tiêu biểu.",
+    "featuredDestinationIds": [
+      "mui-ne",
+      "ho-ta-dung"
+    ],
+    "featuredSpecialtyIds": [
+      "thanh-long-binh-thuan",
+      "ca-phe-lam-dong"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Lâm Đồng",
+      "administrativeCode": "68",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "48",
+        "49",
+        "86"
+      ],
+      "areaKm2": 24233.07,
+      "areaYear": 2025,
+      "population": {
+        "value": 3872999,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh hình thành từ Lâm Đồng, Đắk Nông và Bình Thuận cũ; trải từ cao nguyên Nam Tây Nguyên đến duyên hải Nam Trung Bộ.",
+      "boundaries": [
+        "Giáp Đắk Lắk, Đồng Nai, Khánh Hòa và Thành phố Hồ Chí Minh.",
+        "Phía tây giáp Campuchia.",
+        "Phía đông và đông nam giáp Biển Đông."
+      ],
+      "naturalFeatures": "Không gian địa hình đa dạng gồm cao nguyên bazan, núi cao, rừng, hồ – thác, vùng bán khô hạn, đồng bằng ven biển, cồn cát và bờ biển.",
+      "climate": null,
+      "history": "Tỉnh mới hình thành từ toàn bộ Lâm Đồng, Đắk Nông và Bình Thuận cũ, chính quyền mới hoạt động từ 01/07/2025. Các vùng tiền thân có lịch sử và bản sắc riêng: đô thị cao nguyên Đà Lạt; không gian cư trú của các cộng đồng K’Ho, Mạ, M’Nông; vùng Chăm và văn hóa biển Bình Thuận.",
+      "description": "Lâm Đồng là tỉnh có không gian tự nhiên và văn hóa đa dạng từ cao nguyên đến biển. Hồ Tuyền Lâm, Đà Lạt, Langbiang, Tà Đùng, Mũi Né, Bàu Trắng và Công viên địa chất Đắk Nông phản ánh các hệ sinh thái và lịch sử vùng miền khác nhau.",
+      "sourceIds": [
+        "src-199",
+        "src-205",
+        "src-197",
+        "src-198",
+        "src-200",
+        "src-206",
+        "src-207",
+        "src-208"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "ho-xuan-huong-da-lat",
+        "name": "Hồ Xuân Hương và không gian trung tâm Đà Lạt",
+        "category": "Cảnh quan đô thị; danh lam thắng cảnh",
+        "originArea": "Lâm Đồng cũ – Đà Lạt.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Hồ Xuân Hương và không gian trung tâm Đà Lạt – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Xuân Hương – Đà Lạt, tỉnh Lâm Đồng.",
+        "coordinates": null,
+        "shortDescription": "Hồ nước ở trung tâm Đà Lạt, gắn với cảnh quan đô thị, công viên và hoạt động văn hóa – du lịch.",
+        "fullDescription": "Hồ Xuân Hương là một trong các biểu tượng cảnh quan của Đà Lạt; nội dung tham quan và hoạt động quanh hồ cần phân biệt với công trình tổ chức sự kiện theo từng thời điểm.",
+        "highlights": "Mặt hồ; không gian công cộng; cảnh quan đô thị Đà Lạt.",
+        "historicalCulturalValue": "Đại diện cho lịch sử hình thành đô thị nghỉ dưỡng Đà Lạt.",
+        "recognition": "Không gán danh hiệu di sản nếu chưa xác định quyết định cụ thể.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-206"
+        ],
+        "originUnitIds": [
+          "lam-dong"
+        ]
+      },
+      {
+        "id": "khu-du-lich-quoc-gia-ho-tuyen-lam",
+        "name": "Khu du lịch quốc gia Hồ Tuyền Lâm",
+        "category": "Du lịch sinh thái; hồ và rừng",
+        "originArea": "Lâm Đồng cũ – Đà Lạt.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch quốc gia Hồ Tuyền Lâm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Xuân Hương – Đà Lạt, tỉnh Lâm Đồng.",
+        "coordinates": null,
+        "shortDescription": "Không gian hồ và rừng thông ở phía nam Đà Lạt, được công nhận là khu du lịch quốc gia.",
+        "fullDescription": "Hồ Tuyền Lâm kết hợp cảnh quan mặt nước, rừng và các cơ sở du lịch; hoạt động cụ thể phụ thuộc đơn vị cung cấp dịch vụ.",
+        "highlights": "Hồ; rừng thông; cảnh quan nghỉ dưỡng.",
+        "historicalCulturalValue": "Giá trị cảnh quan và phát triển du lịch sinh thái vùng cao nguyên.",
+        "recognition": "Khu du lịch quốc gia; Quy hoạch tỉnh Lâm Đồng 2026 tiếp tục liệt kê.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-206"
+        ],
+        "originUnitIds": [
+          "lam-dong"
+        ]
+      },
+      {
+        "id": "langbiang",
+        "name": "Núi Lang Biang",
+        "category": "Danh lam thắng cảnh; du lịch sinh thái",
+        "originArea": "Lâm Đồng cũ – vùng Đà Lạt/Lạc Dương.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Núi Lang Biang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Lang Biang – Đà Lạt, tỉnh Lâm Đồng.",
+        "coordinates": null,
+        "shortDescription": "Quần thể núi nổi bật phía bắc Đà Lạt, gắn với cảnh quan cao nguyên và truyền thuyết địa phương.",
+        "fullDescription": "Khu vực có các tuyến trải nghiệm và hoạt động ngắm cảnh; cần tuân theo quy định khu du lịch và bảo tồn.",
+        "highlights": "Cảnh quan đỉnh núi; rừng; không gian văn hóa K’Ho ở vùng lân cận.",
+        "historicalCulturalValue": "Giá trị cảnh quan và ký ức văn hóa địa phương; các câu chuyện truyền thuyết cần ghi như truyền thuyết, không phải sử liệu.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-207",
+          "src-206"
+        ],
+        "originUnitIds": [
+          "lam-dong"
+        ]
+      },
+      {
+        "id": "mui-ne",
+        "name": "Khu du lịch quốc gia Mũi Né",
+        "category": "Du lịch biển; cảnh quan cát",
+        "originArea": "Bình Thuận cũ – Phan Thiết và vùng ven biển.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch quốc gia Mũi Né – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Mũi Né và các địa bàn lân cận, tỉnh Lâm Đồng.",
+        "coordinates": null,
+        "shortDescription": "Không gian du lịch biển nổi tiếng với bãi biển, đồi cát và các hoạt động thể thao biển.",
+        "fullDescription": "Mũi Né là khu du lịch quốc gia đã được công nhận; Quy hoạch tỉnh Lâm Đồng tiếp tục xác định đây là khu du lịch trọng điểm.",
+        "highlights": "Bãi biển; địa hình cồn cát; làng chài và văn hóa biển.",
+        "historicalCulturalValue": "Gắn với văn hóa biển Bình Thuận cũ và thương hiệu du lịch Phan Thiết – Mũi Né.",
+        "recognition": "Khu du lịch quốc gia theo Quyết định 2354/QĐ-BVHTTDL năm 2020 được nêu trong quy hoạch tỉnh.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-206",
+          "src-205"
+        ],
+        "originUnitIds": [
+          "binh-thuan"
+        ]
+      },
+      {
+        "id": "ho-ta-dung",
+        "name": "Hồ Tà Đùng",
+        "category": "Cảnh quan hồ; du lịch sinh thái",
+        "originArea": "Đắk Nông cũ – vùng Tà Đùng.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Hồ Tà Đùng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Tà Đùng, tỉnh Lâm Đồng.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan hồ với nhiều đảo nhỏ, thường được gọi là “vịnh Hạ Long trên cao nguyên” trong truyền thông du lịch; đây là cách gọi quảng bá, không phải danh hiệu pháp lý.",
+        "fullDescription": "Hồ nằm trong vùng Công viên địa chất toàn cầu UNESCO Đắk Nông. Quy hoạch tỉnh 2026 xem đây là điểm tiềm năng phát triển khu du lịch quốc gia.",
+        "highlights": "Hồ; đảo nhỏ; cảnh quan đồi núi.",
+        "historicalCulturalValue": "Giá trị cảnh quan và địa chất của không gian Đắk Nông cũ.",
+        "recognition": "Hồ thuộc vùng Công viên địa chất toàn cầu UNESCO Đắk Nông; không phải một di sản thế giới riêng biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-206",
+          "src-209"
+        ],
+        "originUnitIds": [
+          "dak-nong"
+        ]
+      },
+      {
+        "id": "bau-trang",
+        "name": "Bàu Trắng",
+        "category": "Danh lam thắng cảnh; hồ và đồi cát",
+        "originArea": "Bình Thuận cũ – khu vực Hòa Thắng.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Bàu Trắng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Hòa Thắng, tỉnh Lâm Đồng.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan hồ nước ngọt giữa vùng cát trắng, đặc trưng của dải ven biển Bình Thuận.",
+        "fullDescription": "Bàu Trắng thường được khai thác trong tuyến tham quan đồi cát và cảnh quan bán khô hạn; thông tin dịch vụ, giá vé cần kiểm tra tại thời điểm đi.",
+        "highlights": "Hồ nước; đồi cát; thảm thực vật vùng cát.",
+        "historicalCulturalValue": "Thể hiện sự đa dạng sinh thái trong tỉnh mới trải từ cao nguyên đến duyên hải.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-206"
+        ],
+        "originUnitIds": [
+          "binh-thuan"
+        ]
+      },
+      {
+        "id": "cong-vien-dia-chat-dak-nong",
+        "name": "Công viên địa chất toàn cầu UNESCO Đắk Nông",
+        "category": "Di sản địa chất; du lịch khám phá",
+        "originArea": "Đắk Nông cũ – các khu vực địa chất và điểm di sản trong tỉnh cũ.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Công viên địa chất toàn cầu UNESCO Đắk Nông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các khu vực thuộc tỉnh Lâm Đồng mới; điểm tham quan cụ thể cần xác định theo bản đồ công viên.",
+        "coordinates": null,
+        "shortDescription": "Không gian địa chất núi lửa, hang động dung nham, thác nước và cảnh quan tự nhiên của cao nguyên.",
+        "fullDescription": "Công viên địa chất được UNESCO công nhận năm 2020; hiện không gian này nằm trong tỉnh Lâm Đồng sau sắp xếp cấp tỉnh năm 2025.",
+        "highlights": "Địa hình núi lửa; hang động dung nham; thác nước; địa tầng.",
+        "historicalCulturalValue": "Giá trị địa chất, sinh thái và giáo dục khoa học.",
+        "recognition": "UNESCO Global Geopark từ năm 2020.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-209",
+          "src-205"
+        ],
+        "originUnitIds": [
+          "dak-nong"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "ca-phe-lam-dong",
+        "name": "Cà phê Lâm Đồng",
+        "category": "Nông sản; cà phê",
+        "originArea": "Lâm Đồng cũ – các vùng cao nguyên, trong đó có Cầu Đất và Di Linh.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Cà phê Lâm Đồng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cà phê Lâm Đồng gắn với Lâm Đồng cũ – các vùng cao nguyên, trong đó có Cầu Đất và Di Linh.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Hạt cà phê Arabica và Robusta tùy vùng trồng."
+        ],
+        "preparation": "Thu hoạch, sơ chế ướt/khô hoặc chế biến theo quy trình của từng cơ sở; không gộp các phương pháp thành một chuẩn duy nhất.",
+        "characteristics": "Hương vị thay đổi theo giống, cao độ, thổ nhưỡng và phương pháp chế biến.",
+        "culturalContext": "Là sản phẩm nông nghiệp quan trọng của vùng cao nguyên Lâm Đồng.",
+        "recognition": "Nguồn tỉnh có đề cập chỉ dẫn địa lý cho cà phê; cần xác minh tên chỉ dẫn, phạm vi địa lý và sản phẩm cụ thể trước khi gắn chứng nhận.",
+        "sourceIds": [
+          "src-208"
+        ],
+        "originUnitIds": [
+          "lam-dong"
+        ]
+      },
+      {
+        "id": "thanh-long-binh-thuan",
+        "name": "Thanh long Bình Thuận",
+        "category": "Nông sản; trái cây",
+        "originArea": "Bình Thuận cũ – vùng trồng thanh long ven biển.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Thanh long Bình Thuận – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thanh long Bình Thuận gắn với Bình Thuận cũ – vùng trồng thanh long ven biển.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thanh long ruột trắng hoặc ruột đỏ tùy giống."
+        ],
+        "preparation": "Canh tác vườn thanh long, điều tiết tưới và chiếu sáng theo quy trình từng vùng.",
+        "characteristics": "Quả có vỏ hồng/đỏ, ruột trắng hoặc đỏ; chất lượng phụ thuộc giống và điều kiện trồng.",
+        "culturalContext": "Gắn với sinh kế nông nghiệp hàng hóa của Bình Thuận cũ.",
+        "recognition": "Được nguồn Sở KH&CN Lâm Đồng nêu trong nhóm sản phẩm có chỉ dẫn địa lý; cần tra cứu văn bằng chi tiết khi tích hợp.",
+        "sourceIds": [
+          "src-208"
+        ],
+        "originUnitIds": [
+          "binh-thuan"
+        ]
+      },
+      {
+        "id": "nuoc-mam-phan-thiet",
+        "name": "Nước mắm Phan Thiết",
+        "category": "Sản phẩm chế biến; nước mắm",
+        "originArea": "Bình Thuận cũ – Phan Thiết.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Nước mắm Phan Thiết – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nước mắm Phan Thiết gắn với Bình Thuận cũ – Phan Thiết.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Cá cơm và muối biển."
+        ],
+        "preparation": "Ủ chượp cá với muối trong thùng/chum theo quy trình truyền thống; thời gian và công thức tùy cơ sở.",
+        "characteristics": "Nước mắm có màu, độ đạm và mùi vị tùy nguyên liệu và kỹ thuật ủ chượp.",
+        "culturalContext": "Gắn với nghề biển và nghề chế biến thủy sản tại Phan Thiết.",
+        "recognition": "Nguồn tỉnh có nêu chỉ dẫn địa lý “Nước mắm Phan Thiết”; phạm vi và quy chuẩn cần lấy từ hồ sơ chỉ dẫn địa lý.",
+        "sourceIds": [
+          "src-208"
+        ],
+        "originUnitIds": [
+          "binh-thuan"
+        ]
+      },
+      {
+        "id": "ruou-vang-da-lat",
+        "name": "Rượu vang Đà Lạt",
+        "category": "Đồ uống; sản phẩm chế biến",
+        "originArea": "Lâm Đồng cũ – Đà Lạt.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Rượu vang Đà Lạt – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Rượu vang Đà Lạt gắn với Lâm Đồng cũ – Đà Lạt.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Nguyên liệu trái cây lên men; thành phần cụ thể tùy dòng sản phẩm và nhà sản xuất."
+        ],
+        "preparation": "Lên men và hoàn thiện theo quy trình của nhà sản xuất; không khái quát một công thức cho mọi sản phẩm.",
+        "characteristics": "Có nhiều dòng vang và sản phẩm lên men; đặc tính thay đổi theo nguyên liệu.",
+        "culturalContext": "Gắn với thương hiệu chế biến nông sản và du lịch Đà Lạt.",
+        "recognition": "Không đồng nhất nhãn hiệu thương mại với chỉ dẫn địa lý.",
+        "sourceIds": [
+          "src-208"
+        ],
+        "originUnitIds": [
+          "lam-dong"
+        ]
+      },
+      {
+        "id": "hat-tieu-dak-nong",
+        "name": "Hạt tiêu Đắk Nông",
+        "category": "Nông sản; gia vị",
+        "originArea": "Đắk Nông cũ – vùng trồng hồ tiêu.",
+        "currentProvinceId": "lam-dong",
+        "image": {
+          "file": null,
+          "alt": "Hạt tiêu Đắk Nông – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Hạt tiêu Đắk Nông gắn với Đắk Nông cũ – vùng trồng hồ tiêu.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Hạt tiêu đen hoặc trắng từ cây hồ tiêu."
+        ],
+        "preparation": "Thu hái quả, phơi/sấy và phân loại theo quy trình của cơ sở sản xuất.",
+        "characteristics": "Gia vị có mùi thơm cay; chất lượng phụ thuộc giống và khâu sơ chế.",
+        "culturalContext": "Gắn với sinh kế nông nghiệp vùng Đắk Nông cũ.",
+        "recognition": "Nguồn Sở KH&CN có nêu trong nhóm sản phẩm chỉ dẫn địa lý; cần đối chiếu văn bằng/phạm vi cụ thể.",
+        "sourceIds": [
+          "src-208"
+        ],
+        "originUnitIds": [
+          "dak-nong"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kho-ho-lam-dong",
+          "name": "Cộng đồng K’Ho và các nhóm cư dân cao nguyên",
+          "originArea": "Lâm Đồng cũ – vùng cao nguyên Lang Biang, Di Linh và lân cận.",
+          "currentProvinceId": "lam-dong",
+          "description": "Cộng đồng K’Ho có các thực hành ngôn ngữ, nghi lễ, âm nhạc, tri thức nông nghiệp và không gian làng; các nhóm địa phương có khác biệt riêng.",
+          "sourceIds": [
+            "src-207",
+            "src-210"
+          ],
+          "originUnitIds": [
+            "lam-dong"
+          ]
+        },
+        {
+          "id": "cong-dong-ma-mnong-dak-nong",
+          "name": "Cộng đồng Mạ và M’Nông",
+          "originArea": "Lâm Đồng cũ và Đắk Nông cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "Các cộng đồng duy trì tri thức môi trường rừng, tập quán canh tác, nhạc cụ và nghi lễ riêng; không gộp văn hóa của các tộc người với nhau.",
+          "sourceIds": [
+            "src-205",
+            "src-210"
+          ],
+          "originUnitIds": [
+            "lam-dong",
+            "dak-nong"
+          ]
+        },
+        {
+          "id": "cong-dong-cham-binh-thuan",
+          "name": "Cộng đồng Chăm",
+          "originArea": "Bình Thuận cũ – các làng Chăm và không gian ven biển.",
+          "currentProvinceId": "lam-dong",
+          "description": "Cộng đồng Chăm tại Bình Thuận cũ có các thực hành tín ngưỡng, lễ hội Katê, nghề dệt, thủ công và sinh hoạt văn hóa riêng; cần phân biệt các nhóm tôn giáo và cộng đồng.",
+          "sourceIds": [
+            "src-207"
+          ],
+          "originUnitIds": [
+            "binh-thuan"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-nong-nghiep-cao-nguyen",
+          "name": "Tri thức canh tác cao nguyên",
+          "originArea": "Các cộng đồng tại Lâm Đồng cũ và Đắk Nông cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "Canh tác cà phê, chè, cây công nghiệp, lúa rẫy và sản phẩm vườn gắn với điều kiện địa hình – khí hậu; tri thức và kỹ thuật khác nhau theo cộng đồng.",
+          "sourceIds": [
+            "src-205",
+            "src-208"
+          ],
+          "originUnitIds": [
+            "lam-dong",
+            "dak-nong"
+          ]
+        },
+        {
+          "id": "nghe-bien-binh-thuan",
+          "name": "Tập quán nghề biển Bình Thuận",
+          "originArea": "Bình Thuận cũ – các cộng đồng ven biển.",
+          "currentProvinceId": "lam-dong",
+          "description": "Đánh bắt, chế biến thủy sản, làm nước mắm và các nghi lễ cộng đồng ven biển tạo nên lớp văn hóa biển; mỗi làng có thực hành cụ thể riêng.",
+          "sourceIds": [
+            "src-208",
+            "src-207"
+          ],
+          "originUnitIds": [
+            "binh-thuan"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "festival-hoa-da-lat",
+          "name": "Festival Hoa Đà Lạt",
+          "originArea": "Lâm Đồng cũ – Đà Lạt.",
+          "currentProvinceId": "lam-dong",
+          "description": "Sự kiện văn hóa – du lịch đương đại quảng bá hoa, nông nghiệp và cảnh quan Đà Lạt; chu kỳ, chủ đề và chương trình mỗi kỳ cần theo thông báo chính thức.",
+          "sourceIds": [
+            "src-207"
+          ],
+          "timeAndLocation": "Đà Lạt; lịch tổ chức theo kế hoạch từng kỳ.",
+          "originUnitIds": [
+            "lam-dong"
+          ]
+        },
+        {
+          "id": "le-hoi-kate-binh-thuan",
+          "name": "Lễ hội Katê của người Chăm",
+          "originArea": "Bình Thuận cũ – cộng đồng Chăm Bàlamôn.",
+          "currentProvinceId": "lam-dong",
+          "description": "Lễ hội quan trọng của cộng đồng Chăm Bàlamôn, gắn với tháp và làng Chăm; nghi lễ cần được mô tả theo nguồn và chủ thể cộng đồng.",
+          "sourceIds": [
+            "src-207"
+          ],
+          "timeAndLocation": "Tại các làng và cụm tháp Chăm; lịch theo lịch Chăm và thông báo từng năm.",
+          "originUnitIds": [
+            "binh-thuan"
+          ]
+        },
+        {
+          "id": "le-hoi-dinh-thay-thim",
+          "name": "Lễ hội Dinh Thầy Thím",
+          "originArea": "Bình Thuận cũ – khu vực La Gi.",
+          "currentProvinceId": "lam-dong",
+          "description": "Lễ hội tín ngưỡng dân gian gắn với Dinh Thầy Thím và cộng đồng địa phương; nội dung nghi lễ và ngày hội cần xác minh lịch chính thức từng năm.",
+          "sourceIds": [
+            "src-207"
+          ],
+          "timeAndLocation": "Dinh Thầy Thím; lịch tổ chức theo thông báo địa phương.",
+          "originUnitIds": [
+            "binh-thuan"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-kho-ho-ma-mnong-cham",
+          "name": "Trang phục truyền thống K’Ho, Mạ, M’Nông và Chăm",
+          "originArea": "Các cộng đồng thuộc ba vùng tiền thân.",
+          "currentProvinceId": "lam-dong",
+          "description": "Trang phục có chất liệu, hoa văn, cách mặc và bối cảnh thực hành khác nhau theo tộc người, nhóm địa phương và nghi lễ; không dùng một mẫu làm đại diện cho toàn tỉnh.",
+          "sourceIds": [
+            "src-207"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-lang-cao-nguyen",
+          "name": "Không gian làng và sinh hoạt cộng đồng cao nguyên",
+          "originArea": "Các cộng đồng bản địa vùng Lâm Đồng cũ và Đắk Nông cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "Không gian cư trú, nhà cộng đồng, nương rẫy và sinh hoạt nghi lễ liên kết với quan hệ dòng họ, làng và môi trường rừng.",
+          "sourceIds": [
+            "src-207",
+            "src-210"
+          ],
+          "originUnitIds": [
+            "lam-dong",
+            "dak-nong"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-thap-cham-va-lang-cham-binh-thuan",
+          "name": "Không gian tháp và làng Chăm Bình Thuận",
+          "originArea": "Bình Thuận cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "Các cụm tháp Chăm và làng cư trú là không gian thực hành tín ngưỡng, nghi lễ và sinh hoạt cộng đồng; cần bổ sung hồ sơ từng di tích cụ thể trước khi định danh hạng xếp hạng.",
+          "sourceIds": [
+            "src-207"
+          ],
+          "originUnitIds": [
+            "binh-thuan"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-cong-chieng-tay-nguyen-lam-dong",
+          "name": "Nghi lễ gắn với cồng chiêng Tây Nguyên",
+          "originArea": "Các cộng đồng bản địa tại Lâm Đồng cũ và Đắk Nông cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "Cồng chiêng xuất hiện trong nhiều nghi lễ và dịp cộng đồng; ý nghĩa, bài bản và nhạc cụ thay đổi theo tộc người và làng.",
+          "sourceIds": [
+            "src-210"
+          ],
+          "originUnitIds": [
+            "lam-dong",
+            "dak-nong"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "khong-gian-van-hoa-cong-chieng-lam-dong",
+          "name": "Không gian văn hóa cồng chiêng Tây Nguyên",
+          "originArea": "Không gian thực hành liên tỉnh Tây Nguyên, gồm các địa bàn thuộc Lâm Đồng và Đắk Nông cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "UNESCO ghi danh năm 2008; đây là di sản liên tỉnh, không chỉ thuộc một địa phương.",
+          "sourceIds": [
+            "src-210"
+          ],
+          "originUnitIds": [
+            "lam-dong",
+            "dak-nong"
+          ]
+        },
+        {
+          "id": "cong-vien-dia-chat-dak-nong-lam-dong",
+          "name": "Công viên địa chất toàn cầu UNESCO Đắk Nông",
+          "originArea": "Đắk Nông cũ.",
+          "currentProvinceId": "lam-dong",
+          "description": "Công viên địa chất được UNESCO công nhận năm 2020; không gian địa chất hiện nằm trong tỉnh Lâm Đồng sau sắp xếp.",
+          "sourceIds": [
+            "src-209"
+          ],
+          "originUnitIds": [
+            "dak-nong"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "cong-chieng-tay-nguyen-lam-dong",
+        "name": "Âm nhạc cồng chiêng Tây Nguyên",
+        "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Âm nhạc cồng chiêng Tây Nguyên – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các cộng đồng bản địa ở Lâm Đồng cũ và Đắk Nông cũ.",
+        "origin": null,
+        "originArea": "Các cộng đồng bản địa ở Lâm Đồng cũ và Đắk Nông cũ.",
+        "currentProvinceId": "lam-dong",
+        "characteristics": "Cồng chiêng gắn với nghi lễ, sinh hoạt cộng đồng và vòng đời; bài bản khác nhau theo từng cộng đồng.",
+        "instrumentsOrPerformance": "Hòa tấu dàn chiêng và nhạc cụ gõ; thực hành trong lễ hội, nghi lễ và sự kiện cộng đồng.",
+        "culturalValue": "Là không gian âm nhạc – xã hội có vai trò quan trọng trong đời sống tinh thần của cộng đồng Tây Nguyên.",
+        "recognition": "UNESCO ghi danh năm 2008; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-210",
+          "src-207"
+        ],
+        "originUnitIds": [
+          "lam-dong",
+          "dak-nong"
+        ]
+      },
+      {
+        "id": "dien-xuong-cham-binh-thuan",
+        "name": "Nghệ thuật diễn xướng Chăm",
+        "category": "Múa, âm nhạc và diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật diễn xướng Chăm – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Chăm ở Bình Thuận cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Chăm ở Bình Thuận cũ.",
+        "currentProvinceId": "lam-dong",
+        "characteristics": "Âm nhạc, múa và diễn xướng gắn với lễ hội và nghi lễ của các cộng đồng Chăm; loại hình cụ thể cần gắn với từng làng/nhóm.",
+        "instrumentsOrPerformance": "Có thể sử dụng trống ginăng, baranưng, kèn saranai và các nhạc cụ truyền thống tùy thể loại.",
+        "culturalValue": "Góp phần duy trì ngôn ngữ, ký ức và thực hành nghi lễ cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-207"
+        ],
+        "originUnitIds": [
+          "binh-thuan"
+        ]
+      },
+      {
+        "id": "dan-ca-kho-ho",
+        "name": "Dân ca và diễn xướng dân gian K’Ho",
+        "category": "Dân ca; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Dân ca và diễn xướng dân gian K’Ho – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng K’Ho ở Lâm Đồng cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng K’Ho ở Lâm Đồng cũ.",
+        "currentProvinceId": "lam-dong",
+        "characteristics": "Dân ca và diễn xướng gắn với sinh hoạt, lao động và các nghi lễ cộng đồng; cần phân biệt các nhóm K’Ho theo địa bàn.",
+        "instrumentsOrPerformance": "Hình thức hát và nhạc cụ thay đổi theo dịp, chủ thể và nhóm địa phương.",
+        "culturalValue": "Lưu truyền ngôn ngữ, kinh nghiệm và ký ức văn hóa cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-207"
+        ],
+        "originUnitIds": [
+          "lam-dong"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Lâm Đồng + Đắk Nông + Bình Thuận cũ; hoạt động từ 01/07/2025.",
+      "Diện tích 24.233,07 km²; quy mô dân số 3.872.999 người; 124 đơn vị cấp xã (103 xã, 20 phường, 1 đặc khu) theo nguồn chính thức năm 2025–2026.",
+      "Mã tỉnh 68; biển số 48, 49, 86 theo Thông tư 51/2025/TT-BCA.",
+      "Không gian văn hóa cồng chiêng là di sản liên tỉnh; không gán riêng Lâm Đồng. Công viên địa chất Đắk Nông là UNESCO Global Geopark, không phải Di sản thế giới.",
+      "Trung tâm hành chính cấp tỉnh, tọa độ, một số địa chỉ cấp xã và giấy phép ảnh cần bổ sung từ nguồn chính thức."
+    ],
+    "sourceIds": [
+      "src-199",
+      "src-205",
+      "src-197",
+      "src-198",
+      "src-200",
+      "src-206",
+      "src-207",
+      "src-208",
+      "src-209",
+      "src-210"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "lam-dong",
+      "name": "Lâm Đồng"
+    },
+    {
+      "id": "dak-nong",
+      "name": "Đắk Nông"
+    },
+    {
+      "id": "binh-thuan",
+      "name": "Bình Thuận"
+    }
+  ]
+}

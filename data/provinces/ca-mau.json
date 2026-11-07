@@ -1,0 +1,1170 @@
+{
+  "id": "ca-mau",
+  "name": "Tỉnh Cà Mau",
+  "administrativeType": "Tỉnh",
+  "region": "Đồng bằng sông Cửu Long",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Ảnh đại diện tổng hợp tỉnh Cà Mau: rừng ngập mặn, bờ biển và không gian văn hóa Bạc Liêu – chưa xác minh giấy phép sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Cà Mau là tỉnh ở cực Nam Việt Nam, hình thành từ việc hợp nhất tỉnh Cà Mau và tỉnh Bạc Liêu cũ, chính thức hoạt động từ ngày 01/07/2025. Không gian văn hóa của tỉnh mới kết nối vùng rừng ngập mặn – rừng tràm, nghề biển và hệ sinh thái Đất Mũi với bản sắc Bạc Liêu: đờn ca tài tử, Dạ cổ hoài lang, nghề muối và giao thoa văn hóa Kinh – Khmer – Hoa.",
+    "featuredDestinationIds": [
+      "khu-du-lich-mui-ca-mau",
+      "vuon-quoc-gia-u-minh-ha",
+      "ben-vam-lung",
+      "khu-luu-niem-cao-van-lau"
+    ],
+    "featuredSpecialtyIds": [
+      "cua-ca-mau",
+      "ba-khia-rach-goc",
+      "muoi-bac-lieu",
+      "banh-tam-ngan-dua"
+    ],
+    "sourceIds": [
+      "src-108",
+      "src-111",
+      "src-112",
+      "src-115",
+      "src-117"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Cà Mau",
+      "administrativeCode": "96",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "69",
+        "94"
+      ],
+      "areaKm2": 7942.39,
+      "areaYear": 2025,
+      "population": {
+        "value": 2606672,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh Cà Mau nằm ở cực Nam Việt Nam, thuộc vùng Đồng bằng sông Cửu Long. Địa giới hiện hành bao gồm toàn bộ tỉnh Cà Mau cũ và tỉnh Bạc Liêu cũ, tạo thành không gian ven biển rộng với hệ sinh thái rừng ngập mặn, rừng tràm, vùng nuôi trồng thủy sản, ruộng muối và các khu dân cư ven biển.",
+      "boundaries": [
+        "Phía bắc và tây bắc giáp tỉnh An Giang và thành phố Cần Thơ (ranh giới cụ thể theo từng đoạn cần đối chiếu bản đồ hành chính số hiện hành).",
+        "Phía đông và đông nam giáp Biển Đông.",
+        "Phía tây và tây nam giáp Vịnh Thái Lan."
+      ],
+      "naturalFeatures": "Không gian tự nhiên của tỉnh mới gồm hai tiểu vùng sinh thái mặn và ngọt. Vùng ven biển có rừng ngập mặn, bãi bồi, cửa sông và hệ thống vuông tôm; khu vực U Minh có rừng tràm và đất than bùn. Vườn quốc gia Mũi Cà Mau thuộc Khu dự trữ sinh quyển thế giới Mũi Cà Mau và là khu Ramsar; Vườn quốc gia U Minh Hạ là vùng lõi của khu dự trữ sinh quyển này.",
+      "climate": null,
+      "history": "Ngày 12/06/2025, Quốc hội thông qua việc sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số của tỉnh Bạc Liêu và tỉnh Cà Mau thành tỉnh mới mang tên Cà Mau; chính quyền địa phương mới hoạt động từ ngày 01/07/2025. Hồ sơ văn hóa cần lưu giữ riêng lịch sử của hai địa phương tiền thân: vùng Đất Mũi gắn với lịch sử khai phá, đường Hồ Chí Minh trên biển, các di tích cách mạng và văn hóa sông nước; vùng Bạc Liêu cũ nổi bật với nghề muối, đờn ca tài tử, Dạ cổ hoài lang và các công trình tín ngưỡng – kiến trúc. Không sử dụng dữ liệu hành chính cũ làm dữ liệu của tỉnh mới.",
+      "description": "Tỉnh Cà Mau mới là không gian văn hóa – sinh thái rộng ở cực Nam Tổ quốc. Ở phần Cà Mau cũ, bản sắc gắn với rừng đước, rừng tràm, nghề gác kèo ong, nghề thủy sản, lễ hội Nghinh Ông và các di tích lịch sử trên tuyến biển. Ở phần Bạc Liêu cũ, di sản đờn ca tài tử, bản Dạ cổ hoài lang, nghề làm muối và đời sống cộng cư Kinh – Khmer – Hoa làm giàu thêm bức tranh văn hóa của toàn tỉnh. Các bản ghi dưới đây giữ trường originArea để phân biệt nguồn gốc địa lý trước sáp nhập.",
+      "sourceIds": [
+        "src-108",
+        "src-109",
+        "src-110",
+        "src-111",
+        "src-112",
+        "src-113",
+        "src-114",
+        "src-115"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "khu-du-lich-mui-ca-mau",
+        "name": "Khu du lịch quốc gia Mũi Cà Mau",
+        "category": "Khu du lịch sinh thái; Vườn quốc gia; Khu dự trữ sinh quyển; Khu Ramsar",
+        "originArea": "Tỉnh Cà Mau cũ – vùng Đất Mũi, huyện Ngọc Hiển cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Cột mốc GPS 0001 và rừng ngập mặn tại Khu du lịch Mũi Cà Mau – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Đất Mũi, tỉnh Cà Mau.",
+        "coordinates": null,
+        "shortDescription": "Điểm đến ở cực Nam trên đất liền Việt Nam, nổi bật với rừng ngập mặn, bãi bồi ven biển và cột mốc tọa độ quốc gia GPS 0001.",
+        "fullDescription": "Khu du lịch Mũi Cà Mau là điểm đến biểu tượng của vùng Đất Mũi. Không gian tự nhiên có hệ sinh thái rừng ngập mặn, các bãi bồi và vùng cửa sông ven biển. Vườn quốc gia Mũi Cà Mau là một phần của Khu dự trữ sinh quyển thế giới Mũi Cà Mau, được UNESCO công nhận năm 2009; đồng thời là khu Ramsar thứ 2.088 trên thế giới. Du khách thường tìm hiểu cột mốc tọa độ quốc gia GPS 0001 và các công trình văn hóa – tâm linh ở Đất Mũi.",
+        "highlights": [
+          "Cột mốc tọa độ quốc gia GPS 0001.",
+          "Rừng ngập mặn và bãi bồi ven biển.",
+          "Hệ sinh thái có giá trị bảo tồn quốc tế."
+        ],
+        "historicalCulturalValue": "Biểu tượng địa lý – văn hóa của vùng cực Nam; gắn với lịch sử cư dân khai phá, sinh kế ven biển và ý thức bảo vệ rừng ngập mặn.",
+        "recognition": "Khu dự trữ sinh quyển thế giới Mũi Cà Mau được UNESCO công nhận ngày 26/05/2009. Vườn quốc gia Mũi Cà Mau là khu Ramsar thứ 2.088 trên thế giới. Không phải Di sản Thế giới UNESCO.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-113",
+          "src-115",
+          "src-116",
+          "src-117"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-u-minh-ha",
+        "name": "Vườn quốc gia U Minh Hạ",
+        "category": "Vườn quốc gia; Khu bảo tồn đất ngập nước",
+        "originArea": "Tỉnh Cà Mau cũ – vùng U Minh, địa bàn U Minh và Trần Văn Thời cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Rừng tràm và hệ sinh thái đất ngập nước tại Vườn quốc gia U Minh Hạ – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực các xã Đá Bạc, Khánh An và vùng phụ cận thuộc tỉnh Cà Mau; cần kiểm tra ranh giới quản lý hiện hành trước khi ghi địa chỉ chi tiết.",
+        "coordinates": null,
+        "shortDescription": "Vùng rừng tràm, đất than bùn và đất ngập nước tiêu biểu của miền Tây Nam Bộ.",
+        "fullDescription": "Vườn quốc gia U Minh Hạ được thành lập theo Quyết định 112/QĐ-TTg ngày 20/01/2006 trên cơ sở nâng cấp Khu bảo tồn thiên nhiên Vồ Dơi. Vườn có tổng diện tích được nguồn chuyên ngành công bố là 8.527,8 ha, với các phân khu bảo tồn hệ sinh thái rừng tràm trên đất than bùn, phục hồi – sử dụng bền vững hệ sinh thái ngập nước và dịch vụ hành chính. Đây là một trong ba vùng lõi của Khu dự trữ sinh quyển thế giới Mũi Cà Mau.",
+        "highlights": [
+          "Rừng tràm trên đất than bùn.",
+          "Hệ sinh thái đất ngập nước đặc trưng.",
+          "Một trong ba vùng lõi của Khu dự trữ sinh quyển thế giới Mũi Cà Mau."
+        ],
+        "historicalCulturalValue": "Cảnh quan gắn với sinh kế rừng tràm, nghề gác kèo ong và ký ức văn hóa vùng U Minh.",
+        "recognition": "Một trong ba vùng lõi của Khu dự trữ sinh quyển thế giới Mũi Cà Mau được UNESCO công nhận năm 2009.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-114",
+          "src-113",
+          "src-115",
+          "src-117"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "hon-da-bac",
+        "name": "Khu di tích lịch sử Hòn Đá Bạc – Trung tâm chỉ huy kế hoạch CM12",
+        "category": "Danh lam thắng cảnh; Di tích lịch sử – văn hóa",
+        "originArea": "Tỉnh Cà Mau cũ – khu vực Khánh Bình Tây, huyện Trần Văn Thời cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Cụm đảo đá Hòn Đá Bạc và khu di tích CM12 – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Đá Bạc, tỉnh Cà Mau.",
+        "coordinates": null,
+        "shortDescription": "Cụm đảo đá gần bờ kết hợp cảnh quan biển với di tích lịch sử gắn chuyên án CM12.",
+        "fullDescription": "Hòn Đá Bạc là cụm đảo đá gần bờ, có giá trị cảnh quan và tín ngưỡng của cư dân miền biển. Khu di tích gắn với Trung tâm chỉ huy kế hoạch phản gián CM12 (1981–1984), có tượng đài, nhà truyền thống và không gian tưởng niệm. Đây vừa là điểm tham quan thiên nhiên vừa là địa chỉ giáo dục truyền thống lịch sử.",
+        "highlights": [
+          "Cảnh quan cụm đảo đá ven bờ.",
+          "Di tích gắn với kế hoạch CM12.",
+          "Không gian tín ngưỡng thờ cá Ông của cư dân biển."
+        ],
+        "historicalCulturalValue": "Lưu giữ ký ức lịch sử – an ninh và tín ngưỡng biển của cộng đồng ven biển Cà Mau.",
+        "recognition": "Di tích lịch sử – văn hóa cấp quốc gia, được công nhận ngày 22/06/2009 theo thông tin của cổng xã Đá Bạc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-126",
+          "src-116",
+          "src-115"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "hon-khoai",
+        "name": "Cụm đảo Hòn Khoai",
+        "category": "Danh lam thắng cảnh; Di tích lịch sử",
+        "originArea": "Tỉnh Cà Mau cũ – vùng biển huyện Ngọc Hiển cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Toàn cảnh cụm đảo Hòn Khoai ngoài khơi Cà Mau – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Vùng biển cực Nam tỉnh Cà Mau; địa chỉ đơn vị cấp xã và điều kiện tiếp cận cần xác minh theo quy định hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Cụm đảo ngoài khơi có cảnh quan rừng – biển và dấu ấn cuộc khởi nghĩa Hòn Khoai.",
+        "fullDescription": "Hòn Khoai là cụm đảo có vị trí chiến lược ngoài khơi vùng cực Nam. Địa danh gắn với cuộc khởi nghĩa Hòn Khoai do thầy giáo Phan Ngọc Hiển lãnh đạo; bia tưởng niệm 10 anh hùng liệt sĩ khởi nghĩa Hòn Khoai hiện được xã Phan Ngọc Hiển tổ chức dâng hương, tưởng niệm. Đây là địa điểm có giá trị lịch sử và cảnh quan, nhưng việc tham quan đảo cần theo hướng dẫn và quy định quản lý chuyên ngành.",
+        "highlights": [
+          "Cảnh quan đảo ngoài khơi.",
+          "Dấu ấn cuộc khởi nghĩa Hòn Khoai.",
+          "Bia tưởng niệm 10 anh hùng liệt sĩ."
+        ],
+        "historicalCulturalValue": "Biểu tượng của phong trào đấu tranh cách mạng tại vùng cực Nam, gắn với tên tuổi Phan Ngọc Hiển.",
+        "recognition": "Bia tưởng niệm 10 Anh hùng liệt sĩ khởi nghĩa Hòn Khoai được địa phương tổ chức tưởng niệm; cấp xếp hạng riêng của cụm đảo cần đối chiếu hồ sơ di tích.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-116",
+          "src-123"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "ben-vam-lung",
+        "name": "Khu di tích Quốc gia đặc biệt Bến Vàm Lũng",
+        "category": "Di tích lịch sử; Di tích quốc gia đặc biệt",
+        "originArea": "Tỉnh Cà Mau cũ – vùng Rạch Gốc, Ngọc Hiển cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Nhà niệm hương và khu di tích Bến Vàm Lũng – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Phan Ngọc Hiển, tỉnh Cà Mau.",
+        "coordinates": null,
+        "shortDescription": "Địa chỉ lịch sử gắn với điểm cuối của tuyến đường Hồ Chí Minh trên biển.",
+        "fullDescription": "Bến Vàm Lũng là địa điểm lịch sử gắn với tuyến vận tải chiến lược trên biển trong kháng chiến. Khu di tích ghi dấu vai trò của bến tiếp nhận vũ khí và hoạt động của lực lượng vận tải trên biển; hiện địa phương tổ chức dâng hoa, dâng hương, giáo dục truyền thống tại nhà niệm hương và các điểm tưởng niệm liên quan.",
+        "highlights": [
+          "Điểm cuối của tuyến đường Hồ Chí Minh trên biển.",
+          "Không gian nhà niệm hương và tưởng niệm.",
+          "Liên hệ lịch sử với vùng Đất Mũi và Hòn Khoai."
+        ],
+        "historicalCulturalValue": "Di tích có ý nghĩa lớn trong lịch sử kháng chiến và ký ức cộng đồng tại vùng cực Nam.",
+        "recognition": "Khu di tích Quốc gia đặc biệt theo Cổng thông tin xã Phan Ngọc Hiển (bài viết ngày 10/02/2026).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-123",
+          "src-116"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "khu-luu-niem-cao-van-lau",
+        "name": "Khu lưu niệm Nghệ thuật Đờn ca tài tử Nam Bộ và nhạc sĩ Cao Văn Lầu",
+        "category": "Di tích lịch sử – văn hóa; Không gian nghệ thuật",
+        "originArea": "Tỉnh Bạc Liêu cũ – thành phố Bạc Liêu trước năm 2025.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Khu lưu niệm Cao Văn Lầu với tượng nhạc sĩ và không gian biểu diễn đờn ca tài tử – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Bạc Liêu, tỉnh Cà Mau.",
+        "coordinates": null,
+        "shortDescription": "Không gian tưởng niệm nhạc sĩ Cao Văn Lầu và giới thiệu nghệ thuật Đờn ca tài tử, bản Dạ Cổ Hoài Lang.",
+        "fullDescription": "Khu lưu niệm giới thiệu cuộc đời và sự nghiệp nhạc sĩ Cao Văn Lầu, lịch sử hình thành bản Dạ Cổ Hoài Lang và nghệ thuật Đờn ca tài tử Nam Bộ. Không gian gồm khu trưng bày nghệ thuật, tư liệu về nhạc sĩ, tượng đài và sân khấu biểu diễn. Bộ Văn hóa, Thể thao và Du lịch ghi nhận đây là điểm đến nổi tiếng tại Bạc Liêu và là di tích lịch sử cấp quốc gia.",
+        "highlights": [
+          "Tư liệu về nhạc sĩ Cao Văn Lầu.",
+          "Lịch sử bản Dạ Cổ Hoài Lang.",
+          "Trưng bày và giới thiệu Đờn ca tài tử Nam Bộ."
+        ],
+        "historicalCulturalValue": "Nơi diễn giải đóng góp của Bạc Liêu đối với sự phát triển của Đờn ca tài tử, vọng cổ và cải lương Nam Bộ.",
+        "recognition": "Di tích lịch sử cấp quốc gia; là điểm du lịch tiêu biểu của khu vực theo thông tin Bộ VHTTDL năm 2025.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-119",
+          "src-125",
+          "src-115"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "nha-cong-tu-bac-lieu",
+        "name": "Nhà Công tử Bạc Liêu",
+        "category": "Công trình kiến trúc; Di tích – điểm tham quan văn hóa",
+        "originArea": "Tỉnh Bạc Liêu cũ – khu trung tâm đô thị Bạc Liêu.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Mặt tiền Nhà Công tử Bạc Liêu – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Bạc Liêu, tỉnh Cà Mau.",
+        "coordinates": null,
+        "shortDescription": "Công trình kiến trúc đô thị gắn với câu chuyện về nhân vật Công tử Bạc Liêu và đời sống thượng lưu Nam Bộ đầu thế kỷ XX.",
+        "fullDescription": "Nhà Công tử Bạc Liêu là điểm tham quan văn hóa – lịch sử gắn với câu chuyện về gia đình Trần Trinh và hình tượng Công tử Bạc Liêu trong ký ức dân gian. Công trình thường được giới thiệu cùng các điểm văn hóa đô thị Bạc Liêu và giúp người xem tìm hiểu nếp sống, kiến trúc nhà ở, vật dụng và câu chuyện xã hội của một giai đoạn lịch sử địa phương.",
+        "highlights": [
+          "Kiến trúc nhà ở đô thị đầu thế kỷ XX.",
+          "Câu chuyện về Công tử Bạc Liêu trong văn hóa đại chúng.",
+          "Không gian tham quan thuộc cụm điểm đến Bạc Liêu."
+        ],
+        "historicalCulturalValue": "Gắn với ký ức đô thị, lịch sử tầng lớp điền chủ và những giai thoại được lưu truyền trong văn hóa Nam Bộ; các giai thoại cần phân biệt với chứng cứ lịch sử.",
+        "recognition": "Được Trung tâm Xúc tiến đầu tư tỉnh liệt kê trong nhóm điểm du lịch tiêu biểu của tỉnh Cà Mau mới; cấp xếp hạng di tích riêng chưa xác minh.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-115"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "quan-am-phat-dai",
+        "name": "Quán Âm Phật Đài (Mẹ Nam Hải)",
+        "category": "Di tích tín ngưỡng; Điểm du lịch văn hóa – tâm linh",
+        "originArea": "Tỉnh Bạc Liêu cũ – vùng ven biển Nhà Mát.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Tượng Quán Thế Âm tại Quán Âm Phật Đài Bạc Liêu – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Hiệp Thành, tỉnh Cà Mau.",
+        "coordinates": null,
+        "shortDescription": "Không gian Phật giáo và tín ngưỡng ven biển, nổi bật với tượng Quán Thế Âm hướng ra biển.",
+        "fullDescription": "Quán Âm Phật Đài là điểm hành hương và tham quan tâm linh nổi tiếng của vùng Bạc Liêu cũ. Lễ hội Quán Âm Nam Hải được tổ chức hằng năm với nghi thức cầu an, dâng hương, rước Quán Âm và các hoạt động văn hóa – nghệ thuật. Kế hoạch sự kiện của tỉnh năm 2026 xác định địa điểm tổ chức tại Quán Âm Phật Đài Bạc Liêu và UBND phường Hiệp Thành là đơn vị chủ trì.",
+        "highlights": [
+          "Tượng Quán Thế Âm hướng ra biển.",
+          "Lễ hội Quán Âm Nam Hải.",
+          "Không gian tín ngưỡng cư dân vùng biển."
+        ],
+        "historicalCulturalValue": "Thể hiện tín ngưỡng Phật giáo và nhu cầu cầu an của cộng đồng ven biển; cần trình bày trung lập, tôn trọng thực hành tôn giáo.",
+        "recognition": "Là điểm du lịch tiêu biểu được tỉnh liệt kê; chưa xác minh quyết định xếp hạng di tích cấp quốc gia riêng cho địa điểm.",
+        "visitorInformation": "Lễ hội Quán Âm Nam Hải năm 2026 được lên kế hoạch từ 08–10/05/2026; lịch năm sau cần kiểm tra thông báo mới.",
+        "sourceIds": [
+          "src-115",
+          "src-122"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "nha-tho-tac-say",
+        "name": "Nhà thờ Tắc Sậy",
+        "category": "Công trình tôn giáo; Điểm du lịch văn hóa – tâm linh",
+        "originArea": "Tỉnh Bạc Liêu cũ – khu vực Tắc Sậy, Giá Rai cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Toàn cảnh Nhà thờ Tắc Sậy – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tắc Sậy, tỉnh Cà Mau; tên xã/phường hiện hành cần đối chiếu với danh mục địa chỉ chính thức trước khi công bố.",
+        "coordinates": null,
+        "shortDescription": "Nhà thờ Công giáo gắn với mộ phần linh mục Trương Bửu Diệp, thu hút khách hành hương và tham quan.",
+        "fullDescription": "Nhà thờ Tắc Sậy là điểm hành hương Công giáo nổi tiếng của vùng Bạc Liêu cũ, gắn với linh mục Phanxicô Trương Bửu Diệp. Công trình thường được nhắc cùng các điểm văn hóa – tâm linh tiêu biểu của tỉnh Cà Mau mới. Nội dung giới thiệu cần phân biệt thông tin lịch sử có tư liệu với niềm tin và thực hành tín ngưỡng của cộng đồng hành hương.",
+        "highlights": [
+          "Không gian nhà thờ Công giáo.",
+          "Nơi hành hương gắn với linh mục Trương Bửu Diệp.",
+          "Một điểm đến văn hóa – tâm linh của Bạc Liêu cũ."
+        ],
+        "historicalCulturalValue": "Thể hiện đời sống Công giáo và bản đồ tín ngưỡng đa dạng của vùng Bạc Liêu – Cà Mau.",
+        "recognition": "Được Cổng thông tin xúc tiến du lịch tỉnh liệt kê trong nhóm công trình tôn giáo – tín ngưỡng tiêu biểu; chưa xác minh tình trạng xếp hạng di tích.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-115"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "thap-co-vinh-hung",
+        "name": "Tháp cổ Vĩnh Hưng",
+        "category": "Di tích khảo cổ; Kiến trúc cổ",
+        "originArea": "Tỉnh Bạc Liêu cũ – khu vực Vĩnh Hưng.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Tháp cổ Vĩnh Hưng – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Vĩnh Hưng, tỉnh Cà Mau; địa chỉ xã/phường hiện hành cần đối chiếu danh mục hành chính mới.",
+        "coordinates": null,
+        "shortDescription": "Di tích kiến trúc tháp cổ được giới thiệu trong nhóm di tích lịch sử – văn hóa của vùng Bạc Liêu cũ.",
+        "fullDescription": "Tháp cổ Vĩnh Hưng là một địa điểm khảo cổ – kiến trúc cổ được cơ quan xúc tiến đầu tư tỉnh liệt kê trong hệ thống di tích lịch sử cấp quốc gia của tỉnh mới. Đây là điểm có tiềm năng giới thiệu lớp lịch sử văn hóa lâu đời của khu vực; hồ sơ này chưa tự bổ sung niên đại, chủ thể văn hóa hay kết quả khai quật khi chưa có tài liệu chuyên khảo trực tiếp trong bộ nguồn hiện tại.",
+        "highlights": [
+          "Kiến trúc tháp cổ.",
+          "Di tích khảo cổ thuộc khu vực Vĩnh Hưng cũ.",
+          "Bổ sung chiều sâu lịch sử cho không gian văn hóa tỉnh mới."
+        ],
+        "historicalCulturalValue": "Đại diện cho lớp di tích khảo cổ – kiến trúc cổ của vùng Bạc Liêu cũ; cần bổ sung hồ sơ khảo cổ để mô tả chính xác hơn.",
+        "recognition": "Nguồn xúc tiến đầu tư tỉnh xếp trong nhóm di tích lịch sử cấp quốc gia; cần bổ sung quyết định xếp hạng trực tiếp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-115"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "cua-ca-mau",
+        "name": "Cua Cà Mau",
+        "category": "Thủy sản; Sản phẩm chỉ dẫn địa lý",
+        "originArea": "Tỉnh Cà Mau cũ; khu vực nuôi cua nước lợ ở các địa bàn thuộc phạm vi chỉ dẫn địa lý.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Cua biển Cà Mau – ảnh sản phẩm chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm cua gắn với hệ sinh thái mặn lợ, rừng ngập mặn và mô hình nuôi xen canh với tôm, cá tại Cà Mau cũ.",
+        "ingredients": [
+          "Cua biển xanh (Scylla paramamosain)."
+        ],
+        "preparation": "Cua có thể được chế biến bằng cách hấp, luộc, rang me, nấu lẩu hoặc dùng trong các món ăn địa phương; đây là cách chế biến phổ biến, không phải quy trình sản xuất của chỉ dẫn địa lý.",
+        "characteristics": "Cua Cà Mau được Cục Sở hữu trí tuệ mô tả có thịt chắc, vị ngọt đậm; sản phẩm có cả cua thịt và cua gạch.",
+        "culturalContext": "Gắn với sinh kế nuôi trồng thủy sản ở vùng nước lợ và văn hóa ẩm thực ven biển cực Nam.",
+        "recognition": "Được cấp Giấy chứng nhận đăng ký chỉ dẫn địa lý số 00116 theo Quyết định 2576/QĐ-SHTT ngày 08/06/2022.",
+        "sourceIds": [
+          "src-118",
+          "src-117"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "ba-khia-rach-goc",
+        "name": "Ba khía Rạch Gốc / ba khía muối",
+        "category": "Thủy sản chế biến; Nghề truyền thống",
+        "originArea": "Tỉnh Cà Mau cũ – vùng Rạch Gốc và các khu vực ven biển có rừng ngập mặn.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Ba khía muối Rạch Gốc – ảnh sản phẩm chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Ba khía sống trong môi trường bãi bồi và rừng ngập mặn; Rạch Gốc là địa danh gắn với sản phẩm ba khía nổi tiếng của Cà Mau.",
+        "ingredients": [
+          "Ba khía.",
+          "Muối.",
+          "Gia vị tùy cách làm của từng gia đình/cơ sở."
+        ],
+        "preparation": "Ba khía được làm sạch, ướp muối và ủ theo kinh nghiệm địa phương; món ăn có thể được trộn thêm tỏi, ớt, đường, chanh hoặc gia vị theo khẩu vị.",
+        "characteristics": "Vị mặn đậm, mùi lên men đặc trưng; cách ăn phổ biến là trộn gia vị hoặc dùng kèm cơm và rau.",
+        "culturalContext": "Gắn với tri thức khai thác thủy sản vùng rừng ngập mặn và kỹ thuật bảo quản thực phẩm của cư dân ven biển.",
+        "recognition": "Nghề Muối ba khía là một trong các di sản văn hóa phi vật thể cấp quốc gia được Bộ VHTTDL liệt kê cho tỉnh Cà Mau.",
+        "sourceIds": [
+          "src-112",
+          "src-117"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "tom-kho-rach-goc",
+        "name": "Tôm khô Cà Mau (Rạch Gốc)",
+        "category": "Thủy sản chế biến; Sản phẩm địa phương",
+        "originArea": "Tỉnh Cà Mau cũ – các vùng ven biển, trong đó Rạch Gốc là địa danh gắn với nghề làm tôm khô.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Tôm khô Cà Mau – ảnh sản phẩm chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm chế biến từ tôm khai thác/nuôi trồng tại vùng nước ven biển Cà Mau.",
+        "ingredients": [
+          "Tôm.",
+          "Muối; lượng dùng thay đổi theo quy trình sản xuất."
+        ],
+        "preparation": "Tôm được sơ chế, luộc hoặc hấp, bóc vỏ và phơi/sấy đến độ khô phù hợp; quy trình cụ thể khác nhau giữa cơ sở sản xuất.",
+        "characteristics": "Sản phẩm có màu hồng cam đến đỏ, vị ngọt tự nhiên và mùi thơm của tôm khô; kích cỡ và chất lượng phụ thuộc nguyên liệu và quy trình.",
+        "culturalContext": "Gắn với sinh kế thủy sản và tập quán dự trữ thực phẩm của cư dân vùng ven biển.",
+        "recognition": "Nghề làm tôm khô được Bộ VHTTDL liệt kê là di sản văn hóa phi vật thể cấp quốc gia của tỉnh Cà Mau; không đồng nghĩa mọi sản phẩm tôm khô đều có một chứng nhận riêng.",
+        "sourceIds": [
+          "src-112",
+          "src-117"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "muoi-bac-lieu",
+        "name": "Muối Bạc Liêu",
+        "category": "Nông sản; Sản phẩm chỉ dẫn địa lý; Nghề thủ công truyền thống",
+        "originArea": "Tỉnh Bạc Liêu cũ – các cánh đồng muối ven biển.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Ruộng muối Bạc Liêu – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với nghề làm muối thủ công lâu đời của cư dân vùng ven biển Bạc Liêu cũ.",
+        "ingredients": [
+          "Nước biển."
+        ],
+        "preparation": "Nước biển được dẫn vào ruộng muối, phơi cô đặc dưới nắng và kết tinh; kỹ thuật cụ thể phụ thuộc điều kiện ruộng và kinh nghiệm diêm dân.",
+        "characteristics": "Muối ăn Bạc Liêu được nguồn xúc tiến đầu tư tỉnh mô tả có độ trắng và độ tinh khiết đặc trưng; sản xuất gắn với đồng muối ven biển.",
+        "culturalContext": "Nghề muối tạo nên cảnh quan ruộng muối, lịch lao động theo con nước – thời tiết và bản sắc cộng đồng diêm dân.",
+        "recognition": "Sản phẩm Muối ăn Bạc Liêu có chỉ dẫn địa lý; Nghề làm muối ở Bạc Liêu được ghi danh Di sản văn hóa phi vật thể quốc gia năm 2020.",
+        "sourceIds": [
+          "src-120",
+          "src-127",
+          "src-112"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "banh-tam-ngan-dua",
+        "name": "Bánh tằm Ngan Dừa",
+        "category": "Món ăn; Ẩm thực địa phương",
+        "originArea": "Tỉnh Bạc Liêu cũ – thị trấn Ngan Dừa, huyện Hồng Dân cũ.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Bánh tằm Ngan Dừa ăn cùng xíu mại và bì – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Món ăn được gắn với địa danh Ngan Dừa của vùng Bạc Liêu cũ.",
+        "ingredients": [
+          "Bột gạo.",
+          "Xíu mại.",
+          "Bì, thịt nạc luộc.",
+          "Đậu phộng rang, dưa leo, rau thơm và nước xốt."
+        ],
+        "preparation": "Bột gạo được khuấy chín, se thành sợi rồi hấp; ăn cùng xíu mại, bì, thịt nạc và nước xốt theo cách chế biến địa phương.",
+        "characteristics": "Sợi bánh tằm mềm, bóng; phần ăn kết hợp vị béo của xíu mại, bì, đậu phộng và nước xốt.",
+        "culturalContext": "Món ăn tiêu biểu trong ký ức ẩm thực vùng Ngan Dừa – Bạc Liêu cũ; món có các biến thể ở nhiều nơi miền Tây.",
+        "recognition": null,
+        "sourceIds": [
+          "src-124"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "bun-bo-cay-bac-lieu",
+        "name": "Bún bò cay Bạc Liêu",
+        "category": "Món ăn; Ẩm thực địa phương",
+        "originArea": "Tỉnh Bạc Liêu cũ – khu vực đô thị Bạc Liêu.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Tô bún bò cay Bạc Liêu – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Món ăn dân dã được giới thiệu như đặc sản của vùng Bạc Liêu cũ.",
+        "ingredients": [
+          "Thịt bò.",
+          "Bún.",
+          "Sa tế/ớt và gia vị.",
+          "Rau quế, chanh và rau ăn kèm."
+        ],
+        "preparation": "Thịt bò được nấu với gia vị và sa tế tạo nước dùng cay; ăn cùng bún trắng và rau thơm.",
+        "characteristics": "Nước dùng có sắc đỏ từ ớt/sa tế và vị cay rõ; thành phần ăn kèm có thể khác nhau theo hàng quán.",
+        "culturalContext": "Là một món ẩm thực nhận diện vùng Bạc Liêu cũ, có sự tiếp biến trong khẩu vị Nam Bộ.",
+        "recognition": null,
+        "sourceIds": [
+          "src-124"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "lau-mam-u-minh",
+        "name": "Lẩu mắm U Minh",
+        "category": "Món ăn; Ẩm thực sông nước",
+        "originArea": "Tỉnh Cà Mau cũ – vùng U Minh.",
+        "currentProvinceId": "ca-mau",
+        "image": {
+          "file": null,
+          "alt": "Lẩu mắm U Minh với rau đồng và cá đồng – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Món ăn gắn với vùng U Minh và nguồn nguyên liệu cá, rau, sản vật đồng nước của Cà Mau cũ.",
+        "ingredients": [
+          "Mắm cá.",
+          "Cá, tôm hoặc thủy sản địa phương.",
+          "Rau đồng và rau vườn theo mùa."
+        ],
+        "preparation": "Nấu nước dùng từ mắm, lọc bỏ xương và kết hợp với cá, tôm cùng các loại rau; thành phần thay đổi tùy gia đình và mùa.",
+        "characteristics": "Nước lẩu có mùi vị mắm đậm đà, ăn cùng nhiều loại rau đặc trưng miền Tây.",
+        "culturalContext": "Gắn với thói quen tận dụng sản vật sông nước và rau đồng trong ẩm thực vùng U Minh.",
+        "recognition": null,
+        "sourceIds": [
+          "src-117"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-ca-mau",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Phân bố rộng khắp hai vùng Cà Mau cũ và Bạc Liêu cũ.",
+          "description": "Cộng đồng Kinh tạo nên nhiều lớp sinh hoạt văn hóa vùng sông nước, ven biển, nghề muối, khai thác – nuôi trồng thủy sản, đờn ca tài tử và các tín ngưỡng dân gian. Không nên xem tập quán của một làng/ấp là đại diện cho toàn tỉnh.",
+          "sourceIds": [
+            "src-111",
+            "src-115",
+            "src-112"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "cong-dong-khmer-ca-mau",
+          "name": "Cộng đồng Khmer",
+          "originArea": "Các phum, sóc ở cả vùng Cà Mau cũ và Bạc Liêu cũ; gắn với hệ thống chùa Khmer và các lễ hội Phật giáo Nam tông.",
+          "description": "Cộng đồng Khmer góp phần tạo nên bản sắc đa văn hóa của tỉnh; sinh hoạt văn hóa gắn với chùa, lễ hội truyền thống, nghệ thuật nhạc trống lớn và các đội múa Khmer.",
+          "sourceIds": [
+            "src-112",
+            "src-115"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "cong-dong-hoa-ca-mau",
+          "name": "Cộng đồng Hoa",
+          "originArea": "Các khu dân cư đô thị và thương mại ở vùng Bạc Liêu cũ và Cà Mau cũ.",
+          "description": "Cộng đồng Hoa cùng cộng đồng Kinh và Khmer góp phần tạo nên đời sống đa dạng về tín ngưỡng, thương mại, ẩm thực và lễ hội tại tỉnh mới. Tư liệu hiện có chưa đủ để mô tả chi tiết phân bố theo xã/phường.",
+          "sourceIds": [
+            "src-115"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "tap-quan-cu-dan-bien",
+          "name": "Tập quán và sinh kế cư dân ven biển",
+          "originArea": "Cà Mau cũ và Bạc Liêu cũ.",
+          "description": "Đời sống gắn với khai thác thủy sản, nuôi tôm – cua, đi biển, chế biến hải sản và thực hành tín ngưỡng cầu an cho ngư dân.",
+          "sourceIds": [
+            "src-117",
+            "src-115"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "nghe-muoi-truyen-thong",
+          "name": "Tri thức nghề làm muối",
+          "originArea": "Bạc Liêu cũ.",
+          "description": "Diêm dân tổ chức lao động theo nắng, gió, độ mặn và điều kiện ruộng; nghề muối vừa là sinh kế vừa định hình cảnh quan văn hóa vùng ven biển.",
+          "sourceIds": [
+            "src-120",
+            "src-127"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "nghe-gac-keo-ong",
+          "name": "Nghề gác kèo ong",
+          "originArea": "Cà Mau cũ – hệ sinh thái rừng tràm U Minh.",
+          "description": "Tri thức đặt kèo và khai thác mật ong rừng gắn với hiểu biết về mùa hoa tràm, tập tính ong và môi trường rừng. Đây là nghề truyền thống được ghi danh di sản văn hóa phi vật thể quốc gia.",
+          "sourceIds": [
+            "src-112",
+            "src-114"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-nghinh-ong-song-doc",
+          "name": "Lễ hội Nghinh Ông Sông Đốc",
+          "originArea": "Cà Mau cũ – thị trấn Sông Đốc, huyện Trần Văn Thời cũ.",
+          "currentProvinceId": "ca-mau",
+          "description": "Lễ hội tín ngưỡng của cư dân biển, có nghi thức rước Lệnh Ông Nam Hải, tế lễ truyền thống và các hoạt động cộng đồng. Bộ VHTTDL ghi nhận đây là di sản văn hóa phi vật thể quốc gia.",
+          "time": "Nguồn năm 2025 ghi cao điểm từ ngày 11–17/3/2025 (12–18/2 âm lịch); lịch từng năm cần xác minh lại.",
+          "sourceIds": [
+            "src-128",
+            "src-112"
+          ],
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "le-hoi-nghinh-ong-ganh-hao",
+          "name": "Lễ hội Nghinh Ông Gành Hào",
+          "originArea": "Bạc Liêu cũ – vùng Gành Hào, Đông Hải cũ.",
+          "currentProvinceId": "ca-mau",
+          "description": "Lễ hội dân gian truyền thống của cư dân ven biển, có nghi thức nghinh Ông, cúng tế và hoạt động cộng đồng; năm 2026 xã Gành Hào tổ chức lần thứ XXIII.",
+          "time": "Thường diễn ra ngày mùng 8–10 tháng 3 âm lịch; năm 2026 diễn ra 24–26/04/2026.",
+          "sourceIds": [
+            "src-121"
+          ],
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "le-hoi-quan-am-nam-hai",
+          "name": "Lễ hội Quán Âm Nam Hải",
+          "originArea": "Bạc Liêu cũ – Quán Âm Phật Đài.",
+          "currentProvinceId": "ca-mau",
+          "description": "Lễ hội Phật giáo có các nghi thức cầu quốc thái dân an, dâng hương, cầu an, rước Quán Âm và hoạt động văn hóa – nghệ thuật.",
+          "time": "Năm 2026, kế hoạch tỉnh tổ chức ngày 08–10/05/2026 (22–24/3 âm lịch); lịch các năm khác cần kiểm tra.",
+          "sourceIds": [
+            "src-122",
+            "src-115"
+          ],
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "le-hoi-via-ba-thuy-long",
+          "name": "Lễ hội Vía Bà Thủy Long",
+          "originArea": "Cà Mau cũ – cộng đồng thực hành tín ngưỡng ven biển địa phương.",
+          "currentProvinceId": "ca-mau",
+          "description": "Lễ hội tín ngưỡng dân gian được Bộ VHTTDL liệt kê trong nhóm di sản văn hóa phi vật thể cấp quốc gia của tỉnh Cà Mau. Phạm vi thực hành, chủ thể và lịch tổ chức cần tư liệu chi tiết hơn.",
+          "time": null,
+          "sourceIds": [
+            "src-112"
+          ],
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "doi-song-rung-bien",
+          "name": "Đời sống cộng đồng rừng – biển",
+          "originArea": "Cà Mau cũ.",
+          "description": "Sinh kế gắn với rừng ngập mặn, rừng tràm, nuôi trồng thủy sản, đánh bắt, khai thác ba khía, cua và các hoạt động du lịch cộng đồng.",
+          "sourceIds": [
+            "src-113",
+            "src-114",
+            "src-117"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "doi-song-diem-dan",
+          "name": "Đời sống diêm dân",
+          "originArea": "Bạc Liêu cũ.",
+          "description": "Các cánh đồng muối và chu kỳ lao động theo mùa nắng tạo nên không gian sinh hoạt đặc trưng của cư dân ven biển.",
+          "sourceIds": [
+            "src-120",
+            "src-127"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "sinh-hoat-don-ca-tai-tu",
+          "name": "Sinh hoạt đờn ca tài tử và vọng cổ",
+          "originArea": "Cà Mau và Bạc Liêu cũ; phạm vi di sản rộng khắp Nam Bộ.",
+          "description": "Câu lạc bộ và nhóm thực hành đờn ca tài tử duy trì sinh hoạt biểu diễn, truyền dạy và giao lưu; Bạc Liêu gắn với nhạc sĩ Cao Văn Lầu và bản Dạ Cổ Hoài Lang.",
+          "sourceIds": [
+            "src-112",
+            "src-119",
+            "src-125"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-chua-khmer",
+          "name": "Chùa Khmer và không gian phum sóc",
+          "originArea": "Cà Mau cũ và Bạc Liêu cũ.",
+          "description": "Chùa Khmer là thiết chế tôn giáo – cộng đồng, đồng thời là không gian thực hành nghi lễ, lễ hội và nghệ thuật truyền thống của người Khmer.",
+          "sourceIds": [
+            "src-115",
+            "src-112"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "kien-truc-do-thi-bac-lieu",
+          "name": "Kiến trúc nhà ở và công trình đô thị Bạc Liêu",
+          "originArea": "Bạc Liêu cũ.",
+          "description": "Nhà Công tử Bạc Liêu, Khu lưu niệm Cao Văn Lầu và các công trình văn hóa – tôn giáo tạo thành lớp di sản đô thị của khu vực Bạc Liêu.",
+          "sourceIds": [
+            "src-115",
+            "src-119"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tho-nam-hai",
+          "name": "Tín ngưỡng thờ Cá Ông / Nam Hải",
+          "originArea": "Cộng đồng ngư dân ven biển Cà Mau và Bạc Liêu cũ.",
+          "description": "Tín ngưỡng thờ Nam Hải gắn với mong ước bình an, thuận lợi khi đi biển; thể hiện qua lăng Ông, nghi thức nghinh Ông và lễ tế của cộng đồng ngư dân.",
+          "sourceIds": [
+            "src-126",
+            "src-128",
+            "src-121"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "phat-giao-khmer",
+          "name": "Phật giáo Nam tông Khmer",
+          "originArea": "Các cộng đồng Khmer tại Cà Mau và Bạc Liêu cũ.",
+          "description": "Chùa Khmer giữ vai trò quan trọng trong sinh hoạt tôn giáo, giáo dục và lễ hội của cộng đồng; cần mô tả theo từng địa bàn và cộng đồng chủ thể, không khái quát đồng nhất.",
+          "sourceIds": [
+            "src-112",
+            "src-115"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "tin-nguong-quan-am",
+          "name": "Tín ngưỡng Quán Âm Nam Hải",
+          "originArea": "Bạc Liêu cũ – Quán Âm Phật Đài.",
+          "description": "Lễ hội và hoạt động hành hương tại Quán Âm Phật Đài thể hiện thực hành Phật giáo và tín ngưỡng cầu an của một bộ phận cư dân, Phật tử và khách hành hương.",
+          "sourceIds": [
+            "src-122",
+            "src-115"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "di-san-don-ca-tai-tu",
+          "name": "Nghệ thuật Đờn ca tài tử Nam Bộ",
+          "originArea": "Nam Bộ; có truyền thống thực hành và không gian biểu diễn quan trọng tại Bạc Liêu cũ và Cà Mau cũ.",
+          "description": "Loại hình âm nhạc thính phòng dân gian Nam Bộ, gắn với các bài bản, điệu thức và kỹ thuật ngẫu hứng; ở Bạc Liêu gắn với nhạc sĩ Cao Văn Lầu và Dạ Cổ Hoài Lang.",
+          "recognition": "UNESCO ghi danh năm 2013 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-112",
+            "src-125",
+            "src-119"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau",
+            "bac-lieu"
+          ]
+        },
+        {
+          "id": "di-san-nghe-gac-keo-ong",
+          "name": "Nghề gác kèo ong",
+          "originArea": "Cà Mau cũ – vùng U Minh.",
+          "description": "Tri thức truyền thống khai thác mật ong rừng bằng cách tạo kèo cho ong làm tổ, gắn với hiểu biết về rừng tràm và chu kỳ hoa tràm.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia.",
+          "sourceIds": [
+            "src-112",
+            "src-114"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "di-san-nghe-muoi-ba-khia",
+          "name": "Nghề Muối ba khía",
+          "originArea": "Cà Mau cũ – các cộng đồng ven biển và vùng Rạch Gốc.",
+          "description": "Tri thức khai thác và chế biến ba khía thành sản phẩm muối, phản ánh cách cộng đồng ven biển bảo quản sản vật địa phương.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia.",
+          "sourceIds": [
+            "src-112",
+            "src-117"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "di-san-nghinh-ong-song-doc",
+          "name": "Lễ hội Nghinh Ông – Sông Đốc",
+          "originArea": "Cà Mau cũ – Sông Đốc.",
+          "description": "Lễ hội của cư dân biển, gắn với nghi thức rước Lệnh Ông Nam Hải và tế lễ truyền thống.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia.",
+          "sourceIds": [
+            "src-112",
+            "src-128"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "di-san-nhac-trong-lon-khmer",
+          "name": "Nghệ thuật Nhạc trống lớn của người Khmer",
+          "originArea": "Cộng đồng Khmer vùng Cà Mau cũ.",
+          "description": "Thực hành âm nhạc truyền thống của người Khmer, được duy trì trong sinh hoạt cộng đồng, nghi lễ và sự kiện văn hóa.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia.",
+          "sourceIds": [
+            "src-112"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "di-san-nghe-lam-tom-kho",
+          "name": "Nghề làm tôm khô",
+          "originArea": "Cà Mau cũ – cộng đồng nghề chế biến thủy sản, trong đó có Rạch Gốc.",
+          "description": "Tri thức chế biến tôm thành sản phẩm khô để bảo quản và sử dụng trong ẩm thực; quy trình cụ thể thay đổi theo nguyên liệu và cơ sở.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia.",
+          "sourceIds": [
+            "src-112",
+            "src-117"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "di-san-via-ba-thuy-long",
+          "name": "Lễ hội Vía Bà Thủy Long",
+          "originArea": "Cà Mau cũ – cộng đồng thực hành tín ngưỡng địa phương.",
+          "description": "Lễ hội tín ngưỡng dân gian được ghi danh trong danh mục di sản văn hóa phi vật thể cấp quốc gia của tỉnh; thông tin chi tiết về chủ thể, nghi lễ và lịch thực hành cần khảo cứu sâu hơn.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia.",
+          "sourceIds": [
+            "src-112"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "ca-mau"
+          ]
+        },
+        {
+          "id": "di-san-nghe-lam-muoi-bac-lieu",
+          "name": "Nghề làm muối ở Bạc Liêu",
+          "originArea": "Bạc Liêu cũ – các đồng muối ven biển.",
+          "description": "Tri thức làm muối thủ công tạo nên cảnh quan đồng muối và sinh kế diêm dân; sản phẩm muối ăn Bạc Liêu còn có chỉ dẫn địa lý.",
+          "recognition": "Di sản văn hóa phi vật thể cấp quốc gia năm 2020.",
+          "sourceIds": [
+            "src-112",
+            "src-120",
+            "src-127"
+          ],
+          "currentProvinceId": "ca-mau",
+          "originUnitIds": [
+            "bac-lieu"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "don-ca-tai-tu-nam-bo",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống; Nghệ thuật trình diễn dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ nhân biểu diễn đờn ca tài tử Nam Bộ – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng thực hành ở Nam Bộ; tại tỉnh Cà Mau mới, không gian Bạc Liêu cũ có truyền thống gắn với Cao Văn Lầu và Dạ Cổ Hoài Lang.",
+        "origin": "Loại hình âm nhạc Nam Bộ được cộng đồng sáng tạo và thực hành trong sinh hoạt, giao lưu và biểu diễn; không phải loại hình chỉ thuộc riêng một tỉnh.",
+        "originArea": "Nam Bộ; các điểm thực hành tiêu biểu tại Bạc Liêu cũ và Cà Mau cũ.",
+        "currentProvinceId": "ca-mau",
+        "characteristics": "Âm nhạc có hệ thống bài bản, điệu thức và kỹ thuật ngẫu hứng; gắn với sinh hoạt nhóm tài tử, giao lưu và truyền dạy.",
+        "instrumentsOrPerformance": "Các nhạc cụ thường gặp gồm đàn kìm, đàn cò, đàn tranh, guitar phím lõm, song lang và nhạc cụ khác tùy dàn; hình thức trình diễn có thể là hòa đàn hoặc ca – đàn.",
+        "culturalValue": "Di sản âm nhạc đại diện cho bản sắc Nam Bộ, gắn với quá trình phát triển vọng cổ và sân khấu cải lương; Bạc Liêu có vai trò nổi bật trong lịch sử bản Dạ Cổ Hoài Lang.",
+        "recognition": "UNESCO ghi danh năm 2013 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+        "sourceIds": [
+          "src-112",
+          "src-119",
+          "src-125"
+        ],
+        "originUnitIds": [
+          "ca-mau",
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "vong-co-cai-luong-bac-lieu",
+        "name": "Vọng cổ và nghệ thuật sân khấu cải lương",
+        "category": "Âm nhạc; Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Trình diễn vọng cổ/cải lương tại không gian văn hóa Bạc Liêu – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Bạc Liêu cũ và các tỉnh Nam Bộ; khu lưu niệm Cao Văn Lầu là địa chỉ giới thiệu lịch sử loại hình.",
+        "origin": "Bản Dạ Cổ Hoài Lang của nhạc sĩ Cao Văn Lầu gắn với lịch sử phát triển của vọng cổ và nghệ thuật cải lương Nam Bộ.",
+        "originArea": "Bạc Liêu cũ, phạm vi lan tỏa toàn Nam Bộ.",
+        "currentProvinceId": "ca-mau",
+        "characteristics": "Kết hợp ca từ, giai điệu và diễn xuất sân khấu; vọng cổ trở thành một thành tố quan trọng trong nhiều chương trình cải lương.",
+        "instrumentsOrPerformance": "Biểu diễn với dàn nhạc tài tử/cải lương và giọng ca; hình thức sân khấu hóa tùy vở diễn.",
+        "culturalValue": "Thể hiện sáng tạo âm nhạc và sân khấu của Nam Bộ; bản Dạ Cổ Hoài Lang là dấu mốc quan trọng được giới thiệu tại khu lưu niệm Cao Văn Lầu.",
+        "recognition": "Không gán riêng danh hiệu UNESCO cho vọng cổ/cải lương; UNESCO ghi danh Đờn ca tài tử Nam Bộ, một di sản có liên hệ lịch sử và nghệ thuật với các loại hình này.",
+        "sourceIds": [
+          "src-119",
+          "src-125",
+          "src-112"
+        ],
+        "originUnitIds": [
+          "bac-lieu"
+        ]
+      },
+      {
+        "id": "nhac-trong-lon-khmer",
+        "name": "Nghệ thuật Nhạc trống lớn của người Khmer",
+        "category": "Âm nhạc truyền thống; Nghệ thuật dân gian Khmer",
+        "image": {
+          "file": null,
+          "alt": "Nghệ nhân Khmer biểu diễn nhạc trống lớn – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer ở vùng Cà Mau cũ, gồm các địa bàn có chùa Khmer và phum sóc.",
+        "origin": "Thực hành âm nhạc truyền thống được truyền nối trong cộng đồng Khmer tại địa phương.",
+        "originArea": "Cà Mau cũ – cộng đồng Khmer.",
+        "currentProvinceId": "ca-mau",
+        "characteristics": "Nghệ thuật trình diễn trống lớn gắn với sinh hoạt văn hóa, tín ngưỡng và dịp lễ của cộng đồng; tư liệu hiện tại chưa đủ để mô tả đầy đủ cấu trúc dàn nhạc và bài bản.",
+        "instrumentsOrPerformance": "Nhạc cụ chủ đạo là trống lớn; hình thức trình diễn và số lượng nhạc cụ cần bổ sung từ hồ sơ nghệ nhân/đơn vị quản lý di sản.",
+        "culturalValue": "Duy trì bản sắc âm nhạc và ký ức văn hóa Khmer tại địa phương.",
+        "recognition": "Di sản văn hóa phi vật thể cấp quốc gia theo danh mục được Bộ VHTTDL tổng hợp cho tỉnh Cà Mau.",
+        "sourceIds": [
+          "src-112"
+        ],
+        "originUnitIds": [
+          "ca-mau"
+        ]
+      },
+      {
+        "id": "mua-khmer",
+        "name": "Múa truyền thống Khmer",
+        "category": "Múa dân gian; Nghệ thuật trình diễn",
+        "image": {
+          "file": null,
+          "alt": "Đội múa Khmer trong hoạt động văn hóa cộng đồng – ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer ở Cà Mau và Bạc Liêu cũ; các đội múa và chùa Khmer là không gian thực hành.",
+        "origin": "Thực hành múa gắn với đời sống cộng đồng, nghi lễ và lễ hội của người Khmer Nam Bộ.",
+        "originArea": "Cà Mau cũ và Bạc Liêu cũ; phạm vi rộng hơn ở vùng Khmer Nam Bộ.",
+        "currentProvinceId": "ca-mau",
+        "characteristics": "Các điệu múa có thể gắn với sinh hoạt lễ hội và biểu diễn cộng đồng; cần khảo sát từng loại hình, nhạc đệm, trang phục và nghệ nhân địa phương để mô tả cụ thể.",
+        "instrumentsOrPerformance": "Biểu diễn theo nhóm, kết hợp nhạc cụ truyền thống Khmer; chưa đủ căn cứ để khẳng định một cấu hình nhạc cụ cố định cho toàn tỉnh.",
+        "culturalValue": "Góp phần truyền nối ngôn ngữ cơ thể, thẩm mỹ và ký ức văn hóa Khmer.",
+        "recognition": "Chưa gán danh hiệu riêng cho mục múa Khmer trong hồ sơ này; nguồn Bộ VHTTDL ghi nhận hoạt động các đội múa Khmer được duy trì tại tỉnh.",
+        "sourceIds": [
+          "src-112",
+          "src-115"
+        ],
+        "originUnitIds": [
+          "ca-mau",
+          "bac-lieu"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hồ sơ mô tả tỉnh Cà Mau mới sau khi hợp nhất toàn bộ tỉnh Cà Mau cũ và tỉnh Bạc Liêu cũ; chính quyền địa phương mới hoạt động từ 01/07/2025.",
+      "Diện tích 7.942,39 km² và quy mô dân số 2.606.672 người là số liệu trong Nghị quyết 202/2025/QH15 khi sắp xếp đơn vị hành chính cấp tỉnh; không khẳng định đây là số liệu dân số thường trú/ước tính cuối năm 2026. Nguồn dự thảo trước đó có số diện tích 7.942,38 km²; hồ sơ dùng số 7.942,39 km² trong thông tin nghị quyết được công bố chính thức.",
+      "Mã đơn vị hành chính cấp tỉnh là 96 theo Quyết định 19/2025/QĐ-TTg; biển số xe 69, 94 theo Phụ lục II Thông tư 51/2025/TT-BCA.",
+      "Nguồn tỉnh năm 2025 ghi 64 đơn vị hành chính cấp xã gồm 55 xã và 9 phường. Cần tra cứu lại danh mục cấp xã nếu có điều chỉnh sau thời điểm nguồn được công bố.",
+      "Mục administrativeCenter để null vì chưa đối chiếu được văn bản chính thức hiện hành ghi rõ trụ sở/trung tâm hành chính sau khi tổ chức chính quyền địa phương hai cấp.",
+      "Các điểm đến, đặc sản, lễ hội, nghệ thuật đều có originArea để lưu lại nguồn gốc từ Cà Mau cũ, Bạc Liêu cũ hoặc vùng Nam Bộ; địa chỉ xã/phường hiện hành còn thiếu ở một số điểm được ghi chú trực tiếp trong trường location.",
+      "Danh mục của Bộ VHTTDL nêu 08 di sản văn hóa phi vật thể được ghi danh trên địa bàn tỉnh: 01 di sản UNESCO (Đờn ca tài tử) và 07 di sản quốc gia; không tự gán các danh hiệu này cho lễ hội/địa điểm khác.",
+      "Không có ảnh nào được đưa vào image-manifest vì chưa xác minh đầy đủ tác giả, giấy phép và điều kiện tái sử dụng. Các image giữ file/sourceId null và permissionStatus unverified.",
+      "Tọa độ, khí hậu chi tiết, số liệu dân số hiện trạng theo kỳ thống kê mới nhất, trang phục truyền thống và giờ mở cửa/giá vé chưa được điền nếu chưa có nguồn trực tiếp phù hợp."
+    ],
+    "sourceIds": [
+      "src-108",
+      "src-109",
+      "src-110",
+      "src-111",
+      "src-112",
+      "src-113",
+      "src-114",
+      "src-115",
+      "src-116",
+      "src-117",
+      "src-118",
+      "src-119",
+      "src-120",
+      "src-121",
+      "src-122",
+      "src-123",
+      "src-124",
+      "src-125",
+      "src-126",
+      "src-127",
+      "src-128"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "ca-mau",
+      "name": "Cà Mau"
+    },
+    {
+      "id": "bac-lieu",
+      "name": "Bạc Liêu"
+    }
+  ]
+}

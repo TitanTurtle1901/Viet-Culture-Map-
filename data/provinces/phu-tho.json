@@ -1,0 +1,726 @@
+{
+  "id": "phu-tho",
+  "name": "Tỉnh Phú Thọ",
+  "administrativeType": "Tỉnh",
+  "region": "Trung du và miền núi phía Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Phú Thọ – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Phú Thọ mới kế thừa Phú Thọ, Vĩnh Phúc và Hòa Bình cũ. Tín ngưỡng thờ cúng Hùng Vương, Hát Xoan, Tây Thiên, Tam Đảo, hồ Hòa Bình và văn hóa Mường tạo nên không gian di sản đa dạng từ trung du đến miền núi.",
+    "featuredDestinationIds": [
+      "den-hung-phu-tho",
+      "ho-hoa-binh"
+    ],
+    "featuredSpecialtyIds": [
+      "buoi-doan-hung",
+      "thit-chua-thanh-son"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Phú Thọ",
+      "administrativeCode": "25",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "19",
+        "28",
+        "88"
+      ],
+      "areaKm2": 9361.38,
+      "areaYear": 2025,
+      "population": {
+        "value": 4022638,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh trung du và miền núi phía Bắc, hình thành từ Phú Thọ, Vĩnh Phúc và Hòa Bình cũ; kết nối vùng trung du, dãy Tam Đảo và thung lũng sông Đà.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình chuyển tiếp từ đồi trung du, đồng bằng ven sông đến núi đá vôi, rừng và hồ chứa; có vườn quốc gia, khu bảo tồn và cảnh quan hồ Hòa Bình.",
+      "climate": null,
+      "history": "Tỉnh mới thành lập từ 01/07/2025 trên cơ sở sáp nhập toàn bộ Hòa Bình, Vĩnh Phúc và Phú Thọ. Các vùng tiền thân có lịch sử riêng: vùng đất Tổ Hùng Vương; vùng văn hóa Mường; không gian Tam Đảo – Tây Thiên và các làng nghề trung du.",
+      "description": "Phú Thọ kết nối di sản nguồn cội, văn hóa Mường, dân ca Hát Xoan, không gian tín ngưỡng Tây Thiên, rừng Xuân Sơn và du lịch hồ Hòa Bình.",
+      "sourceIds": [
+        "src-226",
+        "src-227",
+        "src-229",
+        "src-234",
+        "src-239",
+        "src-240",
+        "src-241",
+        "src-242",
+        "src-243"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "den-hung-phu-tho",
+        "name": "Khu di tích lịch sử Đền Hùng",
+        "category": "Di tích lịch sử; tín ngưỡng",
+        "originArea": "Phú Thọ cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử Đền Hùng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực núi Nghĩa Lĩnh, tỉnh Phú Thọ.",
+        "coordinates": null,
+        "shortDescription": "Không gian thờ các Vua Hùng, gắn với truyền thuyết dựng nước và ngày Giỗ Tổ Hùng Vương.",
+        "fullDescription": "Khu di tích gồm Đền Hạ, Đền Trung, Đền Thượng, Lăng Hùng Vương và các điểm phụ trợ. Đây là trung tâm thực hành tín ngưỡng thờ cúng Hùng Vương, cần phân biệt giá trị của di tích với hồ sơ ghi danh thực hành tín ngưỡng.",
+        "highlights": "Núi Nghĩa Lĩnh; các đền; lễ Giỗ Tổ; bảo tàng Hùng Vương.",
+        "historicalCulturalValue": "Giá trị lịch sử, tín ngưỡng và ký ức nguồn cội.",
+        "recognition": "Thực hành Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ được UNESCO ghi danh năm 2012.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-242",
+          "src-239"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-xuan-son",
+        "name": "Vườn quốc gia Xuân Sơn",
+        "category": "Vườn quốc gia; du lịch sinh thái",
+        "originArea": "Phú Thọ cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Xuân Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Xuân Sơn, tỉnh Phú Thọ.",
+        "coordinates": null,
+        "shortDescription": "Vùng rừng núi đá vôi, hang động, thác và bản làng của cộng đồng Dao, Mường.",
+        "fullDescription": "Xuân Sơn có giá trị đa dạng sinh học và cảnh quan, đồng thời là không gian văn hóa cộng đồng miền núi. Các tuyến tham quan cần theo quy định của ban quản lý.",
+        "highlights": "Rừng thường xanh; hang động; thác nước; bản Cỏi.",
+        "historicalCulturalValue": "Bảo tồn hệ sinh thái và văn hóa bản địa.",
+        "recognition": "Vườn quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-239"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      },
+      {
+        "id": "khu-di-tich-danh-thang-tay-thien",
+        "name": "Khu di tích danh thắng Tây Thiên",
+        "category": "Di tích tín ngưỡng; danh lam thắng cảnh",
+        "originArea": "Vĩnh Phúc cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích danh thắng Tây Thiên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Đại Đình, tỉnh Phú Thọ hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Không gian thờ Quốc Mẫu Tây Thiên, gắn với cảnh quan núi Tam Đảo và thực hành tín ngưỡng thờ Mẫu.",
+        "fullDescription": "Tây Thiên gồm hệ thống đền, chùa và tuyến hành hương trên sườn núi; lễ hội có vai trò quan trọng trong đời sống cộng đồng vùng Vĩnh Phúc cũ.",
+        "highlights": "Đền Thượng; đền Mẫu; Thiền viện Trúc Lâm Tây Thiên; núi Tam Đảo.",
+        "historicalCulturalValue": "Giá trị tín ngưỡng, cảnh quan và lịch sử địa phương.",
+        "recognition": "Di tích lịch sử – văn hóa và danh lam thắng cảnh; cần đối chiếu quyết định xếp hạng cụ thể khi công bố cấp độ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-239"
+        ],
+        "originUnitIds": [
+          "vinh-phuc"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-tam-dao",
+        "name": "Vườn quốc gia Tam Đảo",
+        "category": "Vườn quốc gia; sinh thái",
+        "originArea": "Vĩnh Phúc cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Tam Đảo – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Dãy Tam Đảo thuộc địa bàn tỉnh Phú Thọ và các tỉnh giáp ranh.",
+        "coordinates": null,
+        "shortDescription": "Dãy núi cao với rừng ẩm, hệ sinh thái đa dạng và khí hậu mát hơn vùng đồng bằng.",
+        "fullDescription": "Tam Đảo có giá trị bảo tồn rừng và đa dạng sinh học; cần xác định ranh giới khu bảo tồn theo bản đồ quản lý khi hiển thị lên bản đồ.",
+        "highlights": "Rừng núi cao; suối; sinh cảnh động thực vật.",
+        "historicalCulturalValue": "Bảo tồn thiên nhiên và nghiên cứu sinh thái.",
+        "recognition": "Vườn quốc gia; ranh giới bảo tồn liên tỉnh.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-239"
+        ],
+        "originUnitIds": [
+          "vinh-phuc"
+        ]
+      },
+      {
+        "id": "ho-hoa-binh",
+        "name": "Hồ Hòa Bình",
+        "category": "Hồ chứa; du lịch sinh thái",
+        "originArea": "Hòa Bình cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Hồ Hòa Bình – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Không gian hồ Hòa Bình, tỉnh Phú Thọ hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Hồ chứa thủy điện trên sông Đà tạo nên cảnh quan sông nước, đảo và các bản làng ven hồ.",
+        "fullDescription": "Không gian Hồ Hòa Bình được quy hoạch phát triển du lịch quốc gia, kết nối du lịch sinh thái, văn hóa Mường và trải nghiệm cộng đồng.",
+        "highlights": "Cảnh quan hồ; đảo; bản ven hồ; công trình thủy điện Hòa Bình.",
+        "historicalCulturalValue": "Giá trị cảnh quan, năng lượng và sinh kế cộng đồng.",
+        "recognition": "Khu du lịch quốc gia theo quy hoạch.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-243"
+        ],
+        "originUnitIds": [
+          "hoa-binh"
+        ]
+      },
+      {
+        "id": "mai-chau-phu-tho-moi",
+        "name": "Không gian du lịch cộng đồng Mai Châu",
+        "category": "Du lịch cộng đồng; văn hóa bản làng",
+        "originArea": "Hòa Bình cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Không gian du lịch cộng đồng Mai Châu – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Mai Châu, tỉnh Phú Thọ hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Thung lũng cư trú của cộng đồng Thái và Mường, nổi bật với nhà sàn, ruộng lúa và hoạt động du lịch cộng đồng.",
+        "fullDescription": "Mai Châu phát triển mô hình lưu trú tại nhà dân và trải nghiệm sinh hoạt, ẩm thực, dệt thổ cẩm; địa chỉ cụ thể cần quy đổi theo xã hiện hành.",
+        "highlights": "Bản Lác; nhà sàn; ruộng lúa; nghề dệt.",
+        "historicalCulturalValue": "Bảo tồn văn hóa cộng đồng và phát triển du lịch có sự tham gia của cư dân.",
+        "recognition": "Điểm đến du lịch cộng đồng; không tự gán danh hiệu di sản thế giới.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-243",
+          "src-239"
+        ],
+        "originUnitIds": [
+          "hoa-binh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "buoi-doan-hung",
+        "name": "Bưởi Đoan Hùng",
+        "category": "Nông sản; trái cây",
+        "originArea": "Phú Thọ cũ – huyện Đoan Hùng trước đây.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Bưởi Đoan Hùng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bưởi Đoan Hùng gắn với Phú Thọ cũ – huyện Đoan Hùng trước đây.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Bưởi đặc sản thuộc các nhóm giống địa phương."
+        ],
+        "preparation": "Trồng tại vùng đồi phù hợp, thu hoạch theo vụ và phân loại theo quy cách thị trường.",
+        "characteristics": "Quả có đặc trưng về hình dáng, hương thơm và vị tùy giống, vườn và mùa vụ.",
+        "culturalContext": "Gắn với vùng trồng truyền thống Đoan Hùng và thương hiệu nông sản địa phương.",
+        "recognition": "Có hồ sơ phát triển nhãn hiệu; cần tra cứu tình trạng bảo hộ cụ thể khi dùng logo/chỉ dẫn.",
+        "sourceIds": [
+          "src-240"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      },
+      {
+        "id": "thit-chua-thanh-son",
+        "name": "Thịt chua Thanh Sơn",
+        "category": "Món ăn; thực phẩm lên men",
+        "originArea": "Phú Thọ cũ – vùng Thanh Sơn, cộng đồng Mường.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Thịt chua Thanh Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thịt chua Thanh Sơn gắn với Phú Thọ cũ – vùng Thanh Sơn, cộng đồng Mường.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt lợn",
+          "Thính gạo",
+          "Gia vị và lá dùng kèm."
+        ],
+        "preparation": "Thịt được sơ chế, trộn thính và gia vị, ủ lên men theo công thức cơ sở/hộ gia đình.",
+        "characteristics": "Vị chua dịu, thơm thính, thường ăn cùng lá và rau gia vị.",
+        "culturalContext": "Gắn với kỹ thuật bảo quản và ẩm thực của cộng đồng Mường vùng Thanh Sơn.",
+        "recognition": "Đặc sản địa phương; công thức và điều kiện bảo quản khác nhau theo cơ sở.",
+        "sourceIds": [
+          "src-240",
+          "src-239"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      },
+      {
+        "id": "che-bat-tien-phu-tho",
+        "name": "Chè Bát Tiên Phú Thọ",
+        "category": "Nông sản; trà",
+        "originArea": "Phú Thọ cũ.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Chè Bát Tiên Phú Thọ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè Bát Tiên Phú Thọ gắn với Phú Thọ cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Búp chè Bát Tiên."
+        ],
+        "preparation": "Thu hái, làm héo, vò, diệt men và sấy theo kỹ thuật chế biến trà xanh.",
+        "characteristics": "Hương trà phụ thuộc giống, độ cao, mùa hái và cách chế biến.",
+        "culturalContext": "Gắn với các vùng trồng chè của Phú Thọ cũ.",
+        "recognition": "Sản phẩm nông nghiệp đặc trưng; cần đối chiếu chứng nhận từng vùng/cơ sở.",
+        "sourceIds": [
+          "src-240"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      },
+      {
+        "id": "com-lam-hoa-binh",
+        "name": "Cơm lam vùng Hòa Bình",
+        "category": "Món ăn; ẩm thực cộng đồng",
+        "originArea": "Hòa Bình cũ – cộng đồng Mường và các nhóm cư dân miền núi.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Cơm lam vùng Hòa Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cơm lam vùng Hòa Bình gắn với Hòa Bình cũ – cộng đồng Mường và các nhóm cư dân miền núi.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp",
+          "Ống nứa/tre non",
+          "Nước."
+        ],
+        "preparation": "Gạo được ngâm, cho vào ống tre/nứa với nước, bịt miệng ống và nướng chín.",
+        "characteristics": "Cơm thơm mùi tre, dẻo; cách nấu và gia vị thay đổi theo địa bàn.",
+        "culturalContext": "Gắn với sinh hoạt, đi rừng và các dịp cộng đồng ở vùng núi Tây Bắc.",
+        "recognition": "Món ăn truyền thống vùng; không chỉ riêng Phú Thọ mới có.",
+        "sourceIds": [
+          "src-239",
+          "src-243"
+        ],
+        "originUnitIds": [
+          "hoa-binh"
+        ]
+      },
+      {
+        "id": "banh-tai-tuong-phu-tho",
+        "name": "Bánh tai Phú Thọ",
+        "category": "Món ăn; bánh truyền thống",
+        "originArea": "Phú Thọ cũ – vùng Việt Trì và lân cận.",
+        "currentProvinceId": "phu-tho",
+        "image": {
+          "file": null,
+          "alt": "Bánh tai Phú Thọ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh tai Phú Thọ gắn với Phú Thọ cũ – vùng Việt Trì và lân cận.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Bột gạo",
+          "Thịt lợn",
+          "Gia vị."
+        ],
+        "preparation": "Bột gạo được nhào, nặn thành hình tai, hấp chín; nhân và cách nêm tùy nơi.",
+        "characteristics": "Vỏ bánh mềm, nhân đậm vị; dùng trong bữa ăn hoặc dịp địa phương.",
+        "culturalContext": "Gắn với ẩm thực vùng đất Tổ và các chợ truyền thống.",
+        "recognition": "Đặc sản vùng; nguồn nguyên liệu và công thức có biến thể.",
+        "sourceIds": [
+          "src-240"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-muong-phu-tho-moi",
+          "name": "Cộng đồng Mường",
+          "originArea": "Hòa Bình cũ, Thanh Sơn và các vùng núi của tỉnh mới.",
+          "currentProvinceId": "phu-tho",
+          "description": "Cộng đồng Mường có ngôn ngữ, mo, nhà sàn, trang phục, lễ nghi và tri thức dân gian riêng; không gộp các nhóm Mường thành một mẫu đồng nhất.",
+          "sourceIds": [
+            "src-239",
+            "src-243"
+          ],
+          "originUnitIds": [
+            "hoa-binh"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-phu-tho",
+          "name": "Cộng đồng Dao",
+          "originArea": "Phú Thọ cũ – vùng Xuân Sơn và miền núi.",
+          "currentProvinceId": "phu-tho",
+          "description": "Các nhóm Dao duy trì hệ thống nghi lễ, trang phục, tri thức cây thuốc và sinh hoạt cộng đồng đa dạng theo nhóm địa phương.",
+          "sourceIds": [
+            "src-239"
+          ],
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "cong-dong-san-diu-phu-tho",
+          "name": "Cộng đồng Sán Dìu",
+          "originArea": "Vĩnh Phúc cũ và các vùng cư trú liên quan.",
+          "currentProvinceId": "phu-tho",
+          "description": "Cộng đồng Sán Dìu có tiếng nói, dân ca Soọng cô và tập quán sinh hoạt riêng; cần nêu đúng cộng đồng chủ thể và địa bàn.",
+          "sourceIds": [
+            "src-239"
+          ],
+          "originUnitIds": [
+            "vinh-phuc"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "tho-cung-hung-vuong",
+          "name": "Tín ngưỡng thờ cúng Hùng Vương",
+          "originArea": "Phú Thọ cũ và cộng đồng người Việt trong, ngoài tỉnh.",
+          "currentProvinceId": "phu-tho",
+          "description": "Thực hành tín ngưỡng gắn với hệ thống đền thờ, nghi lễ và ký ức về các Vua Hùng; UNESCO ghi danh năm 2012.",
+          "sourceIds": [
+            "src-242"
+          ],
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "tin-nguong-tho-quoc-mau-tay-thien",
+          "name": "Tín ngưỡng thờ Quốc Mẫu Tây Thiên",
+          "originArea": "Vĩnh Phúc cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Tín ngưỡng thờ Quốc Mẫu Tây Thiên gắn với di tích và lễ hội tại vùng Tam Đảo; diễn giải theo nguồn địa phương và chủ thể tín ngưỡng.",
+          "sourceIds": [
+            "src-239"
+          ],
+          "originUnitIds": [
+            "vinh-phuc"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "gio-to-hung-vuong",
+          "name": "Giỗ Tổ Hùng Vương",
+          "originArea": "Phú Thọ cũ – khu di tích Đền Hùng.",
+          "currentProvinceId": "phu-tho",
+          "description": "Lễ tưởng niệm các Vua Hùng, có nghi thức dâng hương và hoạt động văn hóa cộng đồng; chương trình chính thức thay đổi theo năm.",
+          "sourceIds": [
+            "src-242",
+            "src-239"
+          ],
+          "timeAndLocation": "Khu di tích Đền Hùng; ngày 10 tháng 3 âm lịch, kiểm tra kế hoạch tổ chức từng năm.",
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "le-hoi-hat-xoan",
+          "name": "Lễ hội và sinh hoạt Hát Xoan",
+          "originArea": "Phú Thọ cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Hát Xoan được thực hành ở các phường Xoan, gắn với tín ngưỡng thờ Thành hoàng và nghi lễ mùa xuân.",
+          "sourceIds": [
+            "src-241"
+          ],
+          "timeAndLocation": "Các phường Xoan và đình làng liên quan; thời gian theo lịch thực hành địa phương.",
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "le-hoi-tay-thien",
+          "name": "Lễ hội Tây Thiên",
+          "originArea": "Vĩnh Phúc cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Lễ hội hành hương gắn với thờ Quốc Mẫu Tây Thiên và không gian núi Tam Đảo.",
+          "sourceIds": [
+            "src-239"
+          ],
+          "timeAndLocation": "Khu di tích Tây Thiên; lịch hội hằng năm cần kiểm tra với ban tổ chức.",
+          "originUnitIds": [
+            "vinh-phuc"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-muong-dao-san-diu",
+          "name": "Trang phục Mường, Dao và Sán Dìu",
+          "originArea": "Các cộng đồng tại Hòa Bình, Phú Thọ và Vĩnh Phúc cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Trang phục, hoa văn, vật liệu và dịp sử dụng khác nhau theo tộc người và nhóm địa phương; không dùng một ảnh/miêu tả chung làm đại diện.",
+          "sourceIds": [
+            "src-239"
+          ],
+          "originUnitIds": [
+            "phu-tho",
+            "vinh-phuc",
+            "hoa-binh"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "nha-san-muong-va-ban-lang",
+          "name": "Nhà sàn và sinh hoạt bản Mường",
+          "originArea": "Hòa Bình cũ và vùng núi Phú Thọ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Nhà sàn, bếp, không gian thờ và quan hệ bản – dòng họ phản ánh điều kiện sinh thái và nếp sống cộng đồng Mường.",
+          "sourceIds": [
+            "src-243",
+            "src-239"
+          ],
+          "originUnitIds": [
+            "phu-tho",
+            "hoa-binh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-den-hung",
+          "name": "Không gian đền thờ Hùng Vương",
+          "originArea": "Phú Thọ cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Hệ thống đền thờ trên núi Nghĩa Lĩnh kết hợp kiến trúc thờ tự và cảnh quan núi rừng.",
+          "sourceIds": [
+            "src-242"
+          ],
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "khong-gian-nha-san-hoa-binh",
+          "name": "Không gian nhà sàn và bản ven hồ",
+          "originArea": "Hòa Bình cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Không gian nhà sàn, ruộng bậc thang và làng ven hồ là thành tố quan trọng của du lịch cộng đồng.",
+          "sourceIds": [
+            "src-243"
+          ],
+          "originUnitIds": [
+            "hoa-binh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-tin-nguong-hung-vuong",
+          "name": "Thực hành thờ cúng Hùng Vương",
+          "originArea": "Phú Thọ cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Nghi lễ thờ cúng, dâng hương và các thực hành cộng đồng liên quan đến ký ức tổ tiên; UNESCO ghi danh 2012.",
+          "sourceIds": [
+            "src-242"
+          ],
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "nghi-le-mo-muong",
+          "name": "Nghi lễ Mo Mường",
+          "originArea": "Hòa Bình cũ và cộng đồng Mường ở các vùng liên quan.",
+          "currentProvinceId": "phu-tho",
+          "description": "Mo Mường là hệ thống tri thức nghi lễ, diễn xướng và tang lễ; thông tin chi tiết cần đặt trong bối cảnh từng nhóm và chủ thể thực hành.",
+          "sourceIds": [
+            "src-239"
+          ],
+          "originUnitIds": [
+            "hoa-binh"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "tin-nguong-tho-cung-hung-vuong-unesco",
+          "name": "Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ",
+          "originArea": "Phú Thọ cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "UNESCO ghi danh năm 2012 trong Danh sách đại diện di sản văn hóa phi vật thể của nhân loại.",
+          "sourceIds": [
+            "src-242"
+          ],
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        },
+        {
+          "id": "hat-xoan-phu-tho-unesco",
+          "name": "Hát Xoan Phú Thọ",
+          "originArea": "Phú Thọ cũ.",
+          "currentProvinceId": "phu-tho",
+          "description": "Hát Xoan được chuyển vào Danh sách đại diện của UNESCO năm 2017; hình thức hát gắn với phường Xoan và tín ngưỡng làng xã.",
+          "sourceIds": [
+            "src-241"
+          ],
+          "originUnitIds": [
+            "phu-tho"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-xoan-phu-tho",
+        "name": "Hát Xoan Phú Thọ",
+        "category": "Dân ca; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hát Xoan Phú Thọ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các phường Xoan ở Phú Thọ cũ.",
+        "origin": null,
+        "originArea": "Các phường Xoan ở Phú Thọ cũ.",
+        "currentProvinceId": "phu-tho",
+        "characteristics": "Là loại hình hát nghi lễ gắn với thờ Thành hoàng, cầu mùa và sinh hoạt cộng đồng; có hệ thống bài bản truyền thống.",
+        "instrumentsOrPerformance": "Hát theo chặng, có trống, phách và động tác múa; các phường Xoan gìn giữ bài bản và truyền dạy.",
+        "culturalValue": "Di sản đặc sắc về dân ca nghi lễ và ký ức làng xã.",
+        "recognition": "UNESCO ghi danh Danh sách đại diện năm 2017.",
+        "sourceIds": [
+          "src-241",
+          "src-239"
+        ],
+        "originUnitIds": [
+          "phu-tho"
+        ]
+      },
+      {
+        "id": "dan-ca-soong-co",
+        "name": "Hát Soọng cô",
+        "category": "Dân ca; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Hát Soọng cô – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Sán Dìu tại vùng Vĩnh Phúc cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Sán Dìu tại vùng Vĩnh Phúc cũ.",
+        "currentProvinceId": "phu-tho",
+        "characteristics": "Hát giao duyên bằng tiếng Sán Dìu, có thể diễn ra trong dịp hội, sinh hoạt cộng đồng và gặp gỡ nam nữ.",
+        "instrumentsOrPerformance": "Thường là hát đối đáp; lời ca có nội dung tình cảm, ứng xử và kinh nghiệm sống.",
+        "culturalValue": "Bảo tồn tiếng nói, ký ức và bản sắc của cộng đồng Sán Dìu.",
+        "recognition": "Cần đối chiếu hồ sơ kiểm kê và danh mục cấp tỉnh trước khi khẳng định cấp ghi danh.",
+        "sourceIds": [
+          "src-239"
+        ],
+        "originUnitIds": [
+          "vinh-phuc"
+        ]
+      },
+      {
+        "id": "cong-chieng-muong",
+        "name": "Âm nhạc cồng chiêng Mường",
+        "category": "Âm nhạc truyền thống; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Âm nhạc cồng chiêng Mường – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Mường vùng Hòa Bình cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Mường vùng Hòa Bình cũ.",
+        "currentProvinceId": "phu-tho",
+        "characteristics": "Cồng chiêng hiện diện trong lễ hội, nghi lễ và sinh hoạt cộng đồng; bộ chiêng, bài bản và ý nghĩa khác nhau theo vùng.",
+        "instrumentsOrPerformance": "Hòa tấu chiêng theo nhóm, kết hợp hát, múa và nghi lễ; người thực hành là chủ thể cộng đồng.",
+        "culturalValue": "Tạo không gian âm nhạc cộng đồng và lưu giữ tri thức nghi lễ.",
+        "recognition": null,
+        "sourceIds": [
+          "src-239",
+          "src-243"
+        ],
+        "originUnitIds": [
+          "hoa-binh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Hòa Bình + Vĩnh Phúc + Phú Thọ; chính quyền mới hoạt động từ 01/07/2025.",
+      "Diện tích 9.361,38 km²; quy mô dân số 4.022.638 người theo Nghị quyết 202/2025/QH15.",
+      "Mã cấp tỉnh 25; 148 đơn vị cấp xã theo danh mục sau sắp xếp năm 2025; biển số 19, 28, 88.",
+      "Hát Xoan và tín ngưỡng thờ cúng Hùng Vương được UNESCO ghi danh; cần phân biệt ghi danh thực hành với xếp hạng công trình.",
+      "Trung tâm hành chính, tọa độ và giấy phép ảnh cần tiếp tục xác minh."
+    ],
+    "sourceIds": [
+      "src-226",
+      "src-227",
+      "src-229",
+      "src-234",
+      "src-239",
+      "src-240",
+      "src-241",
+      "src-242",
+      "src-243"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "phu-tho",
+      "name": "Phú Thọ"
+    },
+    {
+      "id": "vinh-phuc",
+      "name": "Vĩnh Phúc"
+    },
+    {
+      "id": "hoa-binh",
+      "name": "Hòa Bình"
+    }
+  ]
+}

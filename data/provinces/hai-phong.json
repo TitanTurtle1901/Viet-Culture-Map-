@@ -1,0 +1,718 @@
+{
+  "id": "hai-phong",
+  "name": "Thành phố Hải Phòng",
+  "administrativeType": "Thành phố trực thuộc trung ương",
+  "region": "Đồng bằng sông Hồng và duyên hải Bắc Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Hải Phòng – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Hải Phòng mới kết nối di sản đô thị cảng, biển đảo Cát Bà với Côn Sơn – Kiếp Bạc và các làng nghề Hải Dương.",
+    "featuredDestinationIds": [
+      "quan-dao-cat-ba",
+      "con-son-kiep-bac"
+    ],
+    "featuredSpecialtyIds": [
+      "banh-da-cua-hai-phong",
+      "vai-thieu-thanh-ha"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Hải Phòng",
+      "administrativeCode": "31",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "15",
+        "16",
+        "34"
+      ],
+      "areaKm2": 3194.72,
+      "areaYear": 2025,
+      "population": {
+        "value": 4664124,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Ở vùng duyên hải Bắc Bộ, hợp nhất đô thị cảng Hải Phòng cũ với tỉnh Hải Dương cũ; có bờ biển, đảo, cửa sông và đồng bằng nội địa.",
+      "boundaries": [
+        "Tỉnh Quảng Ninh",
+        "Tỉnh Bắc Ninh",
+        "Tỉnh Hưng Yên",
+        "Biển Đông"
+      ],
+      "naturalFeatures": "Địa hình gồm đồng bằng thấp, cửa sông, bãi triều, đảo đá vôi và vùng biển; sông Bạch Đằng và hệ thống sông Thái Bình – Kinh Thầy có vai trò lớn.",
+      "climate": "Khí hậu nhiệt đới gió mùa ven biển Bắc Bộ, mùa hè nóng ẩm mưa nhiều, mùa đông lạnh; vùng đảo chịu ảnh hưởng gió biển và bão.",
+      "history": "Thành phố Hải Phòng mới được hình thành từ thành phố Hải Phòng và tỉnh Hải Dương cũ theo Nghị quyết 202/2025/QH15; chính quyền mới hoạt động từ 01/07/2025. Không gian mới kết nối lịch sử đô thị cảng với các làng nghề, di tích và di sản vùng Hải Dương.",
+      "description": "Hải Phòng mới có hai sắc thái chính: đô thị cảng – biển đảo và vùng đồng bằng làng nghề – di tích phía Hải Dương cũ. Hồ sơ giữ rõ nguồn gốc địa phương tiền thân.",
+      "sourceIds": [
+        "src-305",
+        "src-306",
+        "src-307",
+        "src-314",
+        "src-315",
+        "src-316"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "quan-dao-cat-ba",
+        "name": "Quần đảo Cát Bà",
+        "category": "Di sản thiên nhiên thế giới; khu dự trữ sinh quyển",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Quần đảo Cát Bà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Cát Hải, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Quần đảo đá vôi và rừng biển với hệ sinh thái rừng, biển, vịnh và các làng chài.",
+        "fullDescription": "Cát Bà nằm trong tài sản di sản thiên nhiên thế giới Vịnh Hạ Long – Quần đảo Cát Bà được UNESCO ghi danh năm 2023; khu vực có Vườn quốc gia Cát Bà và sinh cảnh voọc Cát Bà.",
+        "highlights": [
+          "Vườn quốc gia; vịnh Lan Hạ; làng Việt Hải; bãi tắm và sinh cảnh biển."
+        ],
+        "historicalCulturalValue": "Giá trị đa dạng sinh học, cảnh quan karst biển và sinh kế đảo.",
+        "recognition": "Một phần Di sản thiên nhiên thế giới Vịnh Hạ Long – Quần đảo Cát Bà; Khu dự trữ sinh quyển thế giới.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-308"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "do-son",
+        "name": "Khu du lịch Đồ Sơn",
+        "category": "Bãi biển; di tích lịch sử",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch Đồ Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Đồ Sơn, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Bán đảo ven biển có bãi tắm, công trình nghỉ dưỡng và di tích lịch sử.",
+        "fullDescription": "Đồ Sơn là không gian du lịch biển lâu đời của Hải Phòng; điểm đến gồm bãi biển, khu vực đồi và di tích. Cần kiểm tra điều kiện tắm biển, chất lượng nước và hoạt động dịch vụ theo mùa.",
+        "highlights": [
+          "Bãi tắm; đồi thông; biệt thự cũ; khu vực Hòn Dấu."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan biển, lịch sử nghỉ dưỡng và văn hóa đô thị cảng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "bach-dang-giang",
+        "name": "Khu di tích Bạch Đằng Giang",
+        "category": "Di tích lịch sử; không gian tưởng niệm",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Bạch Đằng Giang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Thủy Nguyên, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Quần thể công trình tưởng niệm các chiến thắng trên sông Bạch Đằng.",
+        "fullDescription": "Không gian Bạch Đằng gắn với các chiến thắng lịch sử chống ngoại xâm, đặc biệt các trận thủy chiến thế kỷ X và XIII. Cần phân biệt cụm di tích – tượng đài hiện đại với các địa điểm khảo cổ, bãi cọc đã được công bố.",
+        "highlights": [
+          "Đền thờ; quảng trường; tượng đài; khu vực sông Bạch Đằng."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử quân sự và giáo dục truyền thống.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "con-son-kiep-bac",
+        "name": "Quần thể Côn Sơn – Kiếp Bạc",
+        "category": "Di sản thế giới; di tích lịch sử – tôn giáo",
+        "originArea": "Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Quần thể Côn Sơn – Kiếp Bạc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Chí Linh, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích gắn với Thiền phái Trúc Lâm, Nguyễn Trãi và Trần Hưng Đạo.",
+        "fullDescription": "Côn Sơn – Kiếp Bạc là thành tố của quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh Di sản Thế giới năm 2025. Các di tích ghi dấu lịch sử Phật giáo Trúc Lâm, nhà Trần và cuộc kháng chiến chống Nguyên – Mông.",
+        "highlights": [
+          "Chùa Côn Sơn; đền Kiếp Bạc; núi Côn Sơn; suối Côn Sơn."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử, tôn giáo, văn học và cảnh quan.",
+        "recognition": "Thành tố của Di sản Thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc (2025).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-315",
+          "src-308"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      },
+      {
+        "id": "chua-nham-duong",
+        "name": "Chùa Nhẫm Dương",
+        "category": "Di tích khảo cổ – tôn giáo",
+        "originArea": "Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Chùa Nhẫm Dương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Kinh Môn, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Di tích chùa cổ nằm trong không gian núi đá vôi, gắn với khảo cổ học và lịch sử Phật giáo.",
+        "fullDescription": "Nhẫm Dương nằm trong hệ thống di tích thuộc hồ sơ quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc; khu vực có giá trị khảo cổ và dấu tích lịch sử tôn giáo.",
+        "highlights": [
+          "Chùa; hang động; núi đá vôi; cảnh quan di tích."
+        ],
+        "historicalCulturalValue": "Giá trị khảo cổ, tôn giáo và cảnh quan karst.",
+        "recognition": "Thành tố được nhắc trong hồ sơ quần thể di sản Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-315"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      },
+      {
+        "id": "doanh-thien-ton-giao-du-hang",
+        "name": "Chùa Dư Hàng",
+        "category": "Di tích kiến trúc tôn giáo",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Chùa Dư Hàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Lê Chân, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Ngôi chùa cổ với kiến trúc Phật giáo Bắc Bộ và các hạng mục được tu bổ qua nhiều thời kỳ.",
+        "fullDescription": "Chùa Dư Hàng là một địa điểm lịch sử Phật giáo của đô thị Hải Phòng; niên đại các cấu kiện và việc xếp hạng cần kiểm tra hồ sơ di tích để mô tả chính xác.",
+        "highlights": [
+          "Tam quan; chính điện; vườn tháp; tượng thờ."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, tín ngưỡng và lịch sử cộng đồng đô thị.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "lang-co-thanh-mien-hai-duong",
+        "name": "Không gian làng nghề và di tích vùng Thanh Miện – Hải Dương cũ",
+        "category": "Làng nghề; văn hóa nông nghiệp",
+        "originArea": "Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Không gian làng nghề và di tích vùng Thanh Miện – Hải Dương cũ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các xã khu vực Thanh Miện và vùng phụ cận, thành phố Hải Phòng.",
+        "coordinates": null,
+        "shortDescription": "Không gian làng quê đồng bằng sông Hồng gắn với thủ công, nông nghiệp và di tích tín ngưỡng.",
+        "fullDescription": "Khu vực Hải Dương cũ có nhiều làng nghề và lễ hội làng. Hồ sơ chỉ mô tả nhóm không gian văn hóa; không xem đây là một điểm tham quan đơn nhất hoặc gán toàn bộ làng nghề cho một địa chỉ.",
+        "highlights": [
+          "Làng nghề; đình, chùa làng; không gian canh tác và sông ngòi."
+        ],
+        "historicalCulturalValue": "Giá trị nghề thủ công, nông nghiệp và cấu trúc làng xã.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-316"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "banh-da-cua-hai-phong",
+        "name": "Bánh đa cua Hải Phòng",
+        "category": "Món ăn; ẩm thực đô thị cảng",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Bánh đa cua Hải Phòng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh đa cua Hải Phòng gắn với Hải Phòng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bánh đa đỏ",
+          "Cua đồng hoặc cua biển",
+          "Rau muống, rau rút tùy phiên bản",
+          "Gia vị, hành phi."
+        ],
+        "preparation": "Nấu nước dùng cua, chế biến bánh đa, kết hợp rau và các loại topping. Công thức thay đổi theo hàng quán.",
+        "characteristics": "Nước dùng cua, sợi bánh đa và rau tạo hương vị đặc trưng; cách nêm và topping có biến thể.",
+        "culturalContext": "Gắn với ẩm thực đô thị và nguồn lợi thủy sản đồng bằng – ven biển.",
+        "recognition": "Món ăn địa phương; không phải chỉ dẫn địa lý.",
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "nem-cua-be",
+        "name": "Nem cua bể",
+        "category": "Món ăn; sản phẩm chế biến",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Nem cua bể – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nem cua bể gắn với Hải Phòng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt cua",
+          "Thịt lợn",
+          "Tôm hoặc nguyên liệu khác",
+          "Miến, mộc nhĩ, rau và bánh đa nem."
+        ],
+        "preparation": "Nhân được trộn, gói thành miếng vuông lớn và rán vàng.",
+        "characteristics": "Vỏ giòn, nhân có cua và thịt; thành phần thay đổi theo cơ sở.",
+        "culturalContext": "Món ăn gắn với ẩm thực thành phố cảng.",
+        "recognition": "Đặc sản ẩm thực địa phương; không khẳng định công thức đồng nhất.",
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "banh-mi-que-hai-phong",
+        "name": "Bánh mì que Hải Phòng",
+        "category": "Món ăn đường phố",
+        "originArea": "Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Bánh mì que Hải Phòng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh mì que Hải Phòng gắn với Hải Phòng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bánh mì nhỏ",
+          "Pate",
+          "Tương ớt hoặc chí chương."
+        ],
+        "preparation": "Bánh được nướng giòn, phết pate và ăn kèm tương ớt.",
+        "characteristics": "Kích thước nhỏ, vỏ giòn, nhân đơn giản; cách làm khác nhau giữa cơ sở.",
+        "culturalContext": "Món ăn đường phố gắn với nhịp sống đô thị cảng.",
+        "recognition": "Món ăn phổ biến địa phương; cần tránh khẳng định độc quyền.",
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "banh-dau-xanh-hai-duong",
+        "name": "Bánh đậu xanh Hải Dương",
+        "category": "Bánh truyền thống; sản phẩm chế biến",
+        "originArea": "Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Bánh đậu xanh Hải Dương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh đậu xanh Hải Dương gắn với Hải Dương cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Đậu xanh",
+          "Đường",
+          "Dầu hoặc mỡ theo công thức cơ sở."
+        ],
+        "preparation": "Đậu xanh được hấp, nghiền, phối trộn đường và chất béo, ép khuôn rồi đóng gói.",
+        "characteristics": "Bánh mịn, bở tan, vị ngọt; công thức và nhãn hiệu khác nhau.",
+        "culturalContext": "Gắn với nghề làm bánh và văn hóa quà biếu Hải Dương.",
+        "recognition": "Một số nhãn hàng có bảo hộ riêng; không mặc định tất cả bánh đậu xanh cùng chứng nhận.",
+        "sourceIds": [
+          "src-316"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      },
+      {
+        "id": "vai-thieu-thanh-ha",
+        "name": "Vải thiều Thanh Hà",
+        "category": "Trái cây; nông sản",
+        "originArea": "Thanh Hà, Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Vải thiều Thanh Hà – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Vải thiều Thanh Hà gắn với Thanh Hà, Hải Dương cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả vải thiều."
+        ],
+        "preparation": "Thu hái theo độ chín, phân loại và bảo quản tươi hoặc chế biến.",
+        "characteristics": "Quả nhỏ đến vừa, cùi dày và vị ngọt; chất lượng phụ thuộc giống, vùng trồng và mùa vụ.",
+        "culturalContext": "Gắn với vùng cây ăn quả và hệ thống chỉ dẫn địa lý Thanh Hà.",
+        "recognition": "Chỉ dẫn địa lý “Thanh Hà” được bảo hộ; cần kiểm tra đúng vùng và chủ thể sản xuất.",
+        "sourceIds": [
+          "src-316"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      },
+      {
+        "id": "ruoi-tu-ky",
+        "name": "Rươi Tứ Kỳ",
+        "category": "Thủy sản; nguyên liệu ẩm thực",
+        "originArea": "Tứ Kỳ, Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "image": {
+          "file": null,
+          "alt": "Rươi Tứ Kỳ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Rươi Tứ Kỳ gắn với Tứ Kỳ, Hải Dương cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Rươi tự nhiên theo mùa."
+        ],
+        "preparation": "Rươi được sơ chế và dùng trong chả rươi, mắm rươi hoặc món ăn địa phương.",
+        "characteristics": "Nguyên liệu theo mùa, giàu đạm; nguồn cung và chất lượng thay đổi theo sinh thái thủy vực.",
+        "culturalContext": "Gắn với sinh kế vùng nước lợ và văn hóa ẩm thực Hải Dương.",
+        "recognition": "Sản phẩm vùng; phạm vi địa lý và chứng nhận cần kiểm tra từng hồ sơ.",
+        "sourceIds": [
+          "src-316"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-hai-phong",
+          "name": "Cộng đồng Kinh vùng duyên hải và đồng bằng",
+          "originArea": "Hải Phòng cũ và Hải Dương cũ.",
+          "currentProvinceId": "hai-phong",
+          "description": "Cộng đồng cư dân cảng biển, nông nghiệp đồng bằng và làng nghề; sinh hoạt chịu ảnh hưởng của sông, biển và thương mại.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": [
+            "hai-phong",
+            "hai-duong"
+          ]
+        },
+        {
+          "id": "cong-dong-ngu-dan-hai-phong",
+          "name": "Cộng đồng ngư dân ven biển và đảo",
+          "originArea": "Cát Hải, Đồ Sơn và các địa bàn ven biển.",
+          "currentProvinceId": "hai-phong",
+          "description": "Sinh kế gắn với đánh bắt, nuôi trồng thủy sản, nghề dịch vụ biển và tín ngưỡng cư dân đi biển.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "customs": [
+        {
+          "id": "tho-ca-ong-hai-phong",
+          "name": "Tín ngưỡng thờ cá Ông và nghi lễ cầu ngư",
+          "originArea": "Các cộng đồng ven biển Hải Phòng.",
+          "currentProvinceId": "hai-phong",
+          "description": "Một số làng biển có thực hành thờ cá Ông, cầu an và cầu mùa; tên gọi và nghi thức cần mô tả theo hồ sơ từng làng.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-hoa-phuong-do",
+          "name": "Lễ hội Hoa Phượng Đỏ",
+          "originArea": "Thành phố Hải Phòng.",
+          "currentProvinceId": "hai-phong",
+          "description": "Sự kiện văn hóa – du lịch cấp thành phố, kết hợp chương trình nghệ thuật, hoạt động cộng đồng và quảng bá đô thị cảng.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "timeAndLocation": "Hải Phòng; lịch và địa điểm thay đổi theo kế hoạch từng năm.",
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        },
+        {
+          "id": "le-hoi-con-son-kiep-bac",
+          "name": "Lễ hội Côn Sơn – Kiếp Bạc",
+          "originArea": "Khu di tích Côn Sơn – Kiếp Bạc, Hải Dương cũ.",
+          "currentProvinceId": "hai-phong",
+          "description": "Lễ hội gắn với Phật giáo Trúc Lâm, Nguyễn Trãi và Trần Hưng Đạo; có nghi lễ tưởng niệm và hoạt động văn hóa truyền thống.",
+          "sourceIds": [
+            "src-315"
+          ],
+          "timeAndLocation": "Côn Sơn – Kiếp Bạc; lịch tổ chức theo mùa lễ hội hằng năm.",
+          "originUnitIds": [
+            "hai-duong"
+          ]
+        },
+        {
+          "id": "le-hoi-choi-trau-do-son",
+          "name": "Lễ hội chọi trâu Đồ Sơn",
+          "originArea": "Đồ Sơn, Hải Phòng cũ.",
+          "currentProvinceId": "hai-phong",
+          "description": "Lễ hội dân gian gắn với tín ngưỡng, cộng đồng và sinh hoạt văn hóa địa phương; việc tổ chức tuân theo quy định an toàn và quản lý lễ hội.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "timeAndLocation": "Đồ Sơn; thời gian theo lịch âm và kế hoạch tổ chức hằng năm.",
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-ngu-dan-duyen-hai",
+          "name": "Trang phục lao động và lễ nghi của cư dân biển",
+          "originArea": "Cộng đồng ven biển Hải Phòng.",
+          "currentProvinceId": "hai-phong",
+          "description": "Trang phục đi biển, lễ phục trong nghi thức đình – đền và lễ hội có khác nhau theo làng; không có một bộ trang phục duy nhất đại diện toàn thành phố.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-lang-chai-cat-ba",
+          "name": "Không gian làng chài Cát Bà",
+          "originArea": "Cát Hải, Hải Phòng cũ.",
+          "currentProvinceId": "hai-phong",
+          "description": "Làng chài và bến cá gắn với sinh kế biển, nuôi trồng thủy sản và môi trường karst đảo.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-do-thi-cang",
+          "name": "Kiến trúc đô thị cảng Hải Phòng",
+          "originArea": "Khu vực trung tâm đô thị Hải Phòng cũ.",
+          "currentProvinceId": "hai-phong",
+          "description": "Cấu trúc phố cảng, nhà ở, công trình hành chính và công nghiệp phản ánh sự phát triển đô thị từ thời cận đại đến nay.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-song-bach-dang",
+          "name": "Tưởng niệm chiến thắng Bạch Đằng",
+          "originArea": "Không gian sông Bạch Đằng, Hải Phòng.",
+          "currentProvinceId": "hai-phong",
+          "description": "Thực hành tưởng niệm lịch sử gắn với các chiến thắng thủy chiến, di tích đền thờ và hoạt động giáo dục lịch sử.",
+          "sourceIds": [
+            "src-314"
+          ],
+          "originUnitIds": [
+            "hai-phong"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "yen-tu-vinh-nghiem-con-son-kiep-bac",
+          "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+          "originArea": "Một phần thành tố tại Hải Phòng mới thuộc địa bàn Hải Dương cũ.",
+          "currentProvinceId": "hai-phong",
+          "description": "Di sản kết nối các trung tâm Phật giáo Trúc Lâm và di tích lịch sử tại Quảng Ninh, Bắc Giang cũ và Hải Dương cũ. Các thành tố tại Hải Phòng gồm Côn Sơn, Kiếp Bạc và các di tích liên quan.",
+          "sourceIds": [
+            "src-315",
+            "src-308"
+          ],
+          "recognition": "UNESCO ghi danh Di sản Thế giới ngày 12/07/2025; ghi nhận toàn bộ quần thể liên tỉnh, không riêng Hải Phòng.",
+          "originUnitIds": [
+            "hai-duong"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-dum-thuy-nguyen",
+        "name": "Hát đúm Thủy Nguyên",
+        "category": "Hát dân gian; diễn xướng giao duyên",
+        "image": {
+          "file": null,
+          "alt": "Hát đúm Thủy Nguyên – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Thủy Nguyên, Hải Phòng cũ.",
+        "origin": null,
+        "originArea": "Thủy Nguyên, Hải Phòng cũ.",
+        "currentProvinceId": "hai-phong",
+        "characteristics": "Hình thức hát đối đáp, giao duyên trong sinh hoạt lễ hội và cộng đồng; lề lối, lời ca thay đổi theo nhóm thực hành.",
+        "instrumentsOrPerformance": "Hát theo lề lối đối đáp nam nữ hoặc nhóm hát, thường gắn với dịp hội làng.",
+        "culturalValue": "Tạo không gian giao lưu cộng đồng và lưu giữ dân ca vùng cửa sông.",
+        "recognition": "Cần đối chiếu quyết định kiểm kê/ghi danh di sản cấp tỉnh, quốc gia trước khi công bố danh hiệu.",
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong"
+        ]
+      },
+      {
+        "id": "mua-roi-nuoc-dong-bang",
+        "name": "Múa rối nước vùng đồng bằng",
+        "category": "Sân khấu dân gian",
+        "image": {
+          "file": null,
+          "alt": "Múa rối nước vùng đồng bằng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Hải Dương cũ và vùng đồng bằng Bắc Bộ.",
+        "origin": null,
+        "originArea": "Hải Dương cũ và vùng đồng bằng Bắc Bộ.",
+        "currentProvinceId": "hai-phong",
+        "characteristics": "Sân khấu mặt nước, quân rối gỗ và tích trò phản ánh sinh hoạt nông nghiệp, lịch sử và truyện dân gian.",
+        "instrumentsOrPerformance": "Nghệ nhân điều khiển rối phía sau mành, kết hợp âm nhạc và lời dẫn.",
+        "culturalValue": "Bảo tồn kỹ thuật chế tác, điều khiển rối và nghệ thuật diễn xướng làng xã.",
+        "recognition": "Loại hình nghệ thuật dân gian có nhiều phường rối ở Bắc Bộ; cần kiểm tra từng phường cụ thể.",
+        "sourceIds": [
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-duong"
+        ]
+      },
+      {
+        "id": "hat-ca-tru-hai-phong",
+        "name": "Ca trù trong không gian văn hóa Bắc Bộ",
+        "category": "Âm nhạc thính phòng truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Ca trù trong không gian văn hóa Bắc Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Một số địa bàn Hải Phòng và Hải Dương cũ.",
+        "origin": null,
+        "originArea": "Một số địa bàn Hải Phòng và Hải Dương cũ.",
+        "currentProvinceId": "hai-phong",
+        "characteristics": "Ca trù là nghệ thuật hát thính phòng với đào nương, đàn đáy, phách và trống chầu; thực hành gắn với giáo phường và không gian hát.",
+        "instrumentsOrPerformance": "Đào nương hát với đàn đáy, phách; trống chầu phản hồi phần trình diễn.",
+        "culturalValue": "Giá trị âm nhạc, thi ca và tri thức nghề của nghệ nhân.",
+        "recognition": "UNESCO ghi danh Ca trù vào Danh sách cần bảo vệ khẩn cấp năm 2009; không phải di sản riêng Hải Phòng.",
+        "sourceIds": [
+          "src-309",
+          "src-314"
+        ],
+        "originUnitIds": [
+          "hai-phong",
+          "hai-duong"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Diện tích 3.194,72 km² và quy mô dân số 4.664.124 là số liệu trong hồ sơ sắp xếp 2025."
+    ],
+    "sourceIds": [
+      "src-305",
+      "src-306",
+      "src-307",
+      "src-314",
+      "src-315",
+      "src-316",
+      "src-308",
+      "src-309"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "hai-phong",
+      "name": "Hải Phòng"
+    },
+    {
+      "id": "hai-duong",
+      "name": "Hải Dương"
+    }
+  ]
+}

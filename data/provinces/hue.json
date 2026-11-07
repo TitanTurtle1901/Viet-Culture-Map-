@@ -1,0 +1,702 @@
+{
+  "id": "hue",
+  "name": "Thành phố Huế",
+  "administrativeType": "Thành phố trực thuộc trung ương",
+  "region": "Bắc Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Huế – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Huế là không gian di sản Cố đô, âm nhạc cung đình, nhà vườn, đầm phá và ẩm thực đặc trưng.",
+    "featuredDestinationIds": [
+      "quan-the-di-tich-co-do-hue",
+      "chua-thien-mu"
+    ],
+    "featuredSpecialtyIds": [
+      "bun-bo-hue",
+      "com-hen-hue"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Huế",
+      "administrativeCode": "46",
+      "administrativeCenter": "Phường Thuận Hóa – địa chỉ trụ sở UBND tại số 16 Lê Lợi",
+      "vehiclePlateCodes": [
+        "75"
+      ],
+      "areaKm2": 4947.11,
+      "areaYear": 2025,
+      "population": {
+        "value": 1190336,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Ở Bắc Trung Bộ, kéo dài từ vùng núi Trường Sơn đến đồng bằng, đầm phá và bờ biển; thành phố không sáp nhập cấp tỉnh trong Nghị quyết 202/2025/QH15.",
+      "boundaries": [
+        "Tỉnh Quảng Trị",
+        "Thành phố Đà Nẵng",
+        "Biển Đông"
+      ],
+      "naturalFeatures": "Địa hình gồm núi Bạch Mã – Trường Sơn, đồng bằng sông Hương, đầm phá Tam Giang – Cầu Hai và vùng biển; tài nguyên đa dạng từ rừng đến thủy sản nước lợ.",
+      "climate": "Khí hậu nhiệt đới gió mùa, mưa tập trung vào thu – đông, thường chịu ảnh hưởng bão và mưa lớn; vùng núi và ven biển có khác biệt.",
+      "history": "Huế là đơn vị cấp tỉnh không sáp nhập trong đợt năm 2025; sau khi chuyển thành thành phố trực thuộc Trung ương, danh mục mã hành chính 19/2025/QĐ-TTg ghi Thành phố Huế, mã 46. Không gian văn hóa gắn với kinh đô Nguyễn, làng nghề, nhà vườn, đầm phá và cộng đồng miền núi phía tây.",
+      "description": "Thành phố Huế nổi bật với di sản Cố đô, Nhã nhạc, nhà vườn, lễ hội và ẩm thực; đồng thời có các cộng đồng miền núi và sinh kế đầm phá – ven biển. Dân số 1.190.336 là số liệu theo Niên giám thống kê thành phố Huế năm 2025.",
+      "sourceIds": [
+        "src-306",
+        "src-307",
+        "src-321",
+        "src-308",
+        "src-309"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "quan-the-di-tich-co-do-hue",
+        "name": "Quần thể di tích Cố đô Huế",
+        "category": "Di sản văn hóa thế giới; quần thể di tích",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Quần thể di tích Cố đô Huế – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Kinh thành, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Quần thể cung điện, thành quách, lăng tẩm, đền miếu và cảnh quan gắn với triều Nguyễn.",
+        "fullDescription": "Quần thể phản ánh quy hoạch kinh đô và quyền lực nhà Nguyễn thế kỷ XIX – đầu XX; các thành phần bao gồm Kinh thành, Hoàng thành, Tử Cấm Thành, đàn tế và hệ thống lăng vua.",
+        "highlights": [
+          "Đại Nội; Ngọ Môn; điện Thái Hòa; lăng các vua Nguyễn."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử, kiến trúc, mỹ thuật cung đình và cảnh quan.",
+        "recognition": "Di sản văn hóa thế giới UNESCO, ghi danh năm 1993.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-308",
+          "src-322"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "chua-thien-mu",
+        "name": "Chùa Thiên Mụ",
+        "category": "Di tích tôn giáo; kiến trúc lịch sử",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Chùa Thiên Mụ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đồi Hà Khê, phường Kim Long, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Ngôi chùa cổ nhìn ra sông Hương, có tháp Phước Duyên và nhiều công trình kiến trúc.",
+        "fullDescription": "Chùa Thiên Mụ là địa điểm Phật giáo gắn với lịch sử xứ Đàng Trong và kinh đô Huế; các lớp kiến trúc phản ánh nhiều giai đoạn trùng tu.",
+        "highlights": [
+          "Tháp Phước Duyên; điện Đại Hùng; chuông và bia; cảnh quan sông Hương."
+        ],
+        "historicalCulturalValue": "Giá trị tôn giáo, kiến trúc và lịch sử đô thị.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-322"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "lang-khai-dinh",
+        "name": "Ứng Lăng – Lăng Khải Định",
+        "category": "Di tích kiến trúc lăng tẩm",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Ứng Lăng – Lăng Khải Định – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Thủy Xuân, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Lăng vua Khải Định kết hợp kiến trúc truyền thống với vật liệu và trang trí chịu ảnh hưởng nghệ thuật châu Âu đầu thế kỷ XX.",
+        "fullDescription": "Lăng có bố cục bậc cấp và trang trí khảm sành sứ, thủy tinh; phản ánh biến đổi thẩm mỹ cung đình giai đoạn cuối triều Nguyễn.",
+        "highlights": [
+          "Cổng tam quan; sân chầu; điện Khải Thành; trang trí khảm."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, mỹ thuật và lịch sử triều Nguyễn.",
+        "recognition": "Thành phần của Quần thể di tích Cố đô Huế – Di sản Thế giới.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-308"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "phong-nha-ke-bang-hue-link",
+        "name": "Hệ sinh thái và điểm đến Bạch Mã",
+        "category": "Vườn quốc gia; bảo tồn thiên nhiên",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Hệ sinh thái và điểm đến Bạch Mã – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Bạch Mã, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Dãy núi và vườn quốc gia có hệ sinh thái rừng nhiệt đới, thác nước và đường mòn sinh thái.",
+        "fullDescription": "Bạch Mã là không gian bảo tồn đa dạng sinh học và cảnh quan núi; việc tham quan cần theo tuyến được phép, chú ý thời tiết và an toàn rừng núi.",
+        "highlights": [
+          "Đỉnh Bạch Mã; thác Đỗ Quyên; Ngũ Hồ; rừng tự nhiên."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, đa dạng sinh học và cảnh quan.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-321"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "dam-pha-tam-giang-cau-hai",
+        "name": "Hệ đầm phá Tam Giang – Cầu Hai",
+        "category": "Đầm phá; hệ sinh thái đất ngập nước",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Hệ đầm phá Tam Giang – Cầu Hai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các xã ven phá, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Hệ đầm phá nước lợ lớn, nối với biển qua các cửa biển và gắn với nghề cá, nuôi trồng thủy sản.",
+        "fullDescription": "Đầm phá là sinh cảnh quan trọng và nền tảng sinh kế của cư dân ven phá; nghề chài lưới, nò sáo và ẩm thực thủy sản có biến thể theo cộng đồng.",
+        "highlights": [
+          "Phá Tam Giang; đầm Sam Chuồn; cửa biển Thuận An; làng chài."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, sinh kế, cảnh quan và tri thức thủy sản.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-321"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "vung-vinh-lang-co",
+        "name": "Vịnh Lăng Cô",
+        "category": "Cảnh quan biển; du lịch sinh thái",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Vịnh Lăng Cô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Lăng Cô, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Vịnh biển dưới chân đèo Hải Vân, gần đầm Lập An và dãy Bạch Mã.",
+        "fullDescription": "Lăng Cô là vùng cảnh quan biển – đầm – núi; sinh kế gắn với đánh bắt, nuôi trồng và du lịch. Các bãi tắm, tuyến du lịch và chất lượng môi trường cần kiểm tra theo mùa.",
+        "highlights": [
+          "Bãi biển; đầm Lập An; cảnh quan đèo Hải Vân; làng biển."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, sinh thái và sinh kế ven biển.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-321"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "lang-co-dien-hai",
+        "name": "Di tích Trấn Hải Thành và cửa biển Thuận An",
+        "category": "Di tích lịch sử; phòng thủ ven biển",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Di tích Trấn Hải Thành và cửa biển Thuận An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực cửa biển Thuận An, thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Không gian cửa biển gắn với hệ thống phòng thủ và lịch sử bảo vệ kinh đô.",
+        "fullDescription": "Cửa biển Thuận An là đầu mối giao thông thủy và vị trí phòng thủ; thành lũy, đồn và di tích cần đối chiếu hồ sơ xếp hạng theo từng thành phần.",
+        "highlights": [
+          "Không gian cửa biển; dấu tích công trình phòng thủ; cảnh quan đầm phá."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử quân sự và địa lý ven biển.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-321"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "bun-bo-hue",
+        "name": "Bún bò Huế",
+        "category": "Món ăn; ẩm thực truyền thống",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Bún bò Huế – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bún bò Huế gắn với Thành phố Huế.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bún",
+          "Thịt bò",
+          "Giò heo tùy phiên bản",
+          "Sả, mắm ruốc, ớt và rau ăn kèm."
+        ],
+        "preparation": "Nấu nước dùng từ xương và gia vị; kết hợp bún, thịt và rau. Mức cay, vị mắm ruốc và topping thay đổi giữa gia đình, quán và vùng.",
+        "characteristics": "Nước dùng thơm sả, có vị đậm và cay; cách nêm khác nhau.",
+        "culturalContext": "Món ăn phổ biến trong đời sống ẩm thực Huế, từ bữa sáng đến hàng quán.",
+        "recognition": "Món ăn gắn với vùng Huế; không phải chứng nhận độc quyền.",
+        "sourceIds": [
+          "src-323"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "com-hen-hue",
+        "name": "Cơm hến",
+        "category": "Món ăn; ẩm thực dân gian",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Cơm hến – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cơm hến gắn với Thành phố Huế.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Hến sông",
+          "Cơm nguội",
+          "Rau thơm, môn bạc hà, khế hoặc chuối chát",
+          "Mắm ruốc và gia vị."
+        ],
+        "preparation": "Hến luộc lấy thịt, xào gia vị; ăn cùng cơm, nước luộc hến, rau và gia vị.",
+        "characteristics": "Vị cay, mặn, thơm, giòn; sự phối hợp rau và gia vị tạo đặc trưng.",
+        "culturalContext": "Gắn với cư dân ven sông Hương và nghề cào hến.",
+        "recognition": null,
+        "sourceIds": [
+          "src-323"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "banh-khoai-hue",
+        "name": "Bánh khoái",
+        "category": "Bánh mặn; món ăn đường phố",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Bánh khoái – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh khoái gắn với Thành phố Huế.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bột gạo",
+          "Tôm, thịt",
+          "Giá và rau",
+          "Nước lèo hoặc nước chấm."
+        ],
+        "preparation": "Bột được đổ vào khuôn, thêm nhân và chiên giòn; ăn kèm rau và nước chấm.",
+        "characteristics": "Vỏ giòn, nhân tôm thịt; khác bánh xèo ở tỷ lệ bột, khuôn và cách dùng nước chấm.",
+        "culturalContext": "Gắn với hàng quán và văn hóa ẩm thực Huế.",
+        "recognition": null,
+        "sourceIds": [
+          "src-323"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "me-xung-hue",
+        "name": "Mè xửng Huế",
+        "category": "Kẹo truyền thống; sản phẩm chế biến",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Mè xửng Huế – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mè xửng Huế gắn với Thành phố Huế.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Mè",
+          "Mạch nha",
+          "Đường",
+          "Đậu phộng."
+        ],
+        "preparation": "Nấu đường và mạch nha, phối mè và đậu phộng, cán và cắt thành miếng.",
+        "characteristics": "Dẻo hoặc giòn tùy dòng, thơm mè và đậu phộng.",
+        "culturalContext": "Thường dùng làm quà biếu và ăn cùng trà.",
+        "recognition": null,
+        "sourceIds": [
+          "src-323"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "tom-chua-hue",
+        "name": "Tôm chua Huế",
+        "category": "Sản phẩm lên men; gia vị",
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "image": {
+          "file": null,
+          "alt": "Tôm chua Huế – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Tôm chua Huế gắn với Thành phố Huế.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Tôm",
+          "Muối",
+          "Riềng, tỏi, ớt",
+          "Thính và gia vị tùy công thức."
+        ],
+        "preparation": "Tôm sơ chế, trộn muối và gia vị, ủ lên men; thời gian ủ và độ mặn khác nhau theo cơ sở.",
+        "characteristics": "Vị chua mặn, cay, thơm; thường ăn kèm thịt luộc và rau.",
+        "culturalContext": "Gắn với bữa ăn Huế và tập quán bảo quản thủy sản.",
+        "recognition": null,
+        "sourceIds": [
+          "src-323"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-hue",
+          "name": "Cộng đồng Kinh xứ Huế",
+          "originArea": "Thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Cộng đồng Kinh có truyền thống đô thị cung đình, làng nghề, nông nghiệp, đánh bắt và các tập quán thờ tự; thực hành thay đổi theo làng và đô thị.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        },
+        {
+          "id": "cong-dong-pa-co-ta-oi",
+          "name": "Cộng đồng Pa Cô và Tà Ôi",
+          "originArea": "Các xã miền núi phía tây thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Cộng đồng có ngôn ngữ, dệt zèng, lễ tục, âm nhạc và tri thức sinh thái vùng Trường Sơn; mỗi nhóm có truyền thống riêng.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-cung-dinh-hue",
+          "name": "Nghi lễ và lễ tiết cung đình triều Nguyễn",
+          "originArea": "Không gian di tích Cố đô Huế.",
+          "currentProvinceId": "hue",
+          "description": "Các nghi lễ triều đình lịch sử gồm tế lễ, nhã nhạc và nghi thức ở các đàn miếu; hiện nay một số được nghiên cứu, phục dựng trong giới hạn tư liệu.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-hue",
+          "name": "Festival Huế",
+          "originArea": "Thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Chuỗi sự kiện văn hóa – nghệ thuật và du lịch do thành phố tổ chức, giới thiệu di sản, nghệ thuật truyền thống và đương đại.",
+          "sourceIds": [
+            "src-321"
+          ],
+          "timeAndLocation": "Thành phố Huế; lịch chương trình theo từng năm.",
+          "originUnitIds": [
+            "hue"
+          ]
+        },
+        {
+          "id": "le-hoi-dien-hon-chen",
+          "name": "Lễ hội điện Huệ Nam (điện Hòn Chén)",
+          "originArea": "Điện Huệ Nam, thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Lễ hội tín ngưỡng thờ Mẫu trên sông Hương, gắn với nghi thức rước và thực hành cộng đồng; cần tuân thủ quản lý lễ hội và bảo vệ di tích.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "timeAndLocation": "Điện Huệ Nam và tuyến sông Hương; lịch theo mùa lễ hội.",
+          "originUnitIds": [
+            "hue"
+          ]
+        },
+        {
+          "id": "le-hoi-lang-sinh",
+          "name": "Lễ hội vật làng Sình",
+          "originArea": "Làng Sình, thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Hội vật truyền thống gắn với sinh hoạt đầu xuân, cộng đồng làng và nghi thức dân gian.",
+          "sourceIds": [
+            "src-321"
+          ],
+          "timeAndLocation": "Làng Sình; tổ chức theo lịch âm, cần kiểm tra chương trình từng năm.",
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "ao-dai-hue",
+          "name": "Áo dài và trang phục cung đình Huế",
+          "originArea": "Thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Áo dài có lịch sử biến đổi qua nhiều thời kỳ; trang phục cung đình có quy chế, cấp bậc và chất liệu riêng. Không đồng nhất áo dài hiện đại với trang phục triều Nguyễn.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "lang-nghe-truyen-thong-hue",
+          "name": "Không gian làng nghề và làng vườn Huế",
+          "originArea": "Các phường, xã thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Làng nghề, nhà vườn, vườn cây và không gian thờ tự tạo nên cấu trúc cư trú đặc trưng vùng đô thị – nông thôn Huế.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-nha-vuon-hue",
+          "name": "Nhà rường và nhà vườn Huế",
+          "originArea": "Các làng và khu vực nhà vườn thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Nhà gỗ với kết cấu vì kèo, sân vườn, bình phong và hệ thống cây xanh; quy mô và cấu trúc tùy gia đình và thời kỳ.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-tho-mau-hue",
+          "name": "Thực hành tín ngưỡng thờ Mẫu tại Huế",
+          "originArea": "Điện Huệ Nam và các cơ sở thờ tự ở Huế.",
+          "currentProvinceId": "hue",
+          "description": "Nghi lễ thờ Mẫu có nhiều hình thức thực hành, bao gồm hầu đồng và lễ hội; cần trình bày trung lập, phân biệt tín ngưỡng dân gian với hoạt động sân khấu.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "nhac-cung-dinh-nha-nhac",
+          "name": "Nhã nhạc cung đình Việt Nam",
+          "originArea": "Kinh đô Huế và các không gian nghi lễ triều Nguyễn.",
+          "currentProvinceId": "hue",
+          "description": "Âm nhạc cung đình sử dụng dàn nhạc, bài bản, nghi tiết và hệ thống nhạc cụ phục vụ nghi lễ triều đình.",
+          "sourceIds": [
+            "src-309",
+            "src-322"
+          ],
+          "originUnitIds": [
+            "hue"
+          ]
+        },
+        {
+          "id": "di-san-tu-lieu-trieu-nguyen",
+          "name": "Di sản tư liệu triều Nguyễn",
+          "originArea": "Thành phố Huế.",
+          "currentProvinceId": "hue",
+          "description": "Mộc bản, Châu bản và tư liệu/thi văn trên kiến trúc cung đình phản ánh hoạt động quản trị, văn hóa và nghệ thuật triều Nguyễn.",
+          "sourceIds": [
+            "src-322"
+          ],
+          "recognition": "Một số bộ sưu tập được ghi danh trong Chương trình Ký ức Thế giới UNESCO ở cấp khu vực hoặc quốc tế; phải nêu đúng bộ sưu tập và cấp ghi danh khi xuất bản.",
+          "originUnitIds": [
+            "hue"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "nha-nhac-cung-dinh",
+        "name": "Nhã nhạc cung đình Huế",
+        "category": "Âm nhạc cung đình",
+        "image": {
+          "file": null,
+          "alt": "Nhã nhạc cung đình Huế – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Kinh đô Huế.",
+        "origin": null,
+        "originArea": "Kinh đô Huế.",
+        "currentProvinceId": "hue",
+        "characteristics": "Hệ thống bài bản, nhạc cụ hơi – dây – gõ và nghi tiết được quy định theo từng nghi lễ cung đình.",
+        "instrumentsOrPerformance": "Dàn nhạc trình diễn trong các nghi lễ và sự kiện cung đình; hiện nay có hoạt động bảo tồn, biểu diễn và truyền dạy.",
+        "culturalValue": "Giá trị âm nhạc, lịch sử nghi lễ và bản sắc cung đình Việt Nam.",
+        "recognition": "UNESCO ghi danh năm 2003; chuyển sang Danh sách đại diện năm 2008.",
+        "sourceIds": [
+          "src-309",
+          "src-322"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "ca-hue-tren-song-huong",
+        "name": "Ca Huế",
+        "category": "Âm nhạc thính phòng truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Ca Huế – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Thành phố Huế.",
+        "origin": null,
+        "originArea": "Thành phố Huế.",
+        "currentProvinceId": "hue",
+        "characteristics": "Kết hợp các làn điệu dân gian và bác học, với nhạc cụ dây, hơi; diễn xướng trong không gian thính phòng hoặc trên thuyền.",
+        "instrumentsOrPerformance": "Ca công và nhạc công thể hiện các làn điệu, bài bản; cách trình diễn thay đổi theo môi trường và chương trình.",
+        "culturalValue": "Giá trị âm nhạc, thi ca và đời sống tinh thần xứ Huế.",
+        "recognition": "Di sản văn hóa phi vật thể quốc gia; kiểm tra quyết định cụ thể trước khi phát hành.",
+        "sourceIds": [
+          "src-322"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      },
+      {
+        "id": "tuong-cung-dinh-hue",
+        "name": "Tuồng cung đình Huế",
+        "category": "Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Tuồng cung đình Huế – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Không gian cung đình Huế và các đoàn nghệ thuật địa phương.",
+        "origin": null,
+        "originArea": "Không gian cung đình Huế và các đoàn nghệ thuật địa phương.",
+        "currentProvinceId": "hue",
+        "characteristics": "Hóa trang ước lệ, động tác, vũ đạo và âm nhạc tuồng; tích diễn có nguồn gốc lịch sử và văn học.",
+        "instrumentsOrPerformance": "Trình diễn trên sân khấu, có dàn nhạc và vai diễn theo quy ước tuồng.",
+        "culturalValue": "Bảo tồn nghệ thuật cung đình và truyền thống sân khấu cổ điển.",
+        "recognition": "Di sản nghệ thuật truyền thống; tình trạng xếp hạng cần dẫn hồ sơ cụ thể.",
+        "sourceIds": [
+          "src-322"
+        ],
+        "originUnitIds": [
+          "hue"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Số liệu diện tích 4.947,11 km², dân số 1.190.336 và 40 đơn vị cấp xã lấy từ cổng thông tin thành phố, dẫn Niên giám thống kê Huế 2025."
+    ],
+    "sourceIds": [
+      "src-306",
+      "src-307",
+      "src-321",
+      "src-308",
+      "src-309",
+      "src-308",
+      "src-309",
+      "src-322",
+      "src-323"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "hue",
+      "name": "Huế"
+    }
+  ]
+}

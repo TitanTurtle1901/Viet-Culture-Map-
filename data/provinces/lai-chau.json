@@ -1,0 +1,655 @@
+{
+  "id": "lai-chau",
+  "name": "Tỉnh Lai Châu",
+  "administrativeType": "Tỉnh",
+  "region": "Tây Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Lai Châu – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Lai Châu là tỉnh miền núi biên giới Tây Bắc với cảnh quan Hoàng Liên Sơn, các bản làng Thái, Mông, Dao và nhiều cộng đồng khác. Văn hóa Then, Xòe Thái, chợ phiên và du lịch cộng đồng là những lớp bản sắc quan trọng.",
+    "featuredDestinationIds": [
+      "sin-suoi-ho",
+      "deo-o-quy-ho"
+    ],
+    "featuredSpecialtyIds": [
+      "pa-pinh-top",
+      "che-tan-uyen"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Lai Châu",
+      "administrativeCode": "12",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "25"
+      ],
+      "areaKm2": 9068.73,
+      "areaYear": 2025,
+      "population": {
+        "value": 512601,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh miền núi biên giới Tây Bắc, giáp Trung Quốc và các tỉnh Điện Biên, Sơn La, Lào Cai.",
+      "boundaries": [
+        "Phía bắc giáp Trung Quốc.",
+        "Phía đông giáp Lào Cai.",
+        "Phía nam giáp Điện Biên và Sơn La.",
+        "Phía tây giáp Điện Biên và Trung Quốc."
+      ],
+      "naturalFeatures": "Địa hình núi cao, thung lũng sâu, rừng đầu nguồn, sông suối và các đỉnh núi thuộc dãy Hoàng Liên Sơn.",
+      "climate": null,
+      "history": "Lai Châu là địa bàn cư trú lâu đời của nhiều cộng đồng dân tộc như Thái, Mông, Dao, Hà Nhì, Lự, Si La và các nhóm khác. Lịch sử địa phương gắn với giao lưu vùng biên, các bản mường và quá trình hình thành đơn vị hành chính vùng Tây Bắc.",
+      "description": "Tỉnh có cảnh quan núi cao và đa dạng văn hóa cộng đồng. Các điểm như Ô Quy Hồ, Putaleng, Sin Suối Hồ, Pu Sam Cáp và vùng chè Tân Uyên góp phần tạo nên hình ảnh du lịch sinh thái – văn hóa của Lai Châu.",
+      "sourceIds": [
+        "src-204",
+        "src-197",
+        "src-198",
+        "src-200",
+        "src-201",
+        "src-203"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "deo-o-quy-ho",
+        "name": "Đèo Ô Quy Hồ",
+        "category": "Danh lam thắng cảnh; cung đường đèo",
+        "originArea": "Lai Châu cũ – khu vực Tam Đường và giáp ranh Lào Cai.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Đèo Ô Quy Hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Bình Lư, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Một trong những cung đèo nổi tiếng của vùng Tây Bắc, nằm trên tuyến kết nối Lai Châu với Lào Cai.",
+        "fullDescription": "Cảnh quan núi cao, thung lũng và mây núi tạo nên điểm ngắm cảnh đặc trưng; điều kiện đi lại phụ thuộc thời tiết và tình trạng đường.",
+        "highlights": "Cảnh quan núi Hoàng Liên Sơn; cung đường đèo; điểm ngắm mây.",
+        "historicalCulturalValue": "Giá trị cảnh quan và kết nối giao thương vùng Tây Bắc.",
+        "recognition": "Không gán danh hiệu di sản; thông tin vận hành cần kiểm tra trước chuyến đi.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "cau-kinh-rong-may",
+        "name": "Khu du lịch sinh thái Cầu kính Rồng Mây",
+        "category": "Du lịch sinh thái; trải nghiệm cảnh quan",
+        "originArea": "Lai Châu cũ – khu vực đèo Ô Quy Hồ.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch sinh thái Cầu kính Rồng Mây – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Bình Lư, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Điểm tham quan trải nghiệm trên vùng núi cao, kết hợp công trình cầu kính và cảnh quan thung lũng.",
+        "fullDescription": "Đây là sản phẩm du lịch có yếu tố hạ tầng nhân tạo; các dịch vụ và điều kiện hoạt động cần tra cứu trực tiếp từ đơn vị quản lý.",
+        "highlights": "Cầu kính; cảnh quan núi cao; hoạt động trải nghiệm.",
+        "historicalCulturalValue": "Đại diện cho hướng phát triển du lịch trải nghiệm tại vùng núi Lai Châu.",
+        "recognition": "Không phải di tích/di sản được xếp hạng.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "sin-suoi-ho",
+        "name": "Bản du lịch cộng đồng Sin Suối Hồ",
+        "category": "Du lịch cộng đồng; văn hóa bản làng",
+        "originArea": "Lai Châu cũ – cộng đồng người Mông.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Bản du lịch cộng đồng Sin Suối Hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Sin Suối Hồ, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Bản du lịch cộng đồng gắn với cảnh quan núi, vườn cây và sinh hoạt của cộng đồng người Mông.",
+        "fullDescription": "Trải nghiệm cần được tổ chức tôn trọng đời sống cư dân và tập quán địa phương; không xem toàn bộ bản là một không gian trình diễn cho khách.",
+        "highlights": "Nhà ở và cảnh quan bản; nghề thủ công; sinh hoạt cộng đồng; sản phẩm du lịch tại chỗ.",
+        "historicalCulturalValue": "Góp phần giới thiệu du lịch cộng đồng gắn với chủ thể văn hóa địa phương.",
+        "recognition": "Cần cập nhật danh hiệu du lịch cộng đồng và quyết định công nhận nếu muốn nêu.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201",
+          "src-202"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "dong-che-tan-uyen",
+        "name": "Đồi chè Tân Uyên",
+        "category": "Cảnh quan nông nghiệp; du lịch trải nghiệm",
+        "originArea": "Lai Châu cũ – vùng chè Tân Uyên.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Đồi chè Tân Uyên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Tân Uyên, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Vùng trồng chè trên địa hình đồi núi, gắn với sản xuất nông nghiệp và cảnh quan xanh.",
+        "fullDescription": "Có thể kết hợp tìm hiểu quy trình canh tác và chế biến chè tại cơ sở được phép đón khách; mùa vụ và khả năng tham quan phụ thuộc từng nhà vườn.",
+        "highlights": "Đồi chè; hoạt động sản xuất và chế biến chè.",
+        "historicalCulturalValue": "Phản ánh sinh kế nông nghiệp hàng hóa của vùng Tây Bắc.",
+        "recognition": "Chưa gán chỉ dẫn địa lý/chứng nhận khi chưa đối chiếu hồ sơ sản phẩm cụ thể.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201",
+          "src-202"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "dong-pu-sam-cap",
+        "name": "Động Pu Sam Cáp",
+        "category": "Danh lam thắng cảnh; hang động",
+        "originArea": "Lai Châu cũ – khu vực thành phố Lai Châu trước sắp xếp.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Động Pu Sam Cáp – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Đoàn Kết, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Hệ thống hang động đá vôi được giới thiệu trong danh mục điểm đến của tỉnh.",
+        "fullDescription": "Giá trị tham quan gắn với địa hình karst và thạch nhũ; các tuyến mở cửa và điều kiện an toàn cần xác minh tại thời điểm tham quan.",
+        "highlights": "Không gian hang động; địa hình đá vôi; cảnh quan núi.",
+        "historicalCulturalValue": "Giá trị địa mạo và cảnh quan tự nhiên.",
+        "recognition": "Không tự gán danh hiệu địa chất/di tích nếu không có quyết định.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "putaleng",
+        "name": "Đỉnh Putaleng",
+        "category": "Danh lam thắng cảnh; du lịch trekking",
+        "originArea": "Lai Châu cũ – vùng núi Hoàng Liên Sơn.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Đỉnh Putaleng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Tả Lèng, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Đỉnh núi cao gắn với hoạt động trekking và hệ sinh thái rừng núi.",
+        "fullDescription": "Hoạt động leo núi cần hướng dẫn, đăng ký và tuân thủ yêu cầu bảo vệ rừng, an toàn; độ khó phụ thuộc tuyến và điều kiện thời tiết.",
+        "highlights": "Rừng núi; cảnh quan đỉnh cao; hệ sinh thái vùng núi.",
+        "historicalCulturalValue": "Giá trị đa dạng sinh học và cảnh quan sinh thái Tây Bắc.",
+        "recognition": "Không gán cấp xếp hạng khi chưa có nguồn.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "cho-dem-san-thang",
+        "name": "Chợ đêm San Thàng",
+        "category": "Không gian văn hóa; chợ phiên",
+        "originArea": "Lai Châu cũ – cộng đồng các dân tộc vùng thành phố Lai Châu trước đây.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Chợ đêm San Thàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Tân Phong, tỉnh Lai Châu.",
+        "coordinates": null,
+        "shortDescription": "Không gian giao lưu, mua bán và ẩm thực của cư dân các dân tộc vùng cao.",
+        "fullDescription": "Chợ là nơi trao đổi hàng hóa và gặp gỡ cộng đồng; sản phẩm, lịch họp chợ có thể thay đổi theo tổ chức địa phương.",
+        "highlights": "Ẩm thực vùng cao; hàng thủ công; giao lưu cộng đồng.",
+        "historicalCulturalValue": "Phản ánh vai trò chợ trong mạng lưới sinh hoạt kinh tế – văn hóa miền núi.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-201"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "thit-trau-gac-bep-lai-chau",
+        "name": "Thịt trâu gác bếp",
+        "category": "Món ăn; thực phẩm chế biến",
+        "originArea": "Các cộng đồng Thái và một số cộng đồng vùng Tây Bắc, trong đó có Lai Châu.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Thịt trâu gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thịt trâu gác bếp gắn với Các cộng đồng Thái và một số cộng đồng vùng Tây Bắc, trong đó có Lai Châu.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt trâu",
+          "Gia vị địa phương như mắc khén, hạt dổi, ớt; công thức thay đổi theo gia đình."
+        ],
+        "preparation": "Thịt được tẩm ướp rồi hong/sấy khói trên gác bếp; kỹ thuật và thời gian khác nhau theo cơ sở.",
+        "characteristics": "Thớ thịt khô, dai, có mùi khói và gia vị đặc trưng.",
+        "culturalContext": "Gắn với phương thức bảo quản thực phẩm và ẩm thực vùng núi; không phải món độc quyền của Lai Châu.",
+        "recognition": "Chưa có chứng nhận riêng được xác minh trong hồ sơ.",
+        "sourceIds": [
+          "src-202"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "pa-pinh-top",
+        "name": "Pa pỉnh tộp",
+        "category": "Món ăn truyền thống",
+        "originArea": "Cộng đồng Thái ở Lai Châu và vùng Tây Bắc.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Pa pỉnh tộp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Pa pỉnh tộp gắn với Cộng đồng Thái ở Lai Châu và vùng Tây Bắc.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Cá nước ngọt",
+          "Thảo mộc, mắc khén, gia vị và rau thơm."
+        ],
+        "preparation": "Cá được làm sạch, ướp gia vị rồi nướng; cách phối gia vị thay đổi theo cộng đồng và gia đình.",
+        "characteristics": "Món cá nướng có hương vị thảo mộc và gia vị vùng núi.",
+        "culturalContext": "Là món ăn gắn với ẩm thực Thái; cần diễn đạt là món của cộng đồng, không phải đặc sản chỉ có ở một tỉnh.",
+        "recognition": "Chưa xác minh danh hiệu bảo hộ.",
+        "sourceIds": [
+          "src-202"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "xoi-tim-lai-chau",
+        "name": "Xôi tím",
+        "category": "Món ăn; ẩm thực cộng đồng",
+        "originArea": "Lai Châu và các địa bàn Tây Bắc có nguyên liệu lá tạo màu tự nhiên.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Xôi tím – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Xôi tím gắn với Lai Châu và các địa bàn Tây Bắc có nguyên liệu lá tạo màu tự nhiên.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp",
+          "Lá cẩm hoặc nguyên liệu tạo màu tự nhiên theo cách địa phương."
+        ],
+        "preparation": "Gạo nếp được ngâm, tạo màu rồi đồ chín; kỹ thuật tùy gia đình.",
+        "characteristics": "Hạt xôi dẻo, có sắc tím đặc trưng.",
+        "culturalContext": "Gắn với bữa ăn và ẩm thực cộng đồng vùng cao.",
+        "recognition": null,
+        "sourceIds": [
+          "src-202"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "che-tan-uyen",
+        "name": "Chè Tân Uyên",
+        "category": "Nông sản; chè",
+        "originArea": "Lai Châu cũ – vùng chè Tân Uyên.",
+        "currentProvinceId": "lai-chau",
+        "image": {
+          "file": null,
+          "alt": "Chè Tân Uyên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè Tân Uyên gắn với Lai Châu cũ – vùng chè Tân Uyên.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Búp chè tươi từ vùng nguyên liệu Tân Uyên."
+        ],
+        "preparation": "Thu hái và chế biến theo các quy trình sao, vò, sấy; loại trà phụ thuộc giống và cơ sở.",
+        "characteristics": "Sản phẩm chè có hương vị và đặc điểm phụ thuộc giống, độ cao, mùa vụ và kỹ thuật chế biến.",
+        "culturalContext": "Gắn với sinh kế nông nghiệp và vùng chè của Lai Châu.",
+        "recognition": "Cần đối chiếu nhãn hiệu/chứng nhận theo từng sản phẩm cụ thể.",
+        "sourceIds": [
+          "src-201"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-thai-lai-chau",
+          "name": "Cộng đồng Thái",
+          "originArea": "Lai Châu cũ – nhiều địa bàn trong tỉnh.",
+          "currentProvinceId": "lai-chau",
+          "description": "Cộng đồng Thái có các thực hành ngôn ngữ, nhà ở, trang phục, âm nhạc, lễ hội và nghi lễ riêng; không đồng nhất các nhóm Thái trắng, Thái đen và các địa bàn thực hành.",
+          "sourceIds": [
+            "src-203",
+            "src-219",
+            "src-218"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        },
+        {
+          "id": "cong-dong-mong-lai-chau",
+          "name": "Cộng đồng Mông",
+          "originArea": "Lai Châu cũ – vùng núi cao.",
+          "currentProvinceId": "lai-chau",
+          "description": "Cộng đồng Mông duy trì các hình thức sinh hoạt, trang phục, nhạc cụ, chợ phiên và lễ hội; biểu đạt văn hóa có khác biệt giữa các nhóm và địa bàn.",
+          "sourceIds": [
+            "src-201"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-ha-nhi-lu-si-la",
+          "name": "Cộng đồng Dao, Hà Nhì, Lự và Si La",
+          "originArea": "Các địa bàn miền núi Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "Các cộng đồng có ngôn ngữ, nghi lễ, tri thức canh tác và nghệ thuật riêng; cần mô tả theo từng nhóm, không gộp mọi cộng đồng thành một bản sắc đồng nhất.",
+          "sourceIds": [
+            "src-202"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "cho-phien-vung-cao-lai-chau",
+          "name": "Sinh hoạt chợ phiên vùng cao",
+          "originArea": "Các xã, bản ở Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "Chợ phiên vừa là nơi trao đổi nông sản và hàng hóa, vừa là không gian gặp gỡ xã hội; ngày họp và vai trò chợ thay đổi theo từng địa bàn.",
+          "sourceIds": [
+            "src-201"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "then-kin-pang",
+          "name": "Lễ hội Then Kin Pang",
+          "originArea": "Lai Châu cũ – cộng đồng Thái trắng vùng Mường So.",
+          "currentProvinceId": "lai-chau",
+          "description": "Lễ hội gắn với diễn xướng Then và sinh hoạt cộng đồng Thái trắng. Thời gian tổ chức theo lịch địa phương; ngày cụ thể cần xác minh từng năm.",
+          "sourceIds": [
+            "src-203"
+          ],
+          "timeAndLocation": "Vùng Mường So; lịch hằng năm cần đối chiếu thông báo của địa phương.",
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        },
+        {
+          "id": "gau-tao-lai-chau",
+          "name": "Lễ hội Gầu Tào",
+          "originArea": "Một số cộng đồng Mông ở Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "Lễ hội cộng đồng gắn với cầu phúc, cầu sức khỏe và sinh hoạt văn hóa người Mông; quy mô và cách thực hành khác nhau theo địa bàn.",
+          "sourceIds": [
+            "src-202"
+          ],
+          "timeAndLocation": "Theo tập quán của từng cộng đồng và địa phương; không có một ngày cố định toàn tỉnh.",
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-thai-mong-lai-chau",
+          "name": "Trang phục truyền thống Thái và Mông",
+          "originArea": "Các cộng đồng Thái, Mông ở Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "Trang phục khác nhau về chất liệu, hoa văn, kiểu dáng và dịp sử dụng; cần ghi cụ thể theo nhóm cộng đồng, không dùng một kiểu trang phục đại diện cho toàn tỉnh.",
+          "sourceIds": [
+            "src-202"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "nha-san-thai-lai-chau",
+          "name": "Không gian nhà ở và bản Thái",
+          "originArea": "Cộng đồng Thái tại Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "Nhà sàn và không gian bản gắn với sinh hoạt gia đình, quan hệ dòng họ và hoạt động cộng đồng; kiểu nhà thay đổi theo điều kiện địa phương.",
+          "sourceIds": [
+            "src-203"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "ban-thai-muong-so",
+          "name": "Không gian bản Mường So",
+          "originArea": "Lai Châu cũ – khu vực Mường So.",
+          "currentProvinceId": "lai-chau",
+          "description": "Không gian cư trú và sinh hoạt văn hóa của cộng đồng Thái trắng, gắn với lễ hội Then Kin Pang và các thực hành cộng đồng.",
+          "sourceIds": [
+            "src-203"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-then-lai-chau",
+          "name": "Thực hành Then",
+          "originArea": "Cộng đồng Thái tại Lai Châu; di sản có phạm vi nhiều tỉnh.",
+          "currentProvinceId": "lai-chau",
+          "description": "Then là hệ thống thực hành nghi lễ, âm nhạc và tri thức tâm linh trong cộng đồng Tày, Nùng, Thái; không chỉ thuộc riêng Lai Châu.",
+          "sourceIds": [
+            "src-219",
+            "src-203"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "thuc-hanh-then-unesco-lai-chau",
+          "name": "Thực hành Then của người Tày, Nùng, Thái",
+          "originArea": "Cộng đồng Tày, Nùng, Thái ở nhiều tỉnh, có Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "UNESCO ghi danh năm 2019; đây là di sản có phạm vi liên tỉnh, cần mô tả chủ thể và địa bàn thực hành một cách chính xác.",
+          "sourceIds": [
+            "src-219"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        },
+        {
+          "id": "xo-thai-lai-chau",
+          "name": "Nghệ thuật Xòe Thái",
+          "originArea": "Cộng đồng Thái ở nhiều tỉnh Tây Bắc, trong đó có Lai Châu.",
+          "currentProvinceId": "lai-chau",
+          "description": "Xòe Thái được UNESCO ghi danh năm 2021; Lai Châu là một trong những địa bàn thực hành được tư liệu UNESCO nêu.",
+          "sourceIds": [
+            "src-218"
+          ],
+          "originUnitIds": [
+            "lai-chau"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-then-dan-tinh-lai-chau",
+        "name": "Hát Then và đàn tính",
+        "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng, Thái; các nhóm Thái ở Lai Châu.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày, Nùng, Thái; các nhóm Thái ở Lai Châu.",
+        "currentProvinceId": "lai-chau",
+        "characteristics": "Then kết hợp lời hát, giai điệu, nhạc cụ và nghi lễ; nội dung và vai trò thực hành khác nhau theo cộng đồng.",
+        "instrumentsOrPerformance": "Đàn tính là nhạc cụ dây gảy thường đi cùng hát Then; bối cảnh có thể là nghi lễ hoặc sinh hoạt văn nghệ.",
+        "culturalValue": "Góp phần lưu truyền tri thức, ngôn ngữ và ký ức văn hóa cộng đồng.",
+        "recognition": "Thực hành Then được UNESCO ghi danh năm 2019; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-219",
+          "src-203"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "xoe-thai-lai-chau",
+        "name": "Múa Xòe Thái",
+        "category": "Múa dân gian; nghệ thuật cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Múa Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Thái ở Lai Châu và nhiều tỉnh Tây Bắc.",
+        "origin": null,
+        "originArea": "Cộng đồng Thái ở Lai Châu và nhiều tỉnh Tây Bắc.",
+        "currentProvinceId": "lai-chau",
+        "characteristics": "Xòe là hình thức múa cộng đồng với các điệu và đội hình khác nhau.",
+        "instrumentsOrPerformance": "Người tham gia nắm tay hoặc sử dụng đạo cụ theo điệu; nhạc đệm có thể gồm trống, chiêng và nhạc cụ truyền thống.",
+        "culturalValue": "Thể hiện tính cố kết cộng đồng, giao tiếp và vui hội.",
+        "recognition": "UNESCO ghi danh năm 2021; phạm vi liên tỉnh.",
+        "sourceIds": [
+          "src-218"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      },
+      {
+        "id": "khen-mong-lai-chau",
+        "name": "Nghệ thuật trình diễn khèn Mông",
+        "category": "Âm nhạc và múa dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật trình diễn khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Mông ở Lai Châu.",
+        "origin": null,
+        "originArea": "Cộng đồng Mông ở Lai Châu.",
+        "currentProvinceId": "lai-chau",
+        "characteristics": "Khèn vừa là nhạc cụ hơi vừa gắn với nghệ thuật trình diễn và sinh hoạt văn hóa người Mông.",
+        "instrumentsOrPerformance": "Người diễn vừa thổi khèn vừa di chuyển, kết hợp động tác múa; bài bản thay đổi theo dịp và địa bàn.",
+        "culturalValue": "Là biểu đạt nghệ thuật gắn với căn tính cộng đồng Mông.",
+        "recognition": null,
+        "sourceIds": [
+          "src-202"
+        ],
+        "originUnitIds": [
+          "lai-chau"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Lai Châu giữ nguyên đơn vị hành chính cấp tỉnh theo Nghị quyết 202/2025/QH15.",
+      "Diện tích 9.068,73 km², quy mô dân số 512.601 người và 38 đơn vị cấp xã (36 xã, 2 phường) theo tài liệu hành chính năm 2025; số dân là quy mô trong hồ sơ sắp xếp, không phải số điều tra cuối năm 2026.",
+      "Mã tỉnh 12, biển số 25 theo danh mục hiện hành.",
+      "Then và Xòe Thái là di sản liên tỉnh; không gán độc quyền cho Lai Châu.",
+      "Địa chỉ điểm đến lấy theo cổng du lịch tỉnh đã cập nhật cấp xã; tọa độ và giấy phép ảnh chưa xác minh."
+    ],
+    "sourceIds": [
+      "src-204",
+      "src-197",
+      "src-198",
+      "src-200",
+      "src-201",
+      "src-203",
+      "src-219",
+      "src-218"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "lai-chau",
+      "name": "Lai Châu"
+    }
+  ]
+}

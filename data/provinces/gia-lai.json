@@ -1,0 +1,699 @@
+{
+  "id": "gia-lai",
+  "name": "Tỉnh Gia Lai",
+  "administrativeType": "Tỉnh",
+  "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Cảnh quan cao nguyên và duyên hải Gia Lai – ảnh đại diện chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Gia Lai mới hợp nhất Gia Lai và Bình Định trước đây, kết nối cao nguyên bazan, rừng Kon Hà Nừng, không gian Bahnar – Jrai với bờ biển Quy Nhơn và di sản Chăm, Tây Sơn.",
+    "featuredDestinationIds": [
+      "bien-ho-t-nung",
+      "vuon-quoc-gia-kon-ka-kinh"
+    ],
+    "featuredSpecialtyIds": [
+      "pho-kho-gia-lai",
+      "banh-it-la-gai-binh-dinh"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Gia Lai",
+      "administrativeCode": "52",
+      "administrativeCenter": "Phường Quy Nhơn (khu vực thành phố Quy Nhơn, tỉnh Bình Định cũ).",
+      "vehiclePlateCodes": [
+        "77",
+        "81"
+      ],
+      "areaKm2": 21576.53,
+      "areaYear": 2025,
+      "population": {
+        "value": 3583693,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh trải từ cao nguyên Trung Bộ ra duyên hải Nam Trung Bộ; hình thành từ toàn bộ Gia Lai cũ và Bình Định cũ.",
+      "boundaries": [],
+      "naturalFeatures": "Không gian tự nhiên gồm cao nguyên bazan, rừng núi, sông suối và hồ miệng núi lửa ở phía tây; đồng bằng ven biển, đầm phá, bán đảo và bờ biển ở phía đông.",
+      "climate": null,
+      "history": "Tỉnh mới được hình thành từ Gia Lai và Bình Định cũ. Gia Lai cũ có lịch sử cư trú lâu đời của các cộng đồng Jrai, Bahnar và các dân tộc khác, gắn với các không gian làng, rừng và cao nguyên. Bình Định cũ có lịch sử Chăm Pa, phong trào Tây Sơn, thương cảng và văn hóa duyên hải. Sau sắp xếp 2025, hai không gian văn hóa được quản lý trong một đơn vị hành chính nhưng vẫn cần ghi riêng nguồn gốc từng di sản.",
+      "description": "Gia Lai mới là không gian nối cao nguyên với biển. Phía tây nổi bật với Biển Hồ, Chư Đăng Ya, Kon Hà Nừng, văn hóa cồng chiêng Bahnar – Jrai; phía đông là di sản Chăm, Tây Sơn, bài chòi và văn hóa biển của Bình Định cũ.",
+      "sourceIds": [
+        "src-174",
+        "src-175",
+        "src-166",
+        "src-165",
+        "src-167"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "bien-ho-t-nung",
+        "name": "Biển Hồ T’Nưng",
+        "category": "Danh lam thắng cảnh; hồ núi lửa",
+        "originArea": "Gia Lai cũ – Pleiku.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Biển Hồ T’Nưng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Biển Hồ/Pleiku, tỉnh Gia Lai; cần kiểm tra địa chỉ hành chính cụ thể sau sắp xếp.",
+        "coordinates": null,
+        "shortDescription": "Hồ nước ngọt trên cao nguyên, thường được biết đến với tên Biển Hồ và cảnh quan miệng núi lửa.",
+        "fullDescription": "Biển Hồ là thắng cảnh tự nhiên gắn với cảnh quan cao nguyên Pleiku. Bờ hồ, mặt nước và thảm thực vật tạo nên một không gian tham quan – sinh thái đặc trưng.",
+        "highlights": "Mặt hồ rộng; cảnh quan cao nguyên; hệ sinh thái ven hồ.",
+        "historicalCulturalValue": "Là biểu tượng cảnh quan nổi bật của khu vực Gia Lai cũ.",
+        "recognition": "Chưa gán danh hiệu quốc gia/UNESCO cụ thể cho riêng hồ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "chu-dang-ya",
+        "name": "Núi lửa Chư Đăng Ya",
+        "category": "Danh lam thắng cảnh; địa chất",
+        "originArea": "Gia Lai cũ – huyện Chư Păh trước đây.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Núi lửa Chư Đăng Ya – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Ia Khươl/Chư Păh, tỉnh Gia Lai; địa chỉ xã mới cần đối chiếu.",
+        "coordinates": null,
+        "shortDescription": "Cụm núi lửa đã tắt, nổi bật với miệng núi lửa, sườn đất đỏ bazan và mùa hoa dã quỳ.",
+        "fullDescription": "Địa hình núi lửa tạo nên cấu trúc cảnh quan độc đáo. Hoạt động tham quan thường gắn với mùa hoa và trải nghiệm nông nghiệp vùng cao nguyên.",
+        "highlights": "Địa hình núi lửa; đất đỏ bazan; hoa dã quỳ theo mùa.",
+        "historicalCulturalValue": "Gắn với cảnh quan địa chất và sinh kế nông nghiệp của cư dân cao nguyên.",
+        "recognition": "Chưa gán danh hiệu công viên địa chất hoặc xếp hạng khi chưa có quyết định trực tiếp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-kon-ka-kinh",
+        "name": "Vườn quốc gia Kon Ka Kinh",
+        "category": "Vườn quốc gia; bảo tồn đa dạng sinh học",
+        "originArea": "Gia Lai cũ – khu vực Đông Trường Sơn.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Kon Ka Kinh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Địa bàn các xã vùng Mang Yang, Kbang và Đak Đoa; ranh giới quản lý cần đối chiếu bản đồ vườn.",
+        "coordinates": null,
+        "shortDescription": "Vườn quốc gia miền núi với hệ sinh thái rừng thường xanh và đa dạng sinh học cao.",
+        "fullDescription": "Kon Ka Kinh là vùng lõi của Khu dự trữ sinh quyển thế giới Kon Hà Nừng cùng Khu bảo tồn thiên nhiên Kon Chư Răng. Giá trị nổi bật gồm rừng núi, sinh cảnh và đa dạng sinh học.",
+        "highlights": "Rừng thường xanh; địa hình núi cao; động thực vật bản địa.",
+        "historicalCulturalValue": "Có vai trò bảo tồn hệ sinh thái cao nguyên và tri thức sinh thái của cộng đồng địa phương.",
+        "recognition": "Nằm trong vùng lõi Khu dự trữ sinh quyển thế giới Kon Hà Nừng (UNESCO, 2021).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-176",
+          "src-175"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "khu-bao-ton-kon-chu-rang",
+        "name": "Khu bảo tồn thiên nhiên Kon Chư Răng",
+        "category": "Khu bảo tồn thiên nhiên; sinh thái",
+        "originArea": "Gia Lai cũ – vùng Kbang.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Khu bảo tồn thiên nhiên Kon Chư Răng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Kbang, tỉnh Gia Lai; địa chỉ xã hiện hành cần đối chiếu.",
+        "coordinates": null,
+        "shortDescription": "Khu bảo tồn rừng núi với thác, suối và hệ sinh thái rừng tự nhiên.",
+        "fullDescription": "Kon Chư Răng là vùng lõi thứ hai của Khu dự trữ sinh quyển Kon Hà Nừng, nối kết bảo tồn thiên nhiên với cảnh quan thác và rừng.",
+        "highlights": "Rừng nguyên sinh; thác nước; hệ sinh thái suối và núi.",
+        "historicalCulturalValue": "Có giá trị bảo tồn đa dạng sinh học và cảnh quan sinh thái.",
+        "recognition": "Nằm trong vùng lõi Khu dự trữ sinh quyển thế giới Kon Hà Nừng (UNESCO, 2021).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-176"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "bao-tang-quang-trung",
+        "name": "Bảo tàng Quang Trung",
+        "category": "Bảo tàng; di tích lịch sử",
+        "originArea": "Bình Định cũ – Tây Sơn.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Bảo tàng Quang Trung – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tây Sơn, tỉnh Gia Lai; địa chỉ xã mới cần xác minh.",
+        "coordinates": null,
+        "shortDescription": "Bảo tàng và quần thể di tích gắn với phong trào Tây Sơn và Hoàng đế Quang Trung – Nguyễn Huệ.",
+        "fullDescription": "Không gian trưng bày giới thiệu phong trào Tây Sơn, nhân vật lịch sử và các sự kiện cuối thế kỷ XVIII; đây là điểm trọng yếu để bảo tồn ký ức lịch sử vùng Bình Định cũ.",
+        "highlights": "Tư liệu Tây Sơn; hiện vật; không gian tưởng niệm.",
+        "historicalCulturalValue": "Giá trị lịch sử quốc gia gắn với phong trào Tây Sơn.",
+        "recognition": "Cần dẫn quyết định xếp hạng di tích cụ thể ở bước rà soát pháp lý.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      },
+      {
+        "id": "thap-banh-it",
+        "name": "Tháp Bánh Ít",
+        "category": "Di tích kiến trúc nghệ thuật; tháp Chăm",
+        "originArea": "Bình Định cũ – vùng Tuy Phước.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Tháp Bánh Ít – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tuy Phước, tỉnh Gia Lai; địa chỉ xã hiện hành cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Quần thể tháp Chăm bằng gạch nằm trên đồi, phản ánh nghệ thuật kiến trúc Chăm Pa.",
+        "fullDescription": "Tháp Bánh Ít gồm các công trình có bố cục và trang trí khác nhau. Công trình phản ánh kỹ thuật xây gạch và nghệ thuật kiến trúc tôn giáo Chăm.",
+        "highlights": "Kiến trúc tháp gạch; điêu khắc trang trí; cảnh quan đồi.",
+        "historicalCulturalValue": "Là chứng tích quan trọng của lịch sử và văn hóa Chăm tại Bình Định cũ.",
+        "recognition": "Di tích kiến trúc nghệ thuật; cần kiểm tra quyết định xếp hạng và tên đơn vị quản lý hiện hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      },
+      {
+        "id": "eo-gio",
+        "name": "Eo Gió",
+        "category": "Danh lam thắng cảnh; ven biển",
+        "originArea": "Bình Định cũ – Quy Nhơn.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Eo Gió – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực bán đảo Phương Mai, phường Quy Nhơn Đông, tỉnh Gia Lai; cần kiểm tra lại địa chỉ cấp phường.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan ven biển có vách đá, eo biển và đường đi bộ men theo sườn núi.",
+        "fullDescription": "Eo Gió là điểm tham quan tự nhiên của vùng biển Quy Nhơn, có cảnh quan gió biển và địa hình đá ven bờ.",
+        "highlights": "Vách đá; đường bờ biển; tầm nhìn ra biển.",
+        "historicalCulturalValue": "Gắn với cảnh quan biển đảo và du lịch cộng đồng của Bình Định cũ.",
+        "recognition": "Không gán danh hiệu di tích nếu chưa có căn cứ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "pho-kho-gia-lai",
+        "name": "Phở khô Gia Lai",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Gia Lai cũ – Pleiku.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Phở khô Gia Lai – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Phở khô Gia Lai gắn với Gia Lai cũ – Pleiku.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Bánh phở khô",
+          "Thịt bò hoặc gà tùy phiên bản",
+          "Nước dùng, rau, gia vị."
+        ],
+        "preparation": "Bánh phở được trụng riêng; ăn kèm bát nước dùng và thịt, rau, gia vị. Công thức thay đổi theo quán.",
+        "characteristics": "Cách phục vụ hai tô là đặc điểm thường được nhắc tới của phở khô Pleiku.",
+        "culturalContext": "Món ăn đô thị gắn với văn hóa ẩm thực Pleiku.",
+        "recognition": "Không có danh hiệu bảo hộ chung được xác minh.",
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "bo-mot-nang-muoi-kien-vang",
+        "name": "Bò một nắng muối kiến vàng",
+        "category": "Thực phẩm chế biến; đặc sản",
+        "originArea": "Gia Lai cũ – vùng Krông Pa.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Bò một nắng muối kiến vàng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bò một nắng muối kiến vàng gắn với Gia Lai cũ – vùng Krông Pa.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Thịt bò",
+          "Muối, ớt và gia vị",
+          "Kiến vàng hoặc muối kiến vàng theo tập quán địa phương."
+        ],
+        "preparation": "Thịt bò được tẩm ướp, phơi một nắng rồi nướng hoặc làm chín trước khi ăn; muối chấm được chế biến riêng.",
+        "characteristics": "Thịt có độ dai và vị đậm; ăn kèm muối kiến vàng có vị chua cay đặc trưng.",
+        "culturalContext": "Gắn với sinh kế chăn nuôi và tri thức ẩm thực của cư dân địa phương; cần ghi nhận theo từng cơ sở và cộng đồng.",
+        "recognition": "Chưa xác minh danh hiệu/nhãn hiệu cụ thể.",
+        "sourceIds": [
+          "src-175"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "banh-it-la-gai-binh-dinh",
+        "name": "Bánh ít lá gai",
+        "category": "Bánh truyền thống",
+        "originArea": "Bình Định cũ – các làng nghề và đô thị vùng Quy Nhơn.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Bánh ít lá gai – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh ít lá gai gắn với Bình Định cũ – các làng nghề và đô thị vùng Quy Nhơn.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Bột nếp",
+          "Lá gai",
+          "Đậu xanh hoặc dừa, đường."
+        ],
+        "preparation": "Lá gai được luộc, xay hoặc giã, trộn với bột nếp; nhân đậu xanh hoặc dừa, gói lá và hấp chín.",
+        "characteristics": "Vỏ bánh màu sẫm, dẻo; bánh có nhân ngọt. Hình dáng và cách gói khác nhau theo cơ sở.",
+        "culturalContext": "Gắn với văn hóa ẩm thực và tập quán quà bánh ở Bình Định cũ.",
+        "recognition": "Không khẳng định độc quyền chỉ ở Gia Lai mới.",
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      },
+      {
+        "id": "ruou-bau-da",
+        "name": "Rượu Bàu Đá",
+        "category": "Đồ uống truyền thống",
+        "originArea": "Bình Định cũ – khu vực làng Bàu Đá.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Rượu Bàu Đá – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Rượu Bàu Đá gắn với Bình Định cũ – khu vực làng Bàu Đá.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Gạo hoặc nguyên liệu tinh bột theo dòng sản phẩm",
+          "Men rượu và nước."
+        ],
+        "preparation": "Ủ men, lên men và chưng cất theo kỹ thuật của hộ nghề; quy trình cần phân biệt giữa các cơ sở sản xuất.",
+        "characteristics": "Rượu chưng cất có nồng độ cồn cao; đặc trưng cảm quan tùy mẻ và quy trình.",
+        "culturalContext": "Nghề nấu rượu truyền thống gắn với làng nghề địa phương.",
+        "recognition": "Chưa xác minh chứng nhận cụ thể trong bộ nguồn này.",
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      },
+      {
+        "id": "nem-cho-huyen",
+        "name": "Nem Chợ Huyện",
+        "category": "Thực phẩm chế biến; đặc sản",
+        "originArea": "Bình Định cũ – khu vực Chợ Huyện, Tuy Phước.",
+        "currentProvinceId": "gia-lai",
+        "image": {
+          "file": null,
+          "alt": "Nem Chợ Huyện – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nem Chợ Huyện gắn với Bình Định cũ – khu vực Chợ Huyện, Tuy Phước.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Thịt heo",
+          "Da heo",
+          "Thính và gia vị."
+        ],
+        "preparation": "Thịt và da được sơ chế, phối trộn, gói và ủ lên men; công thức khác nhau theo cơ sở.",
+        "characteristics": "Vị chua, thơm, thường dùng làm món ăn kèm hoặc quà.",
+        "culturalContext": "Gắn với nghề chế biến thực phẩm và chợ truyền thống vùng Tuy Phước.",
+        "recognition": "Chứng nhận và quy chuẩn chất lượng cần tra cứu riêng.",
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-jarai-gia-lai",
+          "name": "Cộng đồng Jrai",
+          "originArea": "Gia Lai cũ – các vùng cư trú Tây Nguyên.",
+          "description": "Jrai là một trong các cộng đồng dân tộc thiểu số có dân số đáng kể ở tỉnh Gia Lai mới. Đời sống văn hóa gắn với buôn làng, nhà ở, nghi lễ, nhạc cụ và không gian rừng – nương rẫy; không suy rộng một thực hành cho mọi nhóm Jrai.",
+          "sourceIds": [
+            "src-175"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        },
+        {
+          "id": "cong-dong-bahnar-gia-lai",
+          "name": "Cộng đồng Bahnar",
+          "originArea": "Gia Lai cũ – các khu vực cư trú ở cao nguyên.",
+          "description": "Cộng đồng Bahnar duy trì nhiều hình thức sinh hoạt làng, nhà rông, cồng chiêng, sử thi và nghi lễ; từng nhóm địa phương có khác biệt.",
+          "sourceIds": [
+            "src-175",
+            "src-177"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-binh-dinh",
+          "name": "Cộng đồng Kinh vùng Bình Định cũ",
+          "originArea": "Bình Định cũ – đồng bằng và ven biển.",
+          "description": "Đời sống cư dân Kinh vùng duyên hải gắn với làng biển, nông nghiệp, thương mại, nghệ thuật bài chòi và tuồng/hát bội.",
+          "sourceIds": [
+            "src-178"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "binh-dinh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "khong-gian-nha-rong-gia-lai",
+          "name": "Không gian nhà rông và sinh hoạt buôn làng",
+          "originArea": "Các cộng đồng Bahnar, Jrai tại Gia Lai cũ.",
+          "description": "Nhà rông là không gian cộng đồng ở một số làng Bahnar, Jrai, gắn với họp làng, nghi lễ và sinh hoạt tập thể; hình thức kiến trúc thay đổi theo cộng đồng.",
+          "sourceIds": [
+            "src-175",
+            "src-177"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-cong-chieng-tay-nguyen",
+          "name": "Lễ hội và sinh hoạt cồng chiêng Tây Nguyên",
+          "originArea": "Gia Lai cũ – các cộng đồng Jrai, Bahnar; phạm vi văn hóa liên tỉnh.",
+          "description": "Các lễ hội, nghi lễ có cồng chiêng gắn với vòng đời, mùa vụ, lễ mừng và sinh hoạt cộng đồng. Cần xác minh tên lễ hội và ngày cụ thể tại từng địa bàn.",
+          "sourceIds": [
+            "src-177",
+            "src-175"
+          ],
+          "currentProvinceId": "gia-lai",
+          "timeAndLocation": "Theo lịch nghi lễ của từng buôn/làng; không có một ngày chung cho toàn tỉnh.",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        },
+        {
+          "id": "le-hoi-tay-son",
+          "name": "Lễ hội Tây Sơn",
+          "originArea": "Bình Định cũ – vùng Tây Sơn.",
+          "description": "Hoạt động tưởng niệm phong trào Tây Sơn và Hoàng đế Quang Trung; chương trình, thời gian tổ chức theo lịch địa phương hằng năm.",
+          "sourceIds": [
+            "src-174"
+          ],
+          "currentProvinceId": "gia-lai",
+          "timeAndLocation": "Khu vực Tây Sơn; thời gian cần kiểm tra lịch tổ chức từng năm.",
+          "originUnitIds": [
+            "binh-dinh"
+          ]
+        },
+        {
+          "id": "hoi-cau-ngu-binh-dinh",
+          "name": "Lễ hội cầu ngư vùng biển Bình Định",
+          "originArea": "Bình Định cũ – cộng đồng ngư dân ven biển.",
+          "description": "Lễ hội và nghi thức cầu ngư phản ánh tín ngưỡng biển của một số cộng đồng ngư dân; quy mô và trình tự khác nhau theo làng biển.",
+          "sourceIds": [
+            "src-174"
+          ],
+          "currentProvinceId": "gia-lai",
+          "timeAndLocation": "Tại các làng biển; thời gian theo lệ làng và lịch từng năm.",
+          "originUnitIds": [
+            "binh-dinh"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "sinh-hoat-buon-lang-gia-lai",
+          "name": "Sinh hoạt cộng đồng buôn/làng Tây Nguyên",
+          "originArea": "Các cộng đồng Bahnar, Jrai tại Gia Lai cũ.",
+          "description": "Sinh hoạt cộng đồng dựa trên thiết chế làng, quan hệ họ hàng, nhà rông và các hoạt động lễ nghi. Cần nghiên cứu theo từng tộc người và địa bàn.",
+          "sourceIds": [
+            "src-175"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-rong-bahnar-jarai",
+          "name": "Nhà rông và kiến trúc cộng đồng",
+          "originArea": "Gia Lai cũ – một số buôn/làng Bahnar và Jrai.",
+          "description": "Nhà rông là công trình cộng đồng ở nhiều làng, có vai trò xã hội và nghi lễ; kiến trúc, tên gọi và công năng có biến thể giữa cộng đồng.",
+          "sourceIds": [
+            "src-175"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        },
+        {
+          "id": "thap-cham-binh-dinh",
+          "name": "Không gian tháp Chăm Bình Định",
+          "originArea": "Bình Định cũ – các cụm tháp Chăm.",
+          "description": "Các tháp gạch và di tích liên quan phản ánh lịch sử Chăm Pa ở duyên hải Nam Trung Bộ; cần đặt trong bối cảnh lịch sử rộng hơn, không đồng nhất với di tích Tây Nguyên.",
+          "sourceIds": [
+            "src-174"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "binh-dinh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-va-nghi-le-cong-chieng",
+          "name": "Tín ngưỡng và nghi lễ gắn với cồng chiêng",
+          "originArea": "Cộng đồng Bahnar, Jrai; phạm vi liên tỉnh Tây Nguyên.",
+          "description": "Cồng chiêng có mặt trong nhiều nghi lễ và hoạt động cộng đồng; không phải mọi bài bản hay nghi lễ đều giống nhau giữa các làng.",
+          "sourceIds": [
+            "src-177",
+            "src-175"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "khong-gian-van-hoa-cong-chieng",
+          "name": "Không gian văn hóa cồng chiêng Tây Nguyên",
+          "originArea": "Gia Lai cũ và các tỉnh Tây Nguyên.",
+          "description": "Di sản văn hóa phi vật thể có phạm vi liên tỉnh, trong đó Gia Lai là một địa bàn thực hành; UNESCO ghi danh năm 2008.",
+          "sourceIds": [
+            "src-177"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "gia-lai"
+          ]
+        },
+        {
+          "id": "nghe-thuat-bai-choi-trung-bo",
+          "name": "Nghệ thuật Bài chòi Trung Bộ",
+          "originArea": "Bình Định cũ và các địa phương Trung Bộ.",
+          "description": "Bài chòi là hình thức nghệ thuật dân gian kết hợp âm nhạc, thơ, diễn xướng và trò chơi; Gia Lai mới kế thừa không gian thực hành ở Bình Định cũ.",
+          "sourceIds": [
+            "src-178"
+          ],
+          "currentProvinceId": "gia-lai",
+          "originUnitIds": [
+            "binh-dinh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "cong-chieng-bahnar-jarai",
+        "name": "Cồng chiêng Bahnar và Jrai",
+        "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Cồng chiêng Bahnar và Jrai – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Bahnar, Jrai ở Gia Lai cũ và không gian Tây Nguyên.",
+        "origin": "Âm nhạc cồng chiêng gắn với đời sống và nghi lễ của các cộng đồng Tây Nguyên.",
+        "originArea": "Cộng đồng Bahnar, Jrai ở Gia Lai cũ và không gian Tây Nguyên.",
+        "currentProvinceId": "gia-lai",
+        "characteristics": "Mỗi cộng đồng có hệ thống chiêng, cách hòa tấu, tiết tấu và bối cảnh thực hành riêng.",
+        "instrumentsOrPerformance": "Dàn cồng chiêng, trống và nhạc cụ cộng đồng; diễn tấu trong lễ hội và nghi lễ.",
+        "culturalValue": "Tạo không gian gắn kết cộng đồng và truyền tải tri thức, ký ức văn hóa.",
+        "recognition": "UNESCO ghi danh Không gian văn hóa cồng chiêng Tây Nguyên năm 2008; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-177",
+          "src-175"
+        ],
+        "originUnitIds": [
+          "gia-lai"
+        ]
+      },
+      {
+        "id": "bai-choi-binh-dinh",
+        "name": "Nghệ thuật Bài chòi Bình Định",
+        "category": "Diễn xướng dân gian; trò chơi dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật Bài chòi Bình Định – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Bình Định cũ – các làng, đô thị duyên hải.",
+        "origin": "Bài chòi Trung Bộ phát triển tại các cộng đồng miền Trung; Bình Định là một vùng thực hành tiêu biểu.",
+        "originArea": "Bình Định cũ – các làng, đô thị duyên hải.",
+        "currentProvinceId": "gia-lai",
+        "characteristics": "Kết hợp hát, hô, thơ, diễn xướng và trò chơi bài chòi; nội dung gắn với đời sống dân gian.",
+        "instrumentsOrPerformance": "Người hiệu điều khiển cuộc chơi, hát các câu thai và người chơi ngồi ở các chòi.",
+        "culturalValue": "Là di sản diễn xướng có tính cộng đồng, vừa giải trí vừa lưu truyền lời ca dân gian.",
+        "recognition": "UNESCO ghi danh nghệ thuật Bài chòi Trung Bộ năm 2017; phạm vi liên tỉnh.",
+        "sourceIds": [
+          "src-178"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      },
+      {
+        "id": "hat-boi-binh-dinh",
+        "name": "Tuồng / Hát bội Bình Định",
+        "category": "Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Tuồng / Hát bội Bình Định – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Bình Định cũ – không gian văn hóa Quy Nhơn và các vùng phụ cận.",
+        "origin": "Nghệ thuật tuồng/hát bội có lịch sử phát triển ở Bình Định và miền Trung.",
+        "originArea": "Bình Định cũ – không gian văn hóa Quy Nhơn và các vùng phụ cận.",
+        "currentProvinceId": "gia-lai",
+        "characteristics": "Sân khấu ước lệ, động tác hình thể, hóa trang, phục trang và âm nhạc truyền thống.",
+        "instrumentsOrPerformance": "Diễn viên ca, diễn theo làn điệu và bộ pháp; nhạc cụ sân khấu truyền thống.",
+        "culturalValue": "Gắn với lịch sử nghệ thuật biểu diễn vùng Bình Định cũ.",
+        "recognition": "Chưa gán danh hiệu UNESCO hoặc quốc gia trong hồ sơ này.",
+        "sourceIds": [
+          "src-174"
+        ],
+        "originUnitIds": [
+          "binh-dinh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Tỉnh Gia Lai mới hình thành từ toàn bộ Gia Lai cũ và Bình Định cũ; trung tâm hành chính tại phường Quy Nhơn.",
+      "Diện tích 21.576,53 km², quy mô dân số 3.583.693 người và 135 đơn vị cấp xã là số liệu trong nguồn chính thức sau sắp xếp; dân số không phải số điều tra cuối năm 2026.",
+      "Có 110 xã và 25 phường theo nguồn HĐND tỉnh. Mã tỉnh 52; biển số liên quan hai vùng tiền thân là 77 và 81 theo Thông tư 51/2025/TT-BCA.",
+      "Nội dung văn hóa cồng chiêng và bài chòi là di sản liên tỉnh; không được ghi nhận như di sản chỉ thuộc Gia Lai.",
+      "Tọa độ, địa chỉ xã hiện hành của một số điểm thuộc Bình Định cũ, ảnh và thông tin tham quan cần tiếp tục kiểm chứng.",
+      "Mô tả ranh giới các tỉnh giáp ranh được để trống chờ đối chiếu bản đồ địa giới số chính thức; không suy diễn từ ranh giới các đơn vị tiền thân."
+    ],
+    "sourceIds": [
+      "src-174",
+      "src-175",
+      "src-176",
+      "src-177",
+      "src-178",
+      "src-166",
+      "src-165",
+      "src-167"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "gia-lai",
+      "name": "Gia Lai"
+    },
+    {
+      "id": "binh-dinh",
+      "name": "Bình Định"
+    }
+  ]
+}

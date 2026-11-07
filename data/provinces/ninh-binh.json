@@ -1,0 +1,709 @@
+{
+  "id": "ninh-binh",
+  "name": "Tỉnh Ninh Bình",
+  "administrativeType": "Tỉnh",
+  "region": "Đồng bằng sông Hồng",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Ninh Bình – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Ninh Bình mới kế thừa không gian văn hóa của Hà Nam, Nam Định và Ninh Bình cũ. Tràng An, cố đô Hoa Lư, Phủ Dầy, Phát Diệm và Tam Chúc cho thấy sự kết nối giữa di sản thiên nhiên, lịch sử, tín ngưỡng và kiến trúc vùng đồng bằng Bắc Bộ.",
+    "featuredDestinationIds": [
+      "quan-the-danh-thang-trang-an",
+      "co-do-hoa-lu"
+    ],
+    "featuredSpecialtyIds": [
+      "de-nui-ninh-binh",
+      "pho-nam-dinh"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Ninh Bình",
+      "administrativeCode": "37",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "18",
+        "35",
+        "90"
+      ],
+      "areaKm2": 3942.62,
+      "areaYear": 2025,
+      "population": {
+        "value": 4412264,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh đồng bằng sông Hồng, được hình thành từ Hà Nam, Nam Định và Ninh Bình cũ; có vùng núi đá vôi, đồng bằng, ven biển và cửa sông.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình gồm núi đá vôi, đồng bằng phù sa, vùng đất ngập nước, sông và dải ven biển; Tràng An, Vân Long, Cúc Phương và vùng cửa sông Kim Sơn là các hệ sinh thái nổi bật.",
+      "climate": null,
+      "history": "Tỉnh mới hình thành trên cơ sở sáp nhập Hà Nam, Nam Định và Ninh Bình từ 01/07/2025. Các vùng tiền thân có lịch sử riêng: trung tâm nhà nước Đại Cồ Việt tại Hoa Lư; không gian tín ngưỡng thờ Mẫu tại Nam Định; vùng đồng bằng và di sản kiến trúc Hà Nam.",
+      "description": "Ninh Bình kết nối di sản Tràng An – Hoa Lư, cảnh quan núi đá vôi, nhà thờ Phát Diệm, Phủ Dầy và các giá trị văn hóa ẩm thực của ba vùng tiền thân.",
+      "sourceIds": [
+        "src-226",
+        "src-227",
+        "src-228",
+        "src-234",
+        "src-235",
+        "src-236",
+        "src-237",
+        "src-238"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "quan-the-danh-thang-trang-an",
+        "name": "Quần thể danh thắng Tràng An",
+        "category": "Di sản thế giới; danh lam thắng cảnh",
+        "originArea": "Ninh Bình cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Quần thể danh thắng Tràng An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các khu vực Tràng An thuộc tỉnh Ninh Bình.",
+        "coordinates": null,
+        "shortDescription": "Không gian núi đá vôi, thung nước, hang động và di tích khảo cổ – lịch sử.",
+        "fullDescription": "Tràng An là quần thể di sản hỗn hợp, kết hợp giá trị văn hóa, lịch sử, khảo cổ và cảnh quan karst. UNESCO ghi danh năm 2014; các tuyến tham quan và điểm đón khách cần theo thông báo chính thức tại thời điểm đi.",
+        "highlights": "Cảnh quan karst ngập nước; hang xuyên thủy; di tích Hoa Lư; hệ sinh thái.",
+        "historicalCulturalValue": "Giá trị nổi bật toàn cầu về văn hóa và thiên nhiên.",
+        "recognition": "UNESCO World Heritage, 2014.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-237",
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "co-do-hoa-lu",
+        "name": "Cố đô Hoa Lư",
+        "category": "Di tích lịch sử; kiến trúc cổ",
+        "originArea": "Ninh Bình cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Cố đô Hoa Lư – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Hoa Lư, tỉnh Ninh Bình.",
+        "coordinates": null,
+        "shortDescription": "Kinh đô của nhà Đinh và Tiền Lê, sau đó là kinh đô đầu thời Lý.",
+        "fullDescription": "Không gian cố đô gồm đền thờ vua Đinh, vua Lê và các dấu tích thành lũy, núi đá bao bọc. Đây là điểm quan trọng để tìm hiểu nhà nước Đại Cồ Việt thế kỷ X.",
+        "highlights": "Đền vua Đinh; đền vua Lê; núi đá và dấu tích kinh đô.",
+        "historicalCulturalValue": "Giá trị lịch sử hình thành nhà nước phong kiến độc lập.",
+        "recognition": "Di tích quốc gia đặc biệt (quần thể di tích cố đô Hoa Lư).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-235",
+          "src-237"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "tam-coc-bich-dong",
+        "name": "Tam Cốc – Bích Động",
+        "category": "Danh lam thắng cảnh; du lịch sinh thái",
+        "originArea": "Ninh Bình cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Tam Cốc – Bích Động – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tam Cốc – Bích Động, tỉnh Ninh Bình.",
+        "coordinates": null,
+        "shortDescription": "Tuyến sông Ngô Đồng đi qua cánh đồng và các hang xuyên núi, kết nối với chùa Bích Động.",
+        "fullDescription": "Tam Cốc thường được giới thiệu qua trải nghiệm thuyền trên sông, đồng lúa theo mùa và hệ thống hang; Bích Động là cụm chùa trong cảnh quan núi đá.",
+        "highlights": "Sông Ngô Đồng; hang Cả, hang Hai, hang Ba; chùa Bích Động.",
+        "historicalCulturalValue": "Giá trị cảnh quan và văn hóa – tín ngưỡng.",
+        "recognition": "Thuộc vùng cảnh quan Tràng An được UNESCO ghi danh.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-235",
+          "src-237"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-cuc-phuong",
+        "name": "Vườn quốc gia Cúc Phương",
+        "category": "Vườn quốc gia; bảo tồn đa dạng sinh học",
+        "originArea": "Ninh Bình cũ và vùng giáp ranh các tỉnh lân cận.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Cúc Phương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cúc Phương, tỉnh Ninh Bình.",
+        "coordinates": null,
+        "shortDescription": "Khu rừng nhiệt đới trên núi đá vôi, có hệ sinh thái rừng, hang động và chương trình bảo tồn linh trưởng.",
+        "fullDescription": "Cúc Phương là vườn quốc gia đầu tiên của Việt Nam, có giá trị đa dạng sinh học và nghiên cứu thiên nhiên. Thông tin tuyến tham quan, trung tâm cứu hộ và mùa bướm cần cập nhật trực tiếp từ ban quản lý.",
+        "highlights": "Rừng nguyên sinh; cây chò ngàn năm; trung tâm cứu hộ; hang Người Xưa.",
+        "historicalCulturalValue": "Giá trị bảo tồn thiên nhiên, giáo dục môi trường và khảo cổ.",
+        "recognition": "Vườn quốc gia; khu bảo tồn thiên nhiên.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "nha-tho-phat-diem",
+        "name": "Quần thể nhà thờ đá Phát Diệm",
+        "category": "Công trình kiến trúc; tôn giáo",
+        "originArea": "Ninh Bình cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Quần thể nhà thờ đá Phát Diệm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Phát Diệm, tỉnh Ninh Bình.",
+        "coordinates": null,
+        "shortDescription": "Quần thể nhà thờ Công giáo kết hợp kỹ thuật xây dựng đá, gỗ và ngôn ngữ kiến trúc Á Đông.",
+        "fullDescription": "Nhà thờ chính, phương đình và các nhà nguyện tạo nên quần thể kiến trúc đặc sắc cuối thế kỷ XIX. Nên giới thiệu đây là công trình tôn giáo có sự giao thoa kiến trúc, không giản lược thành một phong cách thuần nhất.",
+        "highlights": "Phương đình; nhà thờ chính; hồ nước; các nhà nguyện đá.",
+        "historicalCulturalValue": "Giá trị kiến trúc, lịch sử tôn giáo và giao lưu văn hóa.",
+        "recognition": "Di tích kiến trúc nghệ thuật cấp quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "phu-day-nam-dinh",
+        "name": "Quần thể di tích Phủ Dầy",
+        "category": "Di tích tín ngưỡng; lễ hội",
+        "originArea": "Nam Định cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Quần thể di tích Phủ Dầy – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Phủ Dầy, tỉnh Ninh Bình hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Không gian thờ Mẫu Liễu Hạnh và thực hành tín ngưỡng dân gian gắn với phủ, đền và lễ hội.",
+        "fullDescription": "Phủ Dầy là một trung tâm thực hành tín ngưỡng thờ Mẫu ở Nam Định cũ. Thực hành thờ Mẫu Tam phủ của người Việt được UNESCO ghi danh năm 2016; cần phân biệt ghi danh thực hành văn hóa với xếp hạng từng công trình.",
+        "highlights": "Phủ Tiên Hương; Phủ Vân Cát; Lăng Mẫu; lễ hội tháng Ba âm lịch.",
+        "historicalCulturalValue": "Giá trị tín ngưỡng, diễn xướng và vai trò cộng đồng.",
+        "recognition": "Thực hành tín ngưỡng thờ Mẫu Tam phủ được UNESCO ghi danh 2016; không đồng nghĩa mọi công trình tại Phủ Dầy đều là di sản thế giới.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-238"
+        ],
+        "originUnitIds": [
+          "nam-dinh"
+        ]
+      },
+      {
+        "id": "chua-tam-chuc",
+        "name": "Quần thể chùa Tam Chúc",
+        "category": "Công trình tôn giáo; cảnh quan",
+        "originArea": "Hà Nam cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Quần thể chùa Tam Chúc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tam Chúc, tỉnh Ninh Bình hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Quần thể chùa bên hồ và núi đá vôi, được phát triển thành điểm hành hương và du lịch văn hóa.",
+        "fullDescription": "Tam Chúc là điểm đến nổi bật của khu vực Hà Nam cũ. Quy mô công trình, hoạt động tôn giáo và dịch vụ tham quan cần theo thông tin của đơn vị quản lý tại thời điểm truy cập.",
+        "highlights": "Hồ Tam Chúc; điện Tam Thế; vườn cột kinh; cảnh quan núi đá.",
+        "historicalCulturalValue": "Giá trị tôn giáo, kiến trúc đương đại và cảnh quan.",
+        "recognition": "Điểm du lịch/không gian tôn giáo; không tự gán danh hiệu UNESCO.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ha-nam"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "de-nui-ninh-binh",
+        "name": "Dê núi Ninh Bình",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Ninh Bình cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Dê núi Ninh Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Dê núi Ninh Bình gắn với Ninh Bình cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt dê",
+          "Các loại rau thơm, gia vị và nguyên liệu chế biến theo món."
+        ],
+        "preparation": "Thịt dê được chế biến thành nhiều món như tái, hấp, nướng hoặc xào; công thức thay đổi giữa các cơ sở.",
+        "characteristics": "Thịt săn, thường ăn cùng rau thơm và nước chấm địa phương.",
+        "culturalContext": "Gắn với địa hình núi đá vôi và hệ thống nhà hàng phục vụ du lịch.",
+        "recognition": "Đặc sản địa phương; không có nghĩa là chỉ Ninh Bình mới có món dê.",
+        "sourceIds": [
+          "src-236",
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "com-chay-ninh-binh",
+        "name": "Cơm cháy Ninh Bình",
+        "category": "Món ăn; sản phẩm chế biến",
+        "originArea": "Ninh Bình cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Cơm cháy Ninh Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cơm cháy Ninh Bình gắn với Ninh Bình cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Cơm gạo",
+          "Dầu hoặc mỡ; nước sốt và nguyên liệu ăn kèm."
+        ],
+        "preparation": "Cơm được tạo lớp cháy giòn, sấy hoặc chiên; thường dùng với sốt tim cật hoặc sốt thịt.",
+        "characteristics": "Miếng cơm giòn, vàng; kết hợp sốt mặn ngọt.",
+        "culturalContext": "Sản phẩm ẩm thực phát triển cùng hoạt động du lịch và thương mại địa phương.",
+        "recognition": "Đặc sản gắn với Ninh Bình.",
+        "sourceIds": [
+          "src-236"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "nem-chua-yen-mac",
+        "name": "Nem chua Yên Mạc",
+        "category": "Món ăn; thực phẩm lên men",
+        "originArea": "Ninh Bình cũ – vùng Yên Mạc.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Nem chua Yên Mạc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nem chua Yên Mạc gắn với Ninh Bình cũ – vùng Yên Mạc.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt lợn",
+          "Bì lợn",
+          "Thính gạo",
+          "Lá gói và gia vị."
+        ],
+        "preparation": "Thịt và bì được sơ chế, trộn gia vị, thính rồi gói và ủ lên men tự nhiên theo kinh nghiệm địa phương.",
+        "characteristics": "Vị chua dịu, thơm thính, có độ giòn của bì.",
+        "culturalContext": "Gắn với nghề chế biến gia đình và tập quán dùng món lên men trong bữa ăn.",
+        "recognition": "Đặc sản địa phương; công thức có biến thể theo cơ sở.",
+        "sourceIds": [
+          "src-236"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "ruou-kim-son",
+        "name": "Rượu Kim Sơn",
+        "category": "Đồ uống truyền thống",
+        "originArea": "Ninh Bình cũ – vùng Kim Sơn.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Rượu Kim Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Rượu Kim Sơn gắn với Ninh Bình cũ – vùng Kim Sơn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp",
+          "Men rượu",
+          "Nước."
+        ],
+        "preparation": "Gạo nấu chín, trộn men, ủ lên men rồi chưng cất theo quy trình hộ gia đình/cơ sở.",
+        "characteristics": "Rượu trong, mùi thơm gạo và men; nồng độ tùy mẻ.",
+        "culturalContext": "Gắn với vùng sản xuất rượu truyền thống của Kim Sơn.",
+        "recognition": "Sản phẩm địa phương; không tự gán chứng nhận chất lượng.",
+        "sourceIds": [
+          "src-236"
+        ],
+        "originUnitIds": [
+          "ninh-binh"
+        ]
+      },
+      {
+        "id": "pho-nam-dinh",
+        "name": "Phở Nam Định",
+        "category": "Món ăn; ẩm thực vùng",
+        "originArea": "Nam Định cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Phở Nam Định – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Phở Nam Định gắn với Nam Định cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Bánh phở",
+          "Thịt bò hoặc gà",
+          "Nước dùng từ xương và gia vị."
+        ],
+        "preparation": "Nước dùng được ninh; bánh phở trụng nóng, ăn cùng thịt và rau gia vị.",
+        "characteristics": "Nước dùng đậm, hương gừng và hồi; phong cách có biến thể theo quán.",
+        "culturalContext": "Gắn với truyền thống ẩm thực đô thị Nam Định và nghề phở địa phương.",
+        "recognition": "Đặc sản vùng Nam Định cũ; món phở phổ biến ở nhiều địa phương.",
+        "sourceIds": [
+          "src-236"
+        ],
+        "originUnitIds": [
+          "nam-dinh"
+        ]
+      },
+      {
+        "id": "keo-si-chau-nam-dinh",
+        "name": "Kẹo Sìu Châu",
+        "category": "Bánh kẹo truyền thống",
+        "originArea": "Nam Định cũ.",
+        "currentProvinceId": "ninh-binh",
+        "image": {
+          "file": null,
+          "alt": "Kẹo Sìu Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Kẹo Sìu Châu gắn với Nam Định cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Lạc",
+          "Mạch nha",
+          "Đường",
+          "Vừng."
+        ],
+        "preparation": "Lạc rang trộn với mạch nha và đường nấu tới độ kết dính, cán và cắt miếng.",
+        "characteristics": "Giòn, thơm lạc và vừng; vị ngọt của mạch nha.",
+        "culturalContext": "Gắn với nghề làm bánh kẹo truyền thống ở khu vực Nam Định cũ.",
+        "recognition": "Sản phẩm truyền thống; cần bổ sung hồ sơ nhãn hiệu và cơ sở sản xuất cụ thể.",
+        "sourceIds": [
+          "src-236"
+        ],
+        "originUnitIds": [
+          "nam-dinh"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-ninh-binh",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Toàn địa bàn tỉnh mới.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Cộng đồng Kinh chiếm đa số, với không gian cư trú đồng bằng, ven biển, đô thị và vùng núi; các phong tục khác nhau theo vùng tiền thân.",
+          "sourceIds": [
+            "src-235",
+            "src-238"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "cong-dong-muong-ninh-binh",
+          "name": "Cộng đồng Mường",
+          "originArea": "Vùng núi Nho Quan và các khu vực giáp Hòa Bình cũ.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Cộng đồng Mường có thực hành ngôn ngữ, nhà ở, nghi lễ và diễn xướng riêng; cần mô tả theo từng địa bàn và chủ thể.",
+          "sourceIds": [
+            "src-235"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "customs": [
+        {
+          "id": "tin-nguong-tho-mau-tam-phu",
+          "name": "Thực hành tín ngưỡng thờ Mẫu Tam phủ",
+          "originArea": "Nam Định cũ và các vùng thực hành tín ngưỡng thờ Mẫu.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Thực hành thờ Mẫu có nghi lễ, diễn xướng chầu văn và hệ thống đền phủ; UNESCO ghi danh năm 2016. Không đồng nhất các hình thức thờ Mẫu tại mọi vùng.",
+          "sourceIds": [
+            "src-238"
+          ],
+          "originUnitIds": [
+            "nam-dinh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-hoa-lu",
+          "name": "Lễ hội Hoa Lư",
+          "originArea": "Ninh Bình cũ – khu vực cố đô Hoa Lư.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Lễ hội tưởng niệm các vua Đinh, vua Lê và lịch sử nhà nước Đại Cồ Việt; chương trình lễ và hội có thể thay đổi từng năm.",
+          "sourceIds": [
+            "src-235"
+          ],
+          "timeAndLocation": "Khu di tích cố đô Hoa Lư; thời gian thường gắn với tháng Ba âm lịch, cần kiểm tra lịch chính thức từng năm.",
+          "originUnitIds": [
+            "ninh-binh"
+          ]
+        },
+        {
+          "id": "le-hoi-phu-day",
+          "name": "Lễ hội Phủ Dầy",
+          "originArea": "Nam Định cũ.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Lễ hội gắn với tín ngưỡng thờ Mẫu Liễu Hạnh, gồm nghi lễ, thực hành chầu văn và hoạt động cộng đồng.",
+          "sourceIds": [
+            "src-238"
+          ],
+          "timeAndLocation": "Quần thể Phủ Dầy; lịch hội theo thông báo địa phương hằng năm.",
+          "originUnitIds": [
+            "nam-dinh"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-muong-va-kinh",
+          "name": "Trang phục truyền thống Kinh và Mường",
+          "originArea": "Các cộng đồng Kinh và Mường tại các vùng tiền thân.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Trang phục lễ hội, nghi lễ và sinh hoạt có khác biệt theo cộng đồng; không dùng một bộ trang phục đại diện toàn tỉnh.",
+          "sourceIds": [
+            "src-235"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "lang-nghe-va-sinh-hoat-ven-bien-kim-son",
+          "name": "Làng nghề và sinh hoạt ven biển Kim Sơn",
+          "originArea": "Ninh Bình cũ – vùng Kim Sơn.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Không gian cư trú ven biển và nghề thủ công, nông nghiệp, chế biến thực phẩm gắn với vùng cửa sông – bãi bồi.",
+          "sourceIds": [
+            "src-235",
+            "src-236"
+          ],
+          "originUnitIds": [
+            "ninh-binh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-nha-tho-phat-diem",
+          "name": "Không gian kiến trúc Phát Diệm",
+          "originArea": "Ninh Bình cũ.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Quần thể nhà thờ đá, gỗ và các công trình phụ trợ cho thấy sự giao thoa giữa kỹ thuật kiến trúc bản địa và kiến trúc Công giáo.",
+          "sourceIds": [
+            "src-235"
+          ],
+          "originUnitIds": [
+            "ninh-binh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-tho-mau-va-hau-dong",
+          "name": "Nghi lễ hầu đồng và chầu văn",
+          "originArea": "Nam Định cũ và các vùng thực hành thờ Mẫu.",
+          "currentProvinceId": "ninh-binh",
+          "description": "Hầu đồng là thực hành nghi lễ trong tín ngưỡng thờ Mẫu, kết hợp âm nhạc, trang phục, lời văn và diễn xướng; cần tôn trọng chủ thể thực hành.",
+          "sourceIds": [
+            "src-238"
+          ],
+          "originUnitIds": [
+            "nam-dinh"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "trang-an-di-san-the-gioi",
+          "name": "Quần thể danh thắng Tràng An",
+          "originArea": "Ninh Bình cũ.",
+          "currentProvinceId": "ninh-binh",
+          "description": "UNESCO ghi danh Tràng An năm 2014 là di sản hỗn hợp văn hóa và thiên nhiên.",
+          "sourceIds": [
+            "src-237"
+          ],
+          "originUnitIds": [
+            "ninh-binh"
+          ]
+        },
+        {
+          "id": "tho-mau-tam-phu-unesco",
+          "name": "Thực hành tín ngưỡng thờ Mẫu Tam phủ của người Việt",
+          "originArea": "Nam Định cũ và không gian thực hành liên tỉnh.",
+          "currentProvinceId": "ninh-binh",
+          "description": "UNESCO ghi danh năm 2016; Phủ Dầy là một trung tâm nổi bật trong vùng Nam Định cũ.",
+          "sourceIds": [
+            "src-238"
+          ],
+          "originUnitIds": [
+            "nam-dinh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-van-chau-van",
+        "name": "Hát văn / chầu văn",
+        "category": "Âm nhạc nghi lễ; diễn xướng tín ngưỡng",
+        "image": {
+          "file": null,
+          "alt": "Hát văn / chầu văn – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Nam Định cũ và các vùng thực hành thờ Mẫu.",
+        "origin": null,
+        "originArea": "Nam Định cũ và các vùng thực hành thờ Mẫu.",
+        "currentProvinceId": "ninh-binh",
+        "characteristics": "Âm nhạc nghi lễ phối hợp lời văn, nhịp điệu, nhạc cụ và trình thức hầu đồng.",
+        "instrumentsOrPerformance": "Sử dụng đàn nguyệt, phách, trống, cảnh và các nhạc cụ khác tùy dàn nhạc; bài bản do cung văn thể hiện.",
+        "culturalValue": "Gắn với thực hành tín ngưỡng thờ Mẫu và đời sống văn hóa cộng đồng.",
+        "recognition": "Liên hệ thực hành tín ngưỡng thờ Mẫu được UNESCO ghi danh năm 2016.",
+        "sourceIds": [
+          "src-238"
+        ],
+        "originUnitIds": [
+          "nam-dinh"
+        ]
+      },
+      {
+        "id": "hat-xam-ninh-binh-nam-dinh",
+        "name": "Hát Xẩm",
+        "category": "Dân ca; diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Hát Xẩm – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các vùng Ninh Bình cũ và Nam Định cũ.",
+        "origin": null,
+        "originArea": "Các vùng Ninh Bình cũ và Nam Định cũ.",
+        "currentProvinceId": "ninh-binh",
+        "characteristics": "Hình thức hát kể dân gian, gắn với sinh hoạt đường phố và không gian chợ, bến, hội.",
+        "instrumentsOrPerformance": "Thường có đàn nhị, đàn bầu, phách hoặc trống nhỏ; hình thức biểu diễn tùy nhóm thực hành.",
+        "culturalValue": "Lưu giữ lời ca dân gian và ký ức đời sống đồng bằng Bắc Bộ.",
+        "recognition": "Cần đối chiếu hồ sơ nghệ nhân và di sản cấp địa phương trước khi khẳng định tình trạng ghi danh.",
+        "sourceIds": [
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ninh-binh",
+          "nam-dinh"
+        ]
+      },
+      {
+        "id": "hat-cheo-dong-bang-song-hong",
+        "name": "Chèo vùng đồng bằng Bắc Bộ",
+        "category": "Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Chèo vùng đồng bằng Bắc Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Ninh Bình cũ, Hà Nam cũ và Nam Định cũ.",
+        "origin": null,
+        "originArea": "Ninh Bình cũ, Hà Nam cũ và Nam Định cũ.",
+        "currentProvinceId": "ninh-binh",
+        "characteristics": "Nghệ thuật sân khấu kết hợp hát, múa, nhạc và diễn xuất; tích truyện và làn điệu có nhiều dạng.",
+        "instrumentsOrPerformance": "Biểu diễn trên sân khấu hoặc sân đình với dàn nhạc truyền thống; nội dung tùy vở diễn.",
+        "culturalValue": "Gắn với hội làng, sinh hoạt văn hóa và truyền thống sân khấu dân gian đồng bằng Bắc Bộ.",
+        "recognition": "Nêu như loại hình nghệ thuật vùng; không gán danh hiệu UNESCO.",
+        "sourceIds": [
+          "src-235"
+        ],
+        "originUnitIds": [
+          "ninh-binh",
+          "ha-nam",
+          "nam-dinh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Hà Nam + Nam Định + Ninh Bình; hoạt động từ 01/07/2025.",
+      "Diện tích 3.942,62 km² và quy mô dân số 4.412.264 người theo Nghị quyết 202/2025/QH15; đây là quy mô trong hồ sơ sắp xếp, không phải số dân điều tra cuối 2026.",
+      "Mã cấp tỉnh 37; 129 đơn vị cấp xã theo Nghị quyết 1674/2025; biển số 18, 35, 90.",
+      "Các điểm đến/đặc sản có originArea để bảo tồn nguồn gốc ba tỉnh tiền thân.",
+      "Trung tâm hành chính, tọa độ, giờ mở cửa, giá vé và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-226",
+      "src-227",
+      "src-228",
+      "src-234",
+      "src-235",
+      "src-236",
+      "src-237",
+      "src-238"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "ninh-binh",
+      "name": "Ninh Bình"
+    },
+    {
+      "id": "ha-nam",
+      "name": "Hà Nam"
+    },
+    {
+      "id": "nam-dinh",
+      "name": "Nam Định"
+    }
+  ]
+}

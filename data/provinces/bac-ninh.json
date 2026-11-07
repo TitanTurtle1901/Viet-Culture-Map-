@@ -1,0 +1,1051 @@
+{
+  "id": "bac-ninh",
+  "name": "Thành phố Bắc Ninh",
+  "administrativeType": "Thành phố trực thuộc Trung ương",
+  "region": "Đồng bằng sông Hồng và trung du, miền núi phía Bắc (vùng chuyển tiếp)",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Bắc Ninh – ảnh đại diện; quyền sử dụng chưa xác minh.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Thành phố Bắc Ninh được thành lập ngày 20/09/2026 trên toàn bộ địa giới tỉnh Bắc Ninh mới, vốn hợp nhất Bắc Giang và Bắc Ninh cũ từ 01/07/2025. Không gian văn hóa rộng từ vùng đồng bằng Kinh Bắc với Quan họ, tranh Đông Hồ, chùa cổ và làng nghề đến vùng trung du – miền núi phía Bắc với Tây Yên Tử, chùa Vĩnh Nghiêm, khởi nghĩa Yên Thế, vải thiều Lục Ngạn và các cộng đồng Tày, Nùng, Dao, Sán Chay.",
+    "featuredDestinationIds": [
+      "den-do-ly-bat-de",
+      "chua-vinh-nghiem",
+      "khu-di-tich-khoi-nghia-yen-the",
+      "lang-tranh-dong-ho"
+    ],
+    "featuredSpecialtyIds": [
+      "banh-phu-the-dinh-bang",
+      "vai-thieu-luc-ngan",
+      "my-chu",
+      "ga-doi-yen-the"
+    ],
+    "sourceIds": [
+      "src-066",
+      "src-067",
+      "src-071",
+      "src-074",
+      "src-075",
+      "src-076"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Bắc Ninh",
+      "administrativeCode": "24",
+      "administrativeCenter": "Phường Bắc Giang",
+      "vehiclePlateCodes": [
+        "98",
+        "99"
+      ],
+      "areaKm2": 4713.75,
+      "areaYear": 2025,
+      "population": {
+        "value": 3989623,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Thành phố Bắc Ninh nằm ở phía Bắc vùng Đồng bằng sông Hồng, thuộc vùng Thủ đô Hà Nội và vùng kinh tế trọng điểm Bắc Bộ. Không gian địa lý hiện hành kế thừa toàn bộ Bắc Giang và Bắc Ninh trước hợp nhất, trải từ vùng đồng bằng thấp ở phía nam đến trung du, đồi núi thấp và khu rừng đặc dụng ở phía bắc, đông bắc.",
+      "boundaries": [
+        "Thành phố Hà Nội",
+        "Thành phố Hải Phòng",
+        "Thành phố Quảng Ninh",
+        "Tỉnh Hưng Yên",
+        "Tỉnh Lạng Sơn",
+        "Tỉnh Thái Nguyên"
+      ],
+      "naturalFeatures": "Địa hình chuyển tiếp rõ giữa đồng bằng sông Hồng ở phía nam và vùng trung du – đồi núi thấp ở phía bắc, đông bắc. Các hệ thống sông lớn gồm sông Cầu, sông Đuống, sông Thái Bình, sông Thương và sông Lục Nam. Những không gian sinh thái nổi bật gồm Khu dự trữ thiên nhiên Tây Yên Tử, vùng rừng Khe Rỗ và khu bảo vệ cảnh quan Suối Mỡ. Sự phân hóa địa hình tạo nên khác biệt giữa cảnh quan nông nghiệp – làng nghề đồng bằng và sinh thái rừng núi.",
+      "climate": "Khí hậu nhiệt đới gió mùa miền Bắc, có mùa hè nóng ẩm mưa nhiều và mùa đông lạnh, khô hơn; khu vực đồi núi phía bắc có điều kiện vi khí hậu khác vùng đồng bằng. Chưa bổ sung chuỗi số liệu khí tượng trung bình cấp toàn thành phố sau sáp nhập.",
+      "history": "Không gian Bắc Ninh – Bắc Giang là một phần quan trọng của vùng văn hóa Kinh Bắc và miền trung du phía Bắc. Vùng Bắc Ninh cũ gắn với các trung tâm Phật giáo sớm như Luy Lâu – Dâu, các di tích thời Lý, dân ca Quan họ, làng tranh Đông Hồ và hệ thống làng nghề. Vùng Bắc Giang cũ gắn với tuyến hành hương Tây Yên Tử – Thiền phái Trúc Lâm, chùa Vĩnh Nghiêm, chùa Bổ Đà, chiến thắng Xương Giang và cuộc khởi nghĩa Yên Thế. Ngày 12/06/2025, Quốc hội thông qua Nghị quyết 202/2025/QH15 hợp nhất toàn bộ Bắc Giang và Bắc Ninh thành tỉnh Bắc Ninh, chính quyền mới hoạt động từ 01/07/2025. Ngày 24/08/2026, Quốc hội thông qua Nghị quyết 39/2026/QH16 thành lập thành phố Bắc Ninh trên toàn bộ địa giới tỉnh; nghị quyết có hiệu lực từ 20/09/2026.",
+      "description": "Thành phố Bắc Ninh là một đơn vị hành chính cấp tỉnh có không gian văn hóa rộng, kết nối hai vùng di sản tiền thân Bắc Giang và Bắc Ninh. Phía Kinh Bắc nổi bật với dân ca Quan họ, nghề tranh Đông Hồ, chùa Dâu, chùa Phật Tích, Đền Đô và các làng nghề truyền thống. Phía Bắc Giang cũ có không gian Phật giáo Trúc Lâm với chùa Vĩnh Nghiêm, chùa Bổ Đà và Tây Yên Tử; cùng các di tích Xương Giang, Yên Thế và những vùng sản vật như vải thiều Lục Ngạn, mỳ Chũ, gà đồi Yên Thế. Hồ sơ ghi rõ nguồn gốc theo địa phương tiền thân để bảo tồn các bản sắc khác nhau, không đồng nhất chúng thành một truyền thống duy nhất.",
+      "sourceIds": [
+        "src-066",
+        "src-067",
+        "src-068",
+        "src-069",
+        "src-070",
+        "src-071",
+        "src-072",
+        "src-073",
+        "src-085",
+        "src-093",
+        "src-330",
+        "src-331",
+        "src-332"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "den-do-ly-bat-de",
+        "name": "Đền Đô (Đền Lý Bát Đế)",
+        "category": "Di tích quốc gia đặc biệt; di tích lịch sử – tín ngưỡng",
+        "originArea": "Đình Bảng, tỉnh Bắc Ninh cũ; trung tâm thờ tự triều Lý.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Đền Đô (Đền Lý Bát Đế) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Từ Sơn, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Thái miếu nhà Lý, thờ tám vị vua triều Lý.",
+        "fullDescription": "Đền Đô, còn gọi Cổ Pháp điện hoặc đền Lý Bát Đế, gắn với quê hương nhà Lý tại Đình Bảng. Quần thể thờ tám vị vua triều Lý, phản ánh ký ức lịch sử về triều đại đã mở ra thời kỳ phát triển quan trọng của quốc gia Đại Việt. Kiến trúc hiện nay hình thành qua nhiều đợt tu bổ; nguồn địa phương ghi công trình được dựng lại quy mô lớn vào thời Lê Trung Hưng và nhiều lần trùng tu về sau.",
+        "highlights": "Thờ tám vị vua triều Lý; gắn với lịch sử Đình Bảng và vương triều Lý; có bia đá dựng năm 1605.",
+        "historicalCulturalValue": "Giá trị lịch sử và kiến trúc; di tích quốc gia đặc biệt theo Quyết định 2408/QĐ-TTg ngày 31/12/2014.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-078",
+          "src-079"
+        ],
+        "originUnitIds": [
+          "bac-ninh"
+        ]
+      },
+      {
+        "id": "chua-phat-tich",
+        "name": "Chùa Phật Tích (Vạn Phúc tự)",
+        "category": "Di tích quốc gia đặc biệt; kiến trúc – điêu khắc Phật giáo",
+        "originArea": "Xã Phật Tích, huyện Tiên Du, tỉnh Bắc Ninh cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Chùa Phật Tích (Vạn Phúc tự) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Phật Tích, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Ngôi chùa thời Lý nổi tiếng với tượng Phật A Di Đà bằng đá.",
+        "fullDescription": "Chùa Phật Tích nằm trên núi Phật Tích, là một trung tâm Phật giáo và kiến trúc quan trọng của vùng Kinh Bắc. Di tích lưu giữ tượng Phật A Di Đà bằng đá xanh mang phong cách điêu khắc thời Lý, cùng các thành phần kiến trúc, vườn tháp và dấu tích khảo cổ. Tượng Phật A Di Đà tại chùa được công nhận là bảo vật quốc gia năm 2012.",
+        "highlights": "Minh chứng cho sự phát triển Phật giáo và nghệ thuật điêu khắc thời Lý ở vùng Kinh Bắc.",
+        "historicalCulturalValue": "Di tích quốc gia đặc biệt theo Quyết định 2408/QĐ-TTg năm 2014; tượng Phật A Di Đà là bảo vật quốc gia.",
+        "recognition": "Di tích quốc gia đặc biệt; bảo vật quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-080",
+          "src-080"
+        ],
+        "originUnitIds": [
+          "bac-ninh"
+        ]
+      },
+      {
+        "id": "chua-dau",
+        "name": "Chùa Dâu (Diên Ứng tự)",
+        "category": "Di tích quốc gia đặc biệt; di tích Phật giáo cổ",
+        "originArea": "Không gian Dâu – Luy Lâu, tỉnh Bắc Ninh cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Chùa Dâu (Diên Ứng tự) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Trí Quả, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Di tích Phật giáo cổ gắn với trung tâm Luy Lâu.",
+        "fullDescription": "Chùa Dâu nằm trong không gian lịch sử Dâu – Luy Lâu, vùng đất gắn với sự hình thành và truyền bá Phật giáo ở miền Bắc Việt Nam. Di tích có giá trị về lịch sử tôn giáo, kiến trúc và sinh hoạt tín ngưỡng của cộng đồng địa phương. Dự án tu bổ, tôn tạo đã được rà soát và có quyết định dừng một dự án cũ vào tháng 3/2026 do không còn phù hợp quy hoạch; vì vậy không suy diễn tình trạng thi công hiện tại từ tài liệu quảng bá.",
+        "highlights": "Gắn với lịch sử Phật giáo Luy Lâu và hệ thống chùa cổ vùng Kinh Bắc.",
+        "historicalCulturalValue": "Di tích quốc gia đặc biệt (nguồn địa phương dẫn xếp hạng năm 2013); tình trạng các dự án tu bổ cần theo dõi riêng.",
+        "recognition": "Di tích quốc gia đặc biệt; thông tin dự án tu bổ đã được rà soát trong năm 2026.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-081",
+          "src-081"
+        ],
+        "originUnitIds": [
+          "bac-ninh"
+        ]
+      },
+      {
+        "id": "lang-tranh-dong-ho",
+        "name": "Làng tranh dân gian Đông Hồ",
+        "category": "Làng nghề truyền thống; di sản văn hóa phi vật thể cần bảo vệ khẩn cấp",
+        "originArea": "Làng Đông Hồ, tỉnh Bắc Ninh cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Làng tranh dân gian Đông Hồ – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Thuận Thành, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Làng nghề làm tranh khắc gỗ in trên giấy dó phủ điệp.",
+        "fullDescription": "Nghề tranh Đông Hồ sử dụng ván khắc gỗ, giấy dó phủ điệp và màu chế từ nguyên liệu tự nhiên. Quy trình gồm sáng tác mẫu, khắc ván, pha màu và in lần lượt các mảng màu, thường kết thúc bằng nét đen. Chủ đề tranh phản ánh thờ cúng, lịch sử, sinh hoạt, phong cảnh và ước vọng đời sống; nghề gắn với nhu cầu trang trí, thờ cúng dịp Tết và truyền nghề trong gia đình, cộng đồng.",
+        "highlights": "Dòng tranh dân gian tiêu biểu, có hệ thống ván khắc và tri thức chế tác được truyền qua nhiều thế hệ.",
+        "historicalCulturalValue": "UNESCO ghi danh năm 2025 vào Danh sách Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp; địa phương tổ chức đón bằng năm 2026.",
+        "recognition": "UNESCO – List of Intangible Cultural Heritage in Need of Urgent Safeguarding, 2025.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-075",
+          "src-098",
+          "src-092"
+        ],
+        "originUnitIds": [
+          "bac-ninh"
+        ]
+      },
+      {
+        "id": "chua-vinh-nghiem",
+        "name": "Chùa Vĩnh Nghiêm và kho mộc bản kinh Phật",
+        "category": "Cấu phần Di sản Thế giới; di tích Phật giáo và di sản tư liệu",
+        "originArea": "Trí Yên, tỉnh Bắc Giang cũ; gắn với trung tâm Phật giáo Trúc Lâm.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Chùa Vĩnh Nghiêm và kho mộc bản kinh Phật – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Tân An, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Trung tâm Phật giáo Trúc Lâm, lưu giữ kho mộc bản kinh Phật.",
+        "fullDescription": "Chùa Vĩnh Nghiêm là một trung tâm Phật giáo quan trọng của Thiền phái Trúc Lâm, gắn với hoạt động đào tạo tăng đồ và truyền bá giáo lý. Kho mộc bản lưu giữ kinh sách, văn bản Phật giáo và dấu tích kỹ thuật khắc in. Chùa Vĩnh Nghiêm là một trong các cấu phần của quần thể Di sản Thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh năm 2025. Cần phân biệt danh hiệu của quần thể Di sản Thế giới với hồ sơ ghi danh mộc bản ở chương trình di sản tư liệu khu vực.",
+        "highlights": "Gắn với các thiền sư Trúc Lâm, hoạt động đào tạo và lưu truyền văn bản Phật giáo.",
+        "historicalCulturalValue": "Là cấu phần của Quần thể Di sản Thế giới UNESCO ghi danh năm 2025; mộc bản chùa Vĩnh Nghiêm được địa phương xác định là di sản tư liệu trong chương trình Ký ức thế giới khu vực châu Á – Thái Bình Dương.",
+        "recognition": "Di sản Thế giới (cấu phần quần thể, 2025); di sản tư liệu khu vực châu Á – Thái Bình Dương (mộc bản).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-076",
+          "src-077",
+          "src-099",
+          "src-107"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "chua-bo-da",
+        "name": "Chùa Bổ Đà (Tứ Ân Tự)",
+        "category": "Cấu phần Di sản Thế giới; di tích quốc gia đặc biệt",
+        "originArea": "Vân Hà, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Chùa Bổ Đà (Tứ Ân Tự) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Vân Hà, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Cổ tự vùng Kinh Bắc, nổi bật với kiến trúc và vườn tháp.",
+        "fullDescription": "Chùa Bổ Đà là quần thể kiến trúc Phật giáo cổ, gắn với Thiền phái Lâm Tế và lịch sử Phật giáo vùng Kinh Bắc. Di tích có không gian chùa, vườn tháp và các công trình phụ trợ, phản ánh nhiều lớp tu bổ, mở rộng qua các thế kỷ. Chùa Bổ Đà hiện nằm trong ranh giới thành phố Bắc Ninh và là một cấu phần của quần thể Di sản Thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc.",
+        "highlights": "Giá trị kiến trúc, cảnh quan tôn giáo, lịch sử truyền thừa Phật giáo và vườn tháp cổ.",
+        "historicalCulturalValue": "Cấu phần Quần thể Di sản Thế giới UNESCO ghi danh năm 2025; địa phương giới thiệu là di tích quốc gia đặc biệt.",
+        "recognition": "Di sản Thế giới (cấu phần quần thể, 2025); di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-082",
+          "src-076",
+          "src-077"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "tay-yen-tu",
+        "name": "Không gian văn hóa – sinh thái Tây Yên Tử",
+        "category": "Khu dự trữ thiên nhiên; điểm du lịch tâm linh – sinh thái",
+        "originArea": "Sơn Động và vùng Tây Yên Tử, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Không gian văn hóa – sinh thái Tây Yên Tử – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Tây Yên Tử và vùng phụ cận, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Không gian hành hương, rừng đặc dụng và cảnh quan núi phía Đông Bắc.",
+        "fullDescription": "Tây Yên Tử là không gian rừng núi phía đông bắc, gắn với tuyến hành hương và dấu tích Phật giáo Trúc Lâm. Khu vực có Khu dự trữ thiên nhiên Tây Yên Tử, tiền thân là Khu bảo tồn thiên nhiên Khe Rỗ thành lập năm 1995. Các tuyến tham quan tâm linh – sinh thái kết nối cảnh quan rừng, chùa, am và các điểm di tích trong vùng. Cần phân biệt khu bảo tồn thiên nhiên Tây Yên Tử với toàn bộ quần thể Di sản Thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc.",
+        "highlights": "Bảo tồn hệ sinh thái rừng và gắn với lịch sử hành hương của Thiền phái Trúc Lâm.",
+        "historicalCulturalValue": "Khu bảo tồn thiên nhiên; Hội xuân Tây Yên Tử được tổ chức thường niên, có hoạt động năm 2026.",
+        "recognition": "Khu bảo tồn thiên nhiên cấp tỉnh/quốc gia theo hệ thống quy hoạch rừng; điểm du lịch tâm linh – sinh thái.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-085",
+          "src-087",
+          "src-100",
+          "src-076"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "khu-di-tich-chien-thang-xuong-giang",
+        "name": "Khu di tích lịch sử Chiến thắng Xương Giang",
+        "category": "Di tích quốc gia đặc biệt; di tích lịch sử",
+        "originArea": "Thành Xương Giang, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử Chiến thắng Xương Giang – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Bắc Giang, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Địa điểm trận quyết chiến Xương Giang năm 1427.",
+        "fullDescription": "Xương Giang là thành cổ do quân Minh xây dựng đầu thế kỷ XV. Năm 1427, khu vực này diễn ra trận công thành và trận diệt viện của nghĩa quân Lam Sơn, góp phần kết thúc thời kỳ đô hộ nhà Minh. Khu di tích hiện gồm dấu vết thành lũy, các cửa thành, khu trung tâm, giếng Phủ và đền Thành; đã được đầu tư bảo tồn, tôn tạo và phát huy giá trị.",
+        "highlights": "Gắn với cuộc kháng chiến chống Minh và thắng lợi của khởi nghĩa Lam Sơn.",
+        "historicalCulturalValue": "Di tích quốc gia đặc biệt theo Quyết định 1954/QĐ-TTg ngày 31/12/2019; được công nhận điểm du lịch địa phương năm 2020.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-083"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "khu-di-tich-khoi-nghia-yen-the",
+        "name": "Quần thể di tích Khởi nghĩa Yên Thế",
+        "category": "Di tích quốc gia đặc biệt; di tích lịch sử cách mạng",
+        "originArea": "Yên Thế, tỉnh Bắc Giang cũ; gắn với phong trào khởi nghĩa do Hoàng Hoa Thám lãnh đạo.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Quần thể di tích Khởi nghĩa Yên Thế – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Yên Thế, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Hệ thống di tích gắn với cuộc khởi nghĩa Yên Thế và Hoàng Hoa Thám.",
+        "fullDescription": "Quần thể gồm tám điểm di tích tiêu biểu trên địa bàn xã Yên Thế hiện nay: Đồn Phồn Xương, Đồn Hố Chuối, Đồn Hom, Đền Thề, Chùa Lèo, Đình Dĩnh Thép, Chùa Thông và Đền Cầu Khoai. Đồn Phồn Xương là đại bản doanh quan trọng của Hoàng Hoa Thám trong giai đoạn cuối thế kỷ XIX – đầu thế kỷ XX. Lễ hội Yên Thế hàng năm tái hiện lịch sử khởi nghĩa và các hoạt động văn hóa, trò chơi dân gian.",
+        "highlights": "Tư liệu về phong trào đấu tranh chống thực dân Pháp và lịch sử cộng đồng vùng Yên Thế.",
+        "historicalCulturalValue": "Di tích quốc gia đặc biệt theo Quyết định 548/QĐ-TTg ngày 10/05/2012.",
+        "recognition": "Di tích quốc gia đặc biệt, gồm 8 điểm thành phần tiêu biểu theo nguồn địa phương.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-084"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "khu-du-lich-sinh-thai-suoi-mo",
+        "name": "Khu du lịch sinh thái Suối Mỡ",
+        "category": "Khu du lịch sinh thái; di tích – tín ngưỡng",
+        "originArea": "Nghĩa Phương, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch sinh thái Suối Mỡ – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Nghĩa Phương, thành phố Bắc Ninh.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan suối, thác và cụm đền trong không gian rừng núi.",
+        "fullDescription": "Suối Mỡ là điểm du lịch sinh thái kết hợp tín ngưỡng, nằm trong không gian đồi núi và rừng ở khu vực Nghĩa Phương. Khu vực có dòng suối, các tầng thác và hệ thống đền thờ gắn với truyền thuyết công chúa Quế Mỵ Nương. Địa phương công nhận đây là khu du lịch cấp tỉnh từ năm 2019; danh mục quản lý du lịch năm 2026 tiếp tục ghi nhận điểm đến này.",
+        "highlights": "Kết hợp cảnh quan tự nhiên, sinh hoạt hành hương và lễ hội Suối Mỡ.",
+        "historicalCulturalValue": "Khu du lịch cấp tỉnh theo Quyết định 951/QĐ-UBND ngày 03/12/2019.",
+        "recognition": "Khu du lịch sinh thái cấp tỉnh.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-086",
+          "src-102",
+          "src-105"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "banh-phu-the-dinh-bang",
+        "name": "Bánh phu thê Đình Bảng",
+        "category": "Món bánh truyền thống; sản phẩm ẩm thực nghi lễ",
+        "originArea": "Đình Bảng, tỉnh Bắc Ninh cũ; hiện thuộc phường Từ Sơn.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Bánh phu thê Đình Bảng – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Đình Bảng, tỉnh Bắc Ninh cũ; hiện thuộc phường Từ Sơn.",
+        "ingredients": [
+          "Bột nếp",
+          "Đậu xanh",
+          "Dừa",
+          "Lá gói và nguyên liệu tạo màu, hương truyền thống"
+        ],
+        "preparation": "Bột nếp tạo lớp vỏ dẻo trong; phần nhân đậu xanh phối hợp dừa. Bánh thường gói thành cặp, dùng trong lễ cưới hỏi; công thức có thể khác nhau giữa các cơ sở.",
+        "characteristics": "Bánh nhỏ, vuông hoặc chữ nhật, lớp vỏ dẻo trong, nhân ngọt; thường gắn với biểu tượng âm dương và sự kết đôi.",
+        "culturalContext": "Xuất hiện trong lễ cưới hỏi và cỗ truyền thống, biểu trưng cho sự thủy chung, gắn bó của đôi lứa.",
+        "recognition": "Sản phẩm đặc trưng địa phương; nguồn chính thức ghi nhận nghề làm bánh được lưu truyền ở Đình Bảng.",
+        "sourceIds": [
+          "src-091",
+          "src-091"
+        ],
+        "originUnitIds": [
+          "bac-ninh"
+        ]
+      },
+      {
+        "id": "vai-thieu-luc-ngan",
+        "name": "Vải thiều Lục Ngạn",
+        "category": "Nông sản; trái cây tươi",
+        "originArea": "Lục Ngạn, tỉnh Bắc Giang cũ; vùng chuyên canh cây ăn quả của khu vực trung du.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Vải thiều Lục Ngạn – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Lục Ngạn, tỉnh Bắc Giang cũ; vùng chuyên canh cây ăn quả của khu vực trung du.",
+        "ingredients": [
+          "Quả vải thiều"
+        ],
+        "preparation": "Trồng, chăm sóc, thu hoạch và phân loại theo quy trình canh tác; mùa thu hoạch tập trung vào đầu hè tùy thời tiết từng năm.",
+        "characteristics": "Quả vải có cùi mọng nước, vị ngọt thơm; sản phẩm được nhận diện gắn với vùng trồng Lục Ngạn.",
+        "culturalContext": "Cây ăn quả trở thành sinh kế và dấu ấn nông nghiệp hàng hóa của vùng Lục Ngạn.",
+        "recognition": "Được bảo hộ chỉ dẫn địa lý; nguồn Sở Khoa học và Công nghệ ghi nhận cả bảo hộ tại nước ngoài.",
+        "sourceIds": [
+          "src-089"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "my-chu",
+        "name": "Mỳ Chũ",
+        "category": "Sản phẩm chế biến từ nông sản; đặc sản địa phương",
+        "originArea": "Chũ và vùng Lục Ngạn, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Mỳ Chũ – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chũ và vùng Lục Ngạn, tỉnh Bắc Giang cũ.",
+        "ingredients": [
+          "Gạo/nguyên liệu từ gạo"
+        ],
+        "preparation": "Sản phẩm được chế biến thành sợi mỳ khô; hồ sơ này không chuẩn hóa công thức, tỷ lệ gạo hay quy trình sấy vì cần đối chiếu hồ sơ nhãn hiệu tập thể và cơ sở sản xuất.",
+        "characteristics": "Sợi mỳ khô, thường được dùng để nấu hoặc chế biến món ăn; chất lượng phụ thuộc nguyên liệu và kỹ thuật của từng cơ sở.",
+        "culturalContext": "Nghề chế biến nông sản gắn với vùng trồng lúa và kinh tế hộ ở khu vực Chũ.",
+        "recognition": "Nhãn hiệu tập thể “Mỳ Chũ” được Sở Khoa học và Công nghệ tỉnh Bắc Ninh nêu trong nhóm sản phẩm được bảo hộ.",
+        "sourceIds": [
+          "src-089"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "ga-doi-yen-the",
+        "name": "Gà đồi Yên Thế",
+        "category": "Nông sản; sản phẩm chăn nuôi đặc trưng",
+        "originArea": "Yên Thế, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Gà đồi Yên Thế – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Yên Thế, tỉnh Bắc Giang cũ.",
+        "ingredients": [
+          "Gà nuôi theo mô hình chăn nuôi đồi"
+        ],
+        "preparation": "Mô hình nuôi theo quy trình kỹ thuật, có theo dõi thời gian nuôi và thời gian cách ly thuốc thú y; cách thức chăn nuôi cụ thể tùy cơ sở, không đồng nhất một quy trình duy nhất.",
+        "characteristics": "Sản phẩm có thể bán dạng gà sống hoặc đã sơ chế; nguồn quản lý kinh tế tập thể nêu tem và truy xuất nguồn gốc tại hộ sản xuất.",
+        "culturalContext": "Gắn với sinh kế chăn nuôi vùng đồi và thương hiệu nông sản Yên Thế.",
+        "recognition": "Nhãn hiệu chứng nhận “Gà đồi Yên Thế”; sản phẩm có hệ thống truy xuất nguồn gốc theo tài liệu địa phương.",
+        "sourceIds": [
+          "src-089",
+          "src-090"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "banh-da-ke",
+        "name": "Bánh đa Kế",
+        "category": "Sản phẩm ẩm thực; bánh truyền thống",
+        "originArea": "Làng Kế, xã Dĩnh Kế cũ; nay thuộc phường Bắc Giang.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Bánh đa Kế – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Làng Kế, xã Dĩnh Kế cũ; nay thuộc phường Bắc Giang.",
+        "ingredients": [
+          "Gạo",
+          "Vừng/mè và nguyên liệu phụ tùy cơ sở"
+        ],
+        "preparation": "Bánh được tráng mỏng, phơi/sấy và nướng; tỷ lệ nguyên liệu, cách tráng và nướng có thể khác nhau theo hộ nghề, cần nguồn nghề thủ công để chuẩn hóa định lượng.",
+        "characteristics": "Bánh mỏng, giòn, thường có lớp vừng; là món quà quê gắn với địa danh làng Kế.",
+        "culturalContext": "Nghề làm bánh là một phần của ký ức ẩm thực vùng Bắc Giang cũ và mạng lưới làng nghề địa phương.",
+        "recognition": "Đặc sản/làng nghề được Cổng thông tin tỉnh giới thiệu; chưa xác minh ghi danh di sản hoặc chỉ dẫn địa lý.",
+        "sourceIds": [
+          "src-092"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      },
+      {
+        "id": "ruou-lang-van",
+        "name": "Rượu làng Vân",
+        "category": "Đồ uống truyền thống; nghề thủ công chế biến",
+        "originArea": "Làng Vân, phường Vân Hà, tỉnh Bắc Giang cũ.",
+        "currentProvinceId": "bac-ninh",
+        "image": {
+          "file": null,
+          "alt": "Rượu làng Vân – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Làng Vân, phường Vân Hà, tỉnh Bắc Giang cũ.",
+        "ingredients": [
+          "Nguyên liệu ngũ cốc và men rượu truyền thống (thành phần chi tiết cần xác minh)"
+        ],
+        "preparation": "Nghề nấu rượu truyền thống tại làng; thành phần men, chủng loại nguyên liệu và quy trình chưng cất khác nhau giữa hộ nghề nên không khẳng định một công thức chuẩn trong hồ sơ này.",
+        "characteristics": "Rượu truyền thống gắn với tên làng Vân, nổi tiếng trong văn hóa ẩm thực vùng Kinh Bắc – Bắc Giang.",
+        "culturalContext": "Nghề thủ công gắn với cộng đồng cư dân và truyền nghề tại làng.",
+        "recognition": "Năm 2026, tỉnh thành lập hội đồng thẩm định hồ sơ đề nghị đưa nghề nấu rượu làng Vân vào Danh mục di sản văn hóa phi vật thể quốc gia; chưa ghi nhận là di sản đã được công nhận trong nguồn đã kiểm tra.",
+        "sourceIds": [
+          "src-106",
+          "src-092"
+        ],
+        "originUnitIds": [
+          "bac-giang"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-kinh-bac",
+          "name": "Cộng đồng Kinh ở vùng Kinh Bắc",
+          "originArea": "Địa bàn đồng bằng, đô thị và làng nghề ở phần Bắc Ninh cũ và các vùng cư dân Kinh tại Bắc Giang cũ.",
+          "description": "Cộng đồng Kinh tạo nên nhiều lớp sinh hoạt văn hóa của vùng Kinh Bắc: đình, chùa, lễ hội làng, thờ thành hoàng, sinh hoạt Quan họ, nghề thủ công và các tập quán nông nghiệp. Không nên coi các tập quán của từng làng là đồng nhất trên toàn địa bàn.",
+          "sourceIds": [
+            "src-074",
+            "src-088",
+            "src-097"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh",
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-tay-nung",
+          "name": "Cộng đồng Tày và Nùng",
+          "originArea": "Các xã vùng cao, trung du và miền núi thuộc khu vực Bắc Giang cũ, trong đó có các địa bàn phía đông bắc.",
+          "description": "Tày và Nùng là các cộng đồng cư trú tại miền núi phía Bắc của không gian Bắc Ninh mới. Thực hành Then là một yếu tố tín ngưỡng – nghệ thuật đặc biệt trong đời sống một bộ phận cộng đồng Tày, Nùng; phân bố cụ thể theo xã cần được tiếp tục lập bản đồ dân tộc học.",
+          "sourceIds": [
+            "src-093",
+            "src-095"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-san-chay",
+          "name": "Cộng đồng Dao và Sán Chay (Cao Lan, Sán Chí)",
+          "originArea": "Một số khu vực trung du, miền núi thuộc địa bàn Bắc Giang cũ, gồm vùng Bảo Đài và các xã lân cận.",
+          "description": "Các cộng đồng Dao và Sán Chay/Cao Lan/Sán Chí góp phần tạo nên tính đa dạng văn hóa của vùng đồi núi phía bắc. Tên nhóm và địa bàn thực hành cần giữ theo cách tự định danh tại từng cộng đồng; không suy diễn tỷ lệ dân số khi chưa có số liệu thống kê cùng kỳ.",
+          "sourceIds": [
+            "src-093"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "le-loi-ket-chac-quan-ho",
+          "name": "Lề lối kết chạ và giao tiếp Quan họ",
+          "originArea": "Các làng Quan họ thuộc không gian Bắc Ninh và Bắc Giang trước sáp nhập.",
+          "description": "Nhiều làng Quan họ có quan hệ kết bạn, kết chạ; thực hành hát đối đáp giữa liền anh, liền chị gắn với quy tắc giao tiếp, mời trầu, hát canh và ứng xử cộng đồng. UNESCO mô tả đây là tập quán xã hội giúp củng cố quan hệ giữa các làng.",
+          "sourceIds": [
+            "src-074",
+            "src-088"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh",
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "le-hoi-lang-va-tin-nguong-tho-thanh-hoang",
+          "name": "Lễ hội làng và tín ngưỡng thờ thành hoàng",
+          "originArea": "Phổ biến tại các làng đồng bằng và trung du trong cả hai vùng tiền thân, với hình thức riêng theo từng làng.",
+          "description": "Đình, đền và chùa là trung tâm của nhiều sinh hoạt cộng đồng. Lễ hội thường có nghi thức rước, tế, dâng hương và phần hội với trò chơi dân gian; nội dung, nhân vật được thờ và lịch hội thay đổi theo từng làng.",
+          "sourceIds": [
+            "src-079",
+            "src-088",
+            "src-097"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": []
+        }
+      ],
+      "festivals": [
+        {
+          "id": "hoi-lim",
+          "name": "Hội Lim",
+          "originArea": "Vùng Lim – Tiên Du, tỉnh Bắc Ninh cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Lễ hội đầu xuân tiêu biểu của vùng Kinh Bắc, gắn với thực hành dân ca Quan họ, nghi thức rước – tế và các sinh hoạt hội làng. Năm 2026, lễ hội được tổ chức tại xã Tiên Du trong hai ngày 28/02–01/03/2026 (12–13 tháng Giêng âm lịch).",
+          "communityOrArea": "Cộng đồng các làng trong không gian vùng Lim; nghệ nhân, liền anh, liền chị Quan họ và người dân Tiên Du.",
+          "recognition": "Hội Lim được ghi danh Di sản văn hóa phi vật thể quốc gia; không đồng nhất danh hiệu của lễ hội với danh hiệu UNESCO của Dân ca Quan họ Bắc Ninh.",
+          "sourceIds": [
+            "src-088",
+            "src-074",
+            "src-104"
+          ],
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "le-hoi-den-do",
+          "name": "Lễ hội Đền Đô",
+          "originArea": "Đình Bảng, tỉnh Bắc Ninh cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Lễ hội tưởng niệm tám vị vua triều Lý, thường tổ chức từ ngày 14 đến 16 tháng Ba âm lịch với các nghi lễ rước, dâng hương, tế lễ và hoạt động văn hóa cộng đồng.",
+          "communityOrArea": "Cộng đồng phường Từ Sơn và các vùng phụ cận.",
+          "recognition": "Lễ hội truyền thống gắn với Di tích quốc gia đặc biệt Đền Đô.",
+          "sourceIds": [
+            "src-079",
+            "src-078"
+          ],
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "le-hoi-yen-the",
+          "name": "Lễ hội Yên Thế",
+          "originArea": "Yên Thế, tỉnh Bắc Giang cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Lễ hội lịch sử tổ chức hằng năm ngày 15–17 tháng Ba dương lịch tại khu vực đền/đồn Phồn Xương, tái hiện cuộc khởi nghĩa Yên Thế và tưởng niệm Hoàng Hoa Thám cùng nghĩa quân. Hoạt động có nghi lễ, võ vật, trò chơi dân gian và biểu diễn văn nghệ.",
+          "communityOrArea": "Cộng đồng xã Yên Thế và các vùng lân cận.",
+          "recognition": "Lễ hội lịch sử gắn với Quần thể di tích quốc gia đặc biệt Những địa điểm Khởi nghĩa Yên Thế.",
+          "sourceIds": [
+            "src-084"
+          ],
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "hoi-xuan-tay-yen-tu",
+          "name": "Hội xuân Tây Yên Tử",
+          "originArea": "Không gian Tây Yên Tử, tỉnh Bắc Giang cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Lễ hội hành hương đầu xuân gắn với không gian Phật giáo Trúc Lâm, các tuyến chùa – am và cảnh quan núi rừng Tây Yên Tử. Năm 2026, lễ khai hội diễn ra ngày 28/02 tại Khu du lịch tâm linh – sinh thái Tây Yên Tử.",
+          "communityOrArea": "Cộng đồng Phật tử, cư dân xã Tây Yên Tử và khách hành hương.",
+          "recognition": "Lễ hội địa phương; địa điểm nằm trong vùng cảnh quan và di sản Phật giáo có liên hệ với quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc.",
+          "sourceIds": [
+            "src-087",
+            "src-100",
+            "src-076"
+          ],
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "le-hoi-xuong-giang",
+          "name": "Lễ hội Xương Giang",
+          "originArea": "Thành Xương Giang, tỉnh Bắc Giang cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Lễ hội lịch sử gắn với chiến thắng Xương Giang năm 1427, được tổ chức tại khu di tích Xương Giang. Hoạt động tưởng niệm và các nghi thức cộng đồng nhắc lại thắng lợi của nghĩa quân Lam Sơn.",
+          "communityOrArea": "Cộng đồng phường Bắc Giang và vùng phụ cận.",
+          "recognition": "Lễ hội gắn với Di tích quốc gia đặc biệt Địa điểm Chiến thắng Xương Giang.",
+          "sourceIds": [
+            "src-083",
+            "src-105"
+          ],
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "sinh-hoat-quan-ho",
+          "name": "Sinh hoạt câu lạc bộ và làng Quan họ",
+          "originArea": "Các làng Quan họ tại vùng Bắc Ninh – Bắc Giang cũ.",
+          "description": "Sinh hoạt Quan họ được duy trì qua nghệ nhân, câu lạc bộ, các canh hát và hoạt động truyền dạy. Trình thức và lề lối thay đổi tùy làng; cần ưu tiên tiếng nói của cộng đồng chủ thể khi mô tả cụ thể từng địa phương.",
+          "sourceIds": [
+            "src-074",
+            "src-088"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh",
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "lang-nghe-thu-cong-kinh-bac",
+          "name": "Không gian làng nghề thủ công Kinh Bắc",
+          "originArea": "Đông Hồ, Phù Lãng, Đại Bái, Phù Khê, Đồng Kỵ và các địa bàn làng nghề khác thuộc Bắc Ninh cũ.",
+          "description": "Mạng lưới làng nghề bao gồm tranh khắc gỗ, gốm, đúc đồng, chạm khắc gỗ và mộc mỹ nghệ; nghề thường gắn với truyền nghề trong gia đình, phường nghề, không gian sản xuất và lễ hội làng.",
+          "sourceIds": [
+            "src-092",
+            "src-097"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "sinh-ke-nong-lam-mien-doi",
+          "name": "Sinh kế nông – lâm nghiệp vùng trung du, miền núi",
+          "originArea": "Lục Ngạn, Yên Thế, Sơn Động và các vùng núi thuộc Bắc Giang cũ.",
+          "description": "Cây ăn quả, đặc biệt vải thiều Lục Ngạn, cùng chăn nuôi gà đồi và lâm nghiệp là những sinh kế đặc trưng của một số khu vực. Sản phẩm đã hình thành thương hiệu, nhãn hiệu hoặc chỉ dẫn địa lý; không đại diện cho toàn bộ sinh kế của các cộng đồng vùng cao.",
+          "sourceIds": [
+            "src-089",
+            "src-090",
+            "src-085"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-lang-kinh-bac",
+          "name": "Không gian làng cổ vùng Kinh Bắc",
+          "originArea": "Các làng thuộc vùng Bắc Ninh cũ.",
+          "description": "Không gian làng thường có đình, chùa, cổng làng, ao, giếng, nhà ở truyền thống và các không gian nghề thủ công. Cấu trúc cụ thể thay đổi theo lịch sử từng làng và quá trình đô thị hóa.",
+          "sourceIds": [
+            "src-078",
+            "src-080",
+            "src-092"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "kien-truc-phat-giao-truc-lam",
+          "name": "Không gian chùa và thiền viện Phật giáo Trúc Lâm",
+          "originArea": "Tây Yên Tử, chùa Vĩnh Nghiêm, chùa Bổ Đà và các địa điểm thuộc vùng Bắc Giang cũ.",
+          "description": "Chùa, tháp, am, bia và tuyến hành hương tạo nên lớp kiến trúc – cảnh quan Phật giáo trong khu vực. Các địa điểm này gắn với sự phát triển của Thiền phái Trúc Lâm từ thời Trần.",
+          "sourceIds": [
+            "src-076",
+            "src-077",
+            "src-082",
+            "src-085"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thien-phai-truc-lam",
+          "name": "Phật giáo Trúc Lâm",
+          "originArea": "Các di tích thuộc vùng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc; tại Bắc Ninh hiện nay có chùa Vĩnh Nghiêm và chùa Bổ Đà trong quần thể.",
+          "description": "Thiền phái Trúc Lâm hình thành ở thế kỷ XIII, gắn với các vua Trần và Phật hoàng Trần Nhân Tông. Hệ thống di tích phản ánh đời sống tu hành, truyền bá giáo lý, hành hương và bảo tồn văn bản Phật giáo.",
+          "sourceIds": [
+            "src-076",
+            "src-077"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "then-tay-nung",
+          "name": "Thực hành Then của người Tày, Nùng",
+          "originArea": "Một số cộng đồng Tày, Nùng ở vùng miền núi thuộc Bắc Giang cũ; cần lập bản đồ nghệ nhân và địa bàn cụ thể.",
+          "description": "Then là thực hành nghi lễ tín ngưỡng và nghệ thuật tổng hợp, kết hợp lời hát, đàn tính, nhạc cụ gõ và nghi thức do Then master chủ trì. UNESCO ghi danh thực hành Then của người Tày, Nùng, Thái trên phạm vi quốc gia năm 2019; không coi di sản là riêng của Bắc Ninh.",
+          "sourceIds": [
+            "src-095",
+            "src-093"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "tin-nguong-tho-thanh-hoang-va-to-tien",
+          "name": "Tín ngưỡng thờ thành hoàng và tổ tiên",
+          "originArea": "Các làng Kinh ở cả hai vùng Bắc Ninh và Bắc Giang tiền thân.",
+          "description": "Đình làng, nhà thờ họ và gia đình là các không gian thực hành nghi lễ tưởng niệm thành hoàng, tiền nhân và tổ tiên. Hình thức thờ tự, nhân vật được thờ và lịch nghi lễ khác nhau theo địa phương.",
+          "sourceIds": [
+            "src-078",
+            "src-079",
+            "src-097"
+          ],
+          "currentProvinceId": "bac-ninh",
+          "originUnitIds": [
+            "bac-ninh",
+            "bac-giang"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "quan-ho-bac-ninh-unesco",
+          "name": "Dân ca Quan họ Bắc Ninh",
+          "originArea": "Các làng Quan họ thuộc Bắc Ninh và Bắc Giang trước sáp nhập; nhiều làng kết bạn giữa hai vùng.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Hình thức hát đối đáp giao duyên với các cặp liền anh, liền chị; thực hành gắn với kết bạn giữa làng, hát canh và quy tắc giao tiếp cộng đồng. UNESCO mô tả Quan họ không chỉ là bài hát mà còn là tập quán xã hội tạo quan hệ thân hữu giữa các làng.",
+          "recognition": "UNESCO ghi danh năm 2009 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-074"
+          ],
+          "originUnitIds": [
+            "bac-ninh",
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "nghe-tranh-dong-ho-unesco",
+          "name": "Nghề làm tranh dân gian Đông Hồ",
+          "originArea": "Làng Đông Hồ, vùng Bắc Ninh cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Nghề in tranh khắc gỗ bằng ván khắc, giấy dó phủ điệp và màu tự nhiên, truyền nghề trong cộng đồng làng.",
+          "recognition": "UNESCO ghi danh năm 2025 vào Danh sách Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp.",
+          "sourceIds": [
+            "src-075",
+            "src-098"
+          ],
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "yen-tu-vinh-nghiem-con-son-kiep-bac",
+          "name": "Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+          "originArea": "Không gian văn hóa – Phật giáo liên tỉnh; thành phần thuộc Bắc Giang cũ nay thuộc thành phố Bắc Ninh gồm Chùa Vĩnh Nghiêm và Chùa Bổ Đà.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Quần thể gồm 12 địa điểm phản ánh sự hình thành, thể chế hóa và truyền thừa Thiền phái Trúc Lâm, một dòng thiền Việt Nam hình thành thế kỷ XIII.",
+          "recognition": "UNESCO ghi danh Di sản Thế giới năm 2025 theo tiêu chí (iii) và (vi).",
+          "sourceIds": [
+            "src-076",
+            "src-077"
+          ],
+          "originUnitIds": [
+            "bac-ninh",
+            "bac-giang"
+          ]
+        },
+        {
+          "id": "keo-co-huu-chap",
+          "name": "Nghi lễ và trò chơi kéo co Hữu Chấp",
+          "originArea": "Khu Hữu Chấp, tỉnh Bắc Ninh cũ; nay thuộc phường Kinh Bắc.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Nghi lễ cộng đồng có đoàn rước, nghi thức tại đình và trò kéo co bằng dây tre; các đội đại diện các giáp trong làng. Trò chơi mang ý nghĩa cầu mùa, đoàn kết và trật tự biểu tượng của cộng đồng nông nghiệp.",
+          "recognition": "UNESCO ghi danh năm 2015 trong hồ sơ đa quốc gia “Tugging rituals and games” vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-094",
+            "src-101"
+          ],
+          "originUnitIds": [
+            "bac-ninh"
+          ]
+        },
+        {
+          "id": "moc-ban-chua-vinh-nghiem",
+          "name": "Mộc bản chùa Vĩnh Nghiêm",
+          "originArea": "Chùa Vĩnh Nghiêm, tỉnh Bắc Giang cũ.",
+          "currentProvinceId": "bac-ninh",
+          "description": "Kho ván khắc lưu giữ văn bản Phật giáo và tư liệu về Thiền phái Trúc Lâm; có giá trị lịch sử, tôn giáo, ngôn ngữ, văn bản học và kỹ thuật khắc in.",
+          "recognition": "Nguồn cơ quan tỉnh xác định mộc bản là di sản tư liệu thuộc Chương trình Ký ức thế giới khu vực châu Á – Thái Bình Dương; hồ sơ cần bổ sung đường dẫn trực tiếp tới cơ quan chương trình để kiểm chứng độc lập.",
+          "sourceIds": [
+            "src-077",
+            "src-099"
+          ],
+          "originUnitIds": [
+            "bac-giang"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "dan-ca-quan-ho",
+        "name": "Dân ca Quan họ Bắc Ninh",
+        "category": "Âm nhạc truyền thống; hát đối đáp dân gian",
+        "image": {
+          "file": null,
+          "alt": "Liền anh, liền chị Quan họ – chưa xác minh quyền sử dụng ảnh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các làng Quan họ ở vùng Bắc Ninh và Bắc Giang trước sáp nhập; nổi bật tại không gian Lim, Viêm Xá và các làng Quan họ cổ.",
+        "origin": "Thực hành dân ca của cộng đồng các làng vùng Kinh Bắc, có quan hệ kết bạn và giao lưu giữa các làng.",
+        "characteristics": "Hát đối đáp nam – nữ theo lề lối; có bài bản, cách hát, cách ứng xử và tập quán mời trầu, hát canh.",
+        "instrumentsOrPerformance": "Hai nhóm liền anh, liền chị đối đáp; có thể trình diễn trên thuyền, tại nhà chứa Quan họ, đình hoặc không gian lễ hội; hình thức nhạc cụ tùy bối cảnh.",
+        "culturalValue": "Vừa là âm nhạc vừa là tập quán xã hội, góp phần kết nối các cộng đồng làng.",
+        "recognition": "UNESCO ghi danh năm 2009 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+        "sourceIds": [
+          "src-074",
+          "src-088"
+        ],
+        "currentProvinceId": "bac-ninh"
+      },
+      {
+        "id": "tranh-dan-gian-dong-ho",
+        "name": "Nghề làm tranh dân gian Đông Hồ",
+        "category": "Mỹ thuật dân gian; thủ công mỹ nghệ truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Nghệ nhân in tranh Đông Hồ – chưa xác minh quyền sử dụng ảnh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Làng Đông Hồ, phường Thuận Thành; vùng Bắc Ninh cũ.",
+        "origin": "Nghề tranh khắc gỗ truyền thống tại làng Đông Hồ, được trao truyền trong các gia đình và cộng đồng nghề.",
+        "characteristics": "Tranh in bằng ván khắc gỗ, giấy dó phủ điệp, màu từ nguyên liệu tự nhiên; đề tài thờ cúng, lịch sử, sinh hoạt, cảnh vật và ước vọng.",
+        "instrumentsOrPerformance": "Bản khắc gỗ, giấy dó phủ điệp, chổi/phết màu và quy trình in nhiều bản màu; nét đen thường được in sau cùng.",
+        "culturalValue": "Lưu giữ tri thức dân gian về mỹ thuật, vật liệu, kỹ thuật khắc in và biểu đạt thế giới quan dân gian.",
+        "recognition": "UNESCO ghi danh năm 2025 vào Danh sách Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp.",
+        "sourceIds": [
+          "src-075",
+          "src-098"
+        ],
+        "currentProvinceId": "bac-ninh"
+      },
+      {
+        "id": "thuc-hanh-then-tay-nung",
+        "name": "Thực hành Then của người Tày, Nùng",
+        "category": "Nghi lễ tín ngưỡng; âm nhạc và diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ nhân thực hành Then và đàn tính – chưa xác minh quyền sử dụng ảnh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các cộng đồng Tày, Nùng ở vùng miền núi Bắc Giang cũ; cần lập bản đồ các nhóm nghệ nhân đang thực hành tại địa bàn hiện hành.",
+        "origin": "Thực hành nghi lễ của người Tày, Nùng, Thái tại Việt Nam, không chỉ riêng thành phố Bắc Ninh.",
+        "characteristics": "Nghi lễ mô tả hành trình tâm linh, cầu bình an, sức khỏe, mùa màng và năm mới; kết hợp lời hát, nhạc cụ và nghi thức.",
+        "instrumentsOrPerformance": "Then master hát, gảy đàn tính, sử dụng chuông, quạt và các đạo cụ nghi lễ; một số nghi lễ có nhóm múa hỗ trợ.",
+        "culturalValue": "Gắn với đời sống tâm linh, tri thức dân gian, quan niệm về con người, tự nhiên và vũ trụ của các cộng đồng Tày, Nùng, Thái.",
+        "recognition": "UNESCO ghi danh năm 2019 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+        "sourceIds": [
+          "src-095",
+          "src-093"
+        ],
+        "currentProvinceId": "bac-ninh"
+      },
+      {
+        "id": "ca-tru-mien-bac",
+        "name": "Ca trù",
+        "category": "Âm nhạc truyền thống; hát thơ",
+        "image": {
+          "file": null,
+          "alt": "Đào nương biểu diễn Ca trù – chưa xác minh quyền sử dụng ảnh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Loại hình có phạm vi thực hành ở miền Bắc; nguồn địa phương liệt kê trong nhóm di sản UNESCO gắn với địa bàn Bắc Ninh, nhưng hồ sơ này chưa xác định đầy đủ phường/xã và câu lạc bộ ca trù đang hoạt động.",
+        "origin": "Vùng Bắc Bộ; không khẳng định Ca trù có nguồn gốc riêng tại Bắc Ninh.",
+        "characteristics": "Hình thức hát thơ phức hợp, có kỹ thuật nhả chữ và rung giọng; phục vụ nhiều mục đích xã hội và nghi lễ.",
+        "instrumentsOrPerformance": "Đào nương hát và gõ phách; kép đàn chơi đàn đáy; trống chầu giữ nhịp và điểm câu.",
+        "culturalValue": "Kết hợp thi ca, âm nhạc và trình diễn; đặt ra yêu cầu kiểm kê, truyền dạy và bảo vệ cộng đồng nghệ nhân.",
+        "recognition": "UNESCO ghi danh năm 2009 vào Danh sách Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp.",
+        "sourceIds": [
+          "src-096",
+          "src-099"
+        ],
+        "currentProvinceId": "bac-ninh"
+      }
+    ],
+    "metadata": {
+      "asOfDate": "2026-11-05",
+      "lastVerified": "2026-11-05",
+      "researchStatus": "needs_review",
+      "isSample": false,
+      "notes": [
+        "Đơn vị hiện hành được gọi là Thành phố Bắc Ninh từ 20/09/2026 theo Nghị quyết 39/2026/QH16; trước đó tỉnh Bắc Ninh mới hình thành từ Bắc Giang và Bắc Ninh cũ theo Nghị quyết 202/2025/QH15, hoạt động từ 01/07/2025.",
+        "Mã 24 trong QĐ 19/2025/QĐ-TTg là mã của tỉnh Bắc Ninh trước khi thành lập thành phố; trường administrativeCode để null vì chưa tìm thấy bảng mã cấp tỉnh mới được công bố sau 20/09/2026.",
+        "Diện tích 4.713,75 km² và quy mô dân số 3.989.623 là số liệu được công bố trong hồ sơ thành lập thành phố; năm/kỳ thống kê dân số không được nguồn đã kiểm tra nêu rõ nên population.year và areaYear để null.",
+        "Nguồn của tỉnh trước 20/09/2026 nêu trung tâm hành chính tỉnh tại phường Bắc Giang; trường administrativeCenter để null vì chưa xác nhận trụ sở hành chính thành phố sau khi thành lập.",
+        "Dữ liệu điểm đến và văn hóa được cố ý bao quát cả hai địa phương tiền thân; originArea chỉ rõ khu vực tiền thân, không quy mọi di sản cho một tỉnh cũ.",
+        "Tình trạng di sản UNESCO được phân loại riêng: Quan họ (2009, Danh sách đại diện); Đông Hồ (2025, Danh sách cần bảo vệ khẩn cấp); Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc (2025, Di sản Thế giới); Then (2019); Kéo co Hữu Chấp (2015); Ca trù (2009, Danh sách cần bảo vệ khẩn cấp).",
+        "Mộc bản chùa Vĩnh Nghiêm: thông tin Ký ức thế giới khu vực châu Á – Thái Bình Dương cần bổ sung đường dẫn chương trình/biên bản ghi danh trực tiếp; không nhầm với Mộc bản triều Nguyễn.",
+        "Ảnh được để null và permissionStatus=unverified cho tới khi xác minh giấy phép, tác giả, nguồn trực tiếp và quyền sử dụng.",
+        "Các tọa độ, giờ mở cửa, phí tham quan và số liệu khí tượng chưa được xác minh đồng bộ nên không tự điền."
+      ],
+      "sourceIds": [
+        "src-066",
+        "src-067",
+        "src-068",
+        "src-069",
+        "src-070",
+        "src-071",
+        "src-074",
+        "src-075",
+        "src-076",
+        "src-089"
+      ]
+    }
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Thành phố Bắc Ninh được thành lập trên toàn bộ địa giới tỉnh Bắc Ninh theo Nghị quyết 39/2026/QH16, hiệu lực 20/09/2026; trong đợt sắp xếp cấp tỉnh năm 2025, địa phương mới được hình thành từ Bắc Giang + Bắc Ninh.",
+      "Thành phố Bắc Ninh có 99 đơn vị cấp xã theo nguồn địa phương năm 2026; số quy mô dân số 3.989.623 người gắn với hồ sơ phân loại/sắp xếp, không phải kết quả điều tra cuối năm 2026."
+    ],
+    "sourceIds": [
+      "src-330",
+      "src-331",
+      "src-332"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "bac-ninh",
+      "name": "Bắc Ninh"
+    },
+    {
+      "id": "bac-giang",
+      "name": "Bắc Giang"
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "id": "vinh-long",
+  "name": "Tỉnh Vĩnh Long",
+  "administrativeType": "Tỉnh",
+  "region": "Đồng bằng sông Cửu Long",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Vĩnh Long – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Vĩnh Long mới kế thừa ba không gian văn hóa Vĩnh Long, Bến Tre và Trà Vinh trước đây: văn hóa miệt vườn – sông nước, xứ dừa và di sản Khmer Nam Bộ. Các điểm nhấn gồm làng gạch gốm Mang Thít, Khu lưu niệm Nguyễn Đình Chiểu, Ao Bà Om, Ok Om Bok và Đờn ca tài tử.",
+    "featuredDestinationIds": [
+      "lo-gach-mang-thit",
+      "mo-va-khu-luu-niem-nguyen-dinh-chieu",
+      "ao-ba-om-chua-ang"
+    ],
+    "featuredSpecialtyIds": [
+      "dua-sap-cau-ke",
+      "keo-dua-ben-tre",
+      "banh-tet-tra-cuon"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Vĩnh Long",
+      "administrativeCode": "86",
+      "administrativeCenter": "Phường Long Châu – UBND tỉnh đặt tại số 88 đường Võ Văn Kiệt",
+      "vehiclePlateCodes": [
+        "64",
+        "71",
+        "84"
+      ],
+      "areaKm2": 6296.2,
+      "areaYear": 2025,
+      "population": {
+        "value": 4194633,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Nằm ở vùng Đồng bằng sông Cửu Long, gồm không gian nội đồng giữa sông Tiền – sông Hậu, các cù lao và dải ven biển thuộc ba vùng Vĩnh Long, Bến Tre, Trà Vinh trước sắp xếp.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình đồng bằng thấp, chịu ảnh hưởng bồi tụ phù sa sông Mekong; có các nhánh sông lớn, cù lao, vườn cây ăn trái, vùng trồng dừa và vùng ven biển – cửa sông. Các khu vực đất ngập nước, rừng ngập mặn và hệ sinh thái cửa sông phân bố ở phía đông.",
+      "climate": "Khí hậu nhiệt đới gió mùa cận xích đạo, nền nhiệt cao quanh năm; mùa mưa và mùa khô tương đối rõ. Khu vực ven biển chịu tác động của gió mùa, triều và xâm nhập mặn theo mùa.",
+      "history": "Tỉnh Vĩnh Long mới được thành lập trên cơ sở hợp nhất toàn bộ tỉnh Vĩnh Long, Bến Tre và Trà Vinh cũ, chính quyền mới hoạt động từ ngày 01/07/2025. Vùng Vĩnh Long cũ gắn với lịch sử tỉnh Nam Bộ, văn hóa miệt vườn và các di tích Nho học; Bến Tre cũ gắn với phong trào Đồng Khởi, nghề dừa và di sản Nguyễn Đình Chiểu; Trà Vinh cũ là không gian văn hóa Khmer – Kinh – Hoa, chùa Khmer và các lễ hội truyền thống.",
+      "description": "Vĩnh Long mới là không gian văn hóa đa dạng của vùng châu thổ Mekong, gồm ba vùng tiền thân có sắc thái khác nhau: miền vườn và làng gốm Mang Thít; xứ dừa Bến Tre với các di tích Nguyễn Đình Chiểu, Đồng Khởi và nghề thủ công; vùng Khmer Trà Vinh với chùa cổ, Ok Om Bok, Rô-băm và Dù kê. Diện tích và quy mô dân số trong hồ sơ này là số tại thời điểm lập phương án sắp xếp cấp tỉnh năm 2025.",
+      "sourceIds": [
+        "src-335",
+        "src-336",
+        "src-337",
+        "src-338",
+        "src-339",
+        "src-340",
+        "src-341",
+        "src-343",
+        "src-344",
+        "src-348"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "lo-gach-mang-thit",
+        "name": "Làng nghề gạch, gốm Mang Thít",
+        "category": "Làng nghề truyền thống; cảnh quan công nghiệp thủ công",
+        "originArea": "Vĩnh Long cũ – khu vực Mang Thít, dọc kênh Thầy Cai và sông Cổ Chiên.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Làng nghề gạch, gốm Mang Thít – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Nhơn Phú và các địa bàn lân cận, tỉnh Vĩnh Long; địa chỉ từng lò cần đối chiếu xã hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Dải lò gạch, lò gốm đỏ ven sông và kênh rạch, phản ánh lịch sử sản xuất gạch gốm của vùng đất phù sa.",
+        "fullDescription": "Các cụm lò gạch gốm Mang Thít hình thành gắn với nguồn đất sét, giao thông thủy và nghề thủ công địa phương. Đây vừa là không gian sản xuất, vừa là cảnh quan văn hóa công nghiệp đặc thù của Vĩnh Long cũ; không mặc định mọi lò còn hoạt động hoặc mở cửa tham quan.",
+        "highlights": [
+          "Dãy lò nung hình vòm; tuyến kênh Thầy Cai; bến sông; dấu tích nghề gốm."
+        ],
+        "historicalCulturalValue": "Giá trị nghề thủ công, tri thức vật liệu đất sét, kinh nghiệm nung và cảnh quan văn hóa ven sông.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-341",
+          "src-352"
+        ],
+        "originUnitIds": [
+          "vinh-long"
+        ]
+      },
+      {
+        "id": "cu-lao-an-binh",
+        "name": "Cù lao An Bình",
+        "category": "Du lịch sinh thái miệt vườn; không gian cư trú sông nước",
+        "originArea": "Vĩnh Long cũ – cù lao giữa sông Tiền và các nhánh sông khu vực Long Hồ.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Cù lao An Bình – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã An Bình, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Cù lao sông nước với vườn cây ăn trái, homestay, đường làng và mạng lưới rạch nhỏ.",
+        "fullDescription": "Cù lao An Bình gắn với sinh kế vườn cây, giao thông ghe xuồng và loại hình du lịch cộng đồng miệt vườn. Nội dung trải nghiệm tùy hộ và cơ sở cung cấp; cần kiểm tra tình trạng dịch vụ trước khi công bố giờ mở cửa hoặc giá.",
+        "highlights": [
+          "Vườn cây ăn trái; nhà vườn; bến đò; tuyến rạch và homestay."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái nông nghiệp, văn hóa sông nước và tri thức canh tác vườn.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-341",
+          "src-352"
+        ],
+        "originUnitIds": [
+          "vinh-long"
+        ]
+      },
+      {
+        "id": "van-thanh-mieu-vinh-long",
+        "name": "Văn Thánh Miếu Vĩnh Long",
+        "category": "Di tích lịch sử – văn hóa; kiến trúc thờ tự Nho giáo",
+        "originArea": "Vĩnh Long cũ – thành phố Vĩnh Long trước sắp xếp.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Văn Thánh Miếu Vĩnh Long – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Phước Hậu, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Công trình thờ Khổng Tử, gắn với truyền thống giáo dục Nho học, hoạt động văn hóa và lịch sử sĩ phu Nam Bộ.",
+        "fullDescription": "Văn Thánh Miếu được xây dựng trong thế kỷ XIX, gắn với vai trò của các sĩ phu và quan lại triều Nguyễn ở Nam Bộ. Công trình là không gian tưởng niệm, giáo dục và bảo tồn kiến trúc truyền thống; cần phân biệt các mốc xây dựng, hoàn thành và trùng tu theo tư liệu di tích.",
+        "highlights": [
+          "Cổng tam quan; khu thờ; bia và hoành phi; cảnh quan cây xanh."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử giáo dục, văn hóa Nho học và lịch sử Vĩnh Long thế kỷ XIX.",
+        "recognition": "Di tích lịch sử – văn hóa cấp quốc gia; hồ sơ nguồn địa phương xác nhận xếp hạng, cần đối chiếu quyết định xếp hạng khi phát hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-342"
+        ],
+        "originUnitIds": [
+          "vinh-long"
+        ]
+      },
+      {
+        "id": "mo-va-khu-luu-niem-nguyen-dinh-chieu",
+        "name": "Mộ và Khu lưu niệm Nguyễn Đình Chiểu",
+        "category": "Di tích quốc gia đặc biệt; di tích lịch sử – văn hóa",
+        "originArea": "Bến Tre cũ – Ba Tri; nơi Nguyễn Đình Chiểu sinh sống, dạy học và sáng tác.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Mộ và Khu lưu niệm Nguyễn Đình Chiểu – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Ba Tri, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Quần thể tưởng niệm danh nhân Nguyễn Đình Chiểu, nhà thơ, nhà giáo và thầy thuốc của thế kỷ XIX.",
+        "fullDescription": "Khu di tích gắn với cuộc đời, sự nghiệp văn chương, y học và tinh thần yêu nước của Nguyễn Đình Chiểu. Quần thể gồm khu mộ, nhà lưu niệm và các không gian trưng bày; được xếp hạng di tích quốc gia đặc biệt. UNESCO đã ghi danh Nguyễn Đình Chiểu trong chương trình kỷ niệm danh nhân và sự kiện lịch sử quốc tế niên khóa 2022–2023, không phải ghi danh khu di tích là Di sản Thế giới.",
+        "highlights": [
+          "Khu mộ; nhà lưu niệm; không gian trưng bày về cuộc đời và tác phẩm; tư liệu Lục Vân Tiên."
+        ],
+        "historicalCulturalValue": "Giá trị văn học, giáo dục, lịch sử và ký ức chống thực dân ở Nam Bộ.",
+        "recognition": "Di tích quốc gia đặc biệt; Nguyễn Đình Chiểu được UNESCO vinh danh trong chương trình danh nhân và sự kiện lịch sử quốc tế 2022–2023.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-347",
+          "src-341"
+        ],
+        "originUnitIds": [
+          "ben-tre"
+        ]
+      },
+      {
+        "id": "con-phung",
+        "name": "Cồn Phụng",
+        "category": "Điểm du lịch sinh thái – văn hóa sông nước",
+        "originArea": "Bến Tre cũ – khu vực cù lao trên sông Tiền.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Cồn Phụng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Phú Túc, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Cồn sông nước với vườn dừa, cơ sở thủ công từ dừa, vườn cây và hoạt động tham quan bằng thuyền.",
+        "fullDescription": "Cồn Phụng là một điểm du lịch gắn với không gian cù lao Bến Tre, cảnh quan sông Tiền và các hoạt động giới thiệu nghề thủ công từ dừa. Các công trình và dịch vụ du lịch có thể thay đổi theo đơn vị khai thác; nội dung lịch sử Đạo Dừa cần trình bày trung lập và có nguồn cụ thể.",
+        "highlights": [
+          "Vườn dừa; cơ sở thủ công mỹ nghệ; bến thuyền; cảnh quan sông Tiền."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái cù lao, nghề thủ công từ dừa và văn hóa du lịch cộng đồng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-341",
+          "src-352"
+        ],
+        "originUnitIds": [
+          "ben-tre"
+        ]
+      },
+      {
+        "id": "ao-ba-om-chua-ang",
+        "name": "Khu danh thắng Ao Bà Om và chùa Âng",
+        "category": "Danh lam thắng cảnh; kiến trúc Phật giáo Khmer",
+        "originArea": "Trà Vinh cũ – trung tâm văn hóa Khmer vùng Trà Vinh.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Khu danh thắng Ao Bà Om và chùa Âng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Nguyệt Hóa, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Ao nước gần vuông được bao quanh bởi hàng cây cổ thụ, nằm trong không gian văn hóa Khmer và gần chùa Âng.",
+        "fullDescription": "Ao Bà Om là thắng cảnh gắn với các truyền thuyết địa phương và đời sống cộng đồng Khmer. Chùa Âng ở gần đó là ngôi chùa Khmer cổ, phản ánh kiến trúc, điêu khắc và sinh hoạt Phật giáo Nam tông Khmer. Lễ hội Ok Om Bok thường có hoạt động tại khu vực Ao Bà Om.",
+        "highlights": [
+          "Mặt ao; hàng cây cổ thụ; kiến trúc chùa Âng; không gian văn hóa Khmer."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, tín ngưỡng, kiến trúc Khmer và sinh hoạt cộng đồng.",
+        "recognition": "Ao Bà Om là di tích danh thắng cấp quốc gia; cần phân biệt xếp hạng của danh thắng với tình trạng xếp hạng riêng của chùa Âng.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-342",
+          "src-344",
+          "src-341"
+        ],
+        "originUnitIds": [
+          "tra-vinh"
+        ]
+      },
+      {
+        "id": "bao-tang-van-hoa-dan-toc-khmer",
+        "name": "Bảo tàng Văn hóa dân tộc Khmer",
+        "category": "Bảo tàng; thiết chế văn hóa cộng đồng",
+        "originArea": "Trà Vinh cũ – không gian văn hóa Khmer tại Trà Vinh.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Bảo tàng Văn hóa dân tộc Khmer – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Nguyệt Hóa, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Không gian trưng bày giới thiệu đời sống vật chất, tín ngưỡng, nghệ thuật và nghề thủ công của cộng đồng Khmer Nam Bộ.",
+        "fullDescription": "Bảo tàng góp phần giới thiệu kiến trúc nhà ở, trang phục, nhạc cụ, sinh hoạt Phật giáo Nam tông và lễ hội của người Khmer. Cách diễn giải nên dựa vào tư liệu trưng bày và tránh khái quát hóa mọi cộng đồng Khmer thành một mẫu đồng nhất.",
+        "highlights": [
+          "Hiện vật sinh hoạt; trang phục; nhạc cụ; mô hình kiến trúc và nghi lễ."
+        ],
+        "historicalCulturalValue": "Giá trị giáo dục, bảo tồn hiện vật và giới thiệu văn hóa Khmer Nam Bộ.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-341",
+          "src-343",
+          "src-344"
+        ],
+        "originUnitIds": [
+          "tra-vinh"
+        ]
+      },
+      {
+        "id": "bien-ba-dong",
+        "name": "Biển Ba Động",
+        "category": "Cảnh quan biển; du lịch sinh thái ven biển",
+        "originArea": "Trà Vinh cũ – vùng ven biển Duyên Hải.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Biển Ba Động – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Trường Long Hòa, tỉnh Vĩnh Long.",
+        "coordinates": null,
+        "shortDescription": "Dải bờ biển gắn với rừng phòng hộ, cồn cát và sinh hoạt cư dân ven biển.",
+        "fullDescription": "Ba Động là điểm đến ven biển của vùng Trà Vinh cũ, gắn với hệ sinh thái ven biển và sinh kế đánh bắt, nuôi trồng thủy sản. Điều kiện bãi biển, xói lở, an toàn và dịch vụ thay đổi theo mùa; chưa đưa giờ tắm, chất lượng nước hay giá dịch vụ khi chưa có nguồn kiểm tra định kỳ.",
+        "highlights": [
+          "Bãi cát; cảnh quan ven biển; rừng phòng hộ; làng nghề và sinh kế biển."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan ven biển, sinh thái và văn hóa cư dân biển.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-341",
+          "src-352"
+        ],
+        "originUnitIds": [
+          "tra-vinh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "dua-sap-cau-ke",
+        "name": "Dừa sáp Cầu Kè",
+        "category": "Nông sản đặc trưng; trái cây và sản phẩm chế biến",
+        "originArea": "Trà Vinh cũ – huyện Cầu Kè, nay thuộc các xã của tỉnh Vĩnh Long.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Dừa sáp Cầu Kè – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Dừa sáp Cầu Kè gắn với Trà Vinh cũ – huyện Cầu Kè, nay thuộc các xã của tỉnh Vĩnh Long.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Trái dừa sáp; các nguyên liệu bổ sung tùy sản phẩm chế biến."
+        ],
+        "preparation": "Dừa sáp dùng tươi hoặc chế biến thành sinh tố, mứt, kẹo, sữa chua và sản phẩm sấy; quy trình cụ thể tùy cơ sở.",
+        "characteristics": "Cơm dừa dày, mềm dẻo, ít nước; độ sáp khác nhau giữa trái và buồng.",
+        "culturalContext": "Gắn với câu chuyện giống dừa được trồng ở vùng Cầu Kè và sinh kế vườn dừa của cộng đồng địa phương.",
+        "recognition": "Không gán chỉ dẫn địa lý hoặc chứng nhận OCOP cho mọi sản phẩm nếu chưa kiểm tra chủ thể và văn bằng cụ thể.",
+        "sourceIds": [
+          "src-353",
+          "src-354",
+          "src-341"
+        ],
+        "originUnitIds": [
+          "vinh-long",
+          "tra-vinh"
+        ]
+      },
+      {
+        "id": "keo-dua-ben-tre",
+        "name": "Kẹo dừa Bến Tre",
+        "category": "Bánh kẹo; sản phẩm chế biến từ dừa",
+        "originArea": "Bến Tre cũ – các làng nghề và cơ sở chế biến dừa.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Kẹo dừa Bến Tre – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Kẹo dừa Bến Tre gắn với Bến Tre cũ – các làng nghề và cơ sở chế biến dừa.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Nước cốt dừa hoặc nguyên liệu dừa; đường; mạch nha; nguyên liệu tạo vị tùy loại."
+        ],
+        "preparation": "Cô nấu hỗn hợp nguyên liệu đến độ sánh, làm nguội, cắt và gói; công thức thay đổi giữa cơ sở.",
+        "characteristics": "Dẻo, thơm vị dừa; có nhiều biến thể lá dứa, sầu riêng, đậu phộng hoặc ca cao.",
+        "culturalContext": "Gắn với vùng trồng dừa, nghề chế biến và sinh kế thủ công của Bến Tre cũ.",
+        "recognition": "Đặc sản vùng; không mặc định tất cả sản phẩm mang cùng chứng nhận.",
+        "sourceIds": [
+          "src-341",
+          "src-352"
+        ],
+        "originUnitIds": [
+          "ben-tre"
+        ]
+      },
+      {
+        "id": "banh-tet-tra-cuon",
+        "name": "Bánh tét Trà Cuôn",
+        "category": "Món ăn truyền thống; bánh gói lá",
+        "originArea": "Trà Vinh cũ – vùng Trà Cuôn, nay thuộc tỉnh Vĩnh Long.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Bánh tét Trà Cuôn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh tét Trà Cuôn gắn với Trà Vinh cũ – vùng Trà Cuôn, nay thuộc tỉnh Vĩnh Long.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Nếp; đậu xanh; thịt heo; lá chuối; gia vị; thành phần phụ tùy kiểu bánh."
+        ],
+        "preparation": "Nếp và nhân được sơ chế, gói trong lá chuối thành đòn, buộc lạt và luộc chín trong nhiều giờ.",
+        "characteristics": "Bánh có lớp nếp dẻo, nhân đậu xanh và thịt; một số phiên bản có màu và hương vị riêng tùy nguyên liệu.",
+        "culturalContext": "Gắn với tập quán làm bánh dịp lễ, Tết và nghề chế biến tại địa bàn Trà Vinh cũ.",
+        "recognition": null,
+        "sourceIds": [
+          "src-341"
+        ],
+        "originUnitIds": [
+          "vinh-long",
+          "tra-vinh"
+        ]
+      },
+      {
+        "id": "banh-trang-my-long-banh-phong-son-doc",
+        "name": "Bánh tráng Mỹ Lồng và bánh phồng Sơn Đốc",
+        "category": "Bánh truyền thống; sản phẩm làng nghề",
+        "originArea": "Bến Tre cũ – khu vực Mỹ Lồng và Sơn Đốc.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Bánh tráng Mỹ Lồng và bánh phồng Sơn Đốc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh tráng Mỹ Lồng và bánh phồng Sơn Đốc gắn với Bến Tre cũ – khu vực Mỹ Lồng và Sơn Đốc.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Gạo; dừa; mè; đường hoặc gia vị tùy loại bánh."
+        ],
+        "preparation": "Bánh tráng được pha bột, tráng và phơi; bánh phồng có công đoạn chế biến nếp, cán và phơi trước khi nướng hoặc chiên.",
+        "characteristics": "Bánh tráng có thể có mè hoặc nước cốt dừa; bánh phồng nở giòn, thơm, vị ngọt hoặc mặn tùy loại.",
+        "culturalContext": "Gắn với nghề làm bánh thủ công và sinh kế hộ gia đình ở vùng Bến Tre cũ.",
+        "recognition": null,
+        "sourceIds": [
+          "src-341"
+        ],
+        "originUnitIds": [
+          "ben-tre"
+        ]
+      },
+      {
+        "id": "buoi-nam-roi-my-hoa",
+        "name": "Bưởi Năm Roi Mỹ Hòa",
+        "category": "Trái cây; nông sản",
+        "originArea": "Vĩnh Long cũ – vùng Mỹ Hòa, Bình Minh.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Bưởi Năm Roi Mỹ Hòa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bưởi Năm Roi Mỹ Hòa gắn với Vĩnh Long cũ – vùng Mỹ Hòa, Bình Minh.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả bưởi Năm Roi."
+        ],
+        "preparation": "Thu hoạch, phân loại và bảo quản; tiêu thụ tươi hoặc chế biến món ăn, nước ép.",
+        "characteristics": "Múi mọng, vị ngọt thanh pha chua nhẹ; đặc tính phụ thuộc mùa vụ và điều kiện canh tác.",
+        "culturalContext": "Gắn với vùng trồng cây ăn quả ở khu vực Bình Minh, Vĩnh Long cũ.",
+        "recognition": "Tên vùng sản phẩm được giới thiệu như đặc sản địa phương; tình trạng chỉ dẫn địa lý/chứng nhận của từng cơ sở cần tra văn bằng riêng.",
+        "sourceIds": [
+          "src-341"
+        ],
+        "originUnitIds": [
+          "vinh-long"
+        ]
+      },
+      {
+        "id": "cam-sanh-tam-binh",
+        "name": "Cam sành Tam Bình",
+        "category": "Trái cây; nông sản",
+        "originArea": "Vĩnh Long cũ – vùng Tam Bình.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Cam sành Tam Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cam sành Tam Bình gắn với Vĩnh Long cũ – vùng Tam Bình.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả cam sành."
+        ],
+        "preparation": "Thu hoạch theo độ chín, phân loại và tiêu thụ tươi hoặc chế biến.",
+        "characteristics": "Vỏ sần, tép mọng, vị chua ngọt tùy độ chín, giống và điều kiện canh tác.",
+        "culturalContext": "Gắn với sinh kế vườn cây ăn trái và hoạt động sản xuất nông nghiệp vùng Tam Bình.",
+        "recognition": null,
+        "sourceIds": [
+          "src-341"
+        ],
+        "originUnitIds": [
+          "vinh-long"
+        ]
+      },
+      {
+        "id": "sau-rieng-cai-mon",
+        "name": "Sầu riêng Cái Mơn",
+        "category": "Trái cây; nông sản",
+        "originArea": "Bến Tre cũ – vùng Chợ Lách và Cái Mơn.",
+        "currentProvinceId": "vinh-long",
+        "image": {
+          "file": null,
+          "alt": "Sầu riêng Cái Mơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sầu riêng Cái Mơn gắn với Bến Tre cũ – vùng Chợ Lách và Cái Mơn.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả sầu riêng; các giống và mùa vụ tùy nhà vườn."
+        ],
+        "preparation": "Thu hoạch theo độ chín và giống; bảo quản, sơ chế và tiêu thụ tươi.",
+        "characteristics": "Cơm quả có mùi thơm đặc trưng, độ béo và màu sắc khác nhau theo giống.",
+        "culturalContext": "Gắn với vùng cây ăn trái và nghề làm vườn của Chợ Lách, Bến Tre cũ.",
+        "recognition": null,
+        "sourceIds": [
+          "src-341"
+        ],
+        "originUnitIds": [
+          "ben-tre"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-khmer-vinh-long",
+          "name": "Cộng đồng Khmer Nam Bộ",
+          "originArea": "Tập trung nhiều ở Trà Vinh cũ; cũng có cư dân Khmer tại các địa bàn khác của tỉnh Vĩnh Long mới.",
+          "currentProvinceId": "vinh-long",
+          "description": "Cộng đồng Khmer có ngôn ngữ, chữ viết, kiến trúc chùa, Phật giáo Nam tông, lễ hội và nghệ thuật diễn xướng riêng. Cần mô tả theo địa bàn và chủ thể thực hành, không khái quát một kiểu văn hóa cho mọi nhóm Khmer.",
+          "sourceIds": [
+            "src-343",
+            "src-344",
+            "src-341"
+          ],
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-vinh-long",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Cả ba vùng Vĩnh Long, Bến Tre và Trà Vinh trước sắp xếp.",
+          "currentProvinceId": "vinh-long",
+          "description": "Cộng đồng Kinh chiếm đa số ở phần lớn địa bàn; đời sống văn hóa gắn với làng xã, tín ngưỡng thờ cúng tổ tiên, đình làng, nghề nông, nghề biển và sinh hoạt sông nước.",
+          "sourceIds": [
+            "src-341",
+            "src-336"
+          ],
+          "originUnitIds": [
+            "vinh-long",
+            "tra-vinh",
+            "ben-tre"
+          ]
+        },
+        {
+          "id": "cong-dong-hoa-tra-cu",
+          "name": "Cộng đồng Hoa",
+          "originArea": "Một số khu vực đô thị và thương mại, đặc biệt tại Trà Cú và Trà Vinh cũ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Cộng đồng Hoa có các hội quán, cơ sở tín ngưỡng, tập quán lễ tiết và thực hành ẩm thực; ở Trà Cú, lễ hội Nguyên tiêu đã phát triển thành sự kiện có sự tham gia của Hoa, Kinh và Khmer.",
+          "sourceIds": [
+            "src-351",
+            "src-341"
+          ],
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "tuc-tho-cung-ong-ba-va-dinh-lang",
+          "name": "Tín ngưỡng thờ cúng tổ tiên và sinh hoạt đình làng",
+          "originArea": "Cộng đồng Kinh ở cả ba vùng tiền thân.",
+          "currentProvinceId": "vinh-long",
+          "description": "Thực hành thờ cúng tổ tiên, tiền hiền, hậu hiền và các vị thần bảo hộ cộng đồng hiện diện trong gia đình và đình làng; nghi thức cụ thể khác nhau theo địa phương.",
+          "sourceIds": [
+            "src-341"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "nghi-le-phat-giao-nam-tong-khmer",
+          "name": "Nghi lễ Phật giáo Nam tông Khmer",
+          "originArea": "Cộng đồng Khmer tại Trà Vinh cũ và các địa bàn Khmer của tỉnh.",
+          "currentProvinceId": "vinh-long",
+          "description": "Chùa và sư sãi giữ vai trò quan trọng trong đời sống tâm linh, giáo dục và lễ tục của cộng đồng Khmer; các nghi thức có lịch riêng theo Phật lịch và từng chùa.",
+          "sourceIds": [
+            "src-344",
+            "src-343"
+          ],
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-ok-om-bok",
+          "name": "Lễ hội Ok Om Bok của người Khmer",
+          "originArea": "Trà Vinh cũ; cộng đồng Khmer tại tỉnh Vĩnh Long mới.",
+          "currentProvinceId": "vinh-long",
+          "description": "Lễ hội cúng trăng vào rằm tháng 10 âm lịch, gắn với tín ngưỡng nông nghiệp, lòng biết ơn mùa màng và sinh hoạt cộng đồng Khmer. Ở tỉnh mới, lễ hội được tổ chức tại nhiều địa bàn; các hoạt động lớn có thể gắn với Ao Bà Om và đua ghe ngo.",
+          "sourceIds": [
+            "src-344",
+            "src-343"
+          ],
+          "timeAndLocation": "Rằm tháng 10 âm lịch; địa điểm và chương trình từng năm theo thông báo của địa phương.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia; Quyết định 2684/QĐ-BVHTTDL ngày 25/08/2014.",
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        },
+        {
+          "id": "le-hoi-nghinh-ong-binh-dai",
+          "name": "Lễ hội Nghinh Ông Nam Hải Bình Đại",
+          "originArea": "Bến Tre cũ – vùng cư dân biển Bình Đại.",
+          "currentProvinceId": "vinh-long",
+          "description": "Lễ hội của cộng đồng ngư dân thờ Nam Hải Đại Tướng Quân (Cá Ông), cầu bình an, biển lặng và mùa biển thuận lợi; gồm các nghi thức rước, nghinh và sinh hoạt cộng đồng.",
+          "sourceIds": [
+            "src-345"
+          ],
+          "timeAndLocation": "Xã Bình Đại; thời điểm tổ chức theo lịch lễ hội địa phương, nguồn năm 2026 ghi lễ Xuất Nghinh ngày 29/07/2026.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 829/QĐ-BVHTTDL ngày 10/03/2016.",
+          "originUnitIds": [
+            "ben-tre"
+          ]
+        },
+        {
+          "id": "le-hoi-lang-ong-tra-on",
+          "name": "Lễ hội Lăng Ông Trà Ôn",
+          "originArea": "Vĩnh Long cũ – vùng Trà Ôn.",
+          "currentProvinceId": "vinh-long",
+          "description": "Lễ hội truyền thống tưởng nhớ vị tướng được cộng đồng tôn kính; phản ánh sự giao thoa sinh hoạt văn hóa của cư dân Kinh, Hoa và Khmer tại Trà Ôn.",
+          "sourceIds": [
+            "src-346"
+          ],
+          "timeAndLocation": "Khu vực Lăng Ông Trà Ôn; thực hành hằng năm, thời điểm cụ thể cần theo lịch thông báo của ban tổ chức.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 261/QĐ-BVHTTDL ngày 22/01/2020.",
+          "originUnitIds": [
+            "vinh-long"
+          ]
+        },
+        {
+          "id": "le-hoi-nguyen-tieu-tra-cu",
+          "name": "Lễ hội Nguyên tiêu ở Trà Cú",
+          "originArea": "Trà Vinh cũ – cộng đồng Hoa tại Trà Cú và cư dân địa phương.",
+          "currentProvinceId": "vinh-long",
+          "description": "Lễ hội khởi nguồn từ cộng đồng Hoa, sau đó mở rộng thành ngày hội có sự tham gia của người Hoa, Kinh và Khmer; nổi bật với nghi lễ Nghinh Thần, rước kiệu và sinh hoạt đường phố.",
+          "sourceIds": [
+            "src-351"
+          ],
+          "timeAndLocation": "Trà Cú; dịp rằm tháng Giêng âm lịch.",
+          "recognition": "Được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia; công bố ngày 03/03/2026.",
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-truyen-thong-khmer",
+          "name": "Trang phục truyền thống Khmer Nam Bộ",
+          "originArea": "Cộng đồng Khmer, đặc biệt tại Trà Vinh cũ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Trang phục Khmer có biến thể theo nghi lễ, sinh hoạt, độ tuổi và vùng; trang phục múa – sân khấu cần phân biệt với y phục đời thường. Mô tả hoa văn, chất liệu và cách mặc theo từng nhóm thực hành khi có tư liệu cụ thể.",
+          "sourceIds": [
+            "src-343",
+            "src-344"
+          ],
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        },
+        {
+          "id": "ao-ba-ba-va-khan-ran",
+          "name": "Áo bà ba và khăn rằn trong đời sống Nam Bộ",
+          "originArea": "Cư dân Kinh ở cả ba vùng tiền thân và nhiều địa phương Nam Bộ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Áo bà ba và khăn rằn gắn với đời sống lao động, sông nước và hình ảnh văn hóa Nam Bộ; không phải trang phục chỉ riêng Vĩnh Long.",
+          "sourceIds": [
+            "src-341"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "sinh-hoat-song-nuoc-miet-vuon",
+          "name": "Sinh hoạt sông nước và miệt vườn",
+          "originArea": "Các cộng đồng cư trú dọc sông Tiền, sông Hậu và mạng lưới kênh rạch ở cả ba vùng.",
+          "currentProvinceId": "vinh-long",
+          "description": "Ghe xuồng, bến nước, chợ, vườn cây và hoạt động trao đổi nông sản tạo nên không gian sống gắn với sông rạch; hình thức sinh kế khác nhau giữa nội đồng, cù lao và vùng ven biển.",
+          "sourceIds": [
+            "src-341",
+            "src-336"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "nghe-thu-cong-tu-dua",
+          "name": "Nghề thủ công và chế biến từ dừa",
+          "originArea": "Bến Tre cũ và các địa bàn trồng dừa của tỉnh Vĩnh Long mới.",
+          "currentProvinceId": "vinh-long",
+          "description": "Dừa được sử dụng trong thực phẩm, mỹ nghệ và vật liệu thủ công; tri thức chế biến được truyền qua hộ gia đình và cơ sở sản xuất, có biến đổi theo thị trường.",
+          "sourceIds": [
+            "src-341",
+            "src-354"
+          ],
+          "originUnitIds": [
+            "ben-tre"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-chua-khmer",
+          "name": "Kiến trúc chùa Khmer Nam Bộ",
+          "originArea": "Trà Vinh cũ – các chùa Khmer tại Trà Vinh, Trà Cú và các địa bàn lân cận.",
+          "currentProvinceId": "vinh-long",
+          "description": "Chùa Khmer thường có chính điện, sala, tháp, cổng và các mảng trang trí biểu tượng; cấu trúc, màu sắc và họa tiết khác nhau giữa từng ngôi chùa. Chùa Âng là ví dụ tiêu biểu ở địa bàn Trà Vinh cũ.",
+          "sourceIds": [
+            "src-342",
+            "src-343"
+          ],
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        },
+        {
+          "id": "nha-vuon-va-khong-gian-cau-ke",
+          "name": "Nhà vườn và không gian cù lao",
+          "originArea": "Vĩnh Long cũ – cù lao An Bình, Long Hồ và các vùng vườn cây.",
+          "currentProvinceId": "vinh-long",
+          "description": "Nhà ở, vườn cây, bến sông và rạch nhỏ tạo thành không gian cư trú gắn với canh tác cây ăn trái, giao thông thủy và du lịch cộng đồng.",
+          "sourceIds": [
+            "src-341"
+          ],
+          "originUnitIds": [
+            "vinh-long"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "phat-giao-nam-tong-khmer-vinh-long",
+          "name": "Phật giáo Nam tông Khmer",
+          "originArea": "Cộng đồng Khmer tại Trà Vinh cũ và các địa bàn Khmer của tỉnh Vĩnh Long mới.",
+          "currentProvinceId": "vinh-long",
+          "description": "Phật giáo Nam tông là nền tảng tôn giáo quan trọng trong đời sống nhiều cộng đồng Khmer; chùa là nơi thực hành nghi lễ, học tập và sinh hoạt cộng đồng. Cần phân biệt sinh hoạt tôn giáo với các trình diễn sân khấu phục vụ du lịch.",
+          "sourceIds": [
+            "src-344",
+            "src-343"
+          ],
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        },
+        {
+          "id": "tin-nguong-tho-ca-ong-nam-hai",
+          "name": "Tín ngưỡng thờ Nam Hải Đại Tướng Quân (Cá Ông)",
+          "originArea": "Cư dân ven biển Bình Đại và các vùng biển Bến Tre cũ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Tín ngưỡng của cộng đồng ngư dân gắn với niềm tin Cá Ông che chở tàu thuyền và người đi biển; được thể hiện qua lễ hội Nghinh Ông và nghi thức tại lăng thờ.",
+          "sourceIds": [
+            "src-345"
+          ],
+          "originUnitIds": [
+            "ben-tre"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "don-ca-tai-tu-nam-bo-vinh-long",
+          "name": "Đờn ca tài tử Nam Bộ",
+          "originArea": "Cả ba vùng Vĩnh Long, Bến Tre và Trà Vinh cũ; phạm vi thực hành Nam Bộ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Loại hình âm nhạc kết hợp nhạc lễ, nhạc cung đình và dân gian Nam Bộ; được thực hành trong sinh hoạt cộng đồng, lễ hội, đám giỗ và giao lưu nghệ thuật.",
+          "sourceIds": [
+            "src-348",
+            "src-343"
+          ],
+          "recognition": "UNESCO ghi danh năm 2013 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại; phạm vi liên tỉnh Nam Bộ.",
+          "originUnitIds": [
+            "vinh-long",
+            "tra-vinh",
+            "ben-tre"
+          ]
+        },
+        {
+          "id": "hat-sac-bua-phu-le",
+          "name": "Hát Sắc bùa Phú Lễ",
+          "originArea": "Bến Tre cũ – xã Phú Lễ, Ba Tri.",
+          "currentProvinceId": "vinh-long",
+          "description": "Hình thức diễn xướng dân gian gắn với các dịp lễ tết và tập quán chúc tụng, cầu an của cộng đồng; nội dung và cách thực hành do phường hát, nghệ nhân truyền dạy.",
+          "sourceIds": [
+            "src-350"
+          ],
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 217/QĐ-BVHTTDL ngày 23/01/2017.",
+          "originUnitIds": [
+            "ben-tre"
+          ]
+        },
+        {
+          "id": "nghe-thuat-ro-bam-khmer",
+          "name": "Nghệ thuật Rô-băm của người Khmer",
+          "originArea": "Trà Vinh cũ và cộng đồng Khmer Nam Bộ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Sân khấu múa – kịch truyền thống Khmer, kết hợp mặt nạ, phục trang, âm nhạc và động tác ước lệ; vai diễn, tích truyện và phong cách có thể khác nhau theo đoàn nghệ nhân.",
+          "sourceIds": [
+            "src-349",
+            "src-343"
+          ],
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 1852/QĐ-BVHTTDL ngày 08/05/2017.",
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        },
+        {
+          "id": "le-hoi-ok-om-bok-di-san",
+          "name": "Di sản Lễ hội Ok Om Bok",
+          "originArea": "Cộng đồng Khmer tại Trà Vinh cũ.",
+          "currentProvinceId": "vinh-long",
+          "description": "Lễ cúng trăng thể hiện lòng biết ơn đối với thiên nhiên, mùa màng và sinh hoạt cộng đồng Khmer; một số nơi kết hợp hội thi, đua ghe ngo và hoạt động văn hóa.",
+          "sourceIds": [
+            "src-344"
+          ],
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 2684/QĐ-BVHTTDL ngày 25/08/2014.",
+          "originUnitIds": [
+            "tra-vinh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "don-ca-tai-tu",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống; diễn xướng",
+        "image": {
+          "file": null,
+          "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cả ba vùng Vĩnh Long, Bến Tre và Trà Vinh cũ; phạm vi thực hành Nam Bộ.",
+        "origin": null,
+        "originArea": "Cả ba vùng Vĩnh Long, Bến Tre và Trà Vinh cũ; phạm vi thực hành Nam Bộ.",
+        "currentProvinceId": "vinh-long",
+        "characteristics": "Nhạc tài tử dựa trên hệ thống bài bản và điệu thức Nam Bộ, kết hợp kỹ thuật ngón đàn, nhấn nhá và ngẫu hứng theo người diễn.",
+        "instrumentsOrPerformance": "Nhạc cụ thường có đàn kìm, đàn tranh, đàn cò, guitar phím lõm, song lang và các nhạc cụ khác; hình thức trình diễn theo nhóm nhỏ, câu lạc bộ hoặc trong dịp cộng đồng.",
+        "culturalValue": "Lưu giữ ký ức âm nhạc và biểu đạt đời sống tinh thần của cư dân Nam Bộ; được truyền dạy qua quan hệ nghệ nhân – học trò và sinh hoạt câu lạc bộ.",
+        "recognition": "UNESCO ghi danh năm 2013 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại; di sản liên tỉnh Nam Bộ.",
+        "sourceIds": [
+          "src-348"
+        ],
+        "originUnitIds": [
+          "vinh-long",
+          "tra-vinh",
+          "ben-tre"
+        ]
+      },
+      {
+        "id": "hat-sac-bua-phu-le",
+        "name": "Hát Sắc bùa Phú Lễ",
+        "category": "Diễn xướng dân gian; hát chúc tụng",
+        "image": {
+          "file": null,
+          "alt": "Hát Sắc bùa Phú Lễ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Phú Lễ, Ba Tri, Bến Tre cũ.",
+        "origin": null,
+        "originArea": "Phú Lễ, Ba Tri, Bến Tre cũ.",
+        "currentProvinceId": "vinh-long",
+        "characteristics": "Hình thức hát có tính nghi lễ và chúc tụng, gắn với tập quán cộng đồng trong dịp đầu năm; lời hát và lề lối được truyền trong phường hát.",
+        "instrumentsOrPerformance": "Nhóm người hát đi theo phường, sử dụng nhạc cụ gõ và các hình thức đối đáp tùy địa phương; nội dung gắn với lời chúc, cầu an và mùa màng.",
+        "culturalValue": "Bảo lưu tri thức diễn xướng, ngôn ngữ dân gian và sự cố kết cộng đồng ở vùng Bến Tre cũ.",
+        "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 217/QĐ-BVHTTDL ngày 23/01/2017.",
+        "sourceIds": [
+          "src-350"
+        ],
+        "originUnitIds": [
+          "ben-tre"
+        ]
+      },
+      {
+        "id": "ro-bam-khmer",
+        "name": "Nghệ thuật Rô-băm Khmer",
+        "category": "Sân khấu múa – kịch truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật Rô-băm Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer tại Trà Vinh cũ và Nam Bộ.",
+        "origin": null,
+        "originArea": "Cộng đồng Khmer tại Trà Vinh cũ và Nam Bộ.",
+        "currentProvinceId": "vinh-long",
+        "characteristics": "Nghệ thuật sân khấu kết hợp động tác múa, nhân vật mặt nạ, phục trang và âm nhạc; có mối liên hệ với kho truyện và truyền thống sân khấu Khmer.",
+        "instrumentsOrPerformance": "Biểu diễn theo tích truyện, có dàn nhạc và vai diễn quy ước; việc truyền dạy gắn với nghệ nhân, đoàn diễn và cộng đồng chùa Khmer.",
+        "culturalValue": "Góp phần duy trì tiếng nói, biểu tượng và ký ức nghệ thuật của cộng đồng Khmer.",
+        "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 1852/QĐ-BVHTTDL ngày 08/05/2017.",
+        "sourceIds": [
+          "src-349"
+        ],
+        "originUnitIds": [
+          "tra-vinh"
+        ]
+      },
+      {
+        "id": "du-ke-khmer",
+        "name": "Sân khấu Dù kê Khmer",
+        "category": "Sân khấu ca kịch truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Sân khấu Dù kê Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer Nam Bộ; có thực hành tại Trà Vinh cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Khmer Nam Bộ; có thực hành tại Trà Vinh cũ.",
+        "currentProvinceId": "vinh-long",
+        "characteristics": "Dù kê là loại hình ca kịch Khmer kết hợp ca, múa, diễn xuất và âm nhạc; phong cách, tích truyện và cách dàn dựng thay đổi giữa các đoàn.",
+        "instrumentsOrPerformance": "Trình diễn trên sân khấu với nhạc cụ truyền thống, phục trang và động tác sân khấu Khmer; cần phân biệt buổi diễn sân khấu với nghi lễ trong chùa.",
+        "culturalValue": "Gìn giữ ngôn ngữ, diễn xướng và sáng tạo nghệ thuật của cộng đồng Khmer.",
+        "recognition": null,
+        "sourceIds": [
+          "src-343",
+          "src-341"
+        ],
+        "originUnitIds": [
+          "tra-vinh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ ba tỉnh Vĩnh Long + Bến Tre + Trà Vinh; chính quyền mới hoạt động từ 01/07/2025.",
+      "Diện tích 6.296,2 km² và quy mô dân số 4.194.633 người theo Tờ trình 114/TTr-UBND năm 2025; 124 đơn vị cấp xã gồm 105 xã, 19 phường theo Nghị quyết 1687/NQ-UBTVQH15.",
+      "Mã đơn vị hành chính cấp tỉnh 86 theo Quyết định 19/2025/QĐ-TTg; biển số 64, 71, 84 theo Thông tư 51/2025/TT-BCA.",
+      "Trung tâm chính trị – hành chính đặt tại địa bàn Vĩnh Long cũ; UBND tỉnh ở số 88 Võ Văn Kiệt, phường Long Châu theo thông tin trụ sở ngày 30/06/2025.",
+      "Một trang thông tin địa phương về 124 xã/phường ghi quy mô dân số 4.257.581 người, khác số 4.194.633 trong hồ sơ Tờ trình 114/TTr-UBND; hồ sơ hiện dùng số trong tờ trình và đánh dấu cần đối chiếu trước phát hành.",
+      "Ảnh, tọa độ và giờ mở cửa chưa được xác minh quyền sử dụng/nguồn trực tiếp; các trường này để null hoặc unverified."
+    ],
+    "sourceIds": [
+      "src-335",
+      "src-336",
+      "src-337",
+      "src-338",
+      "src-339",
+      "src-340",
+      "src-341",
+      "src-342",
+      "src-343",
+      "src-344",
+      "src-345",
+      "src-346",
+      "src-347",
+      "src-348",
+      "src-349",
+      "src-350",
+      "src-351",
+      "src-353",
+      "src-354"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "vinh-long",
+      "name": "Vĩnh Long"
+    },
+    {
+      "id": "tra-vinh",
+      "name": "Trà Vinh"
+    },
+    {
+      "id": "ben-tre",
+      "name": "Bến Tre"
+    }
+  ]
+}

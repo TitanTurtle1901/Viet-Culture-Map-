@@ -1,0 +1,652 @@
+{
+  "id": "hung-yen",
+  "name": "Tỉnh Hưng Yên",
+  "administrativeType": "Tỉnh",
+  "region": "Đồng bằng sông Hồng",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Phố Hiến và cảnh quan làng quê Hưng Yên – ảnh đại diện chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Hưng Yên mới hợp nhất Hưng Yên và Thái Bình trước đây. Không gian văn hóa kết hợp thương cảng Phố Hiến, chùa Keo, làng nghề Đồng Xâm, hội làng và nông sản đồng bằng.",
+    "featuredDestinationIds": [
+      "pho-hien",
+      "chua-keo-thai-binh"
+    ],
+    "featuredSpecialtyIds": [
+      "nhan-long-hung-yen",
+      "banh-cay-lang-nguyen"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Hưng Yên",
+      "administrativeCode": "33",
+      "administrativeCenter": "Trung tâm chính trị - hành chính đặt tại khu vực tỉnh Hưng Yên cũ.",
+      "vehiclePlateCodes": [
+        "17",
+        "89"
+      ],
+      "areaKm2": 2514.81,
+      "areaYear": 2025,
+      "population": {
+        "value": 3567943,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh thuộc đồng bằng sông Hồng, hình thành từ toàn bộ tỉnh Hưng Yên cũ và tỉnh Thái Bình cũ; có không gian ven sông Hồng, sông Luộc và vùng duyên hải phía đông.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình đồng bằng thấp, hệ thống sông, kênh thủy lợi, vùng nông nghiệp lúa nước, cây ăn quả và khu vực ven biển ở phần Thái Bình cũ.",
+      "climate": null,
+      "history": "Tỉnh Hưng Yên mới hình thành từ Hưng Yên và Thái Bình cũ, hoạt động từ 01/07/2025. Không gian Hưng Yên cũ gắn với thương cảng Phố Hiến, nhãn lồng và các di tích vùng sông Hồng; Thái Bình cũ nổi bật với chùa Keo, chèo, làng nghề Đồng Xâm, lễ hội và văn hóa đồng bằng ven biển.",
+      "description": "Hưng Yên là vùng văn hóa đồng bằng Bắc Bộ với sự kế thừa của hai địa phương tiền thân. Phố Hiến, chùa Keo, đền Đa Hòa – Dạ Trạch, làng nghề Đồng Xâm và các sản vật nhãn lồng, bánh cáy, tương Bần là những điểm nhận diện quan trọng.",
+      "sourceIds": [
+        "src-183",
+        "src-184",
+        "src-185",
+        "src-186",
+        "src-188",
+        "src-166",
+        "src-165",
+        "src-167"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "pho-hien",
+        "name": "Quần thể di tích Phố Hiến",
+        "category": "Di tích lịch sử – văn hóa; kiến trúc đô thị cổ",
+        "originArea": "Hưng Yên cũ – khu vực Hưng Yên, Phố Hiến.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Quần thể di tích Phố Hiến – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Phố Hiến, tỉnh Hưng Yên; các điểm thành phần cần rà soát địa chỉ mới.",
+        "coordinates": null,
+        "shortDescription": "Không gian đô thị thương cảng cổ từng phát triển mạnh trong giao thương vùng đồng bằng Bắc Bộ.",
+        "fullDescription": "Phố Hiến gồm nhiều đền, chùa, đình, văn miếu và dấu tích kiến trúc – thương mại. Giá trị di sản cần được nhìn như một quần thể, không chỉ một công trình đơn lẻ.",
+        "highlights": "Đền Mẫu; chùa Chuông; văn miếu; các di tích thương cảng.",
+        "historicalCulturalValue": "Phản ánh lịch sử giao thương quốc tế và văn hóa đô thị vùng đồng bằng sông Hồng.",
+        "recognition": "Quần thể di tích quốc gia đặc biệt; tên từng thành phần cần xác minh theo danh mục chính thức.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-187",
+          "src-184"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      },
+      {
+        "id": "chua-keo-thai-binh",
+        "name": "Chùa Keo (Thần Quang tự)",
+        "category": "Di tích kiến trúc nghệ thuật; chùa cổ",
+        "originArea": "Thái Bình cũ – khu vực Vũ Thư.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Chùa Keo (Thần Quang tự) – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Duy Nhất, tỉnh Hưng Yên; địa chỉ mới cần xác minh trên bản đồ cấp xã.",
+        "coordinates": null,
+        "shortDescription": "Quần thể chùa cổ có kiến trúc gỗ truyền thống, gắn với lịch sử Phật giáo vùng đồng bằng Bắc Bộ.",
+        "fullDescription": "Tư liệu di sản ghi lịch sử hình thành từ thế kỷ XI và đổi tên Thần Quang tự vào thế kỷ XII; kiến trúc hiện còn có giá trị nghệ thuật và lịch sử.",
+        "highlights": "Gác chuông; kết cấu gỗ; hệ thống công trình trong khuôn viên.",
+        "historicalCulturalValue": "Là một di tích tiêu biểu của vùng Thái Bình cũ và di sản kiến trúc Phật giáo Bắc Bộ.",
+        "recognition": "Di tích kiến trúc nghệ thuật; cần kiểm tra cấp xếp hạng quốc gia đặc biệt và quyết định gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-186"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      },
+      {
+        "id": "lang-nghe-cham-bac-dong-xam",
+        "name": "Làng nghề chạm bạc Đồng Xâm",
+        "category": "Làng nghề thủ công truyền thống",
+        "originArea": "Thái Bình cũ – làng Đồng Xâm.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Làng nghề chạm bạc Đồng Xâm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Trà Giang, tỉnh Hưng Yên (theo cổng du lịch địa phương).",
+        "coordinates": null,
+        "shortDescription": "Làng nghề chạm bạc với kỹ thuật tạo hoa văn trên đồ kim hoàn, đồ thờ và vật dụng.",
+        "fullDescription": "Nghề được truyền qua nhiều thế hệ; nguồn du lịch tỉnh ghi nhận truyền thuyết nghề xuất hiện từ thế kỷ XV. Cần phân biệt truyền thuyết làng nghề với niên đại tư liệu đã kiểm chứng.",
+        "highlights": "Kỹ thuật chạm, thúc, khắc bạc; sản phẩm trang trí và đồ thờ.",
+        "historicalCulturalValue": "Bảo tồn tri thức nghề, kỹ năng thủ công và sinh kế làng nghề.",
+        "recognition": "Làng nghề truyền thống; chưa gán danh hiệu di sản phi vật thể nếu chưa có quyết định.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-185"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      },
+      {
+        "id": "den-da-hoa-da-trach",
+        "name": "Đền Đa Hòa – đền Dạ Trạch",
+        "category": "Di tích tín ngưỡng; lịch sử – văn hóa",
+        "originArea": "Hưng Yên cũ – vùng Chử Đồng Tử – Tiên Dung.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Đền Đa Hòa – đền Dạ Trạch – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Mễ Sở và xã Dạ Trạch, tỉnh Hưng Yên; địa chỉ cụ thể cần cập nhật theo đơn vị mới.",
+        "coordinates": null,
+        "shortDescription": "Cụm di tích gắn với truyền thuyết Chử Đồng Tử – Tiên Dung và tín ngưỡng thờ Đức Thánh Chử.",
+        "fullDescription": "Đền Đa Hòa và Dạ Trạch tạo thành không gian thờ tự, lễ hội và ký ức văn hóa dân gian vùng sông Hồng.",
+        "highlights": "Kiến trúc đền; tượng thờ; lễ hội và diễn xướng dân gian.",
+        "historicalCulturalValue": "Là một trong các không gian tín ngưỡng, truyền thuyết quan trọng của Hưng Yên cũ.",
+        "recognition": "Cần bổ sung quyết định xếp hạng và hồ sơ lễ hội chi tiết.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-184"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      },
+      {
+        "id": "den-tien-la",
+        "name": "Đền Tiên La",
+        "category": "Di tích lịch sử – văn hóa; tín ngưỡng",
+        "originArea": "Thái Bình cũ – vùng Hưng Hà.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Đền Tiên La – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Hưng Hà, tỉnh Hưng Yên; xã hiện hành cần đối chiếu.",
+        "coordinates": null,
+        "shortDescription": "Đền thờ Bát Nạn tướng quân Vũ Thị Thục, nhân vật gắn với cuộc khởi nghĩa Hai Bà Trưng theo truyền thống địa phương.",
+        "fullDescription": "Đền là trung tâm tín ngưỡng và lễ hội của cộng đồng; diễn giải lịch sử cần phân biệt truyền thuyết địa phương với sử liệu xác tín.",
+        "highlights": "Không gian đền; nghi lễ tưởng niệm; lễ hội đầu xuân.",
+        "historicalCulturalValue": "Gắn với truyền thống tưởng niệm nữ tướng và ký ức kháng chiến chống Đông Hán.",
+        "recognition": "Cần bổ sung quyết định xếp hạng và nguồn chuyên khảo về nhân vật.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-184"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      },
+      {
+        "id": "chua-nom-lang-nom",
+        "name": "Chùa Nôm và làng Nôm",
+        "category": "Di tích kiến trúc; làng cổ",
+        "originArea": "Hưng Yên cũ – vùng Văn Lâm.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Chùa Nôm và làng Nôm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực làng Nôm, tỉnh Hưng Yên; địa chỉ xã hiện hành cần kiểm tra.",
+        "coordinates": null,
+        "shortDescription": "Không gian làng cổ có chùa, cầu đá, hồ và các công trình truyền thống.",
+        "fullDescription": "Chùa Nôm và làng Nôm phản ánh cấu trúc cảnh quan làng Bắc Bộ, không gian tín ngưỡng và nghề thủ công địa phương.",
+        "highlights": "Chùa cổ; cầu đá; hồ và các nếp nhà làng.",
+        "historicalCulturalValue": "Lưu giữ một phần cảnh quan văn hóa làng quê đồng bằng Bắc Bộ.",
+        "recognition": "Hạng mục xếp hạng cần xác minh theo quyết định từng di tích.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-187"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "nhan-long-hung-yen",
+        "name": "Nhãn lồng Hưng Yên",
+        "category": "Nông sản; trái cây",
+        "originArea": "Hưng Yên cũ – vùng Phố Hiến và các vùng trồng nhãn.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Nhãn lồng Hưng Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nhãn lồng Hưng Yên gắn với Hưng Yên cũ – vùng Phố Hiến và các vùng trồng nhãn.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Quả nhãn tươi."
+        ],
+        "preparation": "Canh tác nhãn, chăm sóc và thu hoạch theo vụ; có nhiều giống và vùng trồng.",
+        "characteristics": "Quả có cùi dày, thơm; chất lượng phụ thuộc giống, tuổi cây và kỹ thuật chăm sóc.",
+        "culturalContext": "Nhãn gắn với nông nghiệp hàng hóa, mùa vụ và thương hiệu địa phương.",
+        "recognition": "Nguồn địa phương ghi nhận là sản phẩm đặc trưng; cần kiểm tra văn bằng chỉ dẫn địa lý/nhãn hiệu cụ thể theo phạm vi.",
+        "sourceIds": [
+          "src-188",
+          "src-183"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      },
+      {
+        "id": "banh-cay-lang-nguyen",
+        "name": "Bánh cáy Làng Nguyễn",
+        "category": "Bánh truyền thống",
+        "originArea": "Thái Bình cũ – khu vực Làng Nguyễn, Đông Hưng.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Bánh cáy Làng Nguyễn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh cáy Làng Nguyễn gắn với Thái Bình cũ – khu vực Làng Nguyễn, Đông Hưng.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Gạo nếp",
+          "Mạch nha, đường",
+          "Mỡ, lạc/vừng và các nguyên liệu phối trộn theo cơ sở."
+        ],
+        "preparation": "Nếp được chế biến thành các thành phần giòn/dẻo, phối trộn mạch nha và nguyên liệu khác; quy trình cụ thể tùy cơ sở nghề.",
+        "characteristics": "Bánh có nhiều thành phần, vị ngọt và độ giòn dẻo đan xen.",
+        "culturalContext": "Là món bánh quà truyền thống của vùng Thái Bình cũ, thường gắn với lễ tết và quà biếu.",
+        "recognition": "Cần bổ sung nguồn chuyên ngành/OCOP để xác minh vùng nghề và quy trình chuẩn.",
+        "sourceIds": [
+          "src-188"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      },
+      {
+        "id": "ga-dong-tao",
+        "name": "Gà Đông Tảo",
+        "category": "Vật nuôi; sản phẩm nông nghiệp",
+        "originArea": "Hưng Yên cũ – xã Đông Tảo và vùng phụ cận.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Gà Đông Tảo – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gà Đông Tảo gắn với Hưng Yên cũ – xã Đông Tảo và vùng phụ cận.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Gà Đông Tảo."
+        ],
+        "preparation": "Chăn nuôi theo giống địa phương; chất lượng chịu ảnh hưởng của nguồn giống và điều kiện chăm sóc.",
+        "characteristics": "Đặc điểm nhận dạng nổi bật là đôi chân to, sần; sản phẩm thường được sử dụng trong ẩm thực và quà biếu.",
+        "culturalContext": "Gắn với tri thức chăn nuôi và biểu tượng sản vật địa phương.",
+        "recognition": "Cần đối chiếu chỉ dẫn địa lý/nhãn hiệu và quy định bảo tồn giống trước khi quảng bá.",
+        "sourceIds": [
+          "src-188"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      },
+      {
+        "id": "tuong-ban",
+        "name": "Tương Bần",
+        "category": "Thực phẩm lên men; gia vị truyền thống",
+        "originArea": "Hưng Yên cũ – khu vực Bần Yên Nhân.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Tương Bần – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Tương Bần gắn với Hưng Yên cũ – khu vực Bần Yên Nhân.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Đậu tương",
+          "Gạo nếp",
+          "Muối và nước."
+        ],
+        "preparation": "Đậu tương và gạo nếp được chế biến, ủ lên men theo các công đoạn truyền thống; thời gian và tỷ lệ tùy cơ sở.",
+        "characteristics": "Gia vị lên men có màu nâu, vị mặn ngọt và mùi thơm đặc trưng.",
+        "culturalContext": "Gắn với nghề chế biến thực phẩm và tập quán sử dụng nước chấm ở đồng bằng Bắc Bộ.",
+        "recognition": "Không khẳng định chứng nhận cụ thể nếu không có hồ sơ.",
+        "sourceIds": [
+          "src-188"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      },
+      {
+        "id": "mam-cay-diem-dien",
+        "name": "Mắm cáy Diêm Điền",
+        "category": "Thủy sản chế biến; gia vị",
+        "originArea": "Thái Bình cũ – vùng biển Diêm Điền.",
+        "currentProvinceId": "hung-yen",
+        "image": {
+          "file": null,
+          "alt": "Mắm cáy Diêm Điền – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mắm cáy Diêm Điền gắn với Thái Bình cũ – vùng biển Diêm Điền.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Cáy (một loài giáp xác nhỏ vùng nước lợ)",
+          "Muối và gia vị."
+        ],
+        "preparation": "Cáy được sơ chế, giã hoặc xay, ướp muối và ủ lên men theo kỹ thuật địa phương; thời gian và tỷ lệ cần nguồn nghề cụ thể.",
+        "characteristics": "Mùi vị lên men đậm, dùng làm gia vị hoặc ăn kèm tùy tập quán.",
+        "culturalContext": "Gắn với sinh kế khai thác thủy sản vùng cửa sông, ven biển Thái Bình cũ.",
+        "recognition": "Chứng nhận sản phẩm cần kiểm tra theo cơ sở và vùng sản xuất.",
+        "sourceIds": [
+          "src-188"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-hung-yen",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Toàn bộ tỉnh Hưng Yên mới, gồm vùng Hưng Yên cũ và Thái Bình cũ.",
+          "description": "Cộng đồng Kinh chiếm đa số, duy trì văn hóa làng xã đồng bằng, nông nghiệp lúa nước, nghề thủ công, chợ và các thiết chế đình – chùa – đền. Các tập quán cụ thể khác nhau theo vùng.",
+          "sourceIds": [
+            "src-183",
+            "src-184"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen",
+            "thai-binh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "phong-tuc-lang-xa-dong-bang-hung-yen",
+          "name": "Phong tục làng xã đồng bằng Bắc Bộ",
+          "originArea": "Vùng Hưng Yên cũ và Thái Bình cũ.",
+          "description": "Sinh hoạt theo làng, dòng họ và lễ tiết nông nghiệp; đình, chùa, đền và hội làng là các không gian tổ chức cộng đồng. Không khái quát một lễ hội cho toàn tỉnh.",
+          "sourceIds": [
+            "src-186",
+            "src-187"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen",
+            "thai-binh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-chua-keo",
+          "name": "Hội chùa Keo",
+          "originArea": "Thái Bình cũ – chùa Keo.",
+          "description": "Lễ hội tại chùa Keo gắn với thờ tự, lịch sử chùa và sinh hoạt Phật giáo – cộng đồng; nội dung và ngày tổ chức từng năm cần kiểm tra lịch chính thức.",
+          "sourceIds": [
+            "src-186"
+          ],
+          "currentProvinceId": "hung-yen",
+          "timeAndLocation": "Chùa Keo; thời gian lễ hội cần xác minh theo kế hoạch từng năm.",
+          "originUnitIds": [
+            "thai-binh"
+          ]
+        },
+        {
+          "id": "le-hoi-da-hoa-da-trach",
+          "name": "Lễ hội Đa Hòa – Dạ Trạch",
+          "originArea": "Hưng Yên cũ – vùng Chử Đồng Tử – Tiên Dung.",
+          "description": "Lễ hội tưởng niệm Chử Đồng Tử – Tiên Dung, có nghi lễ, rước và hoạt động cộng đồng; cần kiểm tra lịch tổ chức từng năm.",
+          "sourceIds": [
+            "src-184"
+          ],
+          "currentProvinceId": "hung-yen",
+          "timeAndLocation": "Đền Đa Hòa và đền Dạ Trạch; ngày cụ thể theo lịch địa phương.",
+          "originUnitIds": [
+            "hung-yen"
+          ]
+        },
+        {
+          "id": "le-hoi-tien-la",
+          "name": "Lễ hội đền Tiên La",
+          "originArea": "Thái Bình cũ – khu vực Hưng Hà.",
+          "description": "Lễ hội tưởng niệm Bát Nạn tướng quân Vũ Thị Thục theo truyền thống địa phương; cần phân biệt tư liệu truyền thuyết và sử liệu.",
+          "sourceIds": [
+            "src-184"
+          ],
+          "currentProvinceId": "hung-yen",
+          "timeAndLocation": "Đền Tiên La; thời gian thường vào mùa xuân, cần kiểm tra lịch từng năm.",
+          "originUnitIds": [
+            "thai-binh"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "nghe-thu-cong-hung-yen",
+          "name": "Làng nghề thủ công và sinh hoạt phường hội",
+          "originArea": "Hưng Yên cũ và Thái Bình cũ.",
+          "description": "Các nghề chạm bạc, đúc đồng, dệt, chế biến nông sản và thủ công gia đình tạo nên các mạng lưới làng nghề; cần ghi rõ làng và nghề thay vì gộp một đặc trưng cho toàn tỉnh.",
+          "sourceIds": [
+            "src-185",
+            "src-188"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen",
+            "thai-binh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-pho-hien",
+          "name": "Không gian đô thị thương cảng Phố Hiến",
+          "originArea": "Hưng Yên cũ.",
+          "description": "Hệ thống di tích đền, chùa, văn miếu, nhà cổ và dấu tích thương mại hình thành nên cảnh quan di sản Phố Hiến.",
+          "sourceIds": [
+            "src-187"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen"
+          ]
+        },
+        {
+          "id": "lang-co-bac-bo-hung-yen",
+          "name": "Không gian làng cổ Bắc Bộ",
+          "originArea": "Hưng Yên và Thái Bình cũ.",
+          "description": "Cấu trúc làng với đình, chùa, giếng, ao, cổng làng và nhà ở truyền thống còn được lưu giữ không đồng đều; cần khảo sát theo từng làng.",
+          "sourceIds": [
+            "src-186",
+            "src-187"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen",
+            "thai-binh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tho-chu-dong-tu-tien-dung",
+          "name": "Tín ngưỡng thờ Chử Đồng Tử – Tiên Dung",
+          "originArea": "Hưng Yên cũ – các đền Đa Hòa, Dạ Trạch.",
+          "description": "Tín ngưỡng gắn với truyền thuyết Chử Đồng Tử – Tiên Dung, tình yêu, hôn nhân và khai mở sinh kế; thực hành nghi lễ được cộng đồng địa phương duy trì.",
+          "sourceIds": [
+            "src-184"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "pho-hien-di-tich-quoc-gia-dac-biet",
+          "name": "Quần thể di tích Phố Hiến",
+          "originArea": "Hưng Yên cũ.",
+          "description": "Không gian di tích lịch sử – văn hóa gắn với thương cảng Phố Hiến, có các công trình tín ngưỡng và dấu ấn giao thương.",
+          "sourceIds": [
+            "src-187"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "hung-yen"
+          ]
+        },
+        {
+          "id": "nghe-cham-bac-dong-xam",
+          "name": "Nghề chạm bạc Đồng Xâm",
+          "originArea": "Thái Bình cũ.",
+          "description": "Tri thức và kỹ thuật chạm bạc được truyền nghề trong cộng đồng làng nghề Đồng Xâm.",
+          "sourceIds": [
+            "src-185"
+          ],
+          "currentProvinceId": "hung-yen",
+          "originUnitIds": [
+            "thai-binh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "cheo-thai-binh",
+        "name": "Chèo Thái Bình",
+        "category": "Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Chèo Thái Bình – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng và các phường chèo ở Thái Bình cũ.",
+        "origin": "Chèo là nghệ thuật sân khấu dân gian vùng đồng bằng Bắc Bộ; Thái Bình cũ có truyền thống thực hành và nghệ nhân.",
+        "originArea": "Cộng đồng và các phường chèo ở Thái Bình cũ.",
+        "currentProvinceId": "hung-yen",
+        "characteristics": "Kết hợp hát, múa, diễn xuất, nhạc cụ và tích trò dân gian.",
+        "instrumentsOrPerformance": "Biểu diễn sân khấu với làn điệu chèo, trống, nhị và các nhạc cụ truyền thống.",
+        "culturalValue": "Gắn với hội làng, sinh hoạt cộng đồng và truyền thống sân khấu địa phương.",
+        "recognition": "Cần bổ sung nguồn quyết định ghi danh cụ thể cho hồ sơ.",
+        "sourceIds": [
+          "src-186"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      },
+      {
+        "id": "hat-trong-quan-hung-yen",
+        "name": "Hát Trống quân Hưng Yên",
+        "category": "Dân ca; diễn xướng đối đáp",
+        "image": {
+          "file": null,
+          "alt": "Hát Trống quân Hưng Yên – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng ở Hưng Yên cũ.",
+        "origin": "Hình thức hát giao duyên đối đáp, thường gắn với sinh hoạt lễ hội và cộng đồng làng xã.",
+        "originArea": "Cộng đồng ở Hưng Yên cũ.",
+        "currentProvinceId": "hung-yen",
+        "characteristics": "Lời ca đối đáp theo nhịp, có thể sử dụng trống làm nhạc cụ giữ nhịp.",
+        "instrumentsOrPerformance": "Hát theo nhóm đối đáp; hình thức cụ thể thay đổi theo vùng và dịp thực hành.",
+        "culturalValue": "Lưu truyền lời ca dân gian, ngôn ngữ địa phương và sinh hoạt văn hóa cộng đồng.",
+        "recognition": "Cần bổ sung quyết định ghi danh và nguồn hồ sơ di sản cụ thể.",
+        "sourceIds": [
+          "src-184"
+        ],
+        "originUnitIds": [
+          "hung-yen"
+        ]
+      },
+      {
+        "id": "cham-bac-dong-xam-art",
+        "name": "Nghệ thuật chạm bạc Đồng Xâm",
+        "category": "Nghề thủ công; mỹ nghệ kim loại",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật chạm bạc Đồng Xâm – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Làng Đồng Xâm, Thái Bình cũ.",
+        "origin": "Tri thức nghề thủ công truyền thống trong cộng đồng thợ bạc Đồng Xâm.",
+        "originArea": "Làng Đồng Xâm, Thái Bình cũ.",
+        "currentProvinceId": "hung-yen",
+        "characteristics": "Kỹ thuật tạo họa tiết bằng chạm, thúc và khắc trên bề mặt kim loại; kỹ thuật khác nhau theo sản phẩm.",
+        "instrumentsOrPerformance": "Dụng cụ chạm khắc và các công đoạn tạo hình, hoàn thiện sản phẩm bạc.",
+        "culturalValue": "Bảo tồn kỹ năng thủ công và truyền nghề giữa các thế hệ.",
+        "recognition": "Chưa xác minh ghi danh di sản phi vật thể; hồ sơ du lịch chính thức mô tả làng nghề.",
+        "sourceIds": [
+          "src-185"
+        ],
+        "originUnitIds": [
+          "thai-binh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Tỉnh mới hình thành từ toàn bộ Hưng Yên cũ và Thái Bình cũ, chính thức hoạt động từ 01/07/2025.",
+      "Diện tích 2.514,81 km² và quy mô dân số 3.567.943 là số liệu trong hồ sơ sắp xếp năm 2025; dân số là quy mô dân số trong nghị quyết, không phải điều tra cuối năm 2026.",
+      "Nguồn Thống kê Hưng Yên xác nhận 104 đơn vị cấp xã gồm 93 xã và 11 phường; trung tâm chính trị-hành chính tại khu vực Hưng Yên cũ.",
+      "Điểm đến vùng Thái Bình cũ cần cập nhật chính xác địa chỉ xã mới; một số di sản và nghệ thuật còn cần quyết định công nhận gốc.",
+      "Ảnh, tọa độ và thông tin tham quan chưa đủ điều kiện cấp phép nên để null/unverified.",
+      "Mô tả ranh giới các tỉnh giáp ranh được để trống chờ đối chiếu bản đồ địa giới số chính thức; không suy diễn từ ranh giới các đơn vị tiền thân."
+    ],
+    "sourceIds": [
+      "src-183",
+      "src-184",
+      "src-185",
+      "src-186",
+      "src-187",
+      "src-188",
+      "src-166",
+      "src-165",
+      "src-167"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "hung-yen",
+      "name": "Hưng Yên"
+    },
+    {
+      "id": "thai-binh",
+      "name": "Thái Bình"
+    }
+  ]
+}

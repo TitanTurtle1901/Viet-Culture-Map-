@@ -1,0 +1,557 @@
+{
+  "id": "cao-bang",
+  "name": "Tỉnh Cao Bằng",
+  "administrativeType": "Tỉnh",
+  "region": "Trung du và miền núi phía Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Ảnh đại diện Tỉnh Cao Bằng; ảnh chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Cao Bằng là tỉnh miền núi biên giới phía Bắc, nổi bật với cảnh quan karst, Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng, thác Bản Giốc và các địa chỉ lịch sử như Pác Bó. Không gian văn hóa Tày, Nùng và các cộng đồng địa phương được thể hiện qua thực hành Then, lễ hội, ẩm thực và nghề truyền thống.",
+    "featuredDestinationIds": [
+      "cong-vien-dia-chat-non-nuoc-cao-bang",
+      "thac-ban-gioc"
+    ],
+    "featuredSpecialtyIds": [
+      "hat-de-trung-khanh",
+      "lap-suon-cao-bang"
+    ],
+    "sourceIds": [
+      "src-129",
+      "src-130",
+      "src-135",
+      "src-136"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Cao Bằng",
+      "administrativeCode": "04",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "11"
+      ],
+      "areaKm2": 6700.39,
+      "areaYear": 2025,
+      "population": {
+        "value": 573119,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": null,
+      "boundaries": [
+        "Phía bắc giáp Trung Quốc.",
+        "Phía đông giáp Trung Quốc và Lạng Sơn.",
+        "Phía nam và phía tây giáp tỉnh Tuyên Quang."
+      ],
+      "naturalFeatures": "Địa hình chủ yếu là núi đá vôi, núi đất, thung lũng và hệ thống sông suối; có cảnh quan karst, hang động, thác nước và rừng núi cao.",
+      "climate": null,
+      "history": "Cao Bằng là địa bàn cư trú lâu đời của các cộng đồng Tày, Nùng, Dao, Mông và các nhóm khác. Lịch sử địa phương gắn với vùng biên giới, các tuyến giao thương, khởi nghĩa và hoạt động cách mạng. Pác Bó là địa chỉ quan trọng gắn với sự kiện Chủ tịch Hồ Chí Minh về nước năm 1941.",
+      "description": "Cao Bằng là tỉnh miền núi biên giới phía Bắc, nổi bật với cảnh quan karst, Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng, thác Bản Giốc và các địa chỉ lịch sử như Pác Bó. Không gian văn hóa Tày, Nùng và các cộng đồng địa phương được thể hiện qua thực hành Then, lễ hội, ẩm thực và nghề truyền thống.",
+      "sourceIds": [
+        "src-129",
+        "src-130",
+        "src-135",
+        "src-136"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "cong-vien-dia-chat-non-nuoc-cao-bang",
+        "name": "Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng",
+        "category": "Công viên địa chất toàn cầu; Danh lam thắng cảnh",
+        "originArea": "Cao Bằng trước sắp xếp năm 2025",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Không gian địa chất trên địa bàn tỉnh Cao Bằng.",
+        "coordinates": null,
+        "shortDescription": "Không gian địa chất có cảnh quan karst, hang động, thác nước và các giá trị địa chất – văn hóa.",
+        "fullDescription": "Công viên địa chất bao gồm nhiều điểm di sản địa chất, sinh thái và văn hóa; việc tham quan thường được tổ chức theo tuyến. Không đồng nhất toàn bộ công viên với một điểm du lịch đơn lẻ.",
+        "highlights": [
+          "Cảnh quan karst và hệ thống hang động.",
+          "Di sản địa chất gắn với cư dân địa phương."
+        ],
+        "historicalCulturalValue": "Là không gian kết nối cảnh quan tự nhiên với lịch sử cư trú, văn hóa Tày, Nùng và các cộng đồng khác.",
+        "recognition": "UNESCO công nhận là Công viên địa chất toàn cầu năm 2018.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-131"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "thac-ban-gioc",
+        "name": "Thác Bản Giốc",
+        "category": "Danh lam thắng cảnh; Điểm du lịch sinh thái",
+        "originArea": "Cao Bằng cũ – khu vực Trùng Khánh.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Thác Bản Giốc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Đàm Thủy cũ; địa chỉ xã hiện hành cần cập nhật theo bản đồ cấp xã.",
+        "coordinates": null,
+        "shortDescription": "Thác nước trên sông Quây Sơn, cảnh quan đặc trưng vùng biên giới phía Bắc.",
+        "fullDescription": "Thác Bản Giốc là điểm đến nổi bật của vùng Trùng Khánh, kết hợp cảnh quan sông, núi đá vôi và văn hóa bản làng. Thông tin cửa khẩu, tuyến tham quan và điều kiện tiếp cận cần kiểm tra theo quy định hiện hành.",
+        "highlights": [
+          "Thác nước nhiều tầng.",
+          "Cảnh quan karst và sông Quây Sơn."
+        ],
+        "historicalCulturalValue": "Biểu tượng cảnh quan – du lịch của Cao Bằng.",
+        "recognition": "Cần đối chiếu quyết định xếp hạng/danh hiệu cụ thể trước khi ghi cấp công nhận.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-161",
+          "src-160"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "di-tich-pac-bo",
+        "name": "Khu di tích quốc gia đặc biệt Pác Bó",
+        "category": "Di tích lịch sử cách mạng; Di tích quốc gia đặc biệt",
+        "originArea": "Cao Bằng cũ – xã Trường Hà, huyện Hà Quảng cũ.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích quốc gia đặc biệt Pác Bó – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Trường Hà cũ; đơn vị cấp xã hiện hành cần rà soát.",
+        "coordinates": null,
+        "shortDescription": "Địa điểm gắn với hoạt động cách mạng của Chủ tịch Hồ Chí Minh khi trở về nước năm 1941.",
+        "fullDescription": "Không gian di tích gồm hang Cốc Bó, suối Lê-nin, núi Các Mác và các điểm liên quan đến giai đoạn hoạt động cách mạng tại Cao Bằng.",
+        "highlights": [
+          "Hang Cốc Bó.",
+          "Suối Lê-nin và núi Các Mác."
+        ],
+        "historicalCulturalValue": "Địa chỉ lịch sử quan trọng của cách mạng Việt Nam.",
+        "recognition": "Di tích quốc gia đặc biệt; cần bổ sung quyết định xếp hạng gốc trước khi xuất bản thẻ danh hiệu.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-161",
+          "src-160"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "dong-nguom-ngao",
+        "name": "Động Ngườm Ngao",
+        "category": "Danh lam thắng cảnh; Hang động",
+        "originArea": "Cao Bằng cũ – vùng Trùng Khánh.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Động Ngườm Ngao – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Đàm Thủy cũ, tỉnh Cao Bằng.",
+        "coordinates": null,
+        "shortDescription": "Hang động đá vôi với hệ thống nhũ đá và măng đá phong phú.",
+        "fullDescription": "Động nằm trong vùng cảnh quan karst phía đông tỉnh Cao Bằng, gần thác Bản Giốc. Các thông tin mở cửa, tuyến tham quan và phí cần kiểm tra trước chuyến đi.",
+        "highlights": [
+          "Nhũ đá, măng đá và các khoang hang.",
+          "Liên kết tuyến tham quan Bản Giốc – Trùng Khánh."
+        ],
+        "historicalCulturalValue": "Giá trị địa mạo karst và du lịch tự nhiên.",
+        "recognition": "Chưa gắn danh hiệu UNESCO riêng cho hang động.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-131",
+          "src-161"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "phja-oac-phja-den",
+        "name": "Vườn quốc gia Phja Oắc – Phja Đén",
+        "category": "Vườn quốc gia; Khu bảo tồn thiên nhiên",
+        "originArea": "Cao Bằng cũ – huyện Nguyên Bình cũ.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Phja Oắc – Phja Đén – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Nguyên Bình cũ, tỉnh Cao Bằng.",
+        "coordinates": null,
+        "shortDescription": "Vùng núi cao có rừng tự nhiên, khí hậu mát và cảnh quan đa dạng.",
+        "fullDescription": "Khu bảo tồn có giá trị về đa dạng sinh học, địa hình núi cao và cảnh quan rừng. Không gán các thông số diện tích, loài quý hiếm cụ thể khi chưa trích xuất nguồn chuyên ngành.",
+        "highlights": [
+          "Rừng núi cao.",
+          "Cảnh quan Phja Oắc – Phja Đén."
+        ],
+        "historicalCulturalValue": "Không gian sinh thái quan trọng ở miền núi phía tây Cao Bằng.",
+        "recognition": "Chưa ghi danh hiệu quốc tế riêng trong hồ sơ này.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-161"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "ho-thang-hen",
+        "name": "Hồ Thang Hen",
+        "category": "Danh lam thắng cảnh; Hồ tự nhiên",
+        "originArea": "Cao Bằng cũ – huyện Trà Lĩnh cũ.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Hồ Thang Hen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Quốc Toản cũ, tỉnh Cao Bằng.",
+        "coordinates": null,
+        "shortDescription": "Cụm hồ nước ngọt giữa địa hình núi đá vôi, thuộc tuyến du lịch sinh thái.",
+        "fullDescription": "Hồ Thang Hen là cảnh quan mặt nước giữa núi đá, thường được giới thiệu cùng các điểm địa chất trong Công viên địa chất Non nước Cao Bằng.",
+        "highlights": [
+          "Cụm hồ karst.",
+          "Cảnh quan núi đá vôi và rừng."
+        ],
+        "historicalCulturalValue": "Cảnh quan tự nhiên đặc trưng vùng Trà Lĩnh cũ.",
+        "recognition": "Chưa gắn danh hiệu độc lập trong hồ sơ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-131"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "hat-de-trung-khanh",
+        "name": "Hạt dẻ Trùng Khánh",
+        "category": "Nông sản; Đặc sản địa phương",
+        "originArea": "Cao Bằng cũ – vùng Trùng Khánh.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Hạt dẻ Trùng Khánh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Cao Bằng cũ – vùng Trùng Khánh..",
+        "ingredients": [
+          "Hạt dẻ."
+        ],
+        "preparation": "Có thể rang, luộc, nấu xôi hoặc chế biến món ăn; quy trình từng cơ sở khác nhau.",
+        "characteristics": "Hạt dẻ là nông sản được nhắc đến như đặc sản vùng Trùng Khánh. Chưa ghi nhận số liệu mùa vụ hay chỉ dẫn địa lý trong hồ sơ này.",
+        "culturalContext": "Gắn với sinh kế nông nghiệp miền núi và quà tặng địa phương.",
+        "recognition": "Chưa xác minh chứng nhận chỉ dẫn địa lý/OCOP cụ thể.",
+        "sourceIds": [
+          "src-133"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "lap-suon-cao-bang",
+        "name": "Lạp sườn Cao Bằng",
+        "category": "Sản phẩm thịt chế biến; Đặc sản",
+        "originArea": "Cao Bằng cũ.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Lạp sườn Cao Bằng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Cao Bằng cũ..",
+        "ingredients": [
+          "Thịt lợn",
+          "Gia vị",
+          "Rượu hoặc nguyên liệu tẩm ướp theo công thức cơ sở."
+        ],
+        "preparation": "Thịt được tẩm ướp, nhồi vào lòng và làm khô/xông khói theo tập quán từng cơ sở.",
+        "characteristics": "Sản phẩm thịt chế biến có cách làm và hương vị riêng của vùng núi phía Bắc.",
+        "culturalContext": "Gắn với ẩm thực gia đình, dịp lễ tết và sản phẩm quà biếu.",
+        "recognition": "Chưa xác minh chỉ dẫn địa lý; có sản phẩm được giới thiệu trong hệ thống hợp tác xã/OCOP.",
+        "sourceIds": [
+          "src-134",
+          "src-133"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "mien-dong-phia-den",
+        "name": "Miến dong Phia Đén",
+        "category": "Sản phẩm chế biến từ nông sản",
+        "originArea": "Cao Bằng cũ – vùng Phia Đén, Nguyên Bình.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Miến dong Phia Đén – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Cao Bằng cũ – vùng Phia Đén, Nguyên Bình..",
+        "ingredients": [
+          "Tinh bột củ dong riềng."
+        ],
+        "preparation": "Củ dong được nghiền, lọc lấy tinh bột, tạo sợi và phơi/sấy; quy trình cụ thể tùy cơ sở.",
+        "characteristics": "Sợi miến dong có màu sắc và độ dai phụ thuộc nguyên liệu và kỹ thuật chế biến.",
+        "culturalContext": "Gắn với vùng nguyên liệu và nghề chế biến nông sản địa phương.",
+        "recognition": "Cần xác minh chủ thể OCOP và cấp hạng còn hiệu lực theo từng sản phẩm.",
+        "sourceIds": [
+          "src-133"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      },
+      {
+        "id": "khau-sli-cao-bang",
+        "name": "Khẩu sli",
+        "category": "Bánh truyền thống",
+        "originArea": "Cao Bằng cũ.",
+        "currentProvinceId": "cao-bang",
+        "image": {
+          "file": null,
+          "alt": "Khẩu sli – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Cao Bằng cũ..",
+        "ingredients": [
+          "Gạo nếp",
+          "Lạc",
+          "Đường hoặc mạch nha."
+        ],
+        "preparation": "Nếp được chế biến thành bỏng, trộn với lạc và chất kết dính ngọt, ép thành miếng.",
+        "characteristics": "Bánh giòn, ngọt, có hương nếp và lạc. Công thức thay đổi theo cộng đồng và cơ sở làm bánh.",
+        "culturalContext": "Thường gặp trong ẩm thực và quà biếu dịp lễ tết.",
+        "recognition": "Chưa xác minh danh hiệu sản phẩm.",
+        "sourceIds": [
+          "src-133"
+        ],
+        "originUnitIds": [
+          "cao-bang"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-tay-cao-bang",
+          "name": "Cộng đồng Tày",
+          "originArea": "Cao Bằng – nhiều huyện, xã miền núi.",
+          "description": "Cộng đồng Tày có truyền thống cư trú lâu đời, tiếng nói, nhà ở, nghi lễ và thực hành Then phong phú. Không dùng một thực hành địa phương để đại diện cho toàn bộ người Tày.",
+          "sourceIds": [
+            "src-132"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        },
+        {
+          "id": "cong-dong-nung-cao-bang",
+          "name": "Cộng đồng Nùng",
+          "originArea": "Cao Bằng – nhiều địa bàn trong tỉnh.",
+          "description": "Cộng đồng Nùng có nhiều nhóm địa phương, thực hành văn hóa và trang phục riêng; cần nghiên cứu theo từng nhóm và địa bàn thay vì mô tả đồng nhất.",
+          "sourceIds": [
+            "src-132"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-mong-cao-bang",
+          "name": "Cộng đồng Dao và Mông",
+          "originArea": "Các khu vực miền núi Cao Bằng.",
+          "description": "Các cộng đồng Dao và Mông góp phần tạo nên tính đa dạng văn hóa của tỉnh. Chi tiết về phân bố, trang phục và nghi lễ cần nguồn dân tộc học chuyên biệt.",
+          "sourceIds": [
+            "src-161"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "thuc-hanh-then-cao-bang",
+          "name": "Thực hành Then",
+          "originArea": "Cộng đồng Tày, Nùng ở Cao Bằng.",
+          "description": "Then là thực hành nghi lễ – diễn xướng có hát, đàn tính và lời Then; vai trò và hình thức thực hành thay đổi theo cộng đồng, thầy Then và dịp nghi lễ.",
+          "sourceIds": [
+            "src-132"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-long-tong",
+          "name": "Lễ hội Lồng tồng (xuống đồng)",
+          "originArea": "Các cộng đồng Tày, Nùng tại nhiều địa bàn Cao Bằng.",
+          "currentProvinceId": "cao-bang",
+          "description": "Lễ hội nông nghiệp đầu xuân gắn với cầu mùa, sinh hoạt cộng đồng và trò chơi dân gian. Ngày tổ chức khác nhau theo làng/xã.",
+          "time": "Thường vào đầu xuân; lịch từng địa phương cần xác minh.",
+          "sourceIds": [
+            "src-161"
+          ],
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "doi-song-nong-lam-cao-bang",
+          "name": "Sinh kế nông – lâm nghiệp vùng núi",
+          "originArea": "Nhiều vùng Cao Bằng.",
+          "description": "Canh tác lúa, ngô, cây ăn quả, chăn nuôi và khai thác lâm sản là các sinh kế gắn với địa hình miền núi. Cần số liệu theo từng địa bàn để mô tả định lượng.",
+          "sourceIds": [
+            "src-129"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-san-tay-nung",
+          "name": "Nhà ở truyền thống Tày – Nùng",
+          "originArea": "Cộng đồng Tày, Nùng ở Cao Bằng.",
+          "description": "Nhà sàn và các biến thể kiến trúc nhà ở gắn với điều kiện địa hình, vật liệu địa phương và tổ chức gia đình; cần phân biệt theo nhóm địa phương.",
+          "sourceIds": [
+            "src-161"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-nong-nghiep-cao-bang",
+          "name": "Tín ngưỡng nông nghiệp và thờ cúng tổ tiên",
+          "originArea": "Các cộng đồng cư dân địa phương.",
+          "description": "Thực hành tín ngưỡng thường gắn với gia đình, dòng họ, mùa vụ và lễ hội làng; hồ sơ này không suy rộng nghi lễ cụ thể khi chưa có nguồn cộng đồng.",
+          "sourceIds": [
+            "src-161"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "di-san-thuc-hanh-then-cao-bang",
+          "name": "Thực hành Then của người Tày, Nùng và Thái",
+          "originArea": "Nhiều cộng đồng Tày, Nùng tại Cao Bằng và các tỉnh miền núi phía Bắc.",
+          "description": "Di sản có hát Then, đàn tính, nghi lễ và tri thức truyền thống; phạm vi không chỉ giới hạn trong tỉnh Cao Bằng.",
+          "recognition": "UNESCO ghi danh năm 2019 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-132"
+          ],
+          "currentProvinceId": "cao-bang",
+          "originUnitIds": [
+            "cao-bang"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-then-dan-tinh-cao-bang",
+        "name": "Hát Then – đàn tính",
+        "category": "Âm nhạc truyền thống; Diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hát Then – đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng ở Cao Bằng.",
+        "origin": "Không gian các cộng đồng Tày, Nùng; thuộc di sản Then có phạm vi nhiều tỉnh.",
+        "originArea": "Không gian các cộng đồng Tày, Nùng; thuộc di sản Then có phạm vi nhiều tỉnh.",
+        "currentProvinceId": "cao-bang",
+        "characteristics": "Lời hát Then kết hợp nhạc cụ đàn tính; có hình thức nghi lễ và trình diễn cộng đồng.",
+        "instrumentsOrPerformance": "Cách hát, làn điệu, lời Then và cấu trúc nghi lễ phụ thuộc nhóm thực hành.",
+        "culturalValue": "Là thực hành gắn với tri thức, tín ngưỡng và bản sắc của các cộng đồng Tày, Nùng.",
+        "recognition": "UNESCO ghi danh thực hành Then năm 2019; không phải chỉ riêng Cao Bằng.",
+        "sourceIds": [
+          "src-132"
+        ],
+        "originUnitIds": []
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Tỉnh Cao Bằng hiện hành không sáp nhập cấp tỉnh trong đợt năm 2025; có sắp xếp đơn vị hành chính cấp xã. Diện tích và quy mô dân số trong hồ sơ này được lấy từ tài liệu đề án/nguồn công bố liên quan, không phải số liệu thống kê dân số cuối năm 2026.",
+      "Đơn vị cấp xã: 56 theo nghị quyết sắp xếp năm 2025; cần cập nhật nếu có điều chỉnh mới sau nguồn.",
+      "Dân số 573.119 là quy mô trong hồ sơ đề án năm 2025; không coi là thống kê trung bình năm 2025 hoặc cuối năm 2026.",
+      "Trung tâm hành chính cấp tỉnh chưa điền do hồ sơ nghiên cứu chưa đối chiếu văn bản đặt trụ sở hiện hành.",
+      "Vị trí cấp xã của thác Bản Giốc, động Ngườm Ngao và một số điểm du lịch cần cập nhật theo địa giới sau sắp xếp cấp xã.",
+      "Ảnh, tọa độ, thông tin giờ mở cửa và phí tham quan chưa xác minh; để trống."
+    ],
+    "sourceIds": [
+      "src-129",
+      "src-130",
+      "src-131",
+      "src-132",
+      "src-133",
+      "src-134",
+      "src-135",
+      "src-136",
+      "src-160",
+      "src-161"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "cao-bang",
+      "name": "Cao Bằng"
+    }
+  ]
+}

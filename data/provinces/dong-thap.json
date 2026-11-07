@@ -1,0 +1,564 @@
+{
+  "id": "dong-thap",
+  "name": "Tỉnh Đồng Tháp",
+  "administrativeType": "Tỉnh",
+  "region": "Đồng bằng sông Cửu Long",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Phong cảnh sông nước và hoa sen Đồng Tháp – ảnh đại diện chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Tỉnh Đồng Tháp mới được hình thành từ Tiền Giang và Đồng Tháp trước đây. Không gian văn hóa kết nối sông Tiền, Đồng Tháp Mười, vùng miệt vườn, làng hoa, di tích Gò Tháp và hệ sinh thái Tràm Chim.",
+    "featuredDestinationIds": [
+      "vuon-quoc-gia-tram-chim",
+      "khu-di-tich-go-thap"
+    ],
+    "featuredSpecialtyIds": [
+      "nem-lai-vung",
+      "hu-tieu-my-tho"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Đồng Tháp",
+      "administrativeCode": "82",
+      "administrativeCenter": "Phường Mỹ Tho (khu vực thành phố Mỹ Tho, tỉnh Tiền Giang cũ).",
+      "vehiclePlateCodes": [
+        "63",
+        "66"
+      ],
+      "areaKm2": 5938.64,
+      "areaYear": 2025,
+      "population": {
+        "value": 4370046,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh thuộc Đồng bằng sông Cửu Long, hình thành từ toàn bộ Tiền Giang cũ và Đồng Tháp cũ; không gian trải dọc sông Tiền, sông Hậu, vùng Đồng Tháp Mười và khu vực ven biển Gò Công.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình đồng bằng thấp, nhiều sông, kênh rạch, cù lao, vườn cây ăn trái, vùng ngập nước theo mùa và hệ sinh thái ven biển.",
+      "climate": null,
+      "history": "Không gian tỉnh mới kế thừa lịch sử Tiền Giang và Đồng Tháp trước đây. Khu vực Gò Tháp lưu giữ lớp di tích khảo cổ và lịch sử ở Đồng Tháp Mười; Mỹ Tho, Cái Bè và các cù lao gắn với giao thương, miệt vườn sông Tiền. Tỉnh mới hoạt động từ 01/07/2025 sau sắp xếp Tiền Giang và Đồng Tháp.",
+      "description": "Đồng Tháp là không gian văn hóa sông nước và đất ngập nước của miền Tây Nam Bộ. Vùng Đồng Tháp cũ nổi bật với Tràm Chim, Gò Tháp, Xẻo Quýt, Sa Đéc; vùng Tiền Giang cũ bổ sung các giá trị Mỹ Tho, cồn Thới Sơn, vườn cây và di sản ven sông Tiền.",
+      "sourceIds": [
+        "src-168",
+        "src-169",
+        "src-166",
+        "src-165",
+        "src-167"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "vuon-quoc-gia-tram-chim",
+        "name": "Vườn quốc gia Tràm Chim",
+        "category": "Vườn quốc gia; đất ngập nước; khu Ramsar",
+        "originArea": "Đồng Tháp cũ – vùng Đồng Tháp Mười.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Tràm Chim – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tam Nông, tỉnh Đồng Tháp; xã hiện hành cần đối chiếu theo tuyến tham quan.",
+        "coordinates": null,
+        "shortDescription": "Không gian đất ngập nước tiêu biểu của Đồng Tháp Mười, nổi bật với đồng cỏ ngập nước, kênh rạch và chim nước.",
+        "fullDescription": "Vườn quốc gia Tràm Chim bảo tồn hệ sinh thái đất ngập nước nội địa ở Đồng Tháp Mười. Các hoạt động du lịch được tổ chức theo mùa và tuyến, kết hợp trải nghiệm đường thủy, quan sát chim và tìm hiểu sinh thái.",
+        "highlights": "Hệ sinh thái đất ngập nước; chim nước; mùa nước nổi.",
+        "historicalCulturalValue": "Có giá trị sinh thái và bảo tồn đa dạng sinh học của vùng Đồng Tháp Mười.",
+        "recognition": "Khu Ramsar; cần kiểm tra hồ sơ Ramsar cập nhật khi công bố cấp danh hiệu cụ thể.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-172",
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "khu-di-tich-go-thap",
+        "name": "Khu di tích Gò Tháp",
+        "category": "Di tích khảo cổ; lịch sử; văn hóa",
+        "originArea": "Đồng Tháp cũ – vùng Tháp Mười.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Gò Tháp – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Gò Tháp, tỉnh Đồng Tháp; địa chỉ xã/phường hiện hành cần đối chiếu.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích có lớp văn hóa khảo cổ Óc Eo, các di tích lịch sử và không gian tín ngưỡng dân gian.",
+        "fullDescription": "Gò Tháp kết nối khảo cổ học, lịch sử kháng chiến và các thực hành lễ hội dân gian. Đây là điểm quan trọng để giới thiệu lịch sử lâu dài của vùng Đồng Tháp Mười.",
+        "highlights": "Di tích khảo cổ; các công trình thờ tự; lễ hội Gò Tháp.",
+        "historicalCulturalValue": "Giá trị khảo cổ và lịch sử vùng hạ lưu Mekong; phản ánh nhiều lớp cư trú và tín ngưỡng.",
+        "recognition": "Di tích quốc gia đặc biệt theo danh mục của Bộ Văn hóa, Thể thao và Du lịch.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-171",
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "khu-di-tich-xeo-quit",
+        "name": "Khu di tích Xẻo Quýt",
+        "category": "Di tích lịch sử; du lịch sinh thái",
+        "originArea": "Đồng Tháp cũ – vùng Cao Lãnh.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Xẻo Quýt – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Xẻo Quýt, tỉnh Đồng Tháp; xã hiện hành cần kiểm tra lại.",
+        "coordinates": null,
+        "shortDescription": "Di tích căn cứ cách mạng nằm giữa rừng tràm và hệ thống kênh rạch.",
+        "fullDescription": "Du khách có thể tìm hiểu dấu tích căn cứ kháng chiến và cảnh quan rừng tràm, đi xuồng theo tuyến nội khu khi được phép.",
+        "highlights": "Rừng tràm; hầm, công sự và dấu tích căn cứ; tuyến xuồng.",
+        "historicalCulturalValue": "Kết hợp ký ức lịch sử kháng chiến với cảnh quan sinh thái đất ngập nước.",
+        "recognition": "Chưa khẳng định cấp xếp hạng trong hồ sơ này; cần bổ sung quyết định xếp hạng trực tiếp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "lang-hoa-sa-dec",
+        "name": "Làng hoa Sa Đéc",
+        "category": "Làng nghề; du lịch nông nghiệp",
+        "originArea": "Đồng Tháp cũ – Sa Đéc.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Làng hoa Sa Đéc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Sa Đéc, tỉnh Đồng Tháp.",
+        "coordinates": null,
+        "shortDescription": "Làng nghề trồng hoa kiểng ven sông Tiền, hình thành từ cuối thế kỷ XIX và phát triển thành vùng sản xuất hoa kiểng quy mô lớn.",
+        "fullDescription": "Làng hoa có nhiều nhóm hoa, cây kiểng và hoạt động trải nghiệm tại nhà vườn. Địa điểm vừa là không gian sản xuất nông nghiệp vừa là điểm du lịch cộng đồng.",
+        "highlights": "Nhà vườn; luống hoa trên giàn; nghề trồng hoa kiểng.",
+        "historicalCulturalValue": "Là không gian nghề truyền thống, góp phần tạo nên bản sắc đô thị Sa Đéc.",
+        "recognition": "Chưa gán danh hiệu di sản phi vật thể trong hồ sơ này.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-170",
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "khu-di-tich-nguyen-sinh-sac",
+        "name": "Khu di tích Nguyễn Sinh Sắc",
+        "category": "Di tích lịch sử; lưu niệm danh nhân",
+        "originArea": "Đồng Tháp cũ – Cao Lãnh.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Nguyễn Sinh Sắc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Cao Lãnh, tỉnh Đồng Tháp; địa chỉ cụ thể cần kiểm tra theo bản đồ xã/phường hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Khu di tích tưởng niệm Phó bảng Nguyễn Sinh Sắc, thân sinh Chủ tịch Hồ Chí Minh.",
+        "fullDescription": "Không gian gồm khu mộ, nhà trưng bày và các hạng mục tưởng niệm; góp phần giới thiệu lịch sử, giáo dục truyền thống và ký ức về danh nhân.",
+        "highlights": "Khu mộ; nhà trưng bày; không gian lưu niệm.",
+        "historicalCulturalValue": "Có ý nghĩa lịch sử và giáo dục truyền thống của địa phương.",
+        "recognition": "Cấp xếp hạng và quyết định cụ thể cần bổ sung từ hồ sơ di tích gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "con-thoi-son",
+        "name": "Cồn Thới Sơn",
+        "category": "Du lịch sinh thái; miệt vườn sông nước",
+        "originArea": "Tiền Giang cũ – khu vực Mỹ Tho.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Cồn Thới Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Thới Sơn/Mỹ Tho, tỉnh Đồng Tháp; địa danh hành chính hiện hành cần đối chiếu.",
+        "coordinates": null,
+        "shortDescription": "Cồn trên sông Tiền gắn với miệt vườn, vườn cây ăn trái và du lịch đường sông.",
+        "fullDescription": "Cồn Thới Sơn thường được kết nối trong các tuyến tham quan Mỹ Tho – sông Tiền, trải nghiệm vườn, thủ công và sinh hoạt sông nước.",
+        "highlights": "Vườn cây; bến thuyền; cảnh quan sông Tiền.",
+        "historicalCulturalValue": "Đại diện cho văn hóa miệt vườn và sinh kế ven sông của Tiền Giang cũ.",
+        "recognition": "Không gán danh hiệu di sản nếu chưa có quyết định.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": [
+          "tien-giang"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "nem-lai-vung",
+        "name": "Nem Lai Vung",
+        "category": "Thực phẩm chế biến; đặc sản địa phương",
+        "originArea": "Đồng Tháp cũ – Lai Vung.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Nem Lai Vung – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nem Lai Vung gắn với Đồng Tháp cũ – Lai Vung.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Thịt heo",
+          "Da heo",
+          "Thính, gia vị và lá gói theo công thức cơ sở sản xuất."
+        ],
+        "preparation": "Thịt và da heo được sơ chế, phối trộn gia vị, gói và ủ lên men theo thời gian; từng cơ sở có tỷ lệ, thời gian riêng.",
+        "characteristics": "Vị chua dịu, thơm gia vị, thường gói thành chiếc nhỏ bằng lá.",
+        "culturalContext": "Nghề chế biến nem gắn với sinh kế và thương mại thực phẩm của khu vực Lai Vung.",
+        "recognition": "Cần xác minh chứng nhận/nhãn hiệu cụ thể theo cơ sở, không mặc định mọi sản phẩm đều cùng chứng nhận.",
+        "sourceIds": [
+          "src-173"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "quyt-hong-lai-vung",
+        "name": "Quýt hồng Lai Vung",
+        "category": "Nông sản; trái cây",
+        "originArea": "Đồng Tháp cũ – huyện Lai Vung trước sắp xếp.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Quýt hồng Lai Vung – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Quýt hồng Lai Vung gắn với Đồng Tháp cũ – huyện Lai Vung trước sắp xếp.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Quýt hồng tươi."
+        ],
+        "preparation": "Canh tác vườn cây ăn trái, thu hoạch theo mùa; kỹ thuật chăm sóc khác nhau theo vườn.",
+        "characteristics": "Vỏ màu cam hồng, múi mọng nước; là sản vật mùa vụ được dùng làm quà.",
+        "culturalContext": "Gắn với vườn cây ăn trái và du lịch nông nghiệp ở Lai Vung.",
+        "recognition": "Không gán chỉ dẫn địa lý nếu chưa kiểm tra văn bằng hiện hành.",
+        "sourceIds": [
+          "src-173"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "xoai-cao-lanh",
+        "name": "Xoài Cao Lãnh",
+        "category": "Nông sản; trái cây",
+        "originArea": "Đồng Tháp cũ – vùng Cao Lãnh.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Xoài Cao Lãnh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Xoài Cao Lãnh gắn với Đồng Tháp cũ – vùng Cao Lãnh.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Xoài thuộc các giống trồng tại vùng Cao Lãnh."
+        ],
+        "preparation": "Canh tác vườn xoài; xử lý ra hoa, chăm sóc và thu hoạch theo giống, mùa vụ, tiêu chuẩn của nhà vườn.",
+        "characteristics": "Quả tươi dùng ăn trực tiếp hoặc chế biến; chất lượng khác nhau tùy giống và quy trình.",
+        "culturalContext": "Gắn với nông nghiệp hàng hóa và vùng cây ăn trái của Đồng Tháp cũ.",
+        "recognition": "Chứng nhận/nhãn hiệu cần xác định theo giống và vùng sản xuất.",
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap"
+        ]
+      },
+      {
+        "id": "hu-tieu-my-tho",
+        "name": "Hủ tiếu Mỹ Tho",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Tiền Giang cũ – không gian đô thị Mỹ Tho.",
+        "currentProvinceId": "dong-thap",
+        "image": {
+          "file": null,
+          "alt": "Hủ tiếu Mỹ Tho – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Hủ tiếu Mỹ Tho gắn với Tiền Giang cũ – không gian đô thị Mỹ Tho.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Sợi hủ tiếu",
+          "Nước dùng xương/thịt hoặc hải sản tùy quán",
+          "Thịt, tôm, rau và gia vị."
+        ],
+        "preparation": "Sợi hủ tiếu được trụng, dùng với nước lèo và các thành phần ăn kèm; phong cách chế biến khác nhau giữa cơ sở.",
+        "characteristics": "Món nước hoặc khô, gắn với văn hóa quán ăn đô thị miền Tây.",
+        "culturalContext": "Là món ăn nổi tiếng gắn với Mỹ Tho; không khẳng định món chỉ có tại tỉnh Đồng Tháp mới.",
+        "recognition": "Không có danh hiệu chính thức được xác minh trong bộ nguồn này.",
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": [
+          "tien-giang"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-dong-thap",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Cả hai vùng Tiền Giang cũ và Đồng Tháp cũ.",
+          "description": "Cộng đồng Kinh phân bố rộng, gắn với canh tác lúa, vườn cây, thủy sản, thương mại sông nước và các thiết chế làng xã. Cần tránh lấy một tập quán địa phương làm đại diện cho toàn tỉnh.",
+          "sourceIds": [
+            "src-168",
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": [
+            "dong-thap",
+            "tien-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-hoa-dong-thap",
+          "name": "Cộng đồng Hoa",
+          "originArea": "Các khu dân cư đô thị và thương mại ở Sa Đéc, Mỹ Tho và các địa bàn khác.",
+          "description": "Cộng đồng Hoa góp phần vào đời sống thương mại, tín ngưỡng, ẩm thực và kiến trúc đô thị; mức độ phân bố và thực hành khác nhau theo địa bàn.",
+          "sourceIds": [
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": []
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-song-nuoc-dong-thap",
+          "name": "Sinh hoạt văn hóa sông nước",
+          "originArea": "Tiền Giang cũ và Đồng Tháp cũ.",
+          "description": "Sinh kế và giao thông gắn với sông Tiền, sông Hậu, kênh rạch, chợ và vườn cây; hình thức sinh hoạt thay đổi theo môi trường ngập lũ và vùng ven biển.",
+          "sourceIds": [
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": [
+            "dong-thap",
+            "tien-giang"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-go-thap",
+          "name": "Lễ hội Gò Tháp",
+          "originArea": "Đồng Tháp cũ – khu di tích Gò Tháp.",
+          "description": "Các kỳ lễ hội tại Gò Tháp gắn với tín ngưỡng thờ Bà Chúa Xứ Gò Tháp và tưởng niệm các nhân vật lịch sử vùng Đồng Tháp Mười. Thời điểm cụ thể thay đổi theo lịch lễ và kế hoạch tổ chức từng năm.",
+          "sourceIds": [
+            "src-171",
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "timeAndLocation": "Tổ chức tại khu di tích Gò Tháp; ngày cụ thể cần kiểm tra lịch địa phương từng năm.",
+          "originUnitIds": [
+            "dong-thap"
+          ]
+        },
+        {
+          "id": "le-gio-thien-ho-duong-doc-binh-kieu",
+          "name": "Lễ giỗ Thiên Hộ Dương và Đốc Binh Kiều",
+          "originArea": "Đồng Tháp cũ – vùng Tháp Mười.",
+          "description": "Hoạt động tưởng niệm các thủ lĩnh chống Pháp gắn với lịch sử kháng chiến vùng Đồng Tháp Mười; cần dùng lịch tổ chức chính thức từng năm để công bố ngày.",
+          "sourceIds": [
+            "src-171"
+          ],
+          "currentProvinceId": "dong-thap",
+          "timeAndLocation": "Khu di tích Gò Tháp; ngày lễ cần xác minh theo thông báo hằng năm.",
+          "originUnitIds": [
+            "dong-thap"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "hoi-quan-nong-dan-dong-thap",
+          "name": "Hội quán và sinh hoạt cộng đồng nông thôn",
+          "originArea": "Đồng Tháp cũ và các vùng nông nghiệp của tỉnh mới.",
+          "description": "Mô hình hội quán kết nối người dân, sản xuất nông nghiệp, chia sẻ kinh nghiệm và du lịch cộng đồng; là một hình thức sinh hoạt xã hội đương đại.",
+          "sourceIds": [
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": [
+            "dong-thap"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-vuon-song-tien",
+          "name": "Không gian nhà vườn và miệt vườn sông Tiền",
+          "originArea": "Tiền Giang cũ – Mỹ Tho, Cái Bè và các cù lao.",
+          "description": "Nhà vườn, bến sông, vườn cây và kênh rạch tạo thành không gian cư trú và sinh kế miệt vườn; không đồng nhất một kiểu nhà cho toàn vùng.",
+          "sourceIds": [
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": [
+            "tien-giang"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-tho-ba-chua-xu-go-thap",
+          "name": "Tín ngưỡng thờ Bà Chúa Xứ Gò Tháp",
+          "originArea": "Đồng Tháp cũ – khu di tích Gò Tháp.",
+          "description": "Thực hành tín ngưỡng tại Gò Tháp kết hợp nghi lễ dân gian và hoạt động cộng đồng; cần phân biệt với tín ngưỡng Bà Chúa Xứ Núi Sam ở An Giang.",
+          "sourceIds": [
+            "src-171",
+            "src-169"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": [
+            "dong-thap"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "di-tich-go-thap",
+          "name": "Di tích quốc gia đặc biệt Gò Tháp",
+          "originArea": "Đồng Tháp cũ.",
+          "description": "Di tích khảo cổ và lịch sử có giá trị đại diện cho nhiều lớp văn hóa của vùng Đồng Tháp Mười.",
+          "sourceIds": [
+            "src-171"
+          ],
+          "currentProvinceId": "dong-thap",
+          "originUnitIds": [
+            "dong-thap"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "don-ca-tai-tu-dong-thap",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống; nghệ thuật trình diễn",
+        "image": {
+          "file": null,
+          "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng tài tử ở Tiền Giang cũ và Đồng Tháp cũ.",
+        "origin": "Không gian âm nhạc Nam Bộ, không phải loại hình riêng của một tỉnh.",
+        "originArea": "Cộng đồng tài tử ở Tiền Giang cũ và Đồng Tháp cũ.",
+        "currentProvinceId": "dong-thap",
+        "characteristics": "Hòa đàn và ca theo hệ thống bài bản, điệu thức; có tính ngẫu hứng và giao lưu.",
+        "instrumentsOrPerformance": "Đàn kìm, đàn cò, đàn tranh, guitar phím lõm, song lang và giọng ca tài tử.",
+        "culturalValue": "Phản ánh đời sống tinh thần và giao lưu cộng đồng ở Nam Bộ.",
+        "recognition": "UNESCO ghi danh năm 2013; phạm vi di sản liên tỉnh Nam Bộ.",
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": [
+          "dong-thap",
+          "tien-giang"
+        ]
+      },
+      {
+        "id": "cai-luong-nam-bo-dong-thap",
+        "name": "Cải lương Nam Bộ",
+        "category": "Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Cải lương Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các đoàn và cộng đồng yêu nghệ thuật ở cả hai vùng tiền thân.",
+        "origin": "Sân khấu cải lương phát triển ở Nam Bộ từ cuối thế kỷ XIX – đầu thế kỷ XX.",
+        "originArea": "Các đoàn và cộng đồng yêu nghệ thuật ở cả hai vùng tiền thân.",
+        "currentProvinceId": "dong-thap",
+        "characteristics": "Kết hợp ca nhạc tài tử, diễn xuất và kịch bản sân khấu; biến đổi theo đoàn và thời kỳ.",
+        "instrumentsOrPerformance": "Ca diễn, dàn nhạc và kịch bản sân khấu.",
+        "culturalValue": "Là một hình thức nghệ thuật sân khấu phổ biến trong đời sống văn hóa miền Nam.",
+        "recognition": "Không gán danh hiệu UNESCO cho riêng địa phương.",
+        "sourceIds": [
+          "src-169"
+        ],
+        "originUnitIds": []
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Tỉnh mới hình thành từ toàn bộ Tiền Giang và Đồng Tháp cũ; chính quyền mới hoạt động từ 01/07/2025.",
+      "Diện tích 5.938,64 km² và quy mô dân số 4.370.046 người theo thông tin hành chính do Văn phòng UBND tỉnh công bố ngày 22/10/2026; dân số là quy mô trong Nghị quyết 202/2025/QH15, không phải số dân điều tra cuối năm 2026.",
+      "Trung tâm chính trị-hành chính đặt tại phường Mỹ Tho; số liệu cấp xã được nguồn 22/10/2026 ghi 102 đơn vị (82 xã, 20 phường).",
+      "Một số vị trí hiện hành của điểm đến vùng Tiền Giang cũ cần kiểm tra lại cấp xã/phường sau sắp xếp; tọa độ và ảnh chưa xác minh giấy phép nên để null/unverified.",
+      "Đặc sản và lễ hội được ghi theo nguồn gốc vùng tiền thân, không khẳng định chỉ thuộc riêng tỉnh mới.",
+      "Mô tả ranh giới các tỉnh giáp ranh được để trống chờ đối chiếu bản đồ địa giới số chính thức; không suy diễn từ ranh giới các đơn vị tiền thân."
+    ],
+    "sourceIds": [
+      "src-168",
+      "src-169",
+      "src-170",
+      "src-171",
+      "src-172",
+      "src-173",
+      "src-166",
+      "src-165",
+      "src-167"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "dong-thap",
+      "name": "Đồng Tháp"
+    },
+    {
+      "id": "tien-giang",
+      "name": "Tiền Giang"
+    }
+  ]
+}

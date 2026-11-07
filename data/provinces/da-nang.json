@@ -1,0 +1,730 @@
+{
+  "id": "da-nang",
+  "name": "Thành phố Đà Nẵng",
+  "administrativeType": "Thành phố trực thuộc trung ương",
+  "region": "Duyên hải Nam Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Đà Nẵng – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Đà Nẵng mới kết nối đô thị biển với di sản Hội An, Mỹ Sơn, Cù Lao Chàm và các làng nghề xứ Quảng.",
+    "featuredDestinationIds": [
+      "pho-co-hoi-an",
+      "thanh-dia-my-son"
+    ],
+    "featuredSpecialtyIds": [
+      "mi-quang",
+      "cao-lau-hoi-an"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Đà Nẵng",
+      "administrativeCode": "48",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "43",
+        "92"
+      ],
+      "areaKm2": 11859.59,
+      "areaYear": 2025,
+      "population": {
+        "value": 3065628,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Ở Trung Trung Bộ, gồm vùng đô thị ven biển Đà Nẵng cũ và phần lớn địa bàn tỉnh Quảng Nam cũ; tiếp giáp thành phố Huế và tỉnh Quảng Ngãi.",
+      "boundaries": [
+        "Thành phố Huế",
+        "Tỉnh Quảng Ngãi",
+        "Biển Đông"
+      ],
+      "naturalFeatures": "Địa hình từ núi Trường Sơn đến đồng bằng ven biển, cửa sông và đảo; sông Vu Gia – Thu Bồn, vùng biển Sơn Trà – Cù Lao Chàm và các hệ sinh thái rừng núi.",
+      "climate": "Khí hậu nhiệt đới gió mùa; vùng ven biển có mùa mưa bão rõ, khu vực miền núi phía tây có điều kiện khí hậu khác; cần sử dụng chuỗi số liệu khí tượng nếu đưa thống kê.",
+      "history": "Đà Nẵng mới hình thành từ thành phố Đà Nẵng và tỉnh Quảng Nam cũ theo Nghị quyết 202/2025/QH15; chính quyền mới hoạt động từ 01/07/2025. Không gian lịch sử gồm thương cảng Hội An, thánh địa Mỹ Sơn, các cộng đồng miền núi phía tây và đô thị cảng Đà Nẵng.",
+      "description": "Thành phố Đà Nẵng mới nối kết đô thị cảng, di sản Hội An – Mỹ Sơn, vùng biển đảo, làng nghề và cộng đồng miền núi. Hồ sơ phân biệt nguồn gốc Quảng Nam cũ và Đà Nẵng cũ để bảo tồn các không gian văn hóa khác nhau.",
+      "sourceIds": [
+        "src-305",
+        "src-306",
+        "src-307",
+        "src-310",
+        "src-311",
+        "src-312"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "pho-co-hoi-an",
+        "name": "Đô thị cổ Hội An",
+        "category": "Di sản văn hóa thế giới; đô thị cổ",
+        "originArea": "Quảng Nam cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Đô thị cổ Hội An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực đô thị cổ Hội An, thành phố Đà Nẵng.",
+        "coordinates": null,
+        "shortDescription": "Đô thị thương cảng cổ với cấu trúc phố, nhà gỗ, hội quán và không gian giao lưu văn hóa.",
+        "fullDescription": "Hội An phát triển mạnh từ các thế kỷ trước như một thương cảng quốc tế; cấu trúc đô thị và các công trình còn lại phản ánh giao lưu Việt Nam, Nhật Bản, Trung Hoa và các cộng đồng thương nhân. Nay địa danh thuộc thành phố Đà Nẵng mới sau hợp nhất Quảng Nam – Đà Nẵng.",
+        "highlights": [
+          "Nhà cổ; hội quán; Chùa Cầu; phố ven sông Hoài."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc đô thị, lịch sử thương mại và giao lưu văn hóa.",
+        "recognition": "Di sản văn hóa thế giới UNESCO, ghi danh năm 1999.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-308",
+          "src-310"
+        ],
+        "originUnitIds": [
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "thanh-dia-my-son",
+        "name": "Thánh địa Mỹ Sơn",
+        "category": "Di sản văn hóa thế giới; di tích khảo cổ",
+        "originArea": "Quảng Nam cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Thánh địa Mỹ Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Duy Xuyên, khu vực Quảng Nam cũ, thành phố Đà Nẵng.",
+        "coordinates": null,
+        "shortDescription": "Quần thể đền tháp Chăm Pa trong thung lũng được bao bọc bởi núi rừng.",
+        "fullDescription": "Mỹ Sơn là trung tâm tôn giáo – chính trị quan trọng của vương quốc Chăm Pa trong nhiều thế kỷ. Các nhóm tháp gạch và điêu khắc thể hiện lịch sử nghệ thuật kiến trúc Chăm; bảo tồn cần gắn với nghiên cứu khảo cổ và vật liệu xây dựng.",
+        "highlights": [
+          "Nhóm tháp; phù điêu; không gian thung lũng; dấu tích kiến trúc Chăm."
+        ],
+        "historicalCulturalValue": "Giá trị khảo cổ, kiến trúc, lịch sử và tôn giáo.",
+        "recognition": "Di sản văn hóa thế giới UNESCO, ghi danh năm 1999.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-308",
+          "src-311"
+        ],
+        "originUnitIds": [
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "ngu-hanh-son",
+        "name": "Danh thắng Ngũ Hành Sơn",
+        "category": "Danh lam thắng cảnh; di tích văn hóa",
+        "originArea": "Đà Nẵng cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Danh thắng Ngũ Hành Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Ngũ Hành Sơn, thành phố Đà Nẵng.",
+        "coordinates": null,
+        "shortDescription": "Cụm núi đá vôi ven biển gắn với hang động, chùa và làng nghề đá mỹ nghệ.",
+        "fullDescription": "Ngũ Hành Sơn gồm các ngọn núi đá vôi có hang động, chùa chiền và điểm nhìn ra biển. Khu vực còn liên hệ với làng đá Non Nước, một không gian nghề thủ công có lịch sử lâu đời.",
+        "highlights": [
+          "Thủy Sơn; động Huyền Không; chùa Tam Thai; làng đá Non Nước."
+        ],
+        "historicalCulturalValue": "Giá trị địa chất, cảnh quan, tín ngưỡng và thủ công mỹ nghệ.",
+        "recognition": "Danh thắng cấp quốc gia đặc biệt; cần đối chiếu quyết định xếp hạng cụ thể khi phát hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang"
+        ]
+      },
+      {
+        "id": "ban-dao-son-tra",
+        "name": "Bán đảo Sơn Trà",
+        "category": "Khu bảo tồn thiên nhiên; cảnh quan biển",
+        "originArea": "Đà Nẵng cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Bán đảo Sơn Trà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Bán đảo Sơn Trà, thành phố Đà Nẵng.",
+        "coordinates": null,
+        "shortDescription": "Bán đảo rừng núi vươn ra biển, có hệ sinh thái rừng nhiệt đới và sinh cảnh của voọc chà vá chân nâu.",
+        "fullDescription": "Sơn Trà có ý nghĩa bảo tồn đa dạng sinh học và cảnh quan ven biển đô thị. Các hoạt động du lịch phải tuân thủ quy định bảo vệ rừng, động vật hoang dã và an toàn đường dốc.",
+        "highlights": [
+          "Rừng Sơn Trà; Bãi Bụt; đỉnh Bàn Cờ; cảnh quan vịnh Đà Nẵng."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, đa dạng sinh học và cảnh quan.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang"
+        ]
+      },
+      {
+        "id": "cu-lao-cham",
+        "name": "Cù Lao Chàm – Khu dự trữ sinh quyển thế giới",
+        "category": "Quần đảo; khu dự trữ sinh quyển",
+        "originArea": "Quảng Nam cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Cù Lao Chàm – Khu dự trữ sinh quyển thế giới – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Tân Hiệp, thành phố Đà Nẵng.",
+        "coordinates": null,
+        "shortDescription": "Quần đảo ngoài khơi Hội An, có hệ sinh thái biển, rạn san hô và cộng đồng cư dân đảo.",
+        "fullDescription": "Cù Lao Chàm gắn với lịch sử cư trú, nghề biển và giao thương ven bờ. Khu dự trữ sinh quyển được UNESCO công nhận năm 2009; hoạt động tham quan cần tuân thủ quản lý bảo tồn biển và rác thải nhựa.",
+        "highlights": [
+          "Bãi Làng; Bãi Hương; giếng cổ; rạn san hô và sinh cảnh biển."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái biển, lịch sử cộng đồng đảo và bảo tồn.",
+        "recognition": "Khu dự trữ sinh quyển thế giới UNESCO năm 2009.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-310",
+          "src-308"
+        ],
+        "originUnitIds": [
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "ba-na-nui-chua",
+        "name": "Khu du lịch Bà Nà – Núi Chúa",
+        "category": "Du lịch núi; cảnh quan",
+        "originArea": "Đà Nẵng cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch Bà Nà – Núi Chúa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Núi Chúa, thành phố Đà Nẵng.",
+        "coordinates": null,
+        "shortDescription": "Vùng núi cao có khí hậu mát, rừng tự nhiên và công trình du lịch trên núi.",
+        "fullDescription": "Bà Nà – Núi Chúa là điểm du lịch núi phát triển với hạ tầng cáp treo và dịch vụ. Nội dung điểm đến cần tách biệt cảnh quan tự nhiên với các công trình kinh doanh hiện đại; thông tin vé và hoạt động có thể thay đổi.",
+        "highlights": [
+          "Cảnh quan núi; rừng; tuyến cáp treo; khu công trình du lịch."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan và du lịch sinh thái – nghỉ dưỡng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-310",
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang"
+        ]
+      },
+      {
+        "id": "lang-co-hai-van",
+        "name": "Vịnh Lăng Cô – đèo Hải Vân",
+        "category": "Cảnh quan biển núi; tuyến di sản",
+        "originArea": "Đà Nẵng cũ và vùng giáp Huế.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Vịnh Lăng Cô – đèo Hải Vân – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phía bắc thành phố Đà Nẵng, giáp thành phố Huế.",
+        "coordinates": null,
+        "shortDescription": "Vịnh biển nằm dưới dãy Bạch Mã, kết nối với đèo Hải Vân và tuyến giao thông lịch sử Bắc – Nam.",
+        "fullDescription": "Lăng Cô – Hải Vân là vùng cảnh quan liên tỉnh; hồ sơ chỉ ghi phần địa bàn thuộc Đà Nẵng, không gán toàn bộ vịnh hoặc dãy núi cho riêng thành phố.",
+        "highlights": [
+          "Vịnh Lăng Cô; đèo Hải Vân; cảnh quan núi và đầm phá."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, địa lý và giao thông lịch sử.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-310",
+          "src-308"
+        ],
+        "originUnitIds": [
+          "da-nang"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "mi-quang",
+        "name": "Mì Quảng",
+        "category": "Món ăn; ẩm thực vùng Quảng",
+        "originArea": "Quảng Nam cũ và Đà Nẵng.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Mì Quảng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mì Quảng gắn với Quảng Nam cũ và Đà Nẵng.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Sợi mì gạo",
+          "Thịt gà, heo, tôm hoặc cá tùy phiên bản",
+          "Rau sống",
+          "Đậu phộng, bánh tráng, gia vị."
+        ],
+        "preparation": "Sợi mì được trụng, dùng lượng nước nhân vừa phải; ăn cùng rau sống, bánh tráng và đậu phộng. Công thức thay đổi theo làng và gia đình.",
+        "characteristics": "Sợi mì vàng hoặc trắng tùy nguyên liệu; phần nước dùng cô đặc, ăn kèm rau và bánh tráng.",
+        "culturalContext": "Món ăn gắn với ẩm thực xứ Quảng, phổ biến trong bữa ăn thường nhật và hàng quán.",
+        "recognition": "Đặc trưng ẩm thực vùng; không phải chứng nhận địa lý độc quyền.",
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang",
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "cao-lau-hoi-an",
+        "name": "Cao lầu Hội An",
+        "category": "Món ăn; đặc sản đô thị cổ",
+        "originArea": "Quảng Nam cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Cao lầu Hội An – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cao lầu Hội An gắn với Quảng Nam cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Sợi mì cao lầu",
+          "Thịt xá xíu",
+          "Rau sống",
+          "Da heo chiên hoặc bánh giòn, gia vị."
+        ],
+        "preparation": "Sợi mì chế biến theo phương pháp truyền thống; dùng với thịt xá xíu, rau và ít nước trộn. Cách làm có biến thể.",
+        "characteristics": "Sợi mì dai, phần nước trộn ít, kết hợp thịt và rau.",
+        "culturalContext": "Món ăn gắn với không gian phố thị Hội An; nguồn Trung tâm Bảo tồn Di sản Hội An nhấn mạnh mối liên hệ này.",
+        "recognition": "Đặc sản địa phương; công thức và thành phần không được chuẩn hóa thành một phiên bản duy nhất.",
+        "sourceIds": [
+          "src-313"
+        ],
+        "originUnitIds": [
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "nuoc-mam-nam-o",
+        "name": "Nước mắm Nam Ô",
+        "category": "Sản phẩm lên men; nghề truyền thống",
+        "originArea": "Đà Nẵng cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Nước mắm Nam Ô – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nước mắm Nam Ô gắn với Đà Nẵng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Cá cơm than hoặc cá cơm phù hợp",
+          "Muối biển."
+        ],
+        "preparation": "Cá và muối được ủ chượp trong thùng theo quy trình làng nghề, sau đó rút nước mắm và lọc.",
+        "characteristics": "Màu nâu hổ phách đến nâu sẫm, mùi vị phụ thuộc nguyên liệu và thời gian ủ.",
+        "culturalContext": "Gắn với nghề biển và làng Nam Ô ở cửa sông Cu Đê.",
+        "recognition": "Nghề làm nước mắm Nam Ô đã được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia; ghi danh cụ thể cần đối chiếu quyết định.",
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang"
+        ]
+      },
+      {
+        "id": "banh-trang-tuy-loan",
+        "name": "Bánh tráng Túy Loan",
+        "category": "Bánh truyền thống; sản phẩm làng nghề",
+        "originArea": "Đà Nẵng cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Bánh tráng Túy Loan – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh tráng Túy Loan gắn với Đà Nẵng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Gạo",
+          "Mè",
+          "Muối",
+          "Gia vị tùy loại."
+        ],
+        "preparation": "Gạo ngâm, xay bột, tráng bánh, rắc mè và phơi hoặc sấy theo quy trình làng nghề.",
+        "characteristics": "Bánh có thể nướng hoặc dùng trong món cuốn; mùi thơm của gạo và mè.",
+        "culturalContext": "Gắn với làng Túy Loan và sinh hoạt ẩm thực địa phương.",
+        "recognition": "Sản phẩm làng nghề; cần kiểm tra chứng nhận riêng của cơ sở.",
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang"
+        ]
+      },
+      {
+        "id": "banh-it-la-gai-quang-nam",
+        "name": "Bánh ít lá gai",
+        "category": "Bánh truyền thống; món ngọt",
+        "originArea": "Quảng Nam cũ.",
+        "currentProvinceId": "da-nang",
+        "image": {
+          "file": null,
+          "alt": "Bánh ít lá gai – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh ít lá gai gắn với Quảng Nam cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Lá gai",
+          "Bột nếp",
+          "Đậu xanh hoặc dừa",
+          "Đường."
+        ],
+        "preparation": "Lá gai luộc, giã và trộn bột nếp; làm nhân đậu xanh hoặc dừa, gói lá và hấp chín.",
+        "characteristics": "Vỏ dẻo sẫm màu, nhân ngọt; hình thức và nhân có thể khác theo địa bàn.",
+        "culturalContext": "Gắn với tập quán làm bánh và lễ tết ở Quảng Nam.",
+        "recognition": "Món bánh vùng miền; không phải sản phẩm độc quyền thành phố.",
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "quang-nam"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-co-tu-ta-oi",
+          "name": "Cộng đồng Cơ Tu và Tà Ôi",
+          "originArea": "Miền núi phía tây Quảng Nam cũ và khu vực giáp Trường Sơn.",
+          "currentProvinceId": "da-nang",
+          "description": "Cộng đồng có ngôn ngữ, nhà Gươl, nghề dệt, lễ hội và tri thức rừng riêng; không khái quát một thực hành cho mọi làng.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "quang-nam"
+          ]
+        },
+        {
+          "id": "cong-dong-cham",
+          "name": "Cộng đồng Chăm trong không gian di sản Mỹ Sơn",
+          "originArea": "Khu vực Mỹ Sơn và vùng Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Không gian tháp Chăm phản ánh lịch sử và tôn giáo Chăm Pa; cộng đồng Chăm hiện nay có các nhóm và thực hành đa dạng, cần phân biệt cộng đồng chủ thể với di tích khảo cổ.",
+          "sourceIds": [
+            "src-311",
+            "src-308"
+          ],
+          "originUnitIds": [
+            "quang-nam"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-xu-quang",
+          "name": "Cộng đồng Kinh xứ Quảng",
+          "originArea": "Đồng bằng ven biển, đô thị Hội An, Đà Nẵng và các làng quê Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Văn hóa làng xã, nghề biển, thương mại, tín ngưỡng thờ cá Ông, thờ tiền hiền và các thực hành lễ hội địa phương.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "da-nang",
+            "quang-nam"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "tuc-tho-ca-ong-da-nang",
+          "name": "Tín ngưỡng thờ cá Ông",
+          "originArea": "Các làng ven biển Đà Nẵng và Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Cư dân biển tổ chức nghi lễ tưởng niệm cá Ông, cầu an và cầu mùa biển thuận; hình thức từng làng có khác biệt.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "da-nang",
+            "quang-nam"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-cau-ngu-da-nang",
+          "name": "Lễ hội Cầu ngư",
+          "originArea": "Các làng chài ven biển Đà Nẵng.",
+          "currentProvinceId": "da-nang",
+          "description": "Lễ hội gắn với tín ngưỡng thờ cá Ông, cầu bình an và mùa biển thuận lợi; ngày tổ chức theo lịch từng làng.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "timeAndLocation": "Theo lịch của từng làng chài.",
+          "originUnitIds": [
+            "da-nang"
+          ]
+        },
+        {
+          "id": "le-hoi-ba-thu-bon",
+          "name": "Lễ hội Bà Thu Bồn",
+          "originArea": "Vùng Thu Bồn, Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Lễ hội tín ngưỡng dân gian gắn với sông Thu Bồn, cầu mưa thuận gió hòa và tưởng nhớ Bà Thu Bồn; cần xác định lịch hằng năm từ ban tổ chức.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "timeAndLocation": "Vùng Thu Bồn, Quảng Nam cũ; lịch cụ thể theo địa phương.",
+          "originUnitIds": [
+            "quang-nam"
+          ]
+        },
+        {
+          "id": "le-hoi-quan-the-am-ngu-hanh-son",
+          "name": "Lễ hội Quán Thế Âm Ngũ Hành Sơn",
+          "originArea": "Khu danh thắng Ngũ Hành Sơn, Đà Nẵng.",
+          "currentProvinceId": "da-nang",
+          "description": "Lễ hội Phật giáo và sinh hoạt văn hóa cộng đồng, có hoạt động lễ nghi, triển lãm và nghệ thuật.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "timeAndLocation": "Ngũ Hành Sơn; thời gian theo lịch tổ chức hằng năm.",
+          "originUnitIds": [
+            "da-nang"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-co-tu",
+          "name": "Trang phục truyền thống Cơ Tu",
+          "originArea": "Cộng đồng Cơ Tu ở miền núi Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Trang phục dệt thủ công, hoa văn và cách sử dụng gắn với giới tính, độ tuổi và dịp lễ; cần tôn trọng khác biệt làng/nhóm.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "quang-nam"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-lang-co-tu",
+          "name": "Không gian nhà Gươl và làng Cơ Tu",
+          "originArea": "Một số làng Cơ Tu miền núi Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Nhà Gươl là không gian sinh hoạt cộng đồng, nghi lễ và truyền dạy tri thức; cấu trúc và vai trò khác nhau giữa các làng.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "quang-nam"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-pho-hoi-an",
+          "name": "Kiến trúc nhà phố Hội An",
+          "originArea": "Đô thị cổ Hội An, Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Nhà ống, kết cấu gỗ, sân trong, mái ngói và hội quán thể hiện điều kiện khí hậu và lịch sử thương mại cảng thị.",
+          "sourceIds": [
+            "src-308"
+          ],
+          "originUnitIds": [
+            "quang-nam"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-tho-ca-ong",
+          "name": "Thờ cá Ông và tín ngưỡng cư dân biển",
+          "originArea": "Làng ven biển Đà Nẵng và Quảng Nam cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Thực hành tín ngưỡng gắn với đời sống nghề cá, nghi lễ cầu an và không gian lăng Ông; hình thức khác nhau theo làng.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "da-nang",
+            "quang-nam"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "bai-choi-trung-bo",
+          "name": "Nghệ thuật Bài chòi Trung Bộ",
+          "originArea": "Địa bàn thực hành ở Đà Nẵng và Quảng Nam cũ, trong không gian nhiều tỉnh Trung Bộ.",
+          "currentProvinceId": "da-nang",
+          "description": "Bài chòi kết hợp hô hát, âm nhạc, thơ ca, diễn xướng và trò chơi dân gian; thực hành được cộng đồng duy trì tại các dịp hội làng.",
+          "sourceIds": [
+            "src-312"
+          ],
+          "recognition": "UNESCO ghi danh Di sản văn hóa phi vật thể đại diện của nhân loại ngày 07/12/2017; di sản liên tỉnh, không riêng Đà Nẵng.",
+          "originUnitIds": [
+            "da-nang",
+            "quang-nam"
+          ]
+        },
+        {
+          "id": "nghe-da-my-nghe-non-nuoc",
+          "name": "Nghề điêu khắc đá mỹ nghệ Non Nước",
+          "originArea": "Làng đá Non Nước, Đà Nẵng cũ.",
+          "currentProvinceId": "da-nang",
+          "description": "Nghề chế tác đá truyền thống gắn với vùng chân núi Ngũ Hành Sơn; kỹ thuật và mẫu sản phẩm thay đổi theo cơ sở và thế hệ thợ.",
+          "sourceIds": [
+            "src-311"
+          ],
+          "originUnitIds": [
+            "da-nang"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "bai-choi",
+        "name": "Bài chòi Trung Bộ",
+        "category": "Diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Bài chòi Trung Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Đà Nẵng và Quảng Nam cũ; phạm vi di sản liên tỉnh Trung Bộ.",
+        "origin": null,
+        "originArea": "Đà Nẵng và Quảng Nam cũ; phạm vi di sản liên tỉnh Trung Bộ.",
+        "currentProvinceId": "da-nang",
+        "characteristics": "Kết hợp âm nhạc, thơ ca, diễn xuất, hô thai và trò chơi thẻ bài.",
+        "instrumentsOrPerformance": "Người hô hiệu trình diễn câu thai, người chơi đáp lại bằng thẻ bài; hình thức hội bài chòi và bài chòi sân khấu có khác biệt.",
+        "culturalValue": "Không gian giao tiếp cộng đồng, giải trí và truyền dạy dân ca.",
+        "recognition": "UNESCO ghi danh năm 2017.",
+        "sourceIds": [
+          "src-312",
+          "src-309"
+        ],
+        "originUnitIds": [
+          "da-nang",
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "tuong-xu-quang",
+        "name": "Tuồng xứ Quảng",
+        "category": "Sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Tuồng xứ Quảng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Quảng Nam cũ và Đà Nẵng.",
+        "origin": null,
+        "originArea": "Quảng Nam cũ và Đà Nẵng.",
+        "currentProvinceId": "da-nang",
+        "characteristics": "Hóa trang, động tác ước lệ, hát nói và nhạc lễ; tích tuồng phản ánh đạo lý và lịch sử.",
+        "instrumentsOrPerformance": "Biểu diễn trên sân khấu, có dàn nhạc và bộ động tác ước lệ; từng địa bàn có phong cách riêng.",
+        "culturalValue": "Giữ gìn nghệ thuật sân khấu cổ truyền và hệ thống vai diễn.",
+        "recognition": "Được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia; cần dẫn quyết định cụ thể khi phát hành.",
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang",
+          "quang-nam"
+        ]
+      },
+      {
+        "id": "hat-ho-ba-trao",
+        "name": "Hò bá trạo trong lễ Cầu ngư",
+        "category": "Diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hò bá trạo trong lễ Cầu ngư – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Làng biển Đà Nẵng và Quảng Nam cũ.",
+        "origin": null,
+        "originArea": "Làng biển Đà Nẵng và Quảng Nam cũ.",
+        "currentProvinceId": "da-nang",
+        "characteristics": "Lời hò, nhịp chèo và động tác mô phỏng chèo thuyền, thường gắn với nghi lễ cầu ngư.",
+        "instrumentsOrPerformance": "Đội bá trạo trình diễn theo nhịp, có người dẫn và nhóm đáp; nội dung tùy cộng đồng làng biển.",
+        "culturalValue": "Gắn kết nghi lễ, ký ức nghề biển và cộng đồng cư dân ven biển.",
+        "recognition": "Hình thức thực hành địa phương; tình trạng ghi danh cần tra từng hồ sơ.",
+        "sourceIds": [
+          "src-311"
+        ],
+        "originUnitIds": [
+          "da-nang",
+          "quang-nam"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Địa giới thành phố mới gồm Đà Nẵng cũ và Quảng Nam cũ. Dân số 3.065.628 là quy mô trong Nghị quyết 202/2025/QH15; không phải số điều tra 2026."
+    ],
+    "sourceIds": [
+      "src-305",
+      "src-306",
+      "src-307",
+      "src-310",
+      "src-311",
+      "src-312",
+      "src-308",
+      "src-313"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "da-nang",
+      "name": "Đà Nẵng"
+    },
+    {
+      "id": "quang-nam",
+      "name": "Quảng Nam"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "id": "ha-tinh",
+  "name": "Tỉnh Hà Tĩnh",
+  "administrativeType": "Tỉnh",
+  "region": "Bắc Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Biển Thiên Cầm và núi Hồng Lĩnh – ảnh đại diện chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Hà Tĩnh giữ nguyên địa giới cấp tỉnh trong đợt sắp xếp năm 2025. Bản sắc kết hợp văn hóa Nghệ Tĩnh, di sản Nguyễn Du, Ngã ba Đồng Lộc, dãy Hồng Lĩnh và không gian biển Thiên Cầm.",
+    "featuredDestinationIds": [
+      "nga-ba-dong-loc",
+      "khu-di-tich-nguyen-du"
+    ],
+    "featuredSpecialtyIds": [
+      "buoi-phuc-trach",
+      "keo-cu-do-ha-tinh"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Hà Tĩnh",
+      "administrativeCode": "42",
+      "administrativeCenter": "Khu vực thành phố Hà Tĩnh trước sắp xếp; cần đối chiếu văn bản bố trí trụ sở hành chính hiện hành nếu cần địa chỉ cụ thể.",
+      "vehiclePlateCodes": [
+        "38"
+      ],
+      "areaKm2": 5994.85,
+      "areaYear": 2025,
+      "population": {
+        "value": 1623061,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh thuộc Bắc Trung Bộ, nằm giữa Nghệ An và Quảng Trị, có địa hình từ dãy Trường Sơn ra đồng bằng và bờ biển Bắc Trung Bộ.",
+      "boundaries": [
+        "Phía bắc giáp tỉnh Nghệ An.",
+        "Phía nam giáp tỉnh Quảng Trị.",
+        "Phía tây giáp Lào.",
+        "Phía đông giáp Biển Đông."
+      ],
+      "naturalFeatures": "Địa hình chuyển tiếp từ núi Trường Sơn, đồi trung du, đồng bằng hẹp đến bờ biển; có sông, hồ chứa, vùng rừng và bãi biển.",
+      "climate": null,
+      "history": "Hà Tĩnh là đơn vị hành chính cấp tỉnh giữ nguyên trong đợt sắp xếp năm 2025. Lịch sử văn hóa gắn với vùng Nghệ Tĩnh, các danh nhân như Nguyễn Du, Hải Thượng Lãn Ông, phong trào cách mạng và đời sống nông nghiệp – ven biển.",
+      "description": "Hà Tĩnh là vùng đất giàu truyền thống văn học, lịch sử và văn hóa dân gian. Các điểm nổi bật gồm Ngã ba Đồng Lộc, khu di tích Nguyễn Du, chùa Hương Tích, Hải Thượng Lãn Ông và biển Thiên Cầm; dân ca Ví, Giặm là di sản chung với Nghệ An.",
+      "sourceIds": [
+        "src-179",
+        "src-180",
+        "src-181",
+        "src-182",
+        "src-165",
+        "src-167"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "nga-ba-dong-loc",
+        "name": "Khu di tích Ngã ba Đồng Lộc",
+        "category": "Di tích lịch sử; tưởng niệm",
+        "originArea": "Hà Tĩnh (đơn vị giữ nguyên).",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Ngã ba Đồng Lộc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Đồng Lộc, tỉnh Hà Tĩnh.",
+        "coordinates": null,
+        "shortDescription": "Địa chỉ lịch sử gắn với tuyến giao thông chiến lược và sự hy sinh của 10 nữ thanh niên xung phong trong kháng chiến chống Mỹ.",
+        "fullDescription": "Khu di tích gồm khu tưởng niệm, nhà bia, mộ 10 nữ liệt sĩ và các hạng mục trưng bày, giáo dục truyền thống.",
+        "highlights": "Khu mộ 10 nữ liệt sĩ; nhà bia; không gian tưởng niệm.",
+        "historicalCulturalValue": "Địa chỉ đỏ có giá trị lịch sử và giáo dục truyền thống.",
+        "recognition": "Cần kiểm tra quyết định xếp hạng/điều chỉnh tên gọi cấp di tích khi tích hợp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "khu-di-tich-nguyen-du",
+        "name": "Khu di tích Nguyễn Du",
+        "category": "Di tích lịch sử – văn hóa; lưu niệm danh nhân",
+        "originArea": "Hà Tĩnh – vùng Tiên Điền.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Nguyễn Du – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Tiên Điền, tỉnh Hà Tĩnh.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích gắn với đại thi hào Nguyễn Du và dòng họ Nguyễn ở Tiên Điền.",
+        "fullDescription": "Không gian lưu niệm gồm nhà thờ, khu mộ và các tư liệu về cuộc đời, sự nghiệp Nguyễn Du; giúp diễn giải bối cảnh sáng tác Truyện Kiều và văn học Việt Nam.",
+        "highlights": "Di tích dòng họ; tư liệu Nguyễn Du; cảnh quan văn hóa Tiên Điền.",
+        "historicalCulturalValue": "Có giá trị nổi bật về lịch sử văn học và ký ức danh nhân.",
+        "recognition": "Di tích quốc gia đặc biệt; cần trích quyết định xếp hạng trong bản phát hành kế tiếp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "chua-huong-tich-ha-tinh",
+        "name": "Chùa Hương Tích",
+        "category": "Di tích tôn giáo; danh lam thắng cảnh",
+        "originArea": "Hà Tĩnh – dãy Hồng Lĩnh, khu vực Can Lộc cũ.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Chùa Hương Tích – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Can Lộc, tỉnh Hà Tĩnh; vị trí cụ thể theo tuyến du lịch cần xác minh.",
+        "coordinates": null,
+        "shortDescription": "Quần thể chùa và cảnh quan tâm linh trên núi Hồng Lĩnh, thường được gọi là Hương Tích tự.",
+        "fullDescription": "Điểm đến kết hợp hành hương, cảnh quan núi rừng và các công trình thờ tự; mùa lễ hội và điều kiện tiếp cận cần theo thông báo chính thức.",
+        "highlights": "Cảnh quan núi; công trình chùa; tuyến hành hương.",
+        "historicalCulturalValue": "Là một trung tâm tín ngưỡng, hành hương nổi bật của Hà Tĩnh.",
+        "recognition": "Cần bổ sung hồ sơ xếp hạng và ngày tổ chức lễ hội.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "bien-thien-cam",
+        "name": "Biển Thiên Cầm",
+        "category": "Danh lam thắng cảnh; du lịch biển",
+        "originArea": "Hà Tĩnh – khu vực Cẩm Xuyên cũ.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Biển Thiên Cầm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Thiên Cầm, tỉnh Hà Tĩnh.",
+        "coordinates": null,
+        "shortDescription": "Bãi biển có đường bờ cong, nước biển và cảnh quan núi ven bờ.",
+        "fullDescription": "Thiên Cầm là một điểm du lịch biển quan trọng của tỉnh, thường kết hợp tham quan, nghỉ dưỡng và thưởng thức hải sản theo mùa.",
+        "highlights": "Bãi biển; núi ven bờ; cảnh quan bình minh và hoàng hôn.",
+        "historicalCulturalValue": "Đại diện cho không gian văn hóa biển của Hà Tĩnh.",
+        "recognition": "Không gán danh hiệu di tích nếu chưa có căn cứ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "ho-ke-go",
+        "name": "Hồ Kẻ Gỗ",
+        "category": "Hồ chứa; cảnh quan sinh thái",
+        "originArea": "Hà Tĩnh – khu vực Cẩm Xuyên cũ.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Hồ Kẻ Gỗ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực hồ Kẻ Gỗ, tỉnh Hà Tĩnh; địa chỉ xã hiện hành cần kiểm tra.",
+        "coordinates": null,
+        "shortDescription": "Hồ chứa nước lớn nằm giữa cảnh quan đồi núi và rừng, gắn với thủy lợi và du lịch sinh thái.",
+        "fullDescription": "Hồ Kẻ Gỗ vừa là công trình thủy lợi vừa là không gian tham quan cảnh quan. Hoạt động tiếp cận một số khu vực phụ thuộc quy định quản lý hồ và rừng.",
+        "highlights": "Mặt hồ; đảo nhỏ; cảnh quan rừng và núi.",
+        "historicalCulturalValue": "Gắn với lịch sử phát triển thủy lợi và đời sống kinh tế – xã hội Hà Tĩnh.",
+        "recognition": "Không có danh hiệu di sản được xác minh trong hồ sơ này.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "khu-di-tich-hai-thuong-lan-ong",
+        "name": "Khu di tích Hải Thượng Lãn Ông Lê Hữu Trác",
+        "category": "Di tích lịch sử – văn hóa; y học cổ truyền",
+        "originArea": "Hà Tĩnh – vùng Hương Sơn.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Hải Thượng Lãn Ông Lê Hữu Trác – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Hương Sơn, tỉnh Hà Tĩnh; địa điểm thành phần cần xác minh từng địa chỉ.",
+        "coordinates": null,
+        "shortDescription": "Không gian tưởng niệm danh y Hải Thượng Lãn Ông Lê Hữu Trác, gắn với cuộc đời, sự nghiệp và di sản y học cổ truyền.",
+        "fullDescription": "Khu di tích giúp giới thiệu tư tưởng, y đức và trước tác y học của Lê Hữu Trác; cần phân biệt các điểm thành phần và địa điểm lưu niệm trong vùng.",
+        "highlights": "Địa điểm tưởng niệm; tư liệu y học; không gian văn hóa Hương Sơn.",
+        "historicalCulturalValue": "Gắn với lịch sử y học cổ truyền Việt Nam.",
+        "recognition": "Được ghi nhận trong hệ thống di tích và hồ sơ di sản; cần bổ sung quyết định và ranh giới khu di tích.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "buoi-phuc-trach",
+        "name": "Bưởi Phúc Trạch",
+        "category": "Nông sản; trái cây; chỉ dẫn địa lý",
+        "originArea": "Hà Tĩnh – vùng Phúc Trạch, Hương Khê.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Bưởi Phúc Trạch – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bưởi Phúc Trạch gắn với Hà Tĩnh – vùng Phúc Trạch, Hương Khê.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Bưởi Phúc Trạch tươi."
+        ],
+        "preparation": "Canh tác vườn bưởi, thu hoạch theo mùa; phân loại và bảo quản theo tiêu chuẩn vùng trồng.",
+        "characteristics": "Quả có đặc điểm hình thái và chất lượng cảm quan gắn với vùng địa lý Phúc Trạch.",
+        "culturalContext": "Gắn với vườn cây và sinh kế nông nghiệp miền núi Hà Tĩnh.",
+        "recognition": "Được bảo hộ chỉ dẫn địa lý theo nguồn Sở KH&CN Hà Tĩnh; phạm vi sản phẩm cần đối chiếu quy chế.",
+        "sourceIds": [
+          "src-181"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "nhung-huou-huong-son",
+        "name": "Nhung hươu Hương Sơn",
+        "category": "Sản phẩm chăn nuôi; đặc sản",
+        "originArea": "Hà Tĩnh – vùng Hương Sơn.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Nhung hươu Hương Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nhung hươu Hương Sơn gắn với Hà Tĩnh – vùng Hương Sơn.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Nhung hươu từ đàn hươu nuôi theo quy trình quản lý."
+        ],
+        "preparation": "Thu hoạch nhung theo thời điểm và quy trình chăm sóc; sơ chế, bảo quản tùy cơ sở.",
+        "characteristics": "Sản phẩm gắn với nghề nuôi hươu và tri thức chăm sóc, khai thác nhung tại Hương Sơn.",
+        "culturalContext": "Là một sản phẩm nông nghiệp đặc trưng, đồng thời gắn với tập quán nuôi hươu ở vùng Hương Sơn.",
+        "recognition": "Được bảo hộ chỉ dẫn địa lý theo nguồn Sở KH&CN Hà Tĩnh; cần xem hồ sơ quy chế sử dụng.",
+        "sourceIds": [
+          "src-181"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "keo-cu-do-ha-tinh",
+        "name": "Kẹo cu đơ Hà Tĩnh",
+        "category": "Bánh kẹo truyền thống",
+        "originArea": "Hà Tĩnh – các cơ sở sản xuất trong tỉnh.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Kẹo cu đơ Hà Tĩnh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Kẹo cu đơ Hà Tĩnh gắn với Hà Tĩnh – các cơ sở sản xuất trong tỉnh.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Lạc",
+          "Mật mía hoặc đường mạch nha",
+          "Bánh tráng, gừng tùy công thức."
+        ],
+        "preparation": "Mật được nấu đến độ sánh, phối lạc rang và kẹp giữa hai lớp bánh tráng; công thức thay đổi theo cơ sở.",
+        "characteristics": "Vị ngọt đậm, thơm lạc và gừng; kết cấu giòn – dẻo.",
+        "culturalContext": "Thường được dùng trong tiếp khách, làm quà và gắn với ẩm thực địa phương.",
+        "recognition": "Có tên trong nhóm sản phẩm đặc sản được đăng ký bảo hộ thương hiệu/nhãn hiệu; cần kiểm tra loại bảo hộ cụ thể.",
+        "sourceIds": [
+          "src-181"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "cam-bu-huong-son",
+        "name": "Cam bù Hương Sơn",
+        "category": "Nông sản; trái cây",
+        "originArea": "Hà Tĩnh – vùng Hương Sơn.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Cam bù Hương Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cam bù Hương Sơn gắn với Hà Tĩnh – vùng Hương Sơn.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Cam bù tươi."
+        ],
+        "preparation": "Canh tác vườn cây ăn quả, thu hoạch theo mùa; kỹ thuật tùy vườn và điều kiện khí hậu.",
+        "characteristics": "Loại cam địa phương có màu sắc và vị đặc trưng; cần phân biệt với các giống cam khác cùng vùng.",
+        "culturalContext": "Gắn với mùa vụ, vườn đồi và sinh kế nông nghiệp Hương Sơn.",
+        "recognition": "Nguồn Sở KH&CN liệt kê trong nhóm sản phẩm đã đăng ký bảo hộ nhãn hiệu.",
+        "sourceIds": [
+          "src-181"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "muc-thach-kim-cua-sot",
+        "name": "Mực Thạch Kim – Cửa Sót",
+        "category": "Thủy sản; sản phẩm địa phương",
+        "originArea": "Hà Tĩnh – vùng biển Lộc Hà cũ.",
+        "currentProvinceId": "ha-tinh",
+        "image": {
+          "file": null,
+          "alt": "Mực Thạch Kim – Cửa Sót – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mực Thạch Kim – Cửa Sót gắn với Hà Tĩnh – vùng biển Lộc Hà cũ.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Mực khai thác vùng biển địa phương."
+        ],
+        "preparation": "Mực có thể được chế biến tươi, phơi hoặc sấy; quy trình tùy sản phẩm và cơ sở.",
+        "characteristics": "Sản phẩm gắn với nghề khai thác và chế biến thủy sản ở vùng biển Thạch Kim – Cửa Sót.",
+        "culturalContext": "Phản ánh sinh kế biển và văn hóa ẩm thực ven biển Hà Tĩnh.",
+        "recognition": "Nguồn Sở KH&CN Hà Tĩnh nêu trong nhóm sản phẩm được đăng ký nhãn hiệu.",
+        "sourceIds": [
+          "src-181"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-ha-tinh",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Toàn tỉnh Hà Tĩnh.",
+          "description": "Cộng đồng Kinh chiếm đa số, hình thành đời sống văn hóa làng xã, nghề nông, nghề biển, tín ngưỡng dân gian và các sinh hoạt văn học – nghệ thuật. Mô tả phong tục cần dựa theo từng vùng.",
+          "sourceIds": [
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-lang-xa-ha-tinh",
+          "name": "Phong tục và sinh hoạt làng xã",
+          "originArea": "Các làng đồng bằng, ven biển và miền núi Hà Tĩnh.",
+          "description": "Sinh hoạt cộng đồng gắn với đình, đền, dòng họ, lễ cầu mùa và các dịp tưởng niệm nhân vật lịch sử; mức độ thực hành thay đổi theo địa bàn.",
+          "sourceIds": [
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-chua-huong-tich",
+          "name": "Lễ hội chùa Hương Tích",
+          "originArea": "Hà Tĩnh – khu vực Hương Tích, Hồng Lĩnh.",
+          "description": "Lễ hội hành hương và hoạt động tín ngưỡng tại quần thể chùa; lịch tổ chức hằng năm cần kiểm tra thông báo chính thức.",
+          "sourceIds": [
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "timeAndLocation": "Tại chùa Hương Tích; thời gian thường gắn mùa lễ hội đầu năm, ngày cụ thể cần xác minh theo năm.",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        },
+        {
+          "id": "le-hoi-hai-thuong-lan-ong",
+          "name": "Lễ hội Hải Thượng Lãn Ông",
+          "originArea": "Hà Tĩnh – Hương Sơn.",
+          "description": "Hoạt động tưởng niệm danh y Hải Thượng Lãn Ông, kết hợp nghi lễ và chương trình văn hóa; tên, nội dung và ngày tổ chức có thể thay đổi theo kế hoạch từng năm.",
+          "sourceIds": [
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "timeAndLocation": "Khu vực Hương Sơn; lịch cụ thể cần xác minh hằng năm.",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "sinh-ke-nong-lam-bien-ha-tinh",
+          "name": "Sinh kế nông nghiệp, lâm nghiệp và nghề biển",
+          "originArea": "Các vùng đồng bằng, miền núi và duyên hải Hà Tĩnh.",
+          "description": "Đời sống cộng đồng kết hợp trồng lúa, cây ăn quả, chăn nuôi, lâm nghiệp, đánh bắt và nuôi trồng thủy sản. Sự khác biệt giữa miền núi, đồng bằng và ven biển cần được thể hiện trong dữ liệu địa phương.",
+          "sourceIds": [
+            "src-181",
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-lang-que-ha-tinh",
+          "name": "Không gian làng quê và làng biển",
+          "originArea": "Hà Tĩnh – các vùng nông thôn và ven biển.",
+          "description": "Kiến trúc nhà ở, đình, chùa, nhà thờ họ và không gian làng biển thay đổi theo địa hình, vật liệu và lịch sử từng địa phương.",
+          "sourceIds": [
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-tho-danh-nhan-ha-tinh",
+          "name": "Tín ngưỡng tưởng niệm danh nhân và anh hùng",
+          "originArea": "Hà Tĩnh – Ngã ba Đồng Lộc, Tiên Điền, Hương Sơn và các điểm di tích.",
+          "description": "Các hoạt động tưởng niệm, dâng hương và giáo dục truyền thống gắn với danh nhân, anh hùng và các di tích lịch sử; cần phân biệt hình thức tưởng niệm hiện đại với nghi lễ dân gian truyền thống.",
+          "sourceIds": [
+            "src-180"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "dan-ca-vi-giam-nghe-tinh",
+          "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+          "originArea": "Hà Tĩnh và Nghệ An.",
+          "description": "Di sản âm nhạc dân gian được cộng đồng Nghệ Tĩnh thực hành trong lao động, sinh hoạt và giao lưu; Hà Tĩnh là một địa bàn chủ thể trong không gian di sản liên tỉnh.",
+          "sourceIds": [
+            "src-182"
+          ],
+          "currentProvinceId": "ha-tinh",
+          "originUnitIds": [
+            "ha-tinh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "dan-ca-vi-giam-ha-tinh",
+        "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+        "category": "Dân ca; âm nhạc truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Dân ca Ví, Giặm Nghệ Tĩnh – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng ở Hà Tĩnh và Nghệ An.",
+        "origin": "Hình thành và lưu truyền trong môi trường văn hóa Nghệ Tĩnh, gắn với lao động, sinh hoạt và giao tiếp cộng đồng.",
+        "originArea": "Cộng đồng ở Hà Tĩnh và Nghệ An.",
+        "currentProvinceId": "ha-tinh",
+        "characteristics": "Các làn điệu Ví và Giặm có lối hát, nhịp điệu và lời ca khác nhau theo môi trường thực hành.",
+        "instrumentsOrPerformance": "Hát đối đáp hoặc đơn ca/nhóm, có thể gắn với lao động và sinh hoạt cộng đồng.",
+        "culturalValue": "Lưu giữ ngôn ngữ, ký ức và tri thức dân gian vùng Nghệ Tĩnh.",
+        "recognition": "UNESCO ghi danh năm 2014; di sản liên tỉnh Hà Tĩnh – Nghệ An.",
+        "sourceIds": [
+          "src-182"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      },
+      {
+        "id": "ca-tru-ha-tinh",
+        "name": "Ca trù",
+        "category": "Âm nhạc thính phòng; diễn xướng",
+        "image": {
+          "file": null,
+          "alt": "Ca trù – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các phường ca trù và nghệ nhân ở một số địa bàn Hà Tĩnh; loại hình có phạm vi liên tỉnh.",
+        "origin": "Ca trù là loại hình âm nhạc truyền thống của miền Bắc và Bắc Trung Bộ; từng địa phương có thực hành và repertory riêng.",
+        "originArea": "Các phường ca trù và nghệ nhân ở một số địa bàn Hà Tĩnh; loại hình có phạm vi liên tỉnh.",
+        "currentProvinceId": "ha-tinh",
+        "characteristics": "Kết hợp giọng hát, phách, đàn đáy và trống chầu; có cấu trúc bài bản và không gian diễn xướng riêng.",
+        "instrumentsOrPerformance": "Ca nương hát; kép đàn chơi đàn đáy; người nghe/chấm trống chầu trong một số hình thức.",
+        "culturalValue": "Giá trị ở hệ thống bài bản, kỹ thuật hát và quan hệ nghệ nhân – người nghe.",
+        "recognition": "UNESCO ghi danh năm 2009 vào Danh sách cần bảo vệ khẩn cấp; không phải di sản chỉ thuộc Hà Tĩnh.",
+        "sourceIds": [
+          "src-180"
+        ],
+        "originUnitIds": [
+          "ha-tinh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hà Tĩnh giữ nguyên đơn vị hành chính cấp tỉnh theo Nghị quyết 202/2025/QH15; không hợp nhất cấp tỉnh trong đợt năm 2025.",
+      "Số liệu hiện có từ cổng xã Tiên Điền trích dẫn nghị quyết sắp xếp cấp xã: diện tích 5.994,85 km², dân số 1.623.061 người và 69 đơn vị cấp xã (60 xã, 9 phường). Đây là số liệu theo hồ sơ hành chính, không khẳng định là điều tra dân số cuối năm 2026.",
+      "Mã đơn vị cấp tỉnh 42 và biển số 38; địa chỉ trụ sở/trung tâm hành chính nên được xác minh theo danh bạ cơ quan cấp tỉnh mới nhất.",
+      "Dân ca Ví, Giặm là di sản liên tỉnh Nghệ An – Hà Tĩnh. Ca trù có phạm vi thực hành rộng, không gán riêng cho Hà Tĩnh.",
+      "Tọa độ, ảnh, thông tin phí/giờ mở cửa và một số địa chỉ cấp xã cần cập nhật."
+    ],
+    "sourceIds": [
+      "src-179",
+      "src-180",
+      "src-181",
+      "src-182",
+      "src-165",
+      "src-167",
+      "src-166"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "ha-tinh",
+      "name": "Hà Tĩnh"
+    }
+  ]
+}

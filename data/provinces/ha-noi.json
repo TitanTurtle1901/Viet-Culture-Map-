@@ -1,0 +1,689 @@
+{
+  "id": "ha-noi",
+  "name": "Thành phố Hà Nội",
+  "administrativeType": "Thành phố trực thuộc trung ương",
+  "region": "Đồng bằng sông Hồng",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Ảnh đại diện toàn cảnh Hà Nội – chưa chọn ảnh do chưa xác minh giấy phép sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Hà Nội là Thủ đô của Việt Nam, nằm ở phía tây bắc trung tâm đồng bằng châu thổ sông Hồng. Không gian văn hóa của thành phố kết hợp di sản kinh đô Thăng Long, khu phố thị lịch sử, các làng cổ và làng nghề; địa giới cấp tỉnh được giữ nguyên trong đợt sắp xếp năm 2025.",
+    "featuredDestinationIds": [
+      "hoang-thanh-thang-long",
+      "ho-hoan-kiem-den-ngoc-son"
+    ],
+    "featuredSpecialtyIds": [
+      "pho-ha-noi",
+      "com-lang-vong"
+    ],
+    "sourceIds": [
+      "src-001",
+      "src-002",
+      "src-003",
+      "src-005",
+      "src-008"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Hà Nội",
+      "administrativeCode": "01",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "40"
+      ],
+      "areaKm2": 3359.84,
+      "areaYear": 2026,
+      "population": {
+        "value": 8717600,
+        "year": 2024,
+        "unit": "người"
+      },
+      "geographicLocation": "Hà Nội nằm về phía tây bắc của trung tâm vùng đồng bằng châu thổ sông Hồng. Địa hình gồm vùng đồng bằng trung tâm và vùng đồi núi ở phía bắc, phía tây; ranh giới hiện nay bao trùm vùng đô thị trung tâm, khu vực nông thôn, trung du và miền núi thấp.",
+      "boundaries": [
+        "Phía bắc: tỉnh Thái Nguyên và tỉnh Phú Thọ",
+        "Phía nam và tây nam: tỉnh Ninh Bình và tỉnh Phú Thọ",
+        "Phía đông: tỉnh Bắc Ninh và tỉnh Hưng Yên",
+        "Phía tây và tây bắc: tỉnh Phú Thọ"
+      ],
+      "naturalFeatures": "Địa hình phân hóa giữa đồng bằng châu thổ ở khu vực trung tâm và các dải đồi núi ở phía bắc, phía tây. Sông Hồng là trục địa lý quan trọng của đồng bằng và lịch sử đô thị Thăng Long. Thành phố có vùng núi Ba Vì và các không gian hồ, sông, đồng bằng; mô tả chi tiết hệ thống thủy văn và hệ sinh thái cần bổ sung hồ sơ chuyên ngành.",
+      "climate": null,
+      "history": "Khu vực Hà Nội có lịch sử đô thị lâu dài. Năm 1010, vua Lý Thái Tổ ban Chiếu dời đô từ Hoa Lư ra thành Đại La và đặt tên kinh đô là Thăng Long. Thăng Long tiếp tục là trung tâm chính trị qua nhiều triều đại. Năm 1831, vua Minh Mạng đổi tên Thăng Long thành tỉnh Hà Nội trong cuộc cải cách hành chính. Cần phân biệt lịch sử kinh đô Thăng Long với lịch sử địa giới thành phố Hà Nội hiện đại, vốn nhiều lần thay đổi trong các giai đoạn sau này.",
+      "description": "Hà Nội vừa là trung tâm chính trị – hành chính quốc gia, vừa là không gian văn hóa có nhiều lớp lịch sử. Di sản nổi bật gồm khu trung tâm Hoàng thành Thăng Long, Văn Miếu – Quốc Tử Giám, hồ Hoàn Kiếm – đền Ngọc Sơn, các di tích Cổ Loa và Hương Sơn, cùng các làng cổ và làng nghề như Đường Lâm và Bát Tràng. Văn hóa ẩm thực, lễ hội làng, nghệ thuật diễn xướng và nghề thủ công tạo nên bản sắc đa dạng của Thủ đô.",
+      "sourceIds": [
+        "src-001",
+        "src-002",
+        "src-003",
+        "src-004",
+        "src-005",
+        "src-006",
+        "src-008",
+        "src-030"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "hoang-thanh-thang-long",
+        "name": "Khu di tích trung tâm Hoàng thành Thăng Long – Hà Nội",
+        "category": "Di sản thế giới; di tích lịch sử – khảo cổ",
+        "originArea": "Kinh đô Thăng Long trong lịch sử; khu vực trung tâm Hà Nội hiện nay",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích trung tâm Hoàng thành Thăng Long – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực đường Hoàng Diệu, trung tâm Hà Nội; địa chỉ phường hiện hành cần đối chiếu bản đồ địa giới cấp xã 2025.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích gắn với trung tâm quyền lực của các triều đại Việt Nam, có các lớp kiến trúc và khảo cổ kéo dài nhiều thế kỷ.",
+        "fullDescription": "Hoàng thành Thăng Long được xây dựng từ thế kỷ XI dưới triều Lý trên nền thành lũy có trước. Khu trung tâm và di tích khảo cổ 18 Hoàng Diệu phản ánh sự tiếp nối lâu dài của trung tâm quyền lực tại vùng châu thổ sông Hồng, đồng thời thể hiện giao thoa văn hóa khu vực Đông Nam Á.",
+        "highlights": [
+          "Trục chính điện Kính Thiên và các dấu tích cung điện",
+          "Khu khảo cổ 18 Hoàng Diệu",
+          "Các lớp dấu tích kiến trúc qua nhiều triều đại"
+        ],
+        "historicalCulturalValue": "Di tích minh chứng cho sự liên tục của trung tâm chính trị Thăng Long trong gần 13 thế kỷ và những tương tác văn hóa trong khu vực.",
+        "recognition": "Di sản văn hóa thế giới UNESCO, ghi danh năm 2010 theo các tiêu chí (ii), (iii), (vi).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-007",
+          "src-008",
+          "src-010"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "van-mieu-quoc-tu-giam",
+        "name": "Văn Miếu – Quốc Tử Giám",
+        "category": "Di tích lịch sử – văn hóa; di tích quốc gia đặc biệt",
+        "originArea": "Không gian kinh đô Thăng Long; khu vực nội đô Hà Nội",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Văn Miếu – Quốc Tử Giám – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Văn Miếu – Quốc Tử Giám, thành phố Hà Nội.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích gắn với truyền thống học thuật, giáo dục Nho học và tôn vinh hiền tài của Việt Nam.",
+        "fullDescription": "Văn Miếu – Quốc Tử Giám là một trong những di tích văn hóa – giáo dục tiêu biểu của Thăng Long – Hà Nội. Không gian di tích gồm các lớp sân, cổng, khu thờ tự và bia Tiến sĩ; ngày nay tiếp tục tổ chức hoạt động tham quan, giáo dục di sản và trải nghiệm văn hóa.",
+        "highlights": [
+          "Khuê Văn Các",
+          "Bia Tiến sĩ",
+          "Không gian Quốc Tử Giám và các sân nội tự"
+        ],
+        "historicalCulturalValue": "Gắn với lịch sử giáo dục, truyền thống hiếu học, tôn sư trọng đạo và việc tôn vinh người đỗ đạt.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": "Trang chính thức đang công bố giờ mở cửa tham quan ban ngày 08:00–17:00; chương trình tour đêm 18:30–22:00 vào thứ Tư, thứ Bảy và Chủ nhật. Vé và lịch có thể thay đổi; cần kiểm tra lại trước khi hiển thị trên website.",
+        "sourceIds": [
+          "src-009",
+          "src-010",
+          "src-030"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "ho-hoan-kiem-den-ngoc-son",
+        "name": "Di tích hồ Hoàn Kiếm và đền Ngọc Sơn",
+        "category": "Di tích lịch sử và danh lam thắng cảnh; di tích quốc gia đặc biệt",
+        "originArea": "Không gian đô thị lịch sử Thăng Long – Hà Nội",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Hồ Hoàn Kiếm và đền Ngọc Sơn – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực hồ Hoàn Kiếm, trung tâm thành phố Hà Nội; phường hiện hành theo địa giới 2025 cần kiểm tra ở bản đồ hành chính.",
+        "coordinates": null,
+        "shortDescription": "Không gian cảnh quan – lịch sử trung tâm gắn với hồ Gươm, đền Ngọc Sơn và truyền thuyết vua Lê trả gươm.",
+        "fullDescription": "Di tích bao gồm hồ Hoàn Kiếm, đền Ngọc Sơn và khu tưởng niệm vua Lê. Hồ còn được gọi là hồ Gươm, gắn với truyền thuyết vua Lê Thái Tổ hoàn trả thanh gươm; đền Ngọc Sơn là điểm nhấn kiến trúc – tín ngưỡng trên đảo trong hồ.",
+        "highlights": [
+          "Tháp Rùa và mặt nước hồ Gươm",
+          "Đền Ngọc Sơn và cầu Thê Húc",
+          "Không gian đi bộ, cảnh quan trung tâm"
+        ],
+        "historicalCulturalValue": "Là biểu tượng cảnh quan và ký ức lịch sử của Thủ đô, kết nối truyền thuyết dân gian, tín ngưỡng và không gian công cộng đô thị.",
+        "recognition": "Di tích lịch sử và danh lam thắng cảnh hồ Hoàn Kiếm và đền Ngọc Sơn được xếp hạng di tích quốc gia đặc biệt theo Quyết định 2383/QĐ-TTg ngày 09/12/2013.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-010",
+          "src-022"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "co-loa",
+        "name": "Khu di tích quốc gia đặc biệt Cổ Loa",
+        "category": "Di tích khảo cổ – lịch sử; di tích quốc gia đặc biệt",
+        "originArea": "Cổ Loa, vùng Đông Anh lịch sử; gắn với kinh đô Âu Lạc",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích Cổ Loa – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cổ Loa, vùng Đông Anh, thành phố Hà Nội; tên xã hiện hành cần xác minh lại do một số trang nguồn năm 2025–2026 dùng tên xã chưa thống nhất.",
+        "coordinates": null,
+        "shortDescription": "Di tích gắn với kinh đô Âu Lạc, An Dương Vương và truyền thuyết thành ốc Cổ Loa.",
+        "fullDescription": "Cổ Loa là không gian di tích khảo cổ – lịch sử gắn với nhà nước Âu Lạc và An Dương Vương. Lễ hội Cổ Loa hằng năm tưởng nhớ công đức nhà vua; nghi thức tiêu biểu có rước kiệu của các cộng đồng thuộc Bát xã Loa Thành về đền thờ An Dương Vương.",
+        "highlights": [
+          "Thành Cổ Loa với cấu trúc thành lũy nhiều vòng",
+          "Đền thờ An Dương Vương",
+          "Lễ hội Cổ Loa vào tháng Giêng âm lịch"
+        ],
+        "historicalCulturalValue": "Có giá trị khảo cổ, lịch sử và tín ngưỡng dân gian, gắn với ký ức về nhà nước Âu Lạc và huyền tích An Dương Vương – Mỵ Châu – Trọng Thủy.",
+        "recognition": "Di tích quốc gia đặc biệt; được Sở Văn hóa và Thể thao Hà Nội liệt kê trong danh sách di tích thành phố quản lý năm 2026.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-010",
+          "src-025"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "huong-son-chua-huong",
+        "name": "Quần thể di tích và danh thắng Hương Sơn (Chùa Hương)",
+        "category": "Quần thể di tích lịch sử – danh lam thắng cảnh; di tích quốc gia đặc biệt",
+        "originArea": "Hương Sơn, vùng Mỹ Đức lịch sử",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Quần thể Hương Sơn – Chùa Hương – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Hương Sơn, thành phố Hà Nội.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích tâm linh – cảnh quan núi đá vôi, hang động, chùa và suối; nổi bật với tuyến thuyền trên suối Yến đến Thiên Trù và động Hương Tích.",
+        "fullDescription": "Hương Sơn là quần thể gồm nhiều đền, chùa, hang và động phân bố trên vùng núi đá vôi. Tuyến tham quan quen thuộc đi thuyền trên suối Yến, qua chùa Thiên Trù và tiếp tục lên động Hương Tích. Hội Chùa Hương tạo nên không gian hành hương và sinh hoạt văn hóa – tín ngưỡng vào mùa xuân.",
+        "highlights": [
+          "Suối Yến",
+          "Chùa Thiên Trù",
+          "Động Hương Tích"
+        ],
+        "historicalCulturalValue": "Không gian kết hợp cảnh quan tự nhiên với lịch sử Phật giáo, tín ngưỡng hành hương và lễ hội truyền thống.",
+        "recognition": "Di tích quốc gia đặc biệt theo quyết định ngày 25/12/2017.",
+        "visitorInformation": "Thông tin vé, tuyến đò, giờ hoạt động và tình trạng chỉnh trang thay đổi theo mùa; chưa đưa số liệu vận hành vào dữ liệu tĩnh.",
+        "sourceIds": [
+          "src-010",
+          "src-023",
+          "src-024"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "lang-co-duong-lam",
+        "name": "Làng cổ ở Đường Lâm",
+        "category": "Di tích cấp quốc gia; làng cổ truyền thống",
+        "originArea": "Đường Lâm, vùng văn hóa xứ Đoài; địa danh hành chính cũ thuộc thị xã Sơn Tây",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Làng cổ Đường Lâm – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Sơn Tây, thành phố Hà Nội; khu vực làng cổ Đường Lâm.",
+        "coordinates": null,
+        "shortDescription": "Không gian làng Việt cổ vùng xứ Đoài với nhà cổ, cổng làng, đình, chùa, giếng, ngõ xóm và vật liệu đá ong đặc trưng.",
+        "fullDescription": "Làng cổ Đường Lâm bảo tồn tương đối rõ cấu trúc làng truyền thống Bắc Bộ, gồm cổng làng, đình, đền, chùa, giếng cổ, đường làng và các ngôi nhà xây bằng vật liệu địa phương. Nguồn thành phố ghi nhận làng có 5 thôn lịch sử, nhiều nhà cổ và di tích gắn với các nhân vật như Phùng Hưng, Ngô Quyền.",
+        "highlights": [
+          "Cổng làng Mông Phụ và cây đa cổ",
+          "Nhà cổ, tường đá ong, giếng làng",
+          "Đình Mông Phụ, chùa Mía, đền và lăng Ngô Quyền"
+        ],
+        "historicalCulturalValue": "Là tư liệu sống về cấu trúc cư trú, kiến trúc dân gian và sinh hoạt cộng đồng của làng quê vùng đồng bằng Bắc Bộ – xứ Đoài.",
+        "recognition": "Được xếp hạng di tích cấp quốc gia năm 2006; được công nhận điểm du lịch cấp thành phố năm 2019. Không ghi là Di tích quốc gia đặc biệt vì nguồn Sở Văn hóa 2024 chỉ nói mục tiêu đề xuất nâng hạng.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-010",
+          "src-020",
+          "src-021"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "lang-gom-bat-trang",
+        "name": "Làng nghề gốm sứ Bát Tràng",
+        "category": "Làng nghề truyền thống; điểm du lịch văn hóa – thủ công",
+        "originArea": "Làng Bát Tràng và vùng ven sông Hồng; truyền thống hình thành khoảng thế kỷ XIV–XV",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Làng nghề gốm sứ Bát Tràng – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Bát Tràng, thành phố Hà Nội.",
+        "coordinates": null,
+        "shortDescription": "Làng nghề gốm lâu đời ven sông Hồng, nổi bật với kỹ thuật thủ công, sản phẩm gốm gia dụng và mỹ nghệ.",
+        "fullDescription": "Theo nguồn của Sở Nông nghiệp và Môi trường Hà Nội, làng gốm Bát Tràng hình thành khoảng thế kỷ XIV–XV, gắn với các dòng họ làm gốm di cư đến vùng Bạch Thổ phường. Nghề gốm phát triển từ vật dụng sinh hoạt đến các dòng sản phẩm mỹ nghệ và cao cấp; không gian làng còn các nhà cổ, ngõ xóm, cơ sở sản xuất và điểm trải nghiệm nghề.",
+        "highlights": [
+          "Sản phẩm gốm gia dụng và mỹ nghệ",
+          "Kỹ thuật tạo hình, trang trí và hoàn thiện gốm truyền thống",
+          "Không gian làng nghề và trải nghiệm thủ công"
+        ],
+        "historicalCulturalValue": "Phản ánh lịch sử nghề thủ công, tri thức vật liệu và kỹ năng nghề được truyền qua các thế hệ; là nguồn lực cho du lịch văn hóa và sáng tạo.",
+        "recognition": "Làng nghề gốm Bát Tràng là di sản văn hóa phi vật thể quốc gia; được công nhận là thành viên Mạng lưới các thành phố thủ công sáng tạo thế giới năm 2024 (theo nguồn Sở Nông nghiệp và Môi trường Hà Nội).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-014",
+          "src-018",
+          "src-019"
+        ],
+        "originUnitIds": []
+      }
+    ],
+    "specialties": [
+      {
+        "id": "pho-ha-noi",
+        "name": "Phở Hà Nội",
+        "category": "Món ăn; tri thức dân gian ẩm thực",
+        "originArea": "Không gian đô thị Hà Nội; hình thành và phát triển trong đời sống phố thị đầu thế kỷ XX, không khẳng định phở chỉ có ở Hà Nội",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Phở Hà Nội – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Hà Nội là một trung tâm hình thành phong cách phở đô thị; Sở Văn hóa và Thể thao dẫn các tư liệu cho rằng phở xuất hiện ở Hà Nội vào khoảng đầu thế kỷ XX, trong khi nguồn gốc xa hơn còn nhiều giả thuyết.",
+        "ingredients": [],
+        "preparation": "Tri thức dân gian về quy trình chế biến và thưởng thức được ghi danh; tài liệu nguồn đang dùng chưa đủ để chuẩn hóa một công thức duy nhất.",
+        "characteristics": "Món nước dùng bánh phở, gắn với các cách ăn phở bò hoặc phở gà phổ biến tại Hà Nội; có đời sống hàng quán và văn hóa thưởng thức đặc trưng.",
+        "culturalContext": "Được ghi danh không phải vì phở chỉ thuộc riêng Hà Nội, mà vì tri thức chế biến, kinh doanh và thưởng thức trong bối cảnh văn hóa Hà Nội có giá trị được công nhận.",
+        "recognition": "Tri thức dân gian Phở Hà Nội được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia theo Quyết định 2328/QĐ-BVHTTDL ngày 09/08/2024.",
+        "sourceIds": [
+          "src-013",
+          "src-029"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "banh-cuon-thanh-tri",
+        "name": "Bánh cuốn Thanh Trì",
+        "category": "Món ăn; tri thức dân gian và nghề thủ công truyền thống",
+        "originArea": "Làng Thanh Trì lịch sử; nay thuộc phường Vĩnh Hưng, Hà Nội",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Bánh cuốn Thanh Trì – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gắn với làng Thanh Trì, nay thuộc phường Vĩnh Hưng. Nghề được truyền qua các hộ gia đình và cộng đồng làm nghề địa phương.",
+        "ingredients": [
+          "Gạo tẻ",
+          "Thịt băm",
+          "Mộc nhĩ",
+          "Hành phi",
+          "Rau thơm và gia vị dùng kèm"
+        ],
+        "preparation": "Gạo được ngâm, xay thành bột nước mịn; bánh được tráng mỏng trên lớp vải căng đặt trên nồi nước sôi. Nhân thịt băm và mộc nhĩ được chế biến riêng; bánh thường ăn cùng chả và nước chấm.",
+        "characteristics": "Bánh mỏng, trắng trong, mềm; hương thơm của gạo kết hợp nhân và nước chấm. Một số cách ăn truyền thống có thêm chả quế, chả lụa, rau thơm và hương cà cuống.",
+        "culturalContext": "Bánh cuốn còn được dùng làm lễ vật dâng Thành hoàng trong dịp lễ hội truyền thống của làng.",
+        "recognition": "Nghề làm bánh cuốn Thanh Trì được Bộ Văn hóa, Thể thao và Du lịch đưa vào Danh mục di sản văn hóa phi vật thể quốc gia theo Quyết định 2228/QĐ-BVHTTDL ngày 27/06/2025; lễ công bố tại địa phương diễn ra tháng 3/2026.",
+        "sourceIds": [
+          "src-014",
+          "src-015"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "com-lang-vong",
+        "name": "Cốm làng Vòng",
+        "category": "Sản phẩm ẩm thực; nghề truyền thống",
+        "originArea": "Làng Vòng, địa danh lịch sử Dịch Vọng; địa giới phường hiện hành cần cập nhật sau sắp xếp 2025",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Cốm làng Vòng – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Làng Vòng, vùng Dịch Vọng lịch sử của Hà Nội; không dùng tên phường/quận cũ làm địa chỉ hành chính hiện hành.",
+        "ingredients": [
+          "Thóc nếp non; nguồn Sở Văn hóa mô tả chọn bông lúa khi hạt vừa độ chín"
+        ],
+        "preparation": "Chọn bông lúa đúng độ non, rang lúa vừa lửa rồi giã bằng cối và chày theo nhịp đều; công đoạn rang và giã quyết định độ dẻo, mịn của cốm.",
+        "characteristics": "Hạt cốm xanh, dẻo, thơm; thường gói trong lá sen, gắn với mùa thu Hà Nội.",
+        "culturalContext": "Cốm là thức quà theo mùa, có bí quyết nghề được truyền qua nhiều thế hệ; không nên khái quát cốm nói chung là độc quyền của Hà Nội.",
+        "recognition": "Được UBND thành phố Hà Nội công nhận danh hiệu Nghề truyền thống Hà Nội theo Quyết định 6275/QĐ-UBND ngày 05/12/2024.",
+        "sourceIds": [
+          "src-016",
+          "src-017",
+          "src-029"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "cha-ca-la-vong",
+        "name": "Tri thức chế biến và thưởng thức Chả cá Lã Vọng",
+        "category": "Món ăn; tri thức dân gian ẩm thực",
+        "originArea": "Không gian phố thị Hà Nội; gắn với phố Chả Cá và văn hóa ẩm thực đô thị",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Chả cá Lã Vọng – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gắn với lịch sử hàng quán và văn hóa ăn uống ở khu phố cổ Hà Nội. Bộ nguồn hiện có xác nhận tên di sản được ghi danh nhưng chưa đủ tư liệu chuyên môn về niên đại và nguồn gốc gia đình/nghề.",
+        "ingredients": [],
+        "preparation": null,
+        "characteristics": "Tri thức chế biến và thưởng thức được ghi nhận như một di sản; các thành phần, công thức và biến thể cần được bổ sung từ hồ sơ kiểm kê di sản hoặc tài liệu chuyên môn.",
+        "culturalContext": "Phản ánh văn hóa hàng quán, kỹ nghệ chế biến và tập quán thưởng thức món ăn trong không gian phố thị Hà Nội.",
+        "recognition": "Tri thức chế biến và thưởng thức Chả cá Lã Vọng nằm trong nhóm 9 di sản văn hóa phi vật thể quốc gia được Sở Văn hóa và Thể thao Hà Nội công bố đầu năm 2026.",
+        "sourceIds": [
+          "src-014",
+          "src-029"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "gom-bat-trang",
+        "name": "Gốm sứ Bát Tràng",
+        "category": "Sản phẩm thủ công địa phương; nghề truyền thống",
+        "originArea": "Làng Bát Tràng, nay thuộc xã Bát Tràng, Hà Nội",
+        "currentProvinceId": "ha-noi",
+        "image": {
+          "file": null,
+          "alt": "Gốm sứ Bát Tràng – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Làng gốm Bát Tràng hình thành khoảng thế kỷ XIV–XV; nguồn thành phố mô tả các dòng họ làm gốm di cư đến vùng Bạch Thổ phường, nay là xã Bát Tràng.",
+        "ingredients": [
+          "Đất sét; nguồn địa phương nhấn mạnh nguồn đất sét trắng trong lịch sử hình thành làng nghề"
+        ],
+        "preparation": "Quy trình chi tiết theo từng dòng sản phẩm cần được chuẩn hóa từ hồ sơ nghề và nghệ nhân; không áp một quy trình duy nhất cho toàn bộ gốm Bát Tràng.",
+        "characteristics": "Đa dạng sản phẩm gia dụng, trang trí và mỹ nghệ; đặc trưng bởi kỹ thuật thủ công và thẩm mỹ được trao truyền qua nhiều thế hệ.",
+        "culturalContext": "Nghề gốm là một trụ cột trong sinh kế, bản sắc làng nghề và hoạt động du lịch trải nghiệm tại xã Bát Tràng.",
+        "recognition": "Nghề gốm Bát Tràng được ghi danh là di sản văn hóa phi vật thể quốc gia; làng nghề được công nhận thành viên Mạng lưới các thành phố thủ công sáng tạo thế giới năm 2024.",
+        "sourceIds": [
+          "src-014",
+          "src-018",
+          "src-019"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [],
+      "customs": [],
+      "festivals": [
+        {
+          "id": "hoi-giong-phu-dong-soc",
+          "name": "Lễ hội Gióng ở đền Phù Đổng và đền Sóc",
+          "originArea": "Phù Đổng và Sóc Sơn trong địa lý văn hóa Hà Nội; hai địa điểm gắn với truyền thuyết Thánh Gióng",
+          "currentProvinceId": "ha-noi",
+          "description": "Lễ hội tưởng niệm Thánh Gióng, nhân vật huyền thoại được tôn là người bảo vệ đất nước. Lễ hội đền Phù Đổng diễn ra vào tháng Tư âm lịch, tái hiện trận đánh qua ngựa trắng, múa cờ và vai diễn của cộng đồng; lễ hội đền Sóc tổ chức vào tháng Giêng âm lịch, có nghi thức tắm tượng và rước hoa tre.",
+          "communityOrArea": "Cộng đồng cư dân Phù Đổng và Sóc; UNESCO mô tả đây là các lễ hội tại vùng ngoại vi Hà Nội.",
+          "recognition": "UNESCO ghi danh năm 2010 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-011"
+          ],
+          "originUnitIds": [
+            "ha-noi"
+          ]
+        },
+        {
+          "id": "le-hoi-co-loa",
+          "name": "Lễ hội Cổ Loa",
+          "originArea": "Cổ Loa, vùng Đông Anh lịch sử",
+          "currentProvinceId": "ha-noi",
+          "description": "Lễ hội hằng năm tưởng nhớ An Dương Vương và việc xây dựng nhà nước Âu Lạc, thành ốc Cổ Loa. Chính hội truyền thống vào ngày mồng 6 tháng Giêng; có nghi thức rước kiệu của các cộng đồng thuộc Bát xã Loa Thành, cùng hoạt động hội như đấu vật, cờ người, múa rối nước và diễn xướng dân gian.",
+          "communityOrArea": "Cộng đồng các làng thuộc không gian Bát xã Loa Thành; tên đơn vị xã hiện hành cần rà soát do nguồn năm 2026 chưa nhất quán.",
+          "recognition": null,
+          "sourceIds": [
+            "src-025"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "lang-nghe-bat-trang",
+          "name": "Sinh hoạt cộng đồng làng nghề Bát Tràng",
+          "originArea": "Làng Bát Tràng, nay thuộc xã Bát Tràng",
+          "description": "Hoạt động sản xuất gốm, truyền nghề, hội làng và dịch vụ du lịch cộng đồng tiếp tục gắn với đời sống cư dân địa phương.",
+          "sourceIds": [
+            "src-018",
+            "src-019"
+          ],
+          "currentProvinceId": "ha-noi",
+          "originUnitIds": []
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-lang-co-duong-lam",
+          "name": "Không gian làng cổ Đường Lâm",
+          "originArea": "Đường Lâm, vùng xứ Đoài; địa danh hành chính cũ thuộc thị xã Sơn Tây",
+          "description": "Không gian làng với cổng làng, đình, đền, chùa, giếng, ngõ xóm, tường đá ong và nhà ở truyền thống; hiện thuộc phường Sơn Tây.",
+          "sourceIds": [
+            "src-020",
+            "src-021"
+          ],
+          "currentProvinceId": "ha-noi",
+          "originUnitIds": []
+        },
+        {
+          "id": "khong-gian-lang-gom-bat-trang",
+          "name": "Không gian làng nghề gốm Bát Tràng",
+          "originArea": "Làng Bát Tràng, nay thuộc xã Bát Tràng",
+          "description": "Làng ven tả ngạn sông Hồng với nhà cổ, ngõ xóm, cơ sở sản xuất, chợ gốm và các không gian giới thiệu nghề thủ công.",
+          "sourceIds": [
+            "src-018",
+            "src-019"
+          ],
+          "currentProvinceId": "ha-noi",
+          "originUnitIds": []
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tho-thanh-giong",
+          "name": "Tín ngưỡng thờ Thánh Gióng",
+          "originArea": "Phù Đổng và Sóc Sơn",
+          "description": "Thánh Gióng được cộng đồng tôn thờ như vị thần bảo hộ; lễ hội kết hợp nghi thức thờ tự, diễn xướng và biểu tượng nông nghiệp – cầu mùa.",
+          "sourceIds": [
+            "src-011"
+          ],
+          "currentProvinceId": "ha-noi",
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "ca-tru",
+          "name": "Ca trù",
+          "originArea": "Các phường ca trù vùng Bắc Bộ, trong đó Hà Nội là một trung tâm tư liệu và thực hành; không giới hạn riêng ở Hà Nội",
+          "description": "Loại hình ca hát thính phòng sử dụng thơ tiếng Việt, với đào nương hát và phách, đàn đáy, trống chầu; có các không gian hát thờ, hát chơi và hát thi.",
+          "recognition": "UNESCO ghi danh năm 2009 vào Danh sách di sản văn hóa phi vật thể cần bảo vệ khẩn cấp.",
+          "sourceIds": [
+            "src-012",
+            "src-029"
+          ],
+          "currentProvinceId": "ha-noi",
+          "originUnitIds": [
+            "ha-noi"
+          ]
+        },
+        {
+          "id": "nhom-di-san-ghi-danh-2025-2026",
+          "name": "Các di sản phi vật thể quốc gia được ghi danh thêm tại Hà Nội (2025–2026)",
+          "originArea": "Nhiều cộng đồng và địa bàn trong địa giới Hà Nội hiện hành; một số tên địa bàn trong thông tin ghi danh sử dụng đơn vị cấp xã mới",
+          "description": "Nguồn Sở Văn hóa và Thể thao đầu năm 2026 liệt kê 9 di sản: Hội hát Chèo Tàu Tổng Gối; Hội làng La Phù; Lễ hội chùa Đồng Bụt; Lễ hội chùa Nành; Lễ hội đền Sái; Lễ hội đình Vòng; Nghề làm bánh cuốn Thanh Trì; Tri thức chế biến và thưởng thức Chả cá Lã Vọng; Tri thức nấu cỗ Bát Tràng. Danh sách ghi nhận tình trạng công bố, không thay thế hồ sơ khoa học chi tiết từng di sản.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia; các quyết định và địa bàn chi tiết cần gắn riêng theo từng hồ sơ trước khi mở rộng bản ghi.",
+          "sourceIds": [
+            "src-014",
+            "src-015",
+            "src-027"
+          ],
+          "currentProvinceId": "ha-noi",
+          "originUnitIds": [
+            "ha-noi"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "ca-tru",
+        "name": "Ca trù",
+        "category": "Âm nhạc truyền thống; hát thơ",
+        "image": {
+          "file": null,
+          "alt": "Ca trù – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các cộng đồng thực hành ca trù ở miền Bắc; Hà Nội là một địa bàn quan trọng trong tư liệu và thực hành.",
+        "originArea": "Vùng Bắc Bộ; không coi là loại hình chỉ có nguồn gốc riêng tại Hà Nội.",
+        "currentProvinceId": "ha-noi",
+        "characteristics": "Một đào nương hát thơ, sử dụng kỹ thuật nhả chữ, rung giọng và phách; đàn đáy tạo âm trầm, trống chầu giữ nhịp và điểm câu. Có thể có múa trong một số hình thức trình diễn.",
+        "instrumentsOrPerformance": "Đào nương, phách hoặc sênh, đàn đáy, trống chầu; một số hình thức có múa.",
+        "culturalValue": "Kết hợp thi ca, âm nhạc và nghi lễ; truyền dạy chủ yếu qua quan hệ nghệ nhân – học trò và sinh hoạt phường/họ.",
+        "recognition": "UNESCO ghi danh năm 2009 vào Danh sách di sản văn hóa phi vật thể cần bảo vệ khẩn cấp.",
+        "sourceIds": [
+          "src-012",
+          "src-029"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      },
+      {
+        "id": "cheo-tau-tong-goi",
+        "name": "Hội hát Chèo Tàu Tổng Gối",
+        "category": "Diễn xướng dân gian; hát hội",
+        "image": {
+          "file": null,
+          "alt": "Hội hát Chèo Tàu Tổng Gối – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng vùng Tổng Gối xưa, nay là xã Ô Diên, Hà Nội.",
+        "originArea": "Tổng Gối xưa, gắn với vùng Tân Hội – Đan Phượng trong địa giới cũ.",
+        "currentProvinceId": "ha-noi",
+        "characteristics": "Hình thức diễn xướng mô phỏng cảnh chèo thuyền và voi ra trận; người diễn được phân vai chúa tàu, cái tàu, con tàu, quản tượng. Nguồn Sở Văn hóa mô tả các diễn viên tham gia trình diễn là phụ nữ.",
+        "instrumentsOrPerformance": "Hát đối đáp, hát xướng họa và các tuần ca khúc; trình diễn trên mô hình thuyền và voi bằng gỗ.",
+        "culturalValue": "Diễn xướng gắn với ký ức lịch sử địa phương và sinh hoạt lễ hội; cộng đồng phục hồi, trao truyền qua các thế hệ.",
+        "recognition": "Được ghi danh vào Danh mục quốc gia về di sản văn hóa phi vật thể theo Quyết định 1351/QĐ-BVHTTDL năm 2025; lễ công bố tại địa phương diễn ra ngày 01/03/2026.",
+        "sourceIds": [
+          "src-026",
+          "src-027"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "mua-roi-nuoc-thach-that",
+        "name": "Múa rối nước vùng Thạch Thất",
+        "category": "Nghệ thuật trình diễn dân gian",
+        "image": {
+          "file": null,
+          "alt": "Múa rối nước vùng Thạch Thất – ảnh chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các phường rối làng Ra, làng Yên và Chàng Sơn ở vùng Thạch Thất lịch sử; tên xã trong nguồn 2021 là địa giới cũ.",
+        "originArea": "Các làng thuộc huyện Thạch Thất cũ, Hà Nội.",
+        "currentProvinceId": "ha-noi",
+        "characteristics": "Nghệ thuật điều khiển con rối trên mặt nước, thường trình diễn trong lễ hội, ngày vui và dịp Tết; các tích trò phản ánh sinh hoạt làng quê và truyện dân gian.",
+        "instrumentsOrPerformance": "Con rối gỗ, thủy đình, hệ thống điều khiển ngầm; nhạc và lời dẫn phục vụ các tích trò. Rối làng Ra có ông tướng Loa giới thiệu chương trình; rối Chàng Sơn có kỹ thuật điều khiển bằng dây để rối di chuyển xa buồng trò.",
+        "culturalValue": "Là sáng tạo sân khấu dân gian của cư dân nông nghiệp vùng châu thổ sông Hồng; được trao truyền trong phường rối và các cộng đồng làng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-028"
+        ],
+        "originUnitIds": [
+          "ha-noi"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hà Nội là đơn vị cấp tỉnh giữ nguyên, không sáp nhập trong đợt sắp xếp cấp tỉnh năm 2025; việc sắp xếp năm 2025 áp dụng ở cấp xã, từ 01/07/2025 toàn thành phố tổ chức thành 75 xã và 51 phường, không còn cấp huyện.",
+      "Dữ liệu diện tích là 3.359,84 km² theo báo cáo cơ quan chuyên môn năm 2026; dân số dùng số dân trung bình 2024, không phải ước tính dân số 2026.",
+      "Tên đơn vị cấp xã hiện hành chưa xác minh nhất quán tại một số vị trí (đặc biệt Cổ Loa, Hoàn Kiếm và khu vực Hoàng thành); những nơi này được ghi chú thay vì đoán địa chỉ.",
+      "Không có ảnh nào được đưa vào image-manifest vì chưa kiểm chứng giấy phép/quyền sử dụng. Các object image giữ file/sourceId null và permissionStatus unverified.",
+      "Khí hậu, dân số theo xã/dân tộc, địa chỉ trung tâm hành chính, tọa độ địa điểm, số liệu khách tham quan và dữ liệu vận hành như phí/giờ mở cửa cần bổ sung từ nguồn chuyên ngành hiện hành.",
+      "Các bản ghi văn hóa gắn với địa danh lịch sử đều có originArea; không gán những đơn vị cấp tỉnh tiền thân cho Hà Nội vì Hà Nội không thuộc diện sắp xếp cấp tỉnh năm 2025."
+    ],
+    "sourceIds": [
+      "src-001",
+      "src-002",
+      "src-003",
+      "src-004",
+      "src-005",
+      "src-006",
+      "src-007",
+      "src-008",
+      "src-009",
+      "src-010",
+      "src-011",
+      "src-012",
+      "src-013",
+      "src-014",
+      "src-015",
+      "src-016",
+      "src-017",
+      "src-018",
+      "src-019",
+      "src-020",
+      "src-021",
+      "src-022",
+      "src-023",
+      "src-024",
+      "src-025",
+      "src-026",
+      "src-027",
+      "src-028",
+      "src-029",
+      "src-030"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "ha-noi",
+      "name": "Hà Nội"
+    }
+  ]
+}

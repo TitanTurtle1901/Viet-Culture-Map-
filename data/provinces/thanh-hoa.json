@@ -1,0 +1,756 @@
+{
+  "id": "thanh-hoa",
+  "name": "Tỉnh Thanh Hóa",
+  "administrativeType": "Tỉnh",
+  "region": "Bắc Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Thanh Hóa – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Thanh Hóa giữ nguyên cấp tỉnh sau sắp xếp 2025, nổi bật với Thành nhà Hồ, Lam Kinh, Pù Luông, Sầm Sơn và văn hóa các cộng đồng Kinh, Mường, Thái.",
+    "featuredDestinationIds": [
+      "thanh-nha-ho",
+      "khu-di-tich-lam-kinh"
+    ],
+    "featuredSpecialtyIds": [
+      "nem-chua-thanh-hoa",
+      "cha-tom-thanh-hoa"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Thanh Hóa",
+      "administrativeCode": "38",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "36"
+      ],
+      "areaKm2": 11114.71,
+      "areaYear": 2025,
+      "population": {
+        "value": 4320947,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh Bắc Trung Bộ, giáp Ninh Bình, Nghệ An, Lào và Biển Đông; có miền núi phía tây, trung du, đồng bằng và ven biển.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình đa dạng gồm núi rừng, vùng karst, sông Mã, sông Chu, hồ, đồng bằng và bờ biển; có Pù Luông và Bến En.",
+      "climate": null,
+      "history": "Thanh Hóa giữ nguyên đơn vị cấp tỉnh trong đợt sắp xếp năm 2025; cấp xã được sắp xếp còn 166 đơn vị (147 xã, 19 phường). Vùng đất có lịch sử lâu dài, gắn với các triều đại, cuộc khởi nghĩa Lam Sơn, thành nhà Hồ và nhiều cộng đồng Kinh, Mường, Thái.",
+      "description": "Thanh Hóa kết hợp di sản thành nhà Hồ, Lam Kinh, cảnh quan Pù Luông, biển Sầm Sơn và văn hóa sông Mã. Các cộng đồng Kinh, Mường, Thái cùng tạo nên bức tranh văn hóa từ miền núi đến duyên hải.",
+      "sourceIds": [
+        "src-260",
+        "src-286",
+        "src-287",
+        "src-262",
+        "src-288",
+        "src-289",
+        "src-290",
+        "src-291",
+        "src-292",
+        "src-293"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "thanh-nha-ho",
+        "name": "Thành nhà Hồ",
+        "category": "Di sản văn hóa thế giới; di tích kiến trúc",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Thành nhà Hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Vĩnh Lộc, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Thành đá quy mô lớn được xây dựng cuối thế kỷ XIV, gắn với triều Hồ và kỹ thuật xây thành bằng khối đá lớn.",
+        "fullDescription": "Thành nhà Hồ là ví dụ nổi bật của kiến trúc thành lũy bằng đá ở Đông Á và Đông Nam Á. UNESCO ghi danh năm 2011; khu vực di sản có vùng lõi và vùng đệm theo hồ sơ quản lý.",
+        "highlights": [
+          "Cổng thành; tường đá; La Thành; đàn tế Nam Giao."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, lịch sử, kỹ thuật và quy hoạch đô thành.",
+        "recognition": "UNESCO World Heritage, 2011.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-289"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "khu-di-tich-lam-kinh",
+        "name": "Khu di tích lịch sử Lam Kinh",
+        "category": "Di tích lịch sử; kiến trúc; tưởng niệm",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử Lam Kinh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Lam Kinh, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Không gian gắn với cuộc khởi nghĩa Lam Sơn và triều Hậu Lê, gồm điện, lăng, bia và cảnh quan di tích.",
+        "fullDescription": "Lam Kinh là trung tâm lịch sử – tưởng niệm quan trọng của vùng Thanh Hóa. Các công trình được bảo tồn và tổ chức tham quan theo ban quản lý di tích.",
+        "highlights": [
+          "Chính điện; các lăng vua Lê; bia Vĩnh Lăng; hồ và rừng di tích."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử triều Hậu Lê, kiến trúc và văn hóa tưởng niệm.",
+        "recognition": "Di tích quốc gia đặc biệt; cần đối chiếu quyết định xếp hạng cụ thể khi trích dẫn.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "khu-bao-ton-pu-luong",
+        "name": "Khu bảo tồn thiên nhiên Pù Luông",
+        "category": "Khu bảo tồn thiên nhiên; du lịch sinh thái",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Khu bảo tồn thiên nhiên Pù Luông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Bá Thước – Quan Hóa, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan núi đá vôi, rừng, ruộng bậc thang và bản làng Thái, Mường.",
+        "fullDescription": "Pù Luông có giá trị đa dạng sinh học và cảnh quan nông nghiệp miền núi. Du lịch cộng đồng cần tôn trọng tập quán bản địa và quy định bảo tồn.",
+        "highlights": [
+          "Ruộng bậc thang; bản Kho Mường; rừng; thác và hang."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, đa dạng sinh học và văn hóa cư trú.",
+        "recognition": "Khu bảo tồn thiên nhiên Pù Luông.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-290",
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "sam-son",
+        "name": "Bãi biển Sầm Sơn",
+        "category": "Du lịch biển; cảnh quan",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Bãi biển Sầm Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Sầm Sơn, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Dải bãi biển và đô thị du lịch ven biển, có hạ tầng nghỉ dưỡng và các không gian tín ngưỡng lân cận.",
+        "fullDescription": "Sầm Sơn phát triển du lịch biển; mùa cao điểm, chất lượng dịch vụ, giá phòng và quy định tắm biển thay đổi theo thời điểm, cần kiểm tra nguồn chính thức.",
+        "highlights": [
+          "Bãi biển; núi Trường Lệ; đền Độc Cước; Hòn Trống Mái."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan biển, du lịch và tín ngưỡng ven biển.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "suoi-ca-cam-luong",
+        "name": "Suối cá Cẩm Lương",
+        "category": "Danh thắng; sinh thái; tín ngưỡng dân gian",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Suối cá Cẩm Lương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cẩm Lương, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Suối karst có đàn cá sinh sống, gắn với cảnh quan và tín ngưỡng cộng đồng địa phương.",
+        "fullDescription": "Suối cá là điểm tham quan thiên nhiên – văn hóa; cần tuân thủ quy định bảo vệ đàn cá và môi trường suối.",
+        "highlights": [
+          "Dòng suối; đàn cá; đền thờ gần khu vực; cảnh quan núi."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, tín ngưỡng và tri thức dân gian.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-ben-en",
+        "name": "Vườn quốc gia Bến En",
+        "category": "Vườn quốc gia; hồ; rừng",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Bến En – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Như Thanh – Như Xuân, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Không gian rừng, hồ và hệ sinh thái đa dạng, có các đảo và vùng mặt nước rộng.",
+        "fullDescription": "Bến En là khu bảo tồn thiên nhiên có giá trị đa dạng sinh học và nghiên cứu; tuyến thuyền và điểm tham quan theo quy định ban quản lý.",
+        "highlights": [
+          "Hồ Sông Mực; đảo; rừng; sinh cảnh động thực vật."
+        ],
+        "historicalCulturalValue": "Giá trị bảo tồn thiên nhiên và sinh thái.",
+        "recognition": "Vườn quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "cau-ham-rong",
+        "name": "Cầu Hàm Rồng và quần thể di tích Hàm Rồng",
+        "category": "Di tích lịch sử; công trình giao thông",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Cầu Hàm Rồng và quần thể di tích Hàm Rồng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Hàm Rồng, tỉnh Thanh Hóa.",
+        "coordinates": null,
+        "shortDescription": "Không gian cầu và các điểm cao gắn với lịch sử giao thông, phòng không và chiến tranh phá hoại.",
+        "fullDescription": "Khu vực gồm cầu, núi và các điểm ghi dấu lịch sử. Thuyết minh cần tránh giản lược sự kiện phức tạp và phải dựa nguồn lịch sử địa phương.",
+        "highlights": [
+          "Cầu Hàm Rồng; núi Rồng; các điểm tưởng niệm và quan sát."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử giao thông và ký ức chiến tranh.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "nem-chua-thanh-hoa",
+        "name": "Nem chua Thanh Hóa",
+        "category": "Món ăn; thực phẩm lên men",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Nem chua Thanh Hóa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nem chua Thanh Hóa gắn với Thanh Hóa.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt lợn",
+          "Bì lợn",
+          "Thính gạo",
+          "Lá gói và gia vị."
+        ],
+        "preparation": "Thịt, bì được sơ chế, trộn thính và gia vị, gói và ủ lên men theo công thức cơ sở.",
+        "characteristics": "Vị chua dịu, thơm, độ giòn của bì; đặc tính phụ thuộc thời gian lên men và điều kiện bảo quản.",
+        "culturalContext": "Món ăn nổi tiếng trong ẩm thực địa phương và thường được dùng làm quà.",
+        "recognition": "Đặc sản địa phương; tiêu chuẩn an toàn và nhà sản xuất cần xác minh riêng.",
+        "sourceIds": [
+          "src-293",
+          "src-292"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "cha-tom-thanh-hoa",
+        "name": "Chả tôm Thanh Hóa",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Chả tôm Thanh Hóa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chả tôm Thanh Hóa gắn với Thanh Hóa.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Tôm",
+          "Thịt hoặc nguyên liệu phụ tùy công thức",
+          "Bánh phở/bánh cuốn mỏng hoặc bánh tráng",
+          "Gia vị."
+        ],
+        "preparation": "Tôm được làm nhân, gói và nướng/áp chảo theo cách của cơ sở.",
+        "characteristics": "Vị tôm và gia vị, lớp vỏ mềm hoặc giòn tùy cách làm.",
+        "culturalContext": "Gắn với ẩm thực đô thị Thanh Hóa và hàng quán địa phương.",
+        "recognition": "Đặc sản vùng; công thức có biến thể.",
+        "sourceIds": [
+          "src-292"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "banh-gai-tu-tru",
+        "name": "Bánh gai Tứ Trụ",
+        "category": "Bánh truyền thống; sản phẩm chế biến",
+        "originArea": "Tứ Trụ, Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Bánh gai Tứ Trụ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh gai Tứ Trụ gắn với Tứ Trụ, Thanh Hóa.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bột nếp",
+          "Lá gai",
+          "Đậu xanh",
+          "Dừa",
+          "Đường và lá gói."
+        ],
+        "preparation": "Lá gai xử lý, trộn bột nếp; nhân đậu xanh và nguyên liệu khác được gói, hấp chín.",
+        "characteristics": "Vỏ màu sẫm, dẻo; nhân ngọt, thơm.",
+        "culturalContext": "Gắn với nghề làm bánh và tập quán quà biếu vùng Tứ Trụ.",
+        "recognition": "Sản phẩm truyền thống địa phương; cơ sở và chứng nhận cần xác minh.",
+        "sourceIds": [
+          "src-292"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "mam-tep-ha-yen",
+        "name": "Mắm tép Hà Yên",
+        "category": "Sản phẩm lên men; gia vị",
+        "originArea": "Hà Yên, Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Mắm tép Hà Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mắm tép Hà Yên gắn với Hà Yên, Thanh Hóa.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Tép đồng",
+          "Muối",
+          "Thính và gia vị tùy cơ sở."
+        ],
+        "preparation": "Tép được sơ chế, trộn muối và thính, ủ lên men theo quy trình địa phương.",
+        "characteristics": "Mùi vị mắm lên men; độ mặn và màu tùy thời gian ủ.",
+        "culturalContext": "Gắn với nguồn lợi thủy sản vùng đồng chiêm trũng và nghề chế biến truyền thống.",
+        "recognition": "Đặc sản làng nghề; chứng nhận và cơ sở sản xuất cụ thể cần kiểm tra.",
+        "sourceIds": [
+          "src-292"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "che-lam-phu-quang",
+        "name": "Chè lam Phủ Quảng",
+        "category": "Bánh truyền thống; đồ ngọt",
+        "originArea": "Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Chè lam Phủ Quảng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè lam Phủ Quảng gắn với Thanh Hóa.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bột nếp rang",
+          "Mạch nha",
+          "Đường",
+          "Gừng",
+          "Lạc."
+        ],
+        "preparation": "Mạch nha và đường nấu, trộn bột nếp rang, gừng và lạc, cán thành bánh.",
+        "characteristics": "Dẻo, thơm gừng và lạc; độ cứng tùy cách nấu.",
+        "culturalContext": "Món bánh truyền thống dùng trong tiếp khách và làm quà.",
+        "recognition": "Đặc sản địa phương; công thức có nhiều biến thể.",
+        "sourceIds": [
+          "src-292"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-thai-thanh-hoa",
+          "name": "Cộng đồng Thái",
+          "originArea": "Các vùng miền núi Thanh Hóa, đặc biệt Pù Luông và miền tây.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Cộng đồng Thái có nhà sàn, trang phục, lễ tục, múa xòe và các hình thức dân ca; thực hành khác nhau theo địa phương.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        },
+        {
+          "id": "cong-dong-muong-thanh-hoa",
+          "name": "Cộng đồng Mường",
+          "originArea": "Các vùng miền núi Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Cộng đồng Mường có ngôn ngữ, mo, lễ tục, nhà ở và diễn xướng riêng; cần gắn từng nội dung với địa bàn và chủ thể.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-thanh-hoa",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Đồng bằng, đô thị và ven biển Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Cộng đồng Kinh với truyền thống làng xã, nông nghiệp, nghề biển, tín ngưỡng và lễ hội lịch sử.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "sinh-hoat-van-hoa-lang-xa-thanh-hoa",
+          "name": "Sinh hoạt văn hóa làng xã",
+          "originArea": "Các cộng đồng Kinh, Mường, Thái ở Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Không gian đình, đền, dòng họ, lễ tiết nông nghiệp và sinh hoạt cộng đồng có biến thể theo vùng.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-lam-kinh",
+          "name": "Lễ hội Lam Kinh",
+          "originArea": "Khu di tích Lam Kinh, Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Lễ hội tưởng niệm các vua Lê và nghĩa quân Lam Sơn, gắn với nghi lễ và diễn xướng lịch sử.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "timeAndLocation": "Khu di tích Lam Kinh; lịch tổ chức theo kế hoạch hằng năm.",
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        },
+        {
+          "id": "le-hoi-den-ba-trieu",
+          "name": "Lễ hội đền Bà Triệu",
+          "originArea": "Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Lễ hội tưởng niệm Bà Triệu, nhân vật lịch sử thế kỷ III; hoạt động cụ thể theo chương trình địa phương.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "timeAndLocation": "Khu di tích đền Bà Triệu; thời gian theo lịch lễ hội địa phương.",
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        },
+        {
+          "id": "le-hoi-pu-luong",
+          "name": "Lễ hội và sinh hoạt văn hóa cộng đồng Pù Luông",
+          "originArea": "Các bản Thái, Mường tại vùng Pù Luông.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Các hoạt động cộng đồng gắn với mùa vụ, văn nghệ và du lịch cộng đồng; không coi là một lễ hội thống nhất toàn khu khi thiếu hồ sơ.",
+          "sourceIds": [
+            "src-288",
+            "src-290"
+          ],
+          "timeAndLocation": "Tùy bản và lịch sinh hoạt cộng đồng.",
+          "originUnitIds": []
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-thai-thanh-hoa",
+          "name": "Trang phục truyền thống Thái",
+          "originArea": "Cộng đồng Thái miền núi Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Trang phục, hoa văn và cách mặc khác nhau theo nhóm địa phương, giới tính và dịp sử dụng.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        },
+        {
+          "id": "trang-phuc-muong-thanh-hoa",
+          "name": "Trang phục truyền thống Mường",
+          "originArea": "Cộng đồng Mường Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Trang phục nữ Mường, khăn, váy, thắt lưng và hoa văn có sự khác biệt theo vùng; cần dùng tư liệu của cộng đồng chủ thể.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "nha-san-pu-luong",
+          "name": "Nhà sàn và bản làng Pù Luông",
+          "originArea": "Cộng đồng Thái và Mường tại Pù Luông.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Nhà sàn, ruộng bậc thang, guồng nước và cảnh quan bản làng tạo nên không gian cư trú – canh tác miền núi.",
+          "sourceIds": [
+            "src-290"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-thanh-nha-ho",
+          "name": "Kiến trúc thành đá thời Hồ",
+          "originArea": "Vĩnh Lộc, Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Thành lũy xây bằng khối đá lớn, kết hợp cấu trúc phòng thủ, quy hoạch đô thị và cảnh quan vùng núi.",
+          "sourceIds": [
+            "src-289"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-tho-ba-trieu",
+          "name": "Tín ngưỡng thờ Bà Triệu",
+          "originArea": "Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Thực hành tưởng niệm và thờ Bà Triệu trong các không gian di tích, gắn với ký ức lịch sử địa phương.",
+          "sourceIds": [
+            "src-288"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "thanh-nha-ho-unesco",
+          "name": "Thành nhà Hồ",
+          "originArea": "Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Di sản văn hóa thế giới được UNESCO ghi danh năm 2011.",
+          "sourceIds": [
+            "src-289"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        },
+        {
+          "id": "ho-song-ma",
+          "name": "Hò sông Mã",
+          "originArea": "Cư dân vùng sông Mã, Thanh Hóa.",
+          "currentProvinceId": "thanh-hoa",
+          "description": "Dân ca gắn với lao động sông nước, chèo thuyền và sinh hoạt cộng đồng; có hình thức và làn điệu cụ thể theo nhóm thực hành.",
+          "sourceIds": [
+            "src-291"
+          ],
+          "originUnitIds": [
+            "thanh-hoa"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "ho-song-ma-art",
+        "name": "Hò sông Mã",
+        "category": "Dân ca; hò lao động",
+        "image": {
+          "file": null,
+          "alt": "Hò sông Mã – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cư dân vùng sông Mã, Thanh Hóa.",
+        "origin": null,
+        "originArea": "Cư dân vùng sông Mã, Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "characteristics": "Lời hò có nhịp điệu gắn với chèo thuyền, lao động và sinh hoạt trên sông.",
+        "instrumentsOrPerformance": "Hát theo nhịp chèo hoặc hình thức trình diễn sân khấu hóa, tùy cộng đồng và nghệ nhân.",
+        "culturalValue": "Lưu giữ tri thức sông nước và ký ức lao động.",
+        "recognition": null,
+        "sourceIds": [
+          "src-291"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "tro-xuan-pha",
+        "name": "Trò Xuân Phả",
+        "category": "Diễn xướng dân gian; trò diễn lễ hội",
+        "image": {
+          "file": null,
+          "alt": "Trò Xuân Phả – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Xuân Trường, Thanh Hóa.",
+        "origin": null,
+        "originArea": "Xuân Trường, Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "characteristics": "Trò diễn dân gian có hệ thống nhân vật, mặt nạ, trang phục và động tác, gắn với lễ hội địa phương.",
+        "instrumentsOrPerformance": "Các phường trò trình diễn trong không gian lễ hội; hình thức và số trò theo hồ sơ thực hành.",
+        "culturalValue": "Giữ ký ức cộng đồng, quan hệ giao lưu và nghệ thuật diễn xướng dân gian.",
+        "recognition": "Có kiểm kê/ghi danh di sản văn hóa phi vật thể cấp quốc gia; cần đối chiếu quyết định cụ thể khi trích dẫn.",
+        "sourceIds": [
+          "src-288",
+          "src-294"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "dan-ca-dong-anh",
+        "name": "Dân ca Đông Anh",
+        "category": "Dân ca; diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Dân ca Đông Anh – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các địa bàn văn hóa dân gian Thanh Hóa.",
+        "origin": null,
+        "originArea": "Các địa bàn văn hóa dân gian Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "characteristics": "Một số làn điệu dân ca gắn với hội làng và sinh hoạt cộng đồng.",
+        "instrumentsOrPerformance": "Trình diễn hát đối, hát giao duyên hoặc trong các sinh hoạt văn nghệ dân gian theo từng nhóm.",
+        "culturalValue": "Lưu giữ ngôn ngữ và tập quán văn nghệ địa phương.",
+        "recognition": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      },
+      {
+        "id": "hat-khap-thai-thanh-hoa",
+        "name": "Khắp Thái",
+        "category": "Dân ca; hát truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Khắp Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Thái miền núi Thanh Hóa.",
+        "origin": null,
+        "originArea": "Cộng đồng Thái miền núi Thanh Hóa.",
+        "currentProvinceId": "thanh-hoa",
+        "characteristics": "Lời ca truyền thống bằng tiếng Thái, có thể gắn với nghi lễ, giao duyên và sinh hoạt cộng đồng.",
+        "instrumentsOrPerformance": "Hát đơn ca/đối đáp, đôi khi kết hợp nhạc cụ truyền thống.",
+        "culturalValue": "Gắn kết cộng đồng và truyền dạy ngôn ngữ, văn hóa Thái.",
+        "recognition": null,
+        "sourceIds": [
+          "src-288"
+        ],
+        "originUnitIds": [
+          "thanh-hoa"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Thanh Hóa giữ nguyên cấp tỉnh; năm 2025 sắp xếp cấp xã còn 166 đơn vị (147 xã, 19 phường).",
+      "Diện tích 11.114,71 km²; quy mô dân số 4.320.947 theo phương án sắp xếp cấp xã năm 2025, không phải số dân điều tra cuối 2026.",
+      "Mã tỉnh 38; biển số 36.",
+      "Trung tâm hành chính để null; địa chỉ cấp xã, tọa độ và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-260",
+      "src-286",
+      "src-287",
+      "src-262",
+      "src-288",
+      "src-289",
+      "src-290",
+      "src-291",
+      "src-292",
+      "src-293",
+      "src-294"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "thanh-hoa",
+      "name": "Thanh Hóa"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "id": "quang-tri",
+  "name": "Tỉnh Quảng Trị",
+  "administrativeType": "Tỉnh",
+  "region": "Bắc Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Quảng Trị – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Quảng Trị mới hình thành từ Quảng Bình và Quảng Trị cũ, nối liền dải di sản thiên nhiên Phong Nha – Kẻ Bàng với các di tích giới tuyến, địa đạo, nghĩa trang và văn hóa làng biển – Trường Sơn. Hò khoan Lệ Thủy, Hiền Lương – Bến Hải và cà phê Khe Sanh là những nội dung tiêu biểu.",
+    "featuredDestinationIds": [
+      "vuon-quoc-gia-phong-nha-ke-bang",
+      "hien-luong-ben-hai"
+    ],
+    "featuredSpecialtyIds": [
+      "khoai-deo-quang-binh",
+      "ca-phe-khe-sanh"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Quảng Trị",
+      "administrativeCode": "44",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "73",
+        "74"
+      ],
+      "areaKm2": 12700,
+      "areaYear": 2025,
+      "population": {
+        "value": 1870845,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh Bắc Trung Bộ hình thành từ Quảng Bình và Quảng Trị cũ; giáp Hà Tĩnh, thành phố Huế, Lào và Biển Đông.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình từ dãy Trường Sơn, núi đá vôi, rừng nguyên sinh, đồng bằng ven sông đến bờ biển và đảo Cồn Cỏ.",
+      "climate": null,
+      "history": "Tỉnh mới hình thành từ toàn bộ Quảng Bình và Quảng Trị cũ, chính quyền mới hoạt động từ 01/07/2025. Vùng phía bắc gắn với Phong Nha – Kẻ Bàng và các di sản Quảng Bình; vùng phía nam gắn với giới tuyến Hiền Lương – Bến Hải, Thành cổ Quảng Trị và các nghĩa trang liệt sĩ.",
+      "description": "Quảng Trị nối di sản thiên nhiên thế giới Phong Nha – Kẻ Bàng với các địa chỉ đỏ của lịch sử hiện đại, văn hóa miền núi Trường Sơn, làng biển và các truyền thống diễn xướng dân gian.",
+      "sourceIds": [
+        "src-226",
+        "src-227",
+        "src-231",
+        "src-234",
+        "src-253",
+        "src-254",
+        "src-255",
+        "src-256",
+        "src-257",
+        "src-258",
+        "src-259"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "vuon-quoc-gia-phong-nha-ke-bang",
+        "name": "Vườn quốc gia Phong Nha – Kẻ Bàng",
+        "category": "Di sản thiên nhiên thế giới; vườn quốc gia",
+        "originArea": "Quảng Bình cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Phong Nha – Kẻ Bàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Phong Nha – Kẻ Bàng, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Vùng núi đá vôi karst với hệ thống hang động, sông ngầm, rừng và sinh cảnh đa dạng.",
+        "fullDescription": "Phong Nha – Kẻ Bàng là di sản thiên nhiên thế giới, có hệ thống hang động và địa hình karst nổi bật. Năm 2025, UNESCO phê duyệt mở rộng di sản xuyên biên giới với Vườn quốc gia Hin Nam Nô của Lào.",
+        "highlights": "Động Phong Nha; động Thiên Đường; sông Son; hệ thống hang động.",
+        "historicalCulturalValue": "Giá trị địa chất, địa mạo, đa dạng sinh học và nghiên cứu khoa học.",
+        "recognition": "Di sản thiên nhiên thế giới UNESCO; mở rộng liên biên giới với Hin Nam Nô năm 2025.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-254",
+          "src-253"
+        ],
+        "originUnitIds": [
+          "quang-binh"
+        ]
+      },
+      {
+        "id": "thanh-co-quang-tri",
+        "name": "Thành cổ Quảng Trị",
+        "category": "Di tích lịch sử; tưởng niệm",
+        "originArea": "Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Thành cổ Quảng Trị – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Thành cổ Quảng Trị, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Di tích thành lũy gắn với cuộc chiến đấu 81 ngày đêm mùa hè năm 1972.",
+        "fullDescription": "Thành cổ là không gian tưởng niệm các chiến sĩ và người dân đã hy sinh; nội dung thuyết minh cần thể hiện đúng bối cảnh, tránh mô tả sai mốc lịch sử.",
+        "highlights": "Tường thành; tháp chuông; khu tưởng niệm; dòng sông Thạch Hãn.",
+        "historicalCulturalValue": "Giá trị lịch sử, tưởng niệm và giáo dục hòa bình.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      },
+      {
+        "id": "dia-dao-vinh-moc",
+        "name": "Địa đạo Vịnh Mốc",
+        "category": "Di tích lịch sử; công trình quân sự",
+        "originArea": "Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Địa đạo Vịnh Mốc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Vĩnh Mốc, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Hệ thống địa đạo dưới lòng đất được xây dựng trong chiến tranh, là nơi sinh sống, trú ẩn và tổ chức đời sống cộng đồng.",
+        "fullDescription": "Địa đạo gồm nhiều tầng, ngách và không gian sinh hoạt; việc tham quan cần theo hướng dẫn an toàn của đơn vị quản lý.",
+        "highlights": "Các tầng địa đạo; giếng; hội trường; khu sinh hoạt.",
+        "historicalCulturalValue": "Giá trị lịch sử, kiến trúc quân sự và sức chịu đựng của cộng đồng dân cư.",
+        "recognition": "Di tích lịch sử quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      },
+      {
+        "id": "hien-luong-ben-hai",
+        "name": "Di tích đôi bờ Hiền Lương – Bến Hải",
+        "category": "Di tích lịch sử; ký ức phân chia đất nước",
+        "originArea": "Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Di tích đôi bờ Hiền Lương – Bến Hải – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực cầu Hiền Lương và sông Bến Hải, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Không gian gắn với giới tuyến quân sự tạm thời sau Hiệp định Genève 1954 và hành trình thống nhất đất nước.",
+        "fullDescription": "Cầu Hiền Lương, sông Bến Hải, cột cờ và các công trình trưng bày tạo thành không gian di tích; địa danh được dùng để kể lại giai đoạn đất nước bị chia cắt.",
+        "highlights": "Cầu Hiền Lương; sông Bến Hải; cột cờ giới tuyến; nhà trưng bày.",
+        "historicalCulturalValue": "Giá trị lịch sử, ký ức và biểu tượng hòa bình – thống nhất.",
+        "recognition": "Di tích quốc gia đặc biệt; cần ghi đúng quyết định xếp hạng khi công bố.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-256",
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      },
+      {
+        "id": "nghia-trang-liet-si-truong-son",
+        "name": "Nghĩa trang liệt sĩ Trường Sơn",
+        "category": "Di tích tưởng niệm; lịch sử",
+        "originArea": "Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Nghĩa trang liệt sĩ Trường Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Trường Sơn, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Nơi yên nghỉ và tưởng niệm các liệt sĩ hy sinh trên tuyến đường Trường Sơn trong chiến tranh.",
+        "fullDescription": "Nghĩa trang được xây dựng trên khu đồi Bến Tắt; đây là không gian tưởng niệm quy mô lớn, cần giới thiệu bằng ngôn ngữ trang trọng và chính xác.",
+        "highlights": "Các khu mộ; đài tưởng niệm; nhà tưởng niệm.",
+        "historicalCulturalValue": "Giá trị tưởng niệm, lịch sử và giáo dục truyền thống.",
+        "recognition": "Di tích lịch sử quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      },
+      {
+        "id": "dac-khu-con-co",
+        "name": "Đặc khu Cồn Cỏ",
+        "category": "Đảo; bảo tồn biển; lịch sử",
+        "originArea": "Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Đặc khu Cồn Cỏ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Cồn Cỏ, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Đảo tiền tiêu ngoài khơi với rừng tự nhiên, bãi đá, hệ sinh thái biển và dấu tích lịch sử.",
+        "fullDescription": "Cồn Cỏ có giá trị sinh thái và lịch sử; hoạt động du lịch, tuyến tàu và quy định bảo tồn cần được kiểm tra trực tiếp với địa phương.",
+        "highlights": "Rừng nguyên sinh; bãi đá; điểm tưởng niệm; vùng biển.",
+        "historicalCulturalValue": "Giá trị chiến lược, lịch sử và bảo tồn hệ sinh thái biển đảo.",
+        "recognition": "Đặc khu hành chính; khu vực có giá trị bảo tồn biển.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      },
+      {
+        "id": "hang-tam-co",
+        "name": "Di tích Hang Tám Cô",
+        "category": "Di tích lịch sử; tưởng niệm",
+        "originArea": "Quảng Bình cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Di tích Hang Tám Cô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực đường 20 Quyết Thắng, tỉnh Quảng Trị.",
+        "coordinates": null,
+        "shortDescription": "Địa điểm tưởng niệm tám thanh niên xung phong hy sinh trong chiến tranh tại đường 20 Quyết Thắng.",
+        "fullDescription": "Hang và khu tưởng niệm gắn với câu chuyện lịch sử của lực lượng thanh niên xung phong; cần trình bày tên gọi, thời gian và sự kiện theo hồ sơ di tích.",
+        "highlights": "Hang đá; bia tưởng niệm; tuyến đường 20 Quyết Thắng.",
+        "historicalCulturalValue": "Giá trị lịch sử và tưởng niệm.",
+        "recognition": "Di tích lịch sử; cấp xếp hạng cụ thể cần đối chiếu hồ sơ gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-binh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "khoai-deo-quang-binh",
+        "name": "Khoai deo Quảng Bình",
+        "category": "Nông sản chế biến; món ăn vặt",
+        "originArea": "Quảng Bình cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Khoai deo Quảng Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Khoai deo Quảng Bình gắn với Quảng Bình cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Khoai lang địa phương."
+        ],
+        "preparation": "Khoai lang được luộc, thái lát và phơi/sấy nhiều nắng đến khi dẻo.",
+        "characteristics": "Dẻo, ngọt tự nhiên, màu vàng nâu tùy giống khoai và cách phơi.",
+        "culturalContext": "Gắn với tập quán chế biến và bảo quản nông sản vùng cát và đồng bằng Quảng Bình cũ.",
+        "recognition": "Đặc sản địa phương; tên gọi và chất lượng phụ thuộc nguyên liệu, cơ sở.",
+        "sourceIds": [
+          "src-257"
+        ],
+        "originUnitIds": [
+          "quang-binh"
+        ]
+      },
+      {
+        "id": "banh-bot-loc-quang-binh",
+        "name": "Bánh bột lọc",
+        "category": "Món ăn; bánh truyền thống",
+        "originArea": "Quảng Bình cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Bánh bột lọc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh bột lọc gắn với Quảng Bình cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Bột năng/sắn",
+          "Tôm",
+          "Thịt lợn",
+          "Lá gói tùy loại."
+        ],
+        "preparation": "Bột được nhồi, bọc nhân tôm thịt và hấp hoặc luộc; có loại gói lá và loại trần.",
+        "characteristics": "Vỏ trong, dai; nhân tôm thịt đậm vị.",
+        "culturalContext": "Gắn với ẩm thực miền Trung và bữa ăn gia đình, hàng quán địa phương.",
+        "recognition": "Món ăn phổ biến ở nhiều tỉnh miền Trung; ghi nhận mối liên hệ vùng Quảng Bình cũ, không khẳng định độc quyền.",
+        "sourceIds": [
+          "src-257"
+        ],
+        "originUnitIds": [
+          "quang-binh"
+        ]
+      },
+      {
+        "id": "chao-canh-quang-binh",
+        "name": "Cháo canh Quảng Bình",
+        "category": "Món ăn; mì/bánh canh",
+        "originArea": "Quảng Bình cũ.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Cháo canh Quảng Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cháo canh Quảng Bình gắn với Quảng Bình cũ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Sợi bột mì hoặc bột gạo",
+          "Cá, tôm, thịt hoặc xương tùy phiên bản."
+        ],
+        "preparation": "Sợi được nấu trong nước dùng, thêm nguyên liệu và gia vị; công thức khác nhau theo vùng và quán.",
+        "characteristics": "Nước dùng đậm, sợi mềm dai; thường có hành và rau thơm.",
+        "culturalContext": "Món ăn sáng phổ biến trong đời sống đô thị và nông thôn vùng Quảng Bình cũ.",
+        "recognition": "Món ăn địa phương có biến thể.",
+        "sourceIds": [
+          "src-257"
+        ],
+        "originUnitIds": [
+          "quang-binh"
+        ]
+      },
+      {
+        "id": "ca-phe-khe-sanh",
+        "name": "Cà phê Khe Sanh",
+        "category": "Nông sản; đồ uống",
+        "originArea": "Quảng Trị cũ – vùng Khe Sanh, Hướng Hóa.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Cà phê Khe Sanh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cà phê Khe Sanh gắn với Quảng Trị cũ – vùng Khe Sanh, Hướng Hóa.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Hạt cà phê Arabica/Robusta theo vùng trồng và cơ sở."
+        ],
+        "preparation": "Trồng ở vùng cao, sơ chế, rang xay theo quy trình của cơ sở; truy xuất nguồn gốc theo lô.",
+        "characteristics": "Hương vị tùy giống, độ cao và phương pháp sơ chế; không mô tả một hương vị cố định cho mọi sản phẩm.",
+        "culturalContext": "Gắn với vùng cao Khe Sanh và sinh kế nông nghiệp của cư dân địa phương.",
+        "recognition": "Có thông tin bảo hộ chỉ dẫn địa lý; phạm vi phải kiểm tra theo văn bằng của Cục Sở hữu trí tuệ.",
+        "sourceIds": [
+          "src-259"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      },
+      {
+        "id": "nuoc-mam-cua-viet",
+        "name": "Nước mắm vùng Cửa Việt",
+        "category": "Sản phẩm chế biến; thủy sản",
+        "originArea": "Quảng Trị cũ – vùng biển Cửa Việt.",
+        "currentProvinceId": "quang-tri",
+        "image": {
+          "file": null,
+          "alt": "Nước mắm vùng Cửa Việt – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nước mắm vùng Cửa Việt gắn với Quảng Trị cũ – vùng biển Cửa Việt.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Cá biển",
+          "Muối."
+        ],
+        "preparation": "Cá và muối được ủ chượp, kéo rút và lọc theo phương pháp của cơ sở.",
+        "characteristics": "Màu, độ đạm và hương vị phụ thuộc nguyên liệu và kỹ thuật chế biến.",
+        "culturalContext": "Gắn với nghề khai thác và chế biến hải sản ven biển Quảng Trị cũ.",
+        "recognition": "Sản phẩm vùng; chưa gán chỉ dẫn địa lý hoặc OCOP do chưa xác minh hồ sơ sản phẩm cụ thể.",
+        "sourceIds": [
+          "src-257"
+        ],
+        "originUnitIds": [
+          "quang-tri"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-bru-van-kieu",
+          "name": "Cộng đồng Bru – Vân Kiều",
+          "originArea": "Quảng Trị cũ – miền núi Trường Sơn.",
+          "currentProvinceId": "quang-tri",
+          "description": "Cộng đồng có ngôn ngữ, lễ tục, tri thức rừng và văn hóa âm nhạc riêng; cần phân biệt nhóm Bru, Vân Kiều và các tên gọi địa phương theo cách tự nhận của cộng đồng.",
+          "sourceIds": [
+            "src-255"
+          ],
+          "originUnitIds": [
+            "quang-tri"
+          ]
+        },
+        {
+          "id": "cong-dong-chut",
+          "name": "Cộng đồng Chứt",
+          "originArea": "Quảng Bình cũ – khu vực miền núi phía tây.",
+          "currentProvinceId": "quang-tri",
+          "description": "Các nhóm thuộc dân tộc Chứt có lịch sử cư trú và tập quán riêng; thông tin cần dựa vào nguồn dân tộc học và thống kê chính thức.",
+          "sourceIds": [
+            "src-255"
+          ],
+          "originUnitIds": [
+            "quang-binh"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-quang-tri",
+          "name": "Cộng đồng Kinh vùng đồng bằng và ven biển",
+          "originArea": "Quảng Bình cũ và Quảng Trị cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Cộng đồng Kinh với tập quán làng xã, nghề biển, nông nghiệp và các lễ hội lịch sử – tín ngưỡng ở vùng đồng bằng và ven biển.",
+          "sourceIds": [
+            "src-255",
+            "src-253"
+          ],
+          "originUnitIds": [
+            "quang-tri",
+            "quang-binh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "ho-khoan-le-thuy",
+          "name": "Thực hành Hò khoan Lệ Thủy",
+          "originArea": "Quảng Bình cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Hò khoan gắn với sinh hoạt và lao động cộng đồng; các làn điệu, câu hò và hình thức diễn xướng được truyền dạy qua nghệ nhân và câu lạc bộ.",
+          "sourceIds": [
+            "src-258"
+          ],
+          "originUnitIds": [
+            "quang-binh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-boi-chai-kien-giang",
+          "name": "Lễ hội đua, bơi thuyền trên sông Kiến Giang",
+          "originArea": "Quảng Bình cũ – Lệ Thủy.",
+          "currentProvinceId": "quang-tri",
+          "description": "Lễ hội gắn với sinh hoạt cộng đồng và truyền thống đua thuyền trên sông; hoạt động tổ chức có thể thay đổi theo năm.",
+          "sourceIds": [
+            "src-258"
+          ],
+          "timeAndLocation": "Sông Kiến Giang, khu vực Lệ Thủy; lịch tổ chức theo thông báo địa phương.",
+          "originUnitIds": [
+            "quang-binh"
+          ]
+        },
+        {
+          "id": "le-hoi-thong-nhat-hien-luong",
+          "name": "Hoạt động tưởng niệm và lễ hội tại Hiền Lương – Bến Hải",
+          "originArea": "Quảng Trị cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Các hoạt động kỷ niệm, tưởng niệm gắn với ngày thống nhất đất nước và ký ức giới tuyến.",
+          "sourceIds": [
+            "src-256"
+          ],
+          "timeAndLocation": "Khu di tích đôi bờ Hiền Lương – Bến Hải; thời gian theo chương trình hằng năm.",
+          "originUnitIds": [
+            "quang-tri"
+          ]
+        },
+        {
+          "id": "le-hoi-la-vang",
+          "name": "Hành hương và lễ hội La Vang",
+          "originArea": "Quảng Trị cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Không gian hành hương Công giáo lớn ở miền Trung, có sinh hoạt tôn giáo và cộng đồng hành hương.",
+          "sourceIds": [
+            "src-255"
+          ],
+          "timeAndLocation": "Trung tâm hành hương La Vang; sự kiện lớn theo lịch Công giáo và thông báo của giáo hội.",
+          "originUnitIds": [
+            "quang-tri"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-bru-van-kieu-chut",
+          "name": "Trang phục Bru – Vân Kiều và Chứt",
+          "originArea": "Cộng đồng miền núi thuộc Quảng Bình cũ và Quảng Trị cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Trang phục dệt, hoa văn và vật liệu có biến thể theo cộng đồng, lứa tuổi và nghi lễ; cần tư liệu hiện vật và lời kể của chủ thể.",
+          "sourceIds": [
+            "src-255"
+          ],
+          "originUnitIds": [
+            "quang-tri",
+            "quang-binh"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-lang-ban-truong-son",
+          "name": "Không gian làng bản Trường Sơn",
+          "originArea": "Vùng miền núi thuộc hai tỉnh tiền thân.",
+          "currentProvinceId": "quang-tri",
+          "description": "Nhà ở, nương rẫy, không gian rừng và đường giao lưu bản làng phản ánh thích nghi với địa hình miền núi và sinh kế cộng đồng.",
+          "sourceIds": [
+            "src-255"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "lang-ham-va-di-tich-chien-tranh",
+          "name": "Không gian địa đạo và di tích chiến tranh",
+          "originArea": "Quảng Trị cũ và Quảng Bình cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Địa đạo, hầm trú ẩn, cầu và các công trình tưởng niệm là lớp kiến trúc – ký ức đặc biệt trong lịch sử chiến tranh hiện đại.",
+          "sourceIds": [
+            "src-255",
+            "src-256"
+          ],
+          "originUnitIds": [
+            "quang-tri",
+            "quang-binh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-tho-cung-nguoi-di-bien",
+          "name": "Tập quán thờ cúng tổ tiên và người đi biển",
+          "originArea": "Cộng đồng cư dân ven biển hai vùng tiền thân.",
+          "currentProvinceId": "quang-tri",
+          "description": "Nghi lễ thờ tổ tiên, cầu an và tưởng niệm người đi biển có các biến thể theo làng, dòng họ và tôn giáo.",
+          "sourceIds": [
+            "src-253",
+            "src-255"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "ho-khoan-le-thuy-di-san",
+          "name": "Hò khoan Lệ Thủy",
+          "originArea": "Quảng Bình cũ.",
+          "currentProvinceId": "quang-tri",
+          "description": "Di sản văn hóa phi vật thể gắn với cộng đồng Lệ Thủy; nội dung, loại hình và tình trạng ghi danh cần dùng đúng hồ sơ của cơ quan văn hóa.",
+          "sourceIds": [
+            "src-258"
+          ],
+          "originUnitIds": [
+            "quang-binh"
+          ]
+        },
+        {
+          "id": "phong-nha-ke-bang-di-san",
+          "name": "Vườn quốc gia Phong Nha – Kẻ Bàng",
+          "originArea": "Quảng Bình cũ và phạm vi di sản xuyên biên giới với Hin Nam Nô, Lào.",
+          "currentProvinceId": "quang-tri",
+          "description": "Di sản thiên nhiên thế giới có mở rộng ranh giới năm 2025; cần nêu đúng phạm vi và các tiêu chí di sản.",
+          "sourceIds": [
+            "src-254"
+          ],
+          "originUnitIds": [
+            "quang-binh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "ho-khoan-le-thuy",
+        "name": "Hò khoan Lệ Thủy",
+        "category": "Dân ca; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Hò khoan Lệ Thủy – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Quảng Bình cũ – huyện Lệ Thủy trước đây.",
+        "origin": null,
+        "originArea": "Quảng Bình cũ – huyện Lệ Thủy trước đây.",
+        "currentProvinceId": "quang-tri",
+        "characteristics": "Có nhiều làn điệu, câu hò và cách hát đối đáp gắn với lao động và sinh hoạt cộng đồng.",
+        "instrumentsOrPerformance": "Hát tập thể hoặc đối đáp; tiết tấu và lời ca thay đổi theo làn điệu, dịp và chủ thể trình diễn.",
+        "culturalValue": "Lưu giữ lời ăn tiếng nói, tình cảm và ký ức cộng đồng vùng Lệ Thủy.",
+        "recognition": "Di sản văn hóa phi vật thể; cấp ghi danh và hồ sơ cụ thể cần đối chiếu nguồn quản lý di sản.",
+        "sourceIds": [
+          "src-258"
+        ],
+        "originUnitIds": [
+          "quang-binh"
+        ]
+      },
+      {
+        "id": "bai-choi-quang-tri",
+        "name": "Nghệ thuật Bài chòi Trung Bộ",
+        "category": "Diễn xướng dân gian; âm nhạc",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật Bài chòi Trung Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các vùng duyên hải Quảng Bình cũ và Quảng Trị cũ.",
+        "origin": null,
+        "originArea": "Các vùng duyên hải Quảng Bình cũ và Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "characteristics": "Bài chòi kết hợp hô hát, thơ ca, diễn xuất và trò chơi; hình thức thay đổi theo cộng đồng và dịp hội.",
+        "instrumentsOrPerformance": "Người hô hiệu diễn xướng các câu thai; người chơi tham gia trong không gian hội.",
+        "culturalValue": "Tạo sinh hoạt văn hóa cộng đồng và lưu truyền ngôn ngữ địa phương.",
+        "recognition": "Nghệ thuật Bài chòi Trung Bộ được UNESCO ghi danh năm 2017; phạm vi liên tỉnh.",
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri",
+          "quang-binh"
+        ]
+      },
+      {
+        "id": "dan-ca-van-dong-ven-bien-quang-tri",
+        "name": "Dân ca và hò lao động vùng ven biển",
+        "category": "Dân ca; diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Dân ca và hò lao động vùng ven biển – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cư dân ven biển Quảng Bình cũ và Quảng Trị cũ.",
+        "origin": null,
+        "originArea": "Cư dân ven biển Quảng Bình cũ và Quảng Trị cũ.",
+        "currentProvinceId": "quang-tri",
+        "characteristics": "Các điệu hò gắn với kéo lưới, chèo thuyền, sinh hoạt làng và lao động; bài bản tùy địa phương.",
+        "instrumentsOrPerformance": "Hát tập thể, đối đáp hoặc theo nhịp lao động; chưa gộp thành một loại hình di sản thống nhất nếu thiếu hồ sơ.",
+        "culturalValue": "Lưu giữ tri thức nghề biển và tình cảm cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-255"
+        ],
+        "originUnitIds": [
+          "quang-tri",
+          "quang-binh"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Quảng Bình + Quảng Trị; chính quyền mới hoạt động từ 01/07/2025.",
+      "Diện tích 12.700 km²; quy mô dân số 1.870.845 người theo Nghị quyết 202/2025/QH15.",
+      "Mã cấp tỉnh 44; 78 đơn vị cấp xã theo Nghị quyết 1680/2025, gồm 69 xã, 8 phường và 1 đặc khu; biển số 73, 74.",
+      "Phong Nha – Kẻ Bàng thuộc Quảng Bình cũ; Hiền Lương – Bến Hải và Thành cổ Quảng Trị thuộc Quảng Trị cũ.",
+      "Trung tâm hành chính, địa chỉ xã/phường, tọa độ và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-226",
+      "src-227",
+      "src-231",
+      "src-234",
+      "src-253",
+      "src-254",
+      "src-255",
+      "src-256",
+      "src-257",
+      "src-258",
+      "src-259"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "quang-tri",
+      "name": "Quảng Trị"
+    },
+    {
+      "id": "quang-binh",
+      "name": "Quảng Bình"
+    }
+  ]
+}

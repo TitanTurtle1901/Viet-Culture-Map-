@@ -1,0 +1,736 @@
+{
+  "id": "dong-nai",
+  "name": "Thành phố Đồng Nai",
+  "administrativeType": "Thành phố trực thuộc Trung ương",
+  "region": "Đông Nam Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Đồng Nai – ảnh đại diện; quyền sử dụng chưa xác minh.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Thành phố Đồng Nai là đơn vị hành chính cấp tỉnh trực thuộc Trung ương, kế thừa toàn bộ địa bàn Đồng Nai và Bình Phước trước đây. Không gian văn hóa mới nối vùng đô thị – công nghiệp và sông Đồng Nai với rừng, hồ, văn hóa S’tiêng, M’nông, Chơ-ro và các di sản của vùng Bình Phước cũ.",
+    "featuredDestinationIds": [
+      "vuon-quoc-gia-cat-tien",
+      "vuon-quoc-gia-bu-gia-map"
+    ],
+    "featuredSpecialtyIds": [
+      "hat-dieu-binh-phuoc",
+      "buoi-tan-trieu"
+    ],
+    "sourceIds": [
+      "src-150",
+      "src-151",
+      "src-152",
+      "src-158",
+      "src-136",
+      "src-135"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Đồng Nai",
+      "administrativeCode": "75",
+      "administrativeCenter": "Phường Trấn Biên",
+      "vehiclePlateCodes": [
+        "39",
+        "60",
+        "93"
+      ],
+      "areaKm2": 12737.18,
+      "areaYear": 2025,
+      "population": {
+        "value": 4491408,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": null,
+      "boundaries": [
+        "Phía bắc giáp Campuchia và các tỉnh Tây Nguyên.",
+        "Phía đông giáp tỉnh Lâm Đồng.",
+        "Phía nam giáp Thành phố Hồ Chí Minh.",
+        "Phía tây giáp tỉnh Tây Ninh."
+      ],
+      "naturalFeatures": "Không gian tự nhiên bao gồm hệ sinh thái rừng, hồ chứa, lưu vực sông Đồng Nai, vùng đất đỏ bazan và các địa bàn đồi núi phía bắc. Khu dự trữ sinh quyển Đồng Nai là một bộ phận quan trọng của mạng lưới bảo tồn sinh thái.",
+      "climate": null,
+      "history": "Địa bàn Đồng Nai cũ gắn với lịch sử khai phá vùng Đông Nam Bộ, thương cảng Biên Hòa, cộng đồng Chơ-ro và lịch sử công nghiệp – đô thị. Địa bàn Bình Phước cũ gắn với lịch sử các cộng đồng S’tiêng, M’nông, các đồn điền cao su, phong trào kháng chiến và văn hóa vùng biên. Hai địa phương hợp nhất năm 2025; đơn vị mới trở thành thành phố trực thuộc Trung ương năm 2026.",
+      "description": "Thành phố Đồng Nai là đơn vị hành chính cấp tỉnh trực thuộc Trung ương, kế thừa toàn bộ địa bàn Đồng Nai và Bình Phước trước đây. Không gian văn hóa mới nối vùng đô thị – công nghiệp và sông Đồng Nai với rừng, hồ, văn hóa S’tiêng, M’nông, Chơ-ro và các di sản của vùng Bình Phước cũ.",
+      "sourceIds": [
+        "src-135",
+        "src-136",
+        "src-150",
+        "src-151",
+        "src-152",
+        "src-158",
+        "src-330",
+        "src-333",
+        "src-334"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "vuon-quoc-gia-cat-tien",
+        "name": "Vườn quốc gia Cát Tiên",
+        "category": "Vườn quốc gia; Khu dự trữ sinh quyển",
+        "originArea": "Đồng Nai cũ và các vùng giáp ranh sinh thái.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Cát Tiên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tân Phú và các xã lân cận của thành phố Đồng Nai; cần tra địa chỉ cụ thể theo ranh giới hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Khu bảo tồn rừng nhiệt đới có đa dạng sinh học cao ở miền Đông Nam Bộ.",
+        "fullDescription": "Cát Tiên bảo tồn hệ sinh thái rừng, đất ngập nước và nhiều loài động thực vật. Đây là một phần quan trọng của Khu dự trữ sinh quyển Đồng Nai; các phân khu và tuyến thăm quan cần kiểm tra theo ban quản lý.",
+        "highlights": [
+          "Rừng thường xanh và rừng bán thường xanh.",
+          "Bàu Sấu và hệ sinh thái đất ngập nước."
+        ],
+        "historicalCulturalValue": "Giá trị bảo tồn sinh thái và giáo dục môi trường.",
+        "recognition": "Vườn quốc gia; Khu dự trữ sinh quyển Đồng Nai được UNESCO công nhận năm 2011.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-155",
+          "src-154"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-bu-gia-map",
+        "name": "Vườn quốc gia Bù Gia Mập",
+        "category": "Vườn quốc gia; Khu bảo tồn thiên nhiên",
+        "originArea": "Bình Phước cũ – huyện Bù Gia Mập cũ.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Bù Gia Mập – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực biên giới phía bắc thành phố Đồng Nai; đơn vị cấp xã hiện hành cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Khu rừng tự nhiên ở vùng chuyển tiếp cao nguyên – Đông Nam Bộ.",
+        "fullDescription": "Vườn quốc gia bảo tồn rừng tự nhiên và đa dạng sinh học, gắn với cộng đồng địa phương và khu vực biên giới. Không tự điền danh sách loài/diện tích nếu chưa đối chiếu hồ sơ quản lý mới nhất.",
+        "highlights": [
+          "Rừng tự nhiên.",
+          "Cảnh quan suối, thác và địa hình đồi núi."
+        ],
+        "historicalCulturalValue": "Không gian sinh thái và văn hóa của khu vực Bình Phước cũ.",
+        "recognition": "Vườn quốc gia theo quyết định thành lập; cần bổ sung số quyết định gốc trong lần kiểm chứng tiếp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-154",
+          "src-164"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "khu-du-tru-sinh-quyen-dong-nai",
+        "name": "Khu dự trữ sinh quyển thế giới Đồng Nai",
+        "category": "Khu dự trữ sinh quyển UNESCO",
+        "originArea": "Đồng Nai cũ – khu vực rừng và hồ Trị An.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Khu dự trữ sinh quyển thế giới Đồng Nai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phạm vi liên huyện cũ của Đồng Nai; ranh giới cụ thể cần xem bản đồ UNESCO và bản đồ hành chính mới.",
+        "coordinates": null,
+        "shortDescription": "Không gian bảo tồn rừng, hồ và vùng đệm có ý nghĩa sinh thái ở miền Đông Nam Bộ.",
+        "fullDescription": "Khu dự trữ sinh quyển bao gồm các khu bảo tồn, rừng và vùng đệm; không đồng nhất phạm vi khu dự trữ với một đơn vị hành chính hay một khu du lịch.",
+        "highlights": [
+          "Hệ sinh thái rừng và đất ngập nước.",
+          "Kết nối vùng lõi – vùng đệm – vùng chuyển tiếp."
+        ],
+        "historicalCulturalValue": "Thể hiện mối quan hệ giữa bảo tồn thiên nhiên và sinh kế cộng đồng.",
+        "recognition": "UNESCO công nhận Khu dự trữ sinh quyển Đồng Nai năm 2011.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-155"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      },
+      {
+        "id": "ho-tri-an",
+        "name": "Hồ Trị An",
+        "category": "Hồ nhân tạo; Cảnh quan và du lịch sinh thái",
+        "originArea": "Đồng Nai cũ – hồ Trị An và vùng phụ cận.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Hồ Trị An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực hồ Trị An, thành phố Đồng Nai; địa chỉ cấp xã thay đổi theo bờ hồ.",
+        "coordinates": null,
+        "shortDescription": "Hồ chứa nước lớn gắn với công trình thủy điện và cảnh quan rừng ven hồ.",
+        "fullDescription": "Hồ Trị An hình thành cùng công trình thủy điện, tạo không gian mặt nước, đảo và sinh kế thủy sản. Thông tin khai thác du lịch và an toàn cần kiểm tra từng điểm dịch vụ.",
+        "highlights": [
+          "Mặt hồ và các đảo.",
+          "Cảnh quan ven rừng."
+        ],
+        "historicalCulturalValue": "Gắn với lịch sử phát triển hạ tầng và sinh kế địa phương.",
+        "recognition": "Không phải di sản UNESCO; khu vực liên quan một phần không gian sinh quyển Đồng Nai.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-155",
+          "src-154"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      },
+      {
+        "id": "ba-ra-thac-mo",
+        "name": "Núi Bà Rá – hồ Thác Mơ",
+        "category": "Danh lam thắng cảnh; Di tích lịch sử",
+        "originArea": "Bình Phước cũ – thị xã Phước Long cũ.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Núi Bà Rá – hồ Thác Mơ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Phước Long cũ, thành phố Đồng Nai; xã/phường hiện hành cần xác minh.",
+        "coordinates": null,
+        "shortDescription": "Cụm cảnh quan núi, hồ và di tích gắn với lịch sử vùng Bình Phước.",
+        "fullDescription": "Núi Bà Rá là điểm cao nổi bật của vùng Bình Phước cũ; hồ Thác Mơ là hồ chứa thủy điện dưới chân núi. Không gộp hai địa điểm thành một khu hành chính; đây là tuyến cảnh quan liên kết.",
+        "highlights": [
+          "Cảnh quan núi Bà Rá.",
+          "Mặt hồ Thác Mơ."
+        ],
+        "historicalCulturalValue": "Có giá trị cảnh quan, tâm linh và ký ức lịch sử địa phương.",
+        "recognition": "Cần đối chiếu riêng cấp xếp hạng di tích và danh lam thắng cảnh.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-164",
+          "src-154"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "soc-bom-bo",
+        "name": "Không gian văn hóa Sóc Bom Bo",
+        "category": "Di tích lịch sử; Không gian văn hóa cộng đồng",
+        "originArea": "Bình Phước cũ – vùng Bù Đăng cũ.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Không gian văn hóa Sóc Bom Bo – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Bom Bo cũ; đơn vị cấp xã hiện hành cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Không gian gắn với ký ức kháng chiến và hình ảnh giã gạo nuôi quân của đồng bào S’tiêng.",
+        "fullDescription": "Sóc Bom Bo nổi tiếng qua câu chuyện lịch sử và âm hưởng văn hóa gắn với đồng bào S’tiêng trong kháng chiến. Cần tiếp cận như địa chỉ ký ức – văn hóa, không chỉ là điểm check-in.",
+        "highlights": [
+          "Không gian trưng bày và diễn giải ký ức cộng đồng.",
+          "Văn hóa S’tiêng và nhạc cụ truyền thống."
+        ],
+        "historicalCulturalValue": "Gìn giữ ký ức lịch sử và vai trò cộng đồng S’tiêng.",
+        "recognition": "Cần bổ sung quyết định xếp hạng/địa chỉ quản lý cụ thể trước phát hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-164",
+          "src-154"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "cu-lao-pho",
+        "name": "Cù lao Phố và các di tích thương cảng Biên Hòa",
+        "category": "Di tích lịch sử; Không gian đô thị cổ",
+        "originArea": "Đồng Nai cũ – thành phố Biên Hòa cũ.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Cù lao Phố và các di tích thương cảng Biên Hòa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Hiệp Hòa cũ và vùng lân cận; địa chỉ hiện hành cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Không gian lịch sử thương cảng cổ trên sông Đồng Nai.",
+        "fullDescription": "Cù lao Phố từng là trung tâm thương mại, giao lưu văn hóa quan trọng của vùng Nam Bộ. Các cơ sở tín ngưỡng, di tích và dấu tích đô thị cần ghi theo từng địa điểm thành phần để tránh gom chung danh hiệu.",
+        "highlights": [
+          "Dấu tích thương cảng cổ.",
+          "Cơ sở tín ngưỡng và kiến trúc truyền thống."
+        ],
+        "historicalCulturalValue": "Gợi nhớ lịch sử giao thương và hình thành đô thị Biên Hòa.",
+        "recognition": "Chưa ghi nhận một danh hiệu chung cho toàn bộ cù lao trong hồ sơ.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-154"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "hat-dieu-binh-phuoc",
+        "name": "Hạt điều Bình Phước",
+        "category": "Nông sản; Sản phẩm chế biến",
+        "originArea": "Bình Phước cũ – vùng nguyên liệu điều.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Hạt điều Bình Phước – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Bình Phước cũ – vùng nguyên liệu điều..",
+        "ingredients": [
+          "Hạt điều thô và nhân điều."
+        ],
+        "preparation": "Thu hoạch, phơi/sấy, bóc tách vỏ, phân loại và chế biến; quy trình phụ thuộc cơ sở.",
+        "characteristics": "Hạt điều là sản phẩm nông nghiệp nổi bật của khu vực Bình Phước cũ, có thông tin chỉ dẫn địa lý trong nguồn địa phương.",
+        "culturalContext": "Gắn với vùng nguyên liệu, nghề chế biến và chuỗi xuất khẩu.",
+        "recognition": "Chỉ dẫn địa lý “Bình Phước” được cấp cho sản phẩm hạt điều; cần xác định sản phẩm và vùng địa lý thuộc phạm vi bảo hộ.",
+        "sourceIds": [
+          "src-153"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "buoi-tan-trieu",
+        "name": "Bưởi Tân Triều",
+        "category": "Nông sản; Trái cây địa phương",
+        "originArea": "Đồng Nai cũ – vùng Tân Triều, Vĩnh Cửu cũ.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Bưởi Tân Triều – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Đồng Nai cũ – vùng Tân Triều, Vĩnh Cửu cũ..",
+        "ingredients": [
+          "Bưởi da xanh và các giống bưởi địa phương được trồng trong vùng."
+        ],
+        "preparation": "Ăn tươi, làm gỏi bưởi, chế biến nước ép và sản phẩm ẩm thực.",
+        "characteristics": "Bưởi Tân Triều gắn với vùng trồng ven sông Đồng Nai; giống và chứng nhận từng nhà vườn cần kiểm tra.",
+        "culturalContext": "Gắn với sinh kế vườn cây ăn trái và trải nghiệm nông nghiệp.",
+        "recognition": "Cần bổ sung căn cứ vùng chỉ dẫn địa lý/nhãn hiệu cụ thể.",
+        "sourceIds": [
+          "src-153",
+          "src-154"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      },
+      {
+        "id": "ho-tieu-loc-ninh",
+        "name": "Hồ tiêu Lộc Ninh",
+        "category": "Nông sản; Gia vị",
+        "originArea": "Bình Phước cũ – vùng Lộc Ninh.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Hồ tiêu Lộc Ninh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Bình Phước cũ – vùng Lộc Ninh..",
+        "ingredients": [
+          "Hạt tiêu."
+        ],
+        "preparation": "Thu hoạch chùm tiêu, phơi/sấy và phân loại; quy trình tùy hộ và cơ sở.",
+        "characteristics": "Hồ tiêu là cây công nghiệp gia vị được trồng tại vùng Bình Phước cũ. Không gán chứng nhận/chỉ dẫn địa lý khi chưa có căn cứ trực tiếp.",
+        "culturalContext": "Gắn với sinh kế cây công nghiệp của khu vực phía bắc tỉnh mới.",
+        "recognition": "Chưa xác minh chứng nhận địa lý của sản phẩm cụ thể.",
+        "sourceIds": [
+          "src-153"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "ga-tha-vuon-binh-phuoc",
+        "name": "Gà thả vườn Bình Phước",
+        "category": "Thịt gia cầm; Đặc sản địa phương",
+        "originArea": "Bình Phước cũ – một số vùng nông thôn.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Gà thả vườn Bình Phước – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Bình Phước cũ – một số vùng nông thôn..",
+        "ingredients": [
+          "Gà nuôi thả vườn."
+        ],
+        "preparation": "Chế biến luộc, nướng hoặc hấp; phương pháp nuôi khác nhau theo hộ.",
+        "characteristics": "Sản phẩm ẩm thực địa phương, nhưng chưa đủ nguồn để xác định tên gọi/chứng nhận thống nhất cấp vùng.",
+        "culturalContext": "Gắn với ẩm thực nông thôn và chăn nuôi hộ gia đình.",
+        "recognition": "Không xác minh chứng nhận/nhãn hiệu.",
+        "sourceIds": [
+          "src-164"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "ca-loc-nuong-trui-dong-nai",
+        "name": "Cá lóc nướng trui",
+        "category": "Món ăn Nam Bộ",
+        "originArea": "Đồng Nai cũ và vùng Nam Bộ rộng hơn; không phải món độc quyền của thành phố.",
+        "currentProvinceId": "dong-nai",
+        "image": {
+          "file": null,
+          "alt": "Cá lóc nướng trui – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm gắn với Đồng Nai cũ và vùng Nam Bộ rộng hơn; không phải món độc quyền của thành phố..",
+        "ingredients": [
+          "Cá lóc",
+          "Rơm hoặc vật liệu nướng",
+          "Rau sống, nước chấm."
+        ],
+        "preparation": "Cá được nướng nguyên con theo cách dân gian; ăn cùng rau và nước chấm.",
+        "characteristics": "Món ăn phổ biến ở Nam Bộ; ghi nhận như ẩm thực vùng chứ không khẳng định xuất xứ riêng Đồng Nai.",
+        "culturalContext": "Gắn với văn hóa ẩm thực sông nước và sinh hoạt nông thôn.",
+        "recognition": "Không có chứng nhận địa phương cụ thể được xác minh.",
+        "sourceIds": [
+          "src-154"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-cho-ro",
+          "name": "Cộng đồng Chơ-ro",
+          "originArea": "Đồng Nai cũ – các khu vực có cộng đồng Chơ-ro cư trú.",
+          "description": "Cộng đồng Chơ-ro có ngôn ngữ, tín ngưỡng và lễ hội truyền thống riêng; cần xác định địa bàn thực hành cụ thể khi mô tả nghi lễ.",
+          "sourceIds": [
+            "src-154"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        },
+        {
+          "id": "cong-dong-stieng",
+          "name": "Cộng đồng S’tiêng",
+          "originArea": "Bình Phước cũ – vùng Bù Đăng, Bù Gia Mập và các địa bàn liên quan.",
+          "description": "Cộng đồng S’tiêng có truyền thống sinh hoạt gắn với rừng, nương rẫy, âm nhạc, cồng chiêng và các nghi lễ cộng đồng.",
+          "sourceIds": [
+            "src-164"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "binh-phuoc"
+          ]
+        },
+        {
+          "id": "cong-dong-mnong-dong-nai",
+          "name": "Cộng đồng M’nông",
+          "originArea": "Bình Phước cũ – một số vùng phía bắc địa bàn mới.",
+          "description": "Cộng đồng M’nông có nhiều nhóm địa phương, tri thức dân gian và nghi lễ riêng; tránh khái quát hóa trên toàn địa bàn.",
+          "sourceIds": [
+            "src-164"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "binh-phuoc"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-dong-nai",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Toàn bộ không gian Đồng Nai cũ và Bình Phước cũ.",
+          "description": "Cộng đồng Kinh tạo nên nhiều lớp văn hóa đô thị, nông thôn, tôn giáo, nghề nghiệp và di cư; cần dùng số liệu dân tộc học/thống kê khi đưa ra tỷ lệ.",
+          "sourceIds": [
+            "src-151"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai",
+            "binh-phuoc"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "sayangva-cho-ro",
+          "name": "Lễ hội Sayangva (cúng thần lúa) của người Chơ-ro",
+          "originArea": "Cộng đồng Chơ-ro tại địa bàn Đồng Nai cũ.",
+          "description": "Nghi lễ nông nghiệp tạ ơn thần lúa, cầu mùa và gắn kết cộng đồng; chi tiết nghi thức thay đổi theo địa bàn thực hành.",
+          "sourceIds": [
+            "src-156"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-gio-nguyen-huu-canh",
+          "name": "Lễ giỗ Lễ Thành hầu Nguyễn Hữu Cảnh",
+          "originArea": "Đồng Nai cũ – không gian thờ phụng Nguyễn Hữu Cảnh tại Biên Hòa và các địa điểm liên quan.",
+          "currentProvinceId": "dong-nai",
+          "description": "Lễ giỗ tưởng niệm nhân vật lịch sử gắn với quá trình mở cõi, tổ chức hành chính vùng Nam Bộ. Tư liệu địa phương cho biết lễ giỗ đã được ghi danh di sản văn hóa phi vật thể quốc gia.",
+          "time": "Tổ chức theo ngày giỗ truyền thống; ngày cụ thể cần kiểm tra chương trình hằng năm.",
+          "sourceIds": [
+            "src-156"
+          ],
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        },
+        {
+          "id": "le-hoi-chua-ong",
+          "name": "Lễ hội Chùa Ông (Thất phủ cổ miếu)",
+          "originArea": "Đồng Nai cũ – Biên Hòa.",
+          "currentProvinceId": "dong-nai",
+          "description": "Lễ hội tín ngưỡng của cộng đồng Hoa và cư dân địa phương, gắn với cơ sở thờ tự Chùa Ông.",
+          "time": "Lịch từng năm cần đối chiếu thông báo ban tổ chức; nguồn 2026 ghi lần thứ XI.",
+          "sourceIds": [
+            "src-157"
+          ],
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        },
+        {
+          "id": "dua-tpeng-pha-bau",
+          "name": "Lễ hội Dua Tpeng (Phá bàu) của người Khmer",
+          "originArea": "Địa bàn Bình Phước cũ – cộng đồng Khmer.",
+          "currentProvinceId": "dong-nai",
+          "description": "Lễ hội truyền thống gắn với hoạt động cộng đồng, tín ngưỡng và sinh hoạt văn hóa của người Khmer; cần xác minh bản/làng chủ thể trước khi mô tả sâu.",
+          "time": "Thời điểm tùy cộng đồng và lịch địa phương; chưa xác minh lịch cố định.",
+          "sourceIds": [
+            "src-164"
+          ],
+          "originUnitIds": [
+            "binh-phuoc"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "doi-song-cong-dong-rung-dong-nai",
+          "name": "Sinh kế cộng đồng vùng rừng – hồ",
+          "originArea": "Đồng Nai cũ và Bình Phước cũ.",
+          "description": "Sinh kế kết hợp nông nghiệp, cây công nghiệp, thủy sản hồ chứa, lâm nghiệp và dịch vụ du lịch. Các tác động tới rừng cần được trình bày cân bằng giữa bảo tồn và sinh kế.",
+          "sourceIds": [
+            "src-155",
+            "src-153"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai",
+            "binh-phuoc"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-tho-cho-ro",
+          "name": "Không gian tín ngưỡng cộng đồng Chơ-ro",
+          "originArea": "Đồng Nai cũ – cộng đồng Chơ-ro.",
+          "description": "Không gian thờ tự, lễ hội và sinh hoạt cộng đồng gắn với chu kỳ nông nghiệp; chi tiết nghi thức cần tư liệu dân tộc học.",
+          "sourceIds": [
+            "src-154"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        },
+        {
+          "id": "kien-truc-thuong-cang-bien-hoa",
+          "name": "Không gian đô thị và thương cảng Biên Hòa",
+          "originArea": "Đồng Nai cũ – cù lao Phố và vùng ven sông Đồng Nai.",
+          "description": "Lớp kiến trúc đô thị, cơ sở tín ngưỡng và dấu tích giao thương tạo nên lịch sử không gian Biên Hòa; cần phân tích từng công trình riêng.",
+          "sourceIds": [
+            "src-154"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "nghi-le-nong-nghiep-cho-ro",
+          "name": "Nghi lễ nông nghiệp và thờ thần lúa",
+          "originArea": "Cộng đồng Chơ-ro tại Đồng Nai cũ.",
+          "description": "Các lễ thức cầu mùa, tạ ơn thần lúa và sinh hoạt cộng đồng gắn với canh tác nông nghiệp; không khái quát cho mọi cộng đồng trong thành phố.",
+          "sourceIds": [
+            "src-156"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "sayangva-di-san",
+          "name": "Lễ hội Sayangva của người Chơ-ro",
+          "originArea": "Cộng đồng Chơ-ro tại Đồng Nai cũ.",
+          "description": "Lễ hội cúng thần lúa gắn với chu kỳ nông nghiệp và tri thức của cộng đồng Chơ-ro.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia; cần ghi số quyết định gốc và địa bàn chủ thể theo hồ sơ Bộ VHTTDL.",
+          "sourceIds": [
+            "src-156"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        },
+        {
+          "id": "le-gio-nguyen-huu-canh-di-san",
+          "name": "Lễ giỗ Lễ Thành hầu Nguyễn Hữu Cảnh",
+          "originArea": "Đồng Nai cũ – Biên Hòa.",
+          "description": "Nghi lễ tưởng niệm nhân vật lịch sử trong đời sống tín ngưỡng và ký ức cộng đồng địa phương.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo thông tin UBND tỉnh; cần đính kèm số quyết định ghi danh gốc.",
+          "sourceIds": [
+            "src-156"
+          ],
+          "currentProvinceId": "dong-nai",
+          "originUnitIds": [
+            "dong-nai"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "cong-chieng-stieng",
+        "name": "Cồng chiêng trong đời sống văn hóa S’tiêng",
+        "category": "Âm nhạc truyền thống; Diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Cồng chiêng trong đời sống văn hóa S’tiêng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng S’tiêng ở Bình Phước cũ.",
+        "origin": "Các cộng đồng S’tiêng tại khu vực Bình Phước cũ.",
+        "originArea": "Các cộng đồng S’tiêng tại khu vực Bình Phước cũ.",
+        "currentProvinceId": "dong-nai",
+        "characteristics": "Cồng chiêng được sử dụng trong một số nghi lễ và sinh hoạt cộng đồng.",
+        "instrumentsOrPerformance": "Biên chế nhạc cụ, bài bản và nghi thức cần ghi theo cộng đồng và nguồn điền dã cụ thể.",
+        "culturalValue": "Lưu giữ tri thức âm nhạc, nghi lễ và quan hệ cộng đồng.",
+        "recognition": "Không tự gán danh hiệu UNESCO cồng chiêng Tây Nguyên cho mọi thực hành tại Đồng Nai mới nếu không có chứng minh địa bàn và chủ thể.",
+        "sourceIds": [
+          "src-164"
+        ],
+        "originUnitIds": [
+          "binh-phuoc"
+        ]
+      },
+      {
+        "id": "dan-ca-dan-vu-cho-ro",
+        "name": "Dân ca và diễn xướng Chơ-ro",
+        "category": "Dân ca; Nghệ thuật trình diễn dân gian",
+        "image": {
+          "file": null,
+          "alt": "Dân ca và diễn xướng Chơ-ro – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Chơ-ro tại Đồng Nai cũ.",
+        "origin": "Đồng Nai cũ – các cộng đồng Chơ-ro.",
+        "originArea": "Đồng Nai cũ – các cộng đồng Chơ-ro.",
+        "currentProvinceId": "dong-nai",
+        "characteristics": "Hình thức diễn xướng gắn với ngôn ngữ, sinh hoạt và nghi lễ; tên gọi tiết mục cụ thể cần điền sau nghiên cứu cộng đồng.",
+        "instrumentsOrPerformance": "Chưa đủ tư liệu để liệt kê nhạc cụ và bài bản đặc thù.",
+        "culturalValue": "Có vai trò lưu giữ tiếng nói, ký ức và bản sắc cộng đồng Chơ-ro.",
+        "recognition": "Chưa xác minh danh hiệu ghi danh cụ thể trong hồ sơ này.",
+        "sourceIds": [
+          "src-154"
+        ],
+        "originUnitIds": [
+          "dong-nai"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Thành phố Đồng Nai hình thành từ toàn bộ tỉnh Đồng Nai và tỉnh Bình Phước cũ theo sắp xếp cấp tỉnh năm 2025; chính thức trở thành thành phố trực thuộc Trung ương từ 30/04/2026 theo Nghị quyết 30/2026/QH16. Số diện tích 12.737,18 km² và quy mô dân số 4.491.408 là số liệu được công bố trong tài liệu thành lập thành phố, không phải điều tra dân số cuối năm 2026.",
+      "Thành phố Đồng Nai hợp nhất Đồng Nai cũ và Bình Phước cũ; dữ liệu văn hóa ghi `originArea` riêng, không xem điểm ở Bình Phước cũ là ở Đồng Nai cũ.",
+      "Diện tích 12.737,18 km² và quy mô dân số 4.491.408 là số liệu trong hồ sơ thành lập thành phố năm 2026; không phải dân số điều tra cuối năm 2026.",
+      "Đơn vị cấp xã 95, gồm 33 phường và 62 xã theo tài liệu tuyên truyền thành lập thành phố; cần đối chiếu danh mục NSO nếu cập nhật sau nghị quyết.",
+      "Mã hành chính cấp tỉnh 75 và các mã biển số 39,60,93 theo nguồn đã tra cứu; cần kiểm tra văn bản có hiệu lực mới hơn trước khi phát hành cuối.",
+      "Tên/địa chỉ hiện hành của Cù lao Phố, Bù Gia Mập, Sóc Bom Bo và khu du lịch vùng hồ cần cập nhật theo đơn vị cấp xã.",
+      "Một số đặc sản chỉ là sản phẩm vùng/ẩm thực Nam Bộ, không độc quyền thành phố; không gán nhãn chứng nhận khi thiếu căn cứ.",
+      "Thành phố Đồng Nai được thành lập theo Nghị quyết 30/2026/QH16, hiệu lực 30/04/2026; không gian hành chính kế thừa Đồng Nai + Bình Phước sau sắp xếp cấp tỉnh năm 2025.",
+      "Thành phố Đồng Nai có 95 đơn vị cấp xã (33 phường, 62 xã) theo tài liệu chính thức năm 2026; quy mô dân số 4.491.408 người thuộc hồ sơ thành lập, không phải dân số điều tra cuối năm 2026."
+    ],
+    "sourceIds": [
+      "src-135",
+      "src-136",
+      "src-150",
+      "src-151",
+      "src-152",
+      "src-153",
+      "src-154",
+      "src-155",
+      "src-156",
+      "src-157",
+      "src-158",
+      "src-164",
+      "src-330",
+      "src-333",
+      "src-334"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "dong-nai",
+      "name": "Đồng Nai"
+    },
+    {
+      "id": "binh-phuoc",
+      "name": "Bình Phước"
+    }
+  ]
+}

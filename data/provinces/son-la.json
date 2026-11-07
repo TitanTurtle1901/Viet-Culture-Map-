@@ -1,0 +1,726 @@
+{
+  "id": "son-la",
+  "name": "Tỉnh Sơn La",
+  "administrativeType": "Tỉnh",
+  "region": "Trung du và miền núi phía Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Sơn La – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Sơn La là tỉnh miền núi Tây Bắc với cao nguyên Mộc Châu, cảnh quan sông Đà và các cộng đồng Thái, Mông, Dao, Mường. Nghệ thuật Xòe Thái, lễ Hết Chá và ẩm thực bản địa là những lớp bản sắc nổi bật.",
+    "featuredDestinationIds": [
+      "cao-nguyen-moc-chau",
+      "nha-tu-son-la"
+    ],
+    "featuredSpecialtyIds": [
+      "pa-pinh-top",
+      "che-moc-chau"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Sơn La",
+      "administrativeCode": "14",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "26"
+      ],
+      "areaKm2": 14109.83,
+      "areaYear": 2025,
+      "population": {
+        "value": null,
+        "year": null,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh miền núi Tây Bắc; địa hình cao nguyên, núi cao, thung lũng sông Đà và các vùng giáp Điện Biên, Lai Châu, Yên Bái cũ, Phú Thọ và Thanh Hóa.",
+      "boundaries": [],
+      "naturalFeatures": "Địa hình núi cao và cao nguyên, sông Đà, hồ thủy điện Sơn La, rừng và các hệ sinh thái vùng núi.",
+      "climate": null,
+      "history": "Sơn La giữ nguyên đơn vị hành chính cấp tỉnh trong đợt sắp xếp năm 2025; cấp xã được sắp xếp còn 75 đơn vị (67 xã, 8 phường). Lịch sử địa phương gắn với các cộng đồng Thái, Mông, Dao, Mường và các không gian giao lưu Tây Bắc.",
+      "description": "Sơn La là tỉnh miền núi Tây Bắc với cao nguyên Mộc Châu, cảnh quan sông Đà và hệ thống bản làng đa dân tộc. Xòe Thái, Hết Chá, ẩm thực Thái và các vùng chè, mận tạo nên những lớp bản sắc nổi bật.",
+      "sourceIds": [
+        "src-260",
+        "src-263",
+        "src-264",
+        "src-262",
+        "src-265",
+        "src-267",
+        "src-268",
+        "src-269"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "cao-nguyen-moc-chau",
+        "name": "Cao nguyên Mộc Châu",
+        "category": "Cao nguyên; du lịch sinh thái, nông nghiệp",
+        "originArea": "Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Cao nguyên Mộc Châu – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Mộc Châu, tỉnh Sơn La.",
+        "coordinates": null,
+        "shortDescription": "Cao nguyên có khí hậu mát, vùng chè, đồng cỏ, trang trại bò sữa và cảnh quan nông nghiệp.",
+        "fullDescription": "Mộc Châu là không gian du lịch cao nguyên gắn với nông nghiệp, cảnh quan và văn hóa các cộng đồng Thái, Mông. Các điểm tham quan cụ thể và mùa hoa cần kiểm tra với đơn vị quản lý tại thời điểm đi.",
+        "highlights": [
+          "Đồi chè; thung lũng mận; bản làng; trang trại nông nghiệp."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, sinh kế nông nghiệp và giao lưu văn hóa vùng cao.",
+        "recognition": "Khu du lịch quốc gia Mộc Châu được công nhận theo quy hoạch du lịch quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-268",
+          "src-269"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "nha-tu-son-la",
+        "name": "Di tích Nhà tù Sơn La",
+        "category": "Di tích lịch sử; bảo tàng",
+        "originArea": "Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Di tích Nhà tù Sơn La – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Tô Hiệu, tỉnh Sơn La.",
+        "coordinates": null,
+        "shortDescription": "Nhà tù do thực dân Pháp xây dựng, gắn với lịch sử đấu tranh cách mạng và các chiến sĩ cách mạng Việt Nam.",
+        "fullDescription": "Di tích là địa chỉ tìm hiểu chế độ nhà tù thuộc địa, hoạt động đấu tranh của tù chính trị và lịch sử cách mạng ở Tây Bắc. Nội dung thuyết minh cần đặt trong bối cảnh lịch sử và dựa hồ sơ di tích.",
+        "highlights": [
+          "Nhà tù; cây đào Tô Hiệu; khu trưng bày; nghĩa trang liệt sĩ."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử, giáo dục và tưởng niệm.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-268"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "ta-xua",
+        "name": "Tà Xùa",
+        "category": "Cảnh quan núi; du lịch cộng đồng",
+        "originArea": "Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Tà Xùa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tà Xùa, tỉnh Sơn La.",
+        "coordinates": null,
+        "shortDescription": "Vùng núi cao nổi tiếng với cảnh quan mây, sống núi và rừng tự nhiên.",
+        "fullDescription": "Tà Xùa là điểm du lịch vùng cao, thời tiết và điều kiện đường thay đổi theo mùa. Thông tin giao thông, an toàn và quy định bảo vệ rừng cần kiểm tra trước chuyến đi.",
+        "highlights": [
+          "Sống lưng khủng long; biển mây; rừng và bản làng."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan núi cao và du lịch sinh thái.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-269"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "ngoc-chien",
+        "name": "Vùng du lịch cộng đồng Ngọc Chiến",
+        "category": "Du lịch cộng đồng; văn hóa dân tộc",
+        "originArea": "Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Vùng du lịch cộng đồng Ngọc Chiến – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Ngọc Chiến, tỉnh Sơn La.",
+        "coordinates": null,
+        "shortDescription": "Không gian bản làng vùng cao với văn hóa Thái, nhà sàn, suối khoáng và cảnh quan thung lũng.",
+        "fullDescription": "Ngọc Chiến phát triển loại hình du lịch cộng đồng dựa trên văn hóa bản địa và cảnh quan tự nhiên. Trải nghiệm lưu trú, tắm khoáng và lễ hội phụ thuộc từng bản, cần tôn trọng quy ước cộng đồng.",
+        "highlights": [
+          "Nhà sàn; suối khoáng; bản làng; ruộng bậc thang."
+        ],
+        "historicalCulturalValue": "Giá trị văn hóa cộng đồng, tri thức bản địa và sinh thái.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-269",
+          "src-265"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "ho-thuy-dien-son-la",
+        "name": "Hồ thủy điện Sơn La – vùng lòng hồ",
+        "category": "Hồ chứa; cảnh quan; du lịch đường thủy",
+        "originArea": "Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Hồ thủy điện Sơn La – vùng lòng hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực lòng hồ sông Đà, tỉnh Sơn La.",
+        "coordinates": null,
+        "shortDescription": "Không gian hồ chứa lớn giữa địa hình núi, với các bản tái định cư, bến thuyền và cảnh quan ven hồ.",
+        "fullDescription": "Lòng hồ gắn với công trình thủy điện và thay đổi sinh kế, cư trú vùng sông Đà. Hoạt động đường thủy phải theo luồng tuyến, quy định an toàn và hướng dẫn địa phương.",
+        "highlights": [
+          "Cảnh quan hồ; đảo nhỏ; bản ven hồ; tuyến thuyền."
+        ],
+        "historicalCulturalValue": "Giá trị công trình năng lượng, cảnh quan và lịch sử tái định cư.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-268"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "pha-din",
+        "name": "Đèo Pha Đin",
+        "category": "Cảnh quan đèo núi; di tích lịch sử",
+        "originArea": "Sơn La và Điện Biên – tuyến đèo liên tỉnh.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Đèo Pha Đin – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực ranh giới Sơn La – Điện Biên.",
+        "coordinates": null,
+        "shortDescription": "Đèo núi trên tuyến giao thông Tây Bắc, gắn với địa hình hiểm trở và ký ức chiến dịch Điện Biên Phủ.",
+        "fullDescription": "Pha Đin có giá trị cảnh quan và lịch sử; vì nằm trên địa bàn liên tỉnh, hồ sơ chỉ ghi phần liên hệ địa lý phù hợp, không gán toàn bộ đèo cho một tỉnh.",
+        "highlights": [
+          "Cung đường đèo; điểm ngắm cảnh; dấu tích lịch sử tuyến vận tải."
+        ],
+        "historicalCulturalValue": "Giá trị giao thông, lịch sử và cảnh quan vùng Tây Bắc.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-269"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "thung-lung-man-na-ka",
+        "name": "Thung lũng mận Nà Ka",
+        "category": "Cảnh quan nông nghiệp; du lịch theo mùa",
+        "originArea": "Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Thung lũng mận Nà Ka – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Nà Ka, Mộc Châu, tỉnh Sơn La.",
+        "coordinates": null,
+        "shortDescription": "Vùng trồng mận hậu tập trung, có mùa hoa và mùa thu hoạch.",
+        "fullDescription": "Nà Ka là vùng nông nghiệp gắn với mận hậu. Thời gian hoa và thu hoạch thay đổi theo thời tiết; cần xác minh với hộ trồng và chính quyền địa phương trước khi công bố lịch tham quan.",
+        "highlights": [
+          "Vườn mận; mùa hoa; mùa thu hoạch; sản phẩm quả tươi."
+        ],
+        "historicalCulturalValue": "Giá trị nông nghiệp, sinh kế và sản phẩm địa phương.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-271",
+          "src-269"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "pa-pinh-top",
+        "name": "Pa pỉnh tộp",
+        "category": "Món ăn; ẩm thực truyền thống",
+        "originArea": "Cộng đồng Thái ở Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Pa pỉnh tộp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Pa pỉnh tộp gắn với Cộng đồng Thái ở Sơn La.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Cá suối hoặc cá địa phương",
+          "Mắc khén",
+          "Rau thơm",
+          "Gia vị bản địa."
+        ],
+        "preparation": "Cá được làm sạch, tẩm gia vị và rau thơm, gập nướng trên than; công thức thay đổi theo cộng đồng và gia đình.",
+        "characteristics": "Mùi thơm gia vị rừng, vị cá nướng; cách nêm và nguyên liệu thay đổi theo nơi.",
+        "culturalContext": "Món ăn gắn với ẩm thực Thái, bữa cơm gia đình và tiếp khách.",
+        "recognition": "Món ăn truyền thống; không phải sản phẩm độc quyền toàn tỉnh.",
+        "sourceIds": [
+          "src-270",
+          "src-265"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "che-moc-chau",
+        "name": "Chè Mộc Châu",
+        "category": "Nông sản; đồ uống",
+        "originArea": "Mộc Châu, Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Chè Mộc Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè Mộc Châu gắn với Mộc Châu, Sơn La.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Búp chè tươi."
+        ],
+        "preparation": "Thu hái, làm héo, diệt men, vò và sấy theo dòng chè và cơ sở sản xuất.",
+        "characteristics": "Hương vị tùy giống, mùa hái, chế biến và vùng nguyên liệu.",
+        "culturalContext": "Gắn với vùng cao nguyên chè và sinh kế nông nghiệp của địa phương.",
+        "recognition": "Sản phẩm nông nghiệp vùng; chứng nhận từng nhãn hàng cần kiểm tra riêng.",
+        "sourceIds": [
+          "src-268",
+          "src-269"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "sua-va-san-pham-sua-moc-chau",
+        "name": "Sữa và sản phẩm sữa Mộc Châu",
+        "category": "Sản phẩm chế biến; chăn nuôi bò sữa",
+        "originArea": "Mộc Châu, Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Sữa và sản phẩm sữa Mộc Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sữa và sản phẩm sữa Mộc Châu gắn với Mộc Châu, Sơn La.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Sữa bò tươi và nguyên liệu chế biến tùy sản phẩm."
+        ],
+        "preparation": "Thu gom sữa, xử lý nhiệt và chế biến thành sữa thanh trùng, tiệt trùng hoặc sản phẩm lên men theo quy trình của doanh nghiệp.",
+        "characteristics": "Đặc tính phụ thuộc dòng sản phẩm và tiêu chuẩn nhà sản xuất.",
+        "culturalContext": "Liên hệ phát triển chăn nuôi bò sữa và chuỗi nông nghiệp cao nguyên.",
+        "recognition": "Thương hiệu/sản phẩm doanh nghiệp; không gán chứng nhận cho mọi sản phẩm.",
+        "sourceIds": [
+          "src-268"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "man-hau-na-ka",
+        "name": "Mận hậu Sơn La",
+        "category": "Trái cây; nông sản",
+        "originArea": "Mộc Châu và các vùng trồng mận của Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Mận hậu Sơn La – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mận hậu Sơn La gắn với Mộc Châu và các vùng trồng mận của Sơn La.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả mận hậu."
+        ],
+        "preparation": "Thu hoạch theo độ chín, phân loại và bảo quản; có thể dùng ăn tươi hoặc chế biến.",
+        "characteristics": "Quả có vị chua ngọt thay đổi theo giống, vụ và độ chín.",
+        "culturalContext": "Gắn với vùng cây ăn quả ôn đới và mùa vụ cao nguyên.",
+        "recognition": "Sản phẩm nông nghiệp địa phương; vùng trồng cụ thể cần ghi theo cơ sở.",
+        "sourceIds": [
+          "src-271"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "thit-trau-gac-bep-son-la",
+        "name": "Thịt trâu gác bếp",
+        "category": "Sản phẩm chế biến; món ăn truyền thống",
+        "originArea": "Các cộng đồng Thái và vùng núi Sơn La.",
+        "currentProvinceId": "son-la",
+        "image": {
+          "file": null,
+          "alt": "Thịt trâu gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thịt trâu gác bếp gắn với Các cộng đồng Thái và vùng núi Sơn La.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt trâu",
+          "Muối",
+          "Ớt",
+          "Mắc khén và gia vị tùy cách làm."
+        ],
+        "preparation": "Thịt được tẩm ướp, hun khói và làm khô theo phương pháp truyền thống; quy trình khác nhau theo hộ và cơ sở.",
+        "characteristics": "Thớ thịt dai, mùi khói và gia vị đặc trưng; chất lượng tùy nguyên liệu và bảo quản.",
+        "culturalContext": "Gắn với tập quán dự trữ thực phẩm và ẩm thực vùng núi.",
+        "recognition": "Món ăn phổ biến ở nhiều tỉnh Tây Bắc; nêu đúng mối liên hệ vùng, không nhận độc quyền.",
+        "sourceIds": [
+          "src-270"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-thai-son-la",
+          "name": "Cộng đồng Thái",
+          "originArea": "Nhiều địa bàn Sơn La, gồm Mộc Châu, Mường La, Mai Sơn và các vùng cư trú khác.",
+          "currentProvinceId": "son-la",
+          "description": "Cộng đồng Thái có hệ thống tiếng nói, chữ viết, nhà sàn, lễ tục, trang phục và nghệ thuật diễn xướng đa dạng; cần phân biệt các nhóm địa phương và cách tự nhận.",
+          "sourceIds": [
+            "src-265",
+            "src-267"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        },
+        {
+          "id": "cong-dong-hmong-son-la",
+          "name": "Cộng đồng Mông",
+          "originArea": "Các vùng núi cao Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Cộng đồng Mông có thực hành ngôn ngữ, trang phục, nhạc cụ khèn, lễ tết và tri thức canh tác vùng cao.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-tien-son-la",
+          "name": "Cộng đồng Dao Tiền",
+          "originArea": "Một số địa bàn miền núi Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Có trang phục, nghi lễ vòng đời và kỹ thuật thêu/in hoa văn riêng; cần mô tả theo nhóm địa phương.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "tet-xip-xi-nguoi-thai",
+          "name": "Tết Xíp Xí của người Thái",
+          "originArea": "Cộng đồng Thái tại Sơn La và Tây Bắc.",
+          "currentProvinceId": "son-la",
+          "description": "Dịp sinh hoạt văn hóa theo lịch truyền thống của một số nhóm Thái; hoạt động và ngày tổ chức có biến thể địa phương.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-het-cha",
+          "name": "Lễ hội Hết Chá",
+          "originArea": "Cộng đồng Thái trắng tại một số địa bàn Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Lễ hội cộng đồng có nghi lễ, múa hát và sinh hoạt tập thể; cần tôn trọng quy ước và vai trò chủ thể thực hành.",
+          "sourceIds": [
+            "src-265",
+            "src-266"
+          ],
+          "timeAndLocation": "Tổ chức theo cộng đồng và lịch địa phương; cần kiểm tra thông báo từng năm.",
+          "originUnitIds": [
+            "son-la"
+          ]
+        },
+        {
+          "id": "kin-pang-then-son-la",
+          "name": "Lễ Kin Pang Then",
+          "originArea": "Cộng đồng Thái tại Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Nghi lễ Then gắn với thực hành tín ngưỡng, âm nhạc và sinh hoạt cộng đồng; hình thức có biến thể.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "timeAndLocation": "Theo lịch nghi lễ và cộng đồng chủ thể.",
+          "originUnitIds": [
+            "son-la"
+          ]
+        },
+        {
+          "id": "xen-lau-no",
+          "name": "Lễ Xen Lẩu Nó",
+          "originArea": "Cộng đồng Thái ở Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Nghi lễ truyền thống do cộng đồng tổ chức, có các phần thực hành văn hóa và nghi lễ riêng.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "timeAndLocation": "Theo cộng đồng và lịch thực hành địa phương.",
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-thai-son-la",
+          "name": "Trang phục truyền thống Thái",
+          "originArea": "Cộng đồng Thái ở Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Trang phục có áo cóm, váy, khăn và đồ trang sức; kỹ thuật dệt, hoa văn và cách mặc khác nhau theo vùng và dịp.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        },
+        {
+          "id": "trang-phuc-mong-son-la",
+          "name": "Trang phục truyền thống Mông",
+          "originArea": "Cộng đồng Mông ở Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Trang phục có màu sắc, chất liệu, kỹ thuật thêu/in và đồ trang sức đa dạng theo nhóm Mông và địa bàn.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "nha-san-thai",
+          "name": "Nhà sàn và không gian bản Thái",
+          "originArea": "Cộng đồng Thái tại Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Nhà sàn, bếp, sân và không gian bản làng gắn với cấu trúc gia đình, sản xuất và sinh hoạt cộng đồng.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "ban-lang-vung-cao-son-la",
+          "name": "Không gian bản làng vùng cao",
+          "originArea": "Các cộng đồng Thái, Mông, Dao và nhóm dân tộc khác ở Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Không gian cư trú thích ứng địa hình núi, thung lũng, ruộng bậc thang và đường giao thông liên bản.",
+          "sourceIds": [
+            "src-265",
+            "src-269"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-then-thai",
+          "name": "Thực hành Then trong cộng đồng Thái",
+          "originArea": "Cộng đồng Thái ở Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Then là thực hành tín ngưỡng và diễn xướng của người Tày, Nùng, Thái tại nhiều vùng; không giới hạn ở Sơn La.",
+          "sourceIds": [
+            "src-265"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "xo-thai-unesco",
+          "name": "Nghệ thuật Xòe Thái",
+          "originArea": "Cộng đồng Thái tại Sơn La và các tỉnh Tây Bắc.",
+          "currentProvinceId": "son-la",
+          "description": "Nghệ thuật múa Xòe Thái là thực hành cộng đồng, biểu đạt đoàn kết và các nghi lễ, sự kiện đời sống; UNESCO ghi danh năm 2021.",
+          "sourceIds": [
+            "src-267"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        },
+        {
+          "id": "het-cha-di-san",
+          "name": "Lễ hội Hết Chá",
+          "originArea": "Cộng đồng Thái trắng tại Sơn La.",
+          "currentProvinceId": "son-la",
+          "description": "Được đưa vào danh mục di sản văn hóa phi vật thể quốc gia năm 2015 theo nguồn cơ sở dữ liệu địa phương.",
+          "sourceIds": [
+            "src-266"
+          ],
+          "originUnitIds": [
+            "son-la"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "xo-thai",
+        "name": "Nghệ thuật Xòe Thái",
+        "category": "Múa dân gian; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Thái ở Sơn La và vùng Tây Bắc.",
+        "origin": null,
+        "originArea": "Cộng đồng Thái ở Sơn La và vùng Tây Bắc.",
+        "currentProvinceId": "son-la",
+        "characteristics": "Các điệu xòe có động tác, vòng múa và nhạc cụ khác nhau theo hình thức thực hành.",
+        "instrumentsOrPerformance": "Múa tập thể theo nhạc, thường có tính cộng đồng và sự tham gia của nhiều lứa tuổi.",
+        "culturalValue": "Gắn kết cộng đồng và biểu đạt các giá trị văn hóa Thái.",
+        "recognition": "UNESCO ghi danh năm 2021.",
+        "sourceIds": [
+          "src-267"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "khen-mong",
+        "name": "Nghệ thuật trình diễn khèn Mông",
+        "category": "Âm nhạc; nhạc cụ truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật trình diễn khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Mông ở Sơn La.",
+        "origin": null,
+        "originArea": "Cộng đồng Mông ở Sơn La.",
+        "currentProvinceId": "son-la",
+        "characteristics": "Khèn là nhạc cụ hơi nhiều ống, gắn với múa khèn, lễ hội và đời sống cộng đồng.",
+        "instrumentsOrPerformance": "Trình diễn độc tấu hoặc kết hợp múa, có thể xuất hiện trong sinh hoạt, lễ tết và hoạt động cộng đồng.",
+        "culturalValue": "Lưu giữ tri thức chế tác, diễn tấu và biểu đạt bản sắc Mông.",
+        "recognition": "Có hồ sơ di sản tại cơ sở dữ liệu địa phương; cần tra quyết định ghi danh cụ thể khi công bố cấp.",
+        "sourceIds": [
+          "src-265"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      },
+      {
+        "id": "khap-thai",
+        "name": "Khắp Thái",
+        "category": "Dân ca; hát truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Khắp Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Thái ở Sơn La.",
+        "origin": null,
+        "originArea": "Cộng đồng Thái ở Sơn La.",
+        "currentProvinceId": "son-la",
+        "characteristics": "Hát lời thơ, giao duyên, chúc tụng và kể chuyện; làn điệu và ngôn ngữ có biến thể theo nhóm địa phương.",
+        "instrumentsOrPerformance": "Hát trong lễ hội, sinh hoạt cộng đồng và dịp giao lưu; có thể kết hợp nhạc cụ truyền thống.",
+        "culturalValue": "Truyền tải ngôn ngữ, tri thức và quan hệ xã hội.",
+        "recognition": "Không tự gán danh hiệu UNESCO.",
+        "sourceIds": [
+          "src-265"
+        ],
+        "originUnitIds": [
+          "son-la"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Sơn La giữ nguyên cấp tỉnh sau sắp xếp 2025; 75 đơn vị cấp xã.",
+      "Diện tích 14.109,83 km² theo nguồn địa phương. Nguồn truy cập nêu dân số khoảng 1,4 triệu nhưng không có chuỗi thống kê chính xác, vì vậy population.value để null.",
+      "Mã tỉnh 14; biển số 26.",
+      "Tọa độ, địa chỉ xã/phường mới, trụ sở hành chính và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-260",
+      "src-263",
+      "src-264",
+      "src-262",
+      "src-265",
+      "src-267",
+      "src-268",
+      "src-269",
+      "src-270",
+      "src-271"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "son-la",
+      "name": "Sơn La"
+    }
+  ]
+}

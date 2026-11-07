@@ -1,0 +1,758 @@
+{
+  "id": "thai-nguyen",
+  "name": "Tỉnh Thái Nguyên",
+  "administrativeType": "Tỉnh",
+  "region": "Trung du và miền núi phía Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Thái Nguyên – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Thái Nguyên mới kế thừa Bắc Kạn và Thái Nguyên cũ, kết nối hồ Ba Bể, ATK Định Hóa – Chợ Đồn, vùng chè Tân Cương và văn hóa đa dân tộc Việt Bắc.",
+    "featuredDestinationIds": [
+      "ho-ba-be",
+      "atk-dinh-hoa"
+    ],
+    "featuredSpecialtyIds": [
+      "che-tan-cuong",
+      "mien-dong-na-ri"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Thái Nguyên",
+      "administrativeCode": "19",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "20",
+        "97"
+      ],
+      "areaKm2": 8375.21,
+      "areaYear": 2025,
+      "population": {
+        "value": 1869446,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh trung du và miền núi phía Bắc hình thành từ Bắc Kạn và Thái Nguyên cũ; có địa hình núi, hồ, thung lũng và vùng trung du chè.",
+      "boundaries": [],
+      "naturalFeatures": "Hồ Ba Bể, núi đá vôi, rừng đặc dụng, hồ Núi Cốc, sông Cầu và các vùng đồi chè.",
+      "climate": null,
+      "history": "Tỉnh Thái Nguyên mới hình thành từ Bắc Kạn và Thái Nguyên cũ, hoạt động từ 01/07/2025. Không gian mới kế thừa cả các di tích ATK Chợ Đồn, Ba Bể của Bắc Kạn cũ và ATK Định Hóa, vùng chè của Thái Nguyên cũ.",
+      "description": "Thái Nguyên mới kết nối không gian Việt Bắc với hồ Ba Bể, các căn cứ ATK, vùng chè Tân Cương và nhiều thực hành văn hóa Tày, Nùng, Sán Dìu, Dao, Sán Chay.",
+      "sourceIds": [
+        "src-260",
+        "src-261",
+        "src-279",
+        "src-280",
+        "src-262",
+        "src-285",
+        "src-284",
+        "src-281",
+        "src-282",
+        "src-283"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "ho-ba-be",
+        "name": "Hồ Ba Bể và Vườn quốc gia Ba Bể",
+        "category": "Vườn quốc gia; hồ nước ngọt; cảnh quan",
+        "originArea": "Bắc Kạn cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Hồ Ba Bể và Vườn quốc gia Ba Bể – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Ba Bể, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "Hồ nước ngọt tự nhiên nằm giữa núi đá vôi và rừng, gắn với cộng đồng Tày và các bản ven hồ.",
+        "fullDescription": "Ba Bể là điểm đến có giá trị cảnh quan, sinh thái và văn hóa; hoạt động thuyền, lưu trú và tuyến tham quan cần theo hướng dẫn ban quản lý.",
+        "highlights": [
+          "Hồ Ba Bể; động Puông; thác Đầu Đẳng; bản Pác Ngòi."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái hồ – rừng, địa mạo karst và văn hóa bản địa.",
+        "recognition": "Vườn quốc gia và khu Ramsar; cần đối chiếu từng danh hiệu/phạm vi trong hồ sơ quản lý.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-285",
+          "src-280"
+        ],
+        "originUnitIds": [
+          "bac-kan"
+        ]
+      },
+      {
+        "id": "atk-dinh-hoa",
+        "name": "Khu di tích lịch sử quốc gia đặc biệt ATK Định Hóa",
+        "category": "Di tích lịch sử cách mạng",
+        "originArea": "Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử quốc gia đặc biệt ATK Định Hóa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Định Hóa, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "An toàn khu gắn với hoạt động lãnh đạo kháng chiến chống thực dân Pháp và nhiều cơ quan đầu não cách mạng.",
+        "fullDescription": "Hệ thống di tích phân bố tại nhiều địa điểm; cần dùng bản đồ và thông tin ban quản lý để xác định từng điểm, không đồng nhất toàn bộ khu ATK với một địa chỉ.",
+        "highlights": [
+          "Nhà tưởng niệm; lán làm việc; địa điểm cơ quan kháng chiến; cảnh quan rừng."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử cách mạng, kiến trúc – cảnh quan và giáo dục truyền thống.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-284"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "atk-cho-don",
+        "name": "Khu di tích lịch sử ATK Chợ Đồn",
+        "category": "Di tích lịch sử cách mạng",
+        "originArea": "Bắc Kạn cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử ATK Chợ Đồn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Chợ Đồn, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "Không gian căn cứ kháng chiến ở vùng núi Bắc Kạn cũ, gắn với các cơ quan và sự kiện lịch sử của Việt Bắc.",
+        "fullDescription": "ATK Chợ Đồn kế thừa vùng di tích thuộc Bắc Kạn trước sắp xếp. Cần kiểm tra đơn vị quản lý và vị trí cụ thể từng điểm di tích trước khi bổ sung thông tin tham quan.",
+        "highlights": [
+          "Các điểm căn cứ; địa điểm làm việc; không gian rừng và bản làng."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử kháng chiến và mạng lưới căn cứ Việt Bắc.",
+        "recognition": "Cụm di tích lịch sử; cấp xếp hạng từng điểm cần đối chiếu quyết định.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-279",
+          "src-280"
+        ],
+        "originUnitIds": [
+          "bac-kan"
+        ]
+      },
+      {
+        "id": "ho-nui-coc",
+        "name": "Hồ Núi Cốc",
+        "category": "Hồ nhân tạo; cảnh quan; du lịch",
+        "originArea": "Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Hồ Núi Cốc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực hồ Núi Cốc, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "Hồ chứa giữa vùng đồi chè và rừng, phát triển thành không gian vui chơi, nghỉ dưỡng và du lịch sinh thái.",
+        "fullDescription": "Hồ có nhiều đảo nhỏ và cảnh quan mặt nước; giá vé, tuyến dịch vụ, lịch hoạt động cần kiểm tra trực tiếp với khu du lịch.",
+        "highlights": [
+          "Mặt hồ; đảo; khu vui chơi; vùng chè lân cận."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, thủy lợi và du lịch vùng trung du.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-279",
+          "src-280"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "dong-tam-dao-bac-kan",
+        "name": "Cảnh quan hồ và rừng vùng Ba Bể – Chợ Đồn",
+        "category": "Cảnh quan thiên nhiên; sinh thái",
+        "originArea": "Bắc Kạn cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Cảnh quan hồ và rừng vùng Ba Bể – Chợ Đồn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các xã vùng Ba Bể và Chợ Đồn, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "Không gian liên kết hồ, rừng, núi đá vôi và các bản làng vùng cao.",
+        "fullDescription": "Mục này phản ánh vùng cảnh quan rộng, không thay thế cho các điểm tham quan có ban quản lý riêng. Tên gọi và ranh giới du lịch cần thống nhất theo quy hoạch địa phương.",
+        "highlights": [
+          "Hồ; rừng; núi đá; bản làng."
+        ],
+        "historicalCulturalValue": "Giá trị đa dạng sinh học và văn hóa cư trú miền núi.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-285",
+          "src-280"
+        ],
+        "originUnitIds": [
+          "bac-kan"
+        ]
+      },
+      {
+        "id": "di-tich-den-duom",
+        "name": "Di tích đền Đuổm",
+        "category": "Di tích lịch sử; tín ngưỡng",
+        "originArea": "Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Di tích đền Đuổm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Phú Lương, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "Đền thờ Dương Tự Minh, nhân vật lịch sử gắn với vùng đất Phú Lương và thời Lý.",
+        "fullDescription": "Đền Đuổm là không gian thờ tự và tổ chức lễ hội; cần dẫn đúng hồ sơ xếp hạng di tích và lịch hội do địa phương công bố.",
+        "highlights": [
+          "Đền; núi Đuổm; không gian lễ hội."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử địa phương và tín ngưỡng cộng đồng.",
+        "recognition": "Di tích lịch sử – văn hóa; cần đối chiếu hạng xếp loại tại hồ sơ gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "vung-che-tan-cuong",
+        "name": "Vùng chè Tân Cương",
+        "category": "Cảnh quan nông nghiệp; làng nghề",
+        "originArea": "Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Vùng chè Tân Cương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tân Cương, tỉnh Thái Nguyên.",
+        "coordinates": null,
+        "shortDescription": "Vùng sản xuất chè nổi tiếng, kết hợp cảnh quan đồi chè, cơ sở chế biến và trải nghiệm nông nghiệp.",
+        "fullDescription": "Vùng chè hình thành cùng lịch sử phát triển cây chè Thái Nguyên. Chỉ dẫn địa lý Tân Cương có phạm vi cụ thể; không áp dụng cho mọi sản phẩm ghi “chè Thái Nguyên”.",
+        "highlights": [
+          "Đồi chè; nhà máy/cơ sở chế biến; trải nghiệm hái chè."
+        ],
+        "historicalCulturalValue": "Giá trị nông nghiệp, tri thức sản xuất và thương hiệu địa phương.",
+        "recognition": "Chè Tân Cương có chỉ dẫn địa lý; cần phân biệt vùng bảo hộ và các vùng chè khác.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-281",
+          "src-282"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "che-tan-cuong",
+        "name": "Chè Tân Cương",
+        "category": "Nông sản; đồ uống",
+        "originArea": "Tân Cương, Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Chè Tân Cương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè Tân Cương gắn với Tân Cương, Thái Nguyên cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Búp chè tươi."
+        ],
+        "preparation": "Thu hái, làm héo, diệt men, vò và sấy theo quy trình chế biến chè xanh.",
+        "characteristics": "Hương vị phụ thuộc giống, mùa hái, kỹ thuật và vùng nguyên liệu.",
+        "culturalContext": "Gắn với nghề trồng và chế biến chè, sinh kế hộ nông dân và văn hóa tiếp khách.",
+        "recognition": "Sản phẩm vùng có chỉ dẫn địa lý; phạm vi bảo hộ phải theo văn bằng.",
+        "sourceIds": [
+          "src-281",
+          "src-282"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "mien-dong-na-ri",
+        "name": "Miến dong Na Rì",
+        "category": "Sản phẩm chế biến; nông sản",
+        "originArea": "Bắc Kạn cũ – vùng Na Rì.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Miến dong Na Rì – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Miến dong Na Rì gắn với Bắc Kạn cũ – vùng Na Rì.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Củ dong riềng và tinh bột dong."
+        ],
+        "preparation": "Củ dong được nghiền, lọc lấy tinh bột, tráng và tạo sợi, phơi/sấy theo cơ sở.",
+        "characteristics": "Sợi dai, màu và độ trong tùy giống dong và kỹ thuật chế biến.",
+        "culturalContext": "Gắn với vùng nguyên liệu dong riềng và nghề chế biến nông sản ở Bắc Kạn cũ.",
+        "recognition": "Sản phẩm vùng; chứng nhận OCOP/nhãn hiệu từng cơ sở cần tra cứu riêng.",
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "bac-kan"
+        ]
+      },
+      {
+        "id": "banh-chung-bo-dau",
+        "name": "Bánh chưng Bờ Đậu",
+        "category": "Món ăn; bánh truyền thống",
+        "originArea": "Bờ Đậu, Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Bánh chưng Bờ Đậu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh chưng Bờ Đậu gắn với Bờ Đậu, Thái Nguyên cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp",
+          "Đỗ xanh",
+          "Thịt lợn",
+          "Lá dong."
+        ],
+        "preparation": "Gạo, đỗ và thịt được gói bằng lá dong, luộc trong thời gian dài theo cách làm của cơ sở.",
+        "characteristics": "Bánh có hương nếp, nhân đỗ thịt; hình dạng và độ dẻo tùy cách gói, nấu.",
+        "culturalContext": "Làng nghề bánh chưng Bờ Đậu gắn với chợ và tuyến giao thông vùng trung du.",
+        "recognition": "Đặc sản địa phương; không gán danh hiệu chất lượng cho mọi cơ sở.",
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "com-lam-dinh-hoa",
+        "name": "Cơm lam Định Hóa",
+        "category": "Món ăn; ẩm thực dân tộc",
+        "originArea": "Định Hóa, Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Cơm lam Định Hóa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cơm lam Định Hóa gắn với Định Hóa, Thái Nguyên cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp",
+          "Ống tre/nứa",
+          "Nước và gia vị tùy cách làm."
+        ],
+        "preparation": "Gạo được ngâm, cho vào ống tre/nứa, nút lá và nướng trên than.",
+        "characteristics": "Hạt cơm dẻo, có hương tre nứa; thành phẩm thay đổi theo loại gạo và cách nướng.",
+        "culturalContext": "Gắn với bữa ăn và sinh hoạt miền núi, có biến thể ở nhiều cộng đồng vùng cao.",
+        "recognition": "Món ăn vùng; không khẳng định độc quyền Định Hóa.",
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "khau-nhuc-ba-be",
+        "name": "Khâu nhục vùng Ba Bể",
+        "category": "Món ăn; ẩm thực truyền thống",
+        "originArea": "Bắc Kạn cũ – các cộng đồng Tày/Nùng ở một số địa bàn.",
+        "currentProvinceId": "thai-nguyen",
+        "image": {
+          "file": null,
+          "alt": "Khâu nhục vùng Ba Bể – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Khâu nhục vùng Ba Bể gắn với Bắc Kạn cũ – các cộng đồng Tày/Nùng ở một số địa bàn.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt ba chỉ",
+          "Gia vị và rau củ theo công thức địa phương."
+        ],
+        "preparation": "Thịt sơ chế, tẩm ướp, hấp/hầm lâu; nguyên liệu phụ có biến thể theo cộng đồng và hộ gia đình.",
+        "characteristics": "Mềm, đậm vị; cách làm và tên gọi có khác biệt giữa các vùng.",
+        "culturalContext": "Món ăn thường xuất hiện trong tiệc và dịp lễ của một số cộng đồng vùng núi phía Bắc.",
+        "recognition": "Món ăn có phạm vi phổ biến rộng; cần gắn đúng nhóm/cộng đồng và địa bàn.",
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "bac-kan"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-tay-thai-nguyen",
+          "name": "Cộng đồng Tày",
+          "originArea": "Thái Nguyên cũ và Bắc Kạn cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Cộng đồng Tày có truyền thống nhà sàn, Then, đàn tính, lễ hội Lồng Tồng và ngôn ngữ riêng; thực hành có biến thể theo địa bàn.",
+          "sourceIds": [
+            "src-280",
+            "src-283"
+          ],
+          "originUnitIds": [
+            "thai-nguyen",
+            "bac-kan"
+          ]
+        },
+        {
+          "id": "cong-dong-nung-thai-nguyen",
+          "name": "Cộng đồng Nùng",
+          "originArea": "Các địa bàn miền núi của tỉnh mới.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Cộng đồng Nùng có ngôn ngữ, trang phục, lễ tục, dân ca và nghệ thuật Then/Sli; cần ghi nhận theo nhóm địa phương.",
+          "sourceIds": [
+            "src-280",
+            "src-283"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "cong-dong-san-diu",
+          "name": "Cộng đồng Sán Dìu",
+          "originArea": "Một số địa bàn Thái Nguyên cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Cộng đồng có tiếng nói, dân ca Soọng Cô và các thực hành nghi lễ, sinh hoạt riêng.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "originUnitIds": [
+            "thai-nguyen"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-thai-nguyen",
+          "name": "Cộng đồng Dao",
+          "originArea": "Các vùng núi của tỉnh mới.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Trang phục, nghi lễ vòng đời và tập quán của các nhóm Dao đa dạng; không khái quát thành một thực hành duy nhất.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "customs": [
+        {
+          "id": "thuc-hanh-then-dan-tinh",
+          "name": "Thực hành Then và đàn tính",
+          "originArea": "Cộng đồng Tày, Nùng và một số cộng đồng liên quan.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Then vừa có yếu tố nghi lễ vừa có diễn xướng âm nhạc; cần phân biệt Then nghi lễ và các tiết mục sân khấu hóa.",
+          "sourceIds": [
+            "src-283"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-long-tong",
+          "name": "Lễ hội Lồng Tồng",
+          "originArea": "Cộng đồng Tày và một số cộng đồng vùng Việt Bắc, trong đó có Bắc Kạn cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Lễ hội xuống đồng gắn với cầu mùa, sinh kế nông nghiệp và sinh hoạt cộng đồng; ngày tổ chức thay đổi theo địa phương.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "timeAndLocation": "Tổ chức tại các bản/xã theo lịch hội địa phương.",
+          "originUnitIds": [
+            "bac-kan"
+          ]
+        },
+        {
+          "id": "le-hoi-den-duom",
+          "name": "Lễ hội đền Đuổm",
+          "originArea": "Phú Lương, Thái Nguyên cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Lễ hội tưởng niệm nhân vật lịch sử Dương Tự Minh, kết hợp nghi lễ và hoạt động cộng đồng.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "timeAndLocation": "Khu di tích đền Đuổm; lịch cụ thể theo thông báo của địa phương.",
+          "originUnitIds": [
+            "thai-nguyen"
+          ]
+        },
+        {
+          "id": "le-hoi-ba-be",
+          "name": "Lễ hội và sinh hoạt văn hóa vùng Ba Bể",
+          "originArea": "Bắc Kạn cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Các hoạt động cộng đồng và trình diễn văn hóa của cư dân vùng hồ; cần ghi rõ lễ hội cụ thể, chủ thể và lịch tổ chức khi có văn bản.",
+          "sourceIds": [
+            "src-285"
+          ],
+          "timeAndLocation": "Các xã quanh hồ Ba Bể; thời gian theo thông báo địa phương.",
+          "originUnitIds": [
+            "bac-kan"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-tay-nung",
+          "name": "Trang phục truyền thống Tày – Nùng",
+          "originArea": "Cộng đồng Tày, Nùng ở các vùng tiền thân.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Trang phục chàm, cách cắt may, phụ kiện và cách mặc khác nhau theo nhóm và dịp sử dụng.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "trang-phuc-san-diu",
+          "name": "Trang phục Sán Dìu",
+          "originArea": "Cộng đồng Sán Dìu tại Thái Nguyên cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Trang phục truyền thống có kiểu áo, khăn và phụ kiện riêng; cần tư liệu hiện vật và nghệ nhân để mô tả chi tiết.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "originUnitIds": [
+            "thai-nguyen"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-nha-san-tay",
+          "name": "Nhà sàn và không gian cư trú Tày",
+          "originArea": "Các bản Tày vùng Thái Nguyên và Bắc Kạn cũ.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Nhà sàn gắn với cấu trúc gia đình, bếp, sân và sinh kế nông nghiệp miền núi.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "originUnitIds": [
+            "thai-nguyen",
+            "bac-kan"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "khong-gian-atk",
+          "name": "Không gian căn cứ ATK Việt Bắc",
+          "originArea": "Định Hóa (Thái Nguyên cũ) và Chợ Đồn (Bắc Kạn cũ).",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Các điểm căn cứ phân bố trong cảnh quan rừng núi, bản làng và hệ thống đường liên lạc; cần tôn trọng hồ sơ từng di tích.",
+          "sourceIds": [
+            "src-284",
+            "src-279"
+          ],
+          "originUnitIds": [
+            "thai-nguyen",
+            "bac-kan"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-then",
+          "name": "Tín ngưỡng Then",
+          "originArea": "Cộng đồng Tày, Nùng tại miền núi phía Bắc.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Then là thực hành tín ngưỡng có hát, nhạc cụ và nghi lễ; phạm vi thực hành liên tỉnh, không gán riêng cho tỉnh mới.",
+          "sourceIds": [
+            "src-283"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "then-tay-nung",
+          "name": "Thực hành Then của người Tày, Nùng",
+          "originArea": "Cộng đồng Tày, Nùng; phạm vi liên tỉnh.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Then của người Tày, Nùng, Thái được UNESCO ghi danh năm 2019; hồ sơ có các địa bàn thuộc vùng Thái Nguyên mới.",
+          "sourceIds": [
+            "src-283"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "le-hoi-long-tong-di-san",
+          "name": "Lễ hội Lồng Tồng",
+          "originArea": "Cộng đồng Tày ở các vùng tiền thân.",
+          "currentProvinceId": "thai-nguyen",
+          "description": "Lễ hội xuống đồng gắn với thực hành nông nghiệp và cộng đồng; cấp ghi danh cụ thể thay đổi theo di sản/địa bàn.",
+          "sourceIds": [
+            "src-280"
+          ],
+          "originUnitIds": []
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-then-dan-tinh",
+        "name": "Hát Then và đàn tính",
+        "category": "Âm nhạc; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng, Thái; có thực hành tại Thái Nguyên mới.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày, Nùng, Thái; có thực hành tại Thái Nguyên mới.",
+        "currentProvinceId": "thai-nguyen",
+        "characteristics": "Then kết hợp lời hát, giai điệu, nghi lễ và nhạc cụ tính.",
+        "instrumentsOrPerformance": "Đàn tính làm nhạc cụ đệm; bài bản và nghi lễ tùy cộng đồng, nghệ nhân và dịp thực hành.",
+        "culturalValue": "Giữ vai trò trong nghi lễ, truyền dạy và bản sắc cộng đồng.",
+        "recognition": "UNESCO ghi danh năm 2019 đối với Then của người Tày, Nùng, Thái.",
+        "sourceIds": [
+          "src-283"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "soong-co-san-diu",
+        "name": "Hát Soọng Cô",
+        "category": "Dân ca; hát giao duyên",
+        "image": {
+          "file": null,
+          "alt": "Hát Soọng Cô – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Sán Dìu tại Thái Nguyên cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Sán Dìu tại Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "characteristics": "Lối hát đối đáp bằng tiếng Sán Dìu, có câu hát giao duyên và lời ca sinh hoạt.",
+        "instrumentsOrPerformance": "Hát đối giữa các nhóm hoặc cá nhân trong dịp hội, giao lưu và sinh hoạt cộng đồng.",
+        "culturalValue": "Bảo tồn ngôn ngữ, ký ức và quan hệ cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "tac-xinh-san-chay",
+        "name": "Múa Tắc Xình",
+        "category": "Múa dân gian; diễn xướng lễ hội",
+        "image": {
+          "file": null,
+          "alt": "Múa Tắc Xình – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Sán Chay tại Thái Nguyên cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Sán Chay tại Thái Nguyên cũ.",
+        "currentProvinceId": "thai-nguyen",
+        "characteristics": "Điệu múa có động tác mô phỏng hoạt động lao động và sinh hoạt; thực hành gắn với dịp lễ của cộng đồng.",
+        "instrumentsOrPerformance": "Múa theo nhạc và nhịp trống, với đội hình và động tác tập thể.",
+        "culturalValue": "Tái hiện tri thức lao động, niềm vui mùa vụ và bản sắc cộng đồng.",
+        "recognition": "Có ghi nhận trong kiểm kê di sản địa phương; tình trạng công nhận cần kiểm tra hồ sơ từng di sản.",
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": [
+          "thai-nguyen"
+        ]
+      },
+      {
+        "id": "hat-sli-nung",
+        "name": "Hát Sli của người Nùng",
+        "category": "Dân ca; hát đối đáp",
+        "image": {
+          "file": null,
+          "alt": "Hát Sli của người Nùng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Nùng tại các vùng miền núi của tỉnh mới.",
+        "origin": null,
+        "originArea": "Cộng đồng Nùng tại các vùng miền núi của tỉnh mới.",
+        "currentProvinceId": "thai-nguyen",
+        "characteristics": "Lời ca bằng tiếng Nùng, thường mang hình thức đối đáp trong sinh hoạt và dịp hội.",
+        "instrumentsOrPerformance": "Hát giao duyên hoặc hát trong sinh hoạt cộng đồng; hình thức và giai điệu khác nhau theo nhóm.",
+        "culturalValue": "Lưu giữ ngôn ngữ và truyền thống dân ca Nùng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-280"
+        ],
+        "originUnitIds": []
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Bắc Kạn + Thái Nguyên; hoạt động từ 01/07/2025.",
+      "Diện tích 8.375,21 km²; 92 đơn vị cấp xã. Dân số thường trú 1.869.446 người tại 31/12/2025 theo trang điều kiện tự nhiên – xã hội của tỉnh; Nghị quyết 202 ghi quy mô dân số 1.799.489 người tại thời điểm sắp xếp.",
+      "Mã tỉnh 19; biển số 20,97.",
+      "Các điểm Ba Bể/Chợ Đồn có originArea Bắc Kạn cũ; ATK Định Hóa và Tân Cương thuộc Thái Nguyên cũ.",
+      "Trung tâm hành chính, địa chỉ cấp xã, tọa độ và quyền ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-260",
+      "src-261",
+      "src-279",
+      "src-280",
+      "src-262",
+      "src-285",
+      "src-284",
+      "src-281",
+      "src-282",
+      "src-283"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "thai-nguyen",
+      "name": "Thái Nguyên"
+    },
+    {
+      "id": "bac-kan",
+      "name": "Bắc Kạn"
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "id": "quang-ninh",
+  "name": "Thành phố Quảng Ninh",
+  "administrativeType": "Thành phố trực thuộc Trung ương",
+  "region": "Đông Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Quảng Ninh – ảnh đại diện; quyền sử dụng chưa xác minh.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Quảng Ninh không sáp nhập cấp tỉnh trong đợt năm 2025; từ 01/09/2026 toàn bộ tỉnh Quảng Ninh cũ được thành lập thành phố trực thuộc Trung ương. Vịnh Hạ Long, Yên Tử, Bái Tử Long, Cô Tô và văn hóa các cộng đồng Tày, Dao, Sán Dìu là những lớp bản sắc tiêu biểu.",
+    "featuredDestinationIds": [
+      "vinh-ha-long",
+      "yen-tu"
+    ],
+    "featuredSpecialtyIds": [
+      "cha-muc-ha-long",
+      "sa-sung-van-don"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Quảng Ninh",
+      "administrativeCode": "22",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "14"
+      ],
+      "areaKm2": 6231.27,
+      "areaYear": 2026,
+      "population": {
+        "value": 1523400,
+        "year": 2026,
+        "unit": "người"
+      },
+      "geographicLocation": "Thành phố trực thuộc Trung ương ở vùng Đông Bắc, giáp Bắc Ninh, Hải Phòng, Lạng Sơn, Biển Đông và Trung Quốc.",
+      "boundaries": [],
+      "naturalFeatures": "Không gian gồm vùng núi biên giới, trung du, đô thị, vịnh biển, quần đảo, bãi triều và hệ sinh thái rừng – biển.",
+      "climate": null,
+      "history": "Quảng Ninh giữ nguyên đơn vị hành chính cấp tỉnh trong đợt sắp xếp năm 2025. Theo Nghị quyết 36/2026/QH16, từ ngày 01/09/2026 thành lập Thành phố Quảng Ninh trên cơ sở toàn bộ diện tích và quy mô dân số của tỉnh Quảng Ninh.",
+      "description": "Thành phố Quảng Ninh kết hợp di sản Vịnh Hạ Long, không gian Phật giáo Yên Tử, vịnh Bái Tử Long, các đặc khu biển đảo và văn hóa làng biển – miền núi của Đông Bắc.",
+      "sourceIds": [
+        "src-226",
+        "src-232",
+        "src-233",
+        "src-234",
+        "src-249",
+        "src-250",
+        "src-251",
+        "src-252",
+        "src-330",
+        "src-308"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "vinh-ha-long",
+        "name": "Vịnh Hạ Long",
+        "category": "Di sản thiên nhiên thế giới; cảnh quan biển đảo",
+        "originArea": "Tỉnh Quảng Ninh cũ – không sáp nhập cấp tỉnh năm 2025.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Vịnh Hạ Long – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Vịnh Hạ Long, Thành phố Quảng Ninh.",
+        "coordinates": null,
+        "shortDescription": "Vịnh biển có hàng nghìn đảo đá vôi, hang động, bãi cát và hệ sinh thái karst nhiệt đới.",
+        "fullDescription": "Vịnh Hạ Long được UNESCO ghi danh Di sản thiên nhiên thế giới lần đầu năm 1994, mở rộng tiêu chí năm 2000; năm 2023 phạm vi Di sản thế giới được mở rộng thành Vịnh Hạ Long – Quần đảo Cát Bà. Cần phân biệt ranh giới di sản với ranh giới hành chính thành phố.",
+        "highlights": "Đảo đá vôi; hang động; cảnh quan karst; hệ sinh thái biển.",
+        "historicalCulturalValue": "Giá trị địa chất, địa mạo, cảnh quan và đa dạng sinh học.",
+        "recognition": "UNESCO World Heritage; ghi danh 1994, mở rộng 2000 và nối tiếp với Cát Bà 2023.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-250",
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "yen-tu",
+        "name": "Quần thể di tích và danh thắng Yên Tử",
+        "category": "Di sản thế giới; di tích Phật giáo",
+        "originArea": "Tỉnh Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Quần thể di tích và danh thắng Yên Tử – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Yên Tử, Thành phố Quảng Ninh.",
+        "coordinates": null,
+        "shortDescription": "Không gian núi rừng và hệ thống chùa, am, tháp gắn với Thiền phái Trúc Lâm và vua Trần Nhân Tông.",
+        "fullDescription": "Yên Tử là một thành tố trong Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh năm 2025. Nội dung trên website cần mô tả đây là di sản liên tỉnh, không phải di sản riêng chỉ thuộc một địa phương.",
+        "highlights": "Chùa Hoa Yên; chùa Đồng; am, tháp; tuyến hành hương.",
+        "historicalCulturalValue": "Giá trị lịch sử Phật giáo Trúc Lâm, cảnh quan và kiến trúc tôn giáo.",
+        "recognition": "Thành phần của Di sản văn hóa thế giới được UNESCO ghi danh năm 2025.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-251",
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-bai-tu-long",
+        "name": "Vườn quốc gia Bái Tử Long",
+        "category": "Vườn quốc gia; biển đảo; bảo tồn",
+        "originArea": "Tỉnh Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Bái Tử Long – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Vân Đồn và Cô Tô, Thành phố Quảng Ninh.",
+        "coordinates": null,
+        "shortDescription": "Hệ sinh thái biển đảo với rừng, bãi triều, rạn san hô, đảo đá và vùng nước ven bờ.",
+        "fullDescription": "Bái Tử Long là không gian bảo tồn thiên nhiên quan trọng, liên kết các đảo và sinh cảnh biển; hoạt động tham quan phải theo quy định bảo tồn và quản lý khu vực.",
+        "highlights": "Đảo đá; bãi triều; rừng; hệ sinh thái biển.",
+        "historicalCulturalValue": "Bảo tồn đa dạng sinh học và sinh kế biển đảo.",
+        "recognition": "Vườn quốc gia.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "dac-khu-co-to",
+        "name": "Đặc khu Cô Tô",
+        "category": "Quần đảo; du lịch biển đảo",
+        "originArea": "Tỉnh Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Đặc khu Cô Tô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Cô Tô, Thành phố Quảng Ninh.",
+        "coordinates": null,
+        "shortDescription": "Quần đảo ngoài khơi với bãi biển, rừng tự nhiên, làng chài và các điểm ngắm biển.",
+        "fullDescription": "Cô Tô là đơn vị hành chính đặc khu hiện hành; điểm đến gồm bãi biển, hải đăng và các đảo vệ tinh. Lịch tàu, thời tiết và dịch vụ cần xác minh trước khi du lịch.",
+        "highlights": "Bãi Hồng Vàn; Vàn Chảy; hải đăng; đảo Thanh Lân.",
+        "historicalCulturalValue": "Giá trị cảnh quan, sinh kế biển và văn hóa đảo.",
+        "recognition": "Đặc khu; không tự gán danh hiệu UNESCO.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "den-cua-ong",
+        "name": "Đền Cửa Ông",
+        "category": "Di tích lịch sử; tín ngưỡng",
+        "originArea": "Tỉnh Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Đền Cửa Ông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cửa Ông, Thành phố Quảng Ninh.",
+        "coordinates": null,
+        "shortDescription": "Di tích thờ Hưng Nhượng Đại Vương Trần Quốc Tảng và các nhân vật liên quan đến lịch sử nhà Trần.",
+        "fullDescription": "Đền tọa lạc trên địa thế nhìn ra vịnh Bái Tử Long; lễ hội và nghi lễ là sinh hoạt tín ngưỡng quan trọng của cộng đồng địa phương.",
+        "highlights": "Đền Thượng; đền Trung; đền Hạ; tầm nhìn vịnh.",
+        "historicalCulturalValue": "Giá trị lịch sử, tín ngưỡng và ký ức về nhà Trần.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-249",
+          "src-250"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "tra-co-mong-cai",
+        "name": "Không gian du lịch Trà Cổ – Móng Cái",
+        "category": "Bãi biển; di tích; du lịch biên giới",
+        "originArea": "Tỉnh Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Không gian du lịch Trà Cổ – Móng Cái – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Trà Cổ, Thành phố Quảng Ninh.",
+        "coordinates": null,
+        "shortDescription": "Bãi biển dài, đình làng và không gian thương mại – giao lưu vùng biên.",
+        "fullDescription": "Trà Cổ kết hợp cảnh quan biển với di tích đình Trà Cổ và sinh hoạt cư dân ven biển; địa chỉ hành chính hiện hành cần đối chiếu xã/phường cụ thể.",
+        "highlights": "Bãi biển Trà Cổ; đình Trà Cổ; mũi Sa Vĩ.",
+        "historicalCulturalValue": "Giá trị văn hóa làng biển, lịch sử giao thương và cảnh quan.",
+        "recognition": "Điểm du lịch địa phương.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "cha-muc-ha-long",
+        "name": "Chả mực Hạ Long",
+        "category": "Món ăn; hải sản chế biến",
+        "originArea": "Tỉnh Quảng Ninh cũ – vùng Hạ Long.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Chả mực Hạ Long – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chả mực Hạ Long gắn với Tỉnh Quảng Ninh cũ – vùng Hạ Long.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Mực tươi",
+          "Gia vị."
+        ],
+        "preparation": "Mực được giã hoặc xay thô, nêm gia vị, tạo miếng và chiên vàng; phương pháp cụ thể khác nhau theo cơ sở.",
+        "characteristics": "Miếng chả có độ dai, giòn và mùi thơm mực.",
+        "culturalContext": "Gắn với ẩm thực đô thị biển Hạ Long và dịch vụ du lịch.",
+        "recognition": "Đặc sản địa phương; cần phân biệt sản phẩm có nhãn hiệu/chứng nhận với sản phẩm cùng tên.",
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "sa-sung-van-don",
+        "name": "Sá sùng Vân Đồn",
+        "category": "Hải sản; sản phẩm khai thác biển",
+        "originArea": "Tỉnh Quảng Ninh cũ – Vân Đồn.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Sá sùng Vân Đồn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sá sùng Vân Đồn gắn với Tỉnh Quảng Ninh cũ – Vân Đồn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Sá sùng (loài giun biển thuộc nhóm Sipuncula)."
+        ],
+        "preparation": "Khai thác và sơ chế; có dạng tươi hoặc phơi/sấy khô theo tập quán và quy trình cơ sở.",
+        "characteristics": "Vị ngọt đậm, thường dùng làm nguyên liệu nấu nước dùng hoặc chế biến món ăn.",
+        "culturalContext": "Gắn với tri thức khai thác bãi triều và sinh kế ven biển.",
+        "recognition": "Sản phẩm đặc trưng được nguồn tỉnh giới thiệu; khai thác phải tuân thủ quy định bảo vệ nguồn lợi.",
+        "sourceIds": [
+          "src-252"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "ga-tien-yen",
+        "name": "Gà Tiên Yên",
+        "category": "Nông sản; thực phẩm địa phương",
+        "originArea": "Tỉnh Quảng Ninh cũ – Tiên Yên.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Gà Tiên Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gà Tiên Yên gắn với Tỉnh Quảng Ninh cũ – Tiên Yên.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Gà địa phương nuôi thả."
+        ],
+        "preparation": "Nuôi theo phương thức địa phương; chế biến luộc, hấp hoặc các món ăn khác.",
+        "characteristics": "Thịt săn, da vàng; đặc điểm tùy giống, cách nuôi và chế biến.",
+        "culturalContext": "Gắn với vùng Tiên Yên và chợ địa phương.",
+        "recognition": "Đặc sản vùng; không tự khẳng định chứng nhận địa lý nếu không có văn bằng.",
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "ngan-quang-ninh",
+        "name": "Ngán Quảng Ninh",
+        "category": "Hải sản; món ăn",
+        "originArea": "Tỉnh Quảng Ninh cũ – vùng ven biển và cửa sông.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Ngán Quảng Ninh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Ngán Quảng Ninh gắn với Tỉnh Quảng Ninh cũ – vùng ven biển và cửa sông.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Ngán (nhuyễn thể hai mảnh vỏ)",
+          "Gia vị tùy món."
+        ],
+        "preparation": "Có thể chế biến hấp, nướng, nấu cháo hoặc làm rượu ngán; cách chế biến thay đổi theo địa phương.",
+        "characteristics": "Hương vị đậm, đặc trưng của nhuyễn thể vùng triều.",
+        "culturalContext": "Gắn với hệ sinh thái bãi triều và ẩm thực vùng biển.",
+        "recognition": "Đặc sản hải sản địa phương; cần theo quy định khai thác mùa vụ.",
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "ruou-ba-kich",
+        "name": "Rượu ba kích",
+        "category": "Đồ uống; sản phẩm chế biến",
+        "originArea": "Tỉnh Quảng Ninh cũ – vùng miền núi và trung du.",
+        "currentProvinceId": "quang-ninh",
+        "image": {
+          "file": null,
+          "alt": "Rượu ba kích – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Rượu ba kích gắn với Tỉnh Quảng Ninh cũ – vùng miền núi và trung du.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Rễ ba kích",
+          "Rượu nền."
+        ],
+        "preparation": "Ba kích được sơ chế và ngâm trong rượu theo quy trình cơ sở; chất lượng tùy nguồn nguyên liệu.",
+        "characteristics": "Màu sắc và mùi vị tùy cách chế biến; không xem là sản phẩm có công dụng chữa bệnh.",
+        "culturalContext": "Gắn với cây dược liệu vùng đồi núi và sản phẩm quà tặng địa phương.",
+        "recognition": "Không gán tác dụng điều trị; cần xác minh tiêu chuẩn, nguồn gốc và pháp lý quảng cáo.",
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-dao-quang-ninh",
+          "name": "Cộng đồng Dao",
+          "originArea": "Các vùng núi thuộc Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Người Dao có nhiều nhóm địa phương, trang phục và nghi lễ khác nhau; cần ghi rõ cộng đồng chủ thể theo từng địa bàn, không dùng một mô tả bao trùm.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        },
+        {
+          "id": "cong-dong-tay-quang-ninh",
+          "name": "Cộng đồng Tày",
+          "originArea": "Các vùng Bình Liêu, Tiên Yên và miền núi thuộc Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Cộng đồng Tày duy trì tiếng nói, dân ca, Then, đàn tính, nghi lễ và sinh hoạt bản làng.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        },
+        {
+          "id": "cong-dong-san-diu-quang-ninh",
+          "name": "Cộng đồng Sán Dìu",
+          "originArea": "Một số địa bàn cư trú thuộc Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Cộng đồng Sán Dìu có ngôn ngữ, dân ca Soóng Cọ và nghi lễ riêng; cần xác định chính xác địa bàn và người thực hành.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-lang-bien-quang-ninh",
+          "name": "Tập quán và sinh hoạt làng biển",
+          "originArea": "Các cộng đồng ven biển Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Sinh kế đánh bắt, nuôi trồng thủy sản, tín ngưỡng thờ cá Ông và thờ Thành hoàng làng có biến thể theo từng địa phương.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-yen-tu",
+          "name": "Lễ hội Yên Tử",
+          "originArea": "Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Hoạt động hành hương và lễ hội gắn với Thiền phái Trúc Lâm, tưởng niệm Phật hoàng Trần Nhân Tông.",
+          "sourceIds": [
+            "src-251",
+            "src-249"
+          ],
+          "timeAndLocation": "Khu di tích Yên Tử; mùa lễ hội đầu xuân, lịch cụ thể theo ban tổ chức.",
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        },
+        {
+          "id": "le-hoi-den-cua-ong",
+          "name": "Lễ hội Đền Cửa Ông",
+          "originArea": "Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Lễ hội tưởng niệm Trần Quốc Tảng và các nhân vật lịch sử nhà Trần; nghi lễ và hội diễn ra tại quần thể đền.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "timeAndLocation": "Đền Cửa Ông; thời gian tổ chức theo lịch địa phương.",
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        },
+        {
+          "id": "le-hoi-dinh-tra-co",
+          "name": "Lễ hội đình Trà Cổ",
+          "originArea": "Quảng Ninh cũ – Trà Cổ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Lễ hội làng biển gắn với đình Trà Cổ, nghi lễ tế Thành hoàng và sinh hoạt cộng đồng cư dân ven biển.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "timeAndLocation": "Đình Trà Cổ; thường tổ chức vào tháng Sáu âm lịch, kiểm tra lịch từng năm.",
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-dao-tay-san-diu-quang-ninh",
+          "name": "Trang phục Dao, Tày và Sán Dìu",
+          "originArea": "Các cộng đồng miền núi Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Mỗi nhóm tộc người có kiểu dáng, hoa văn, màu sắc và dịp mặc khác nhau; không trộn lẫn trang phục của các nhóm.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-lang-chai-va-ban-mien-nui",
+          "name": "Không gian làng chài và bản miền núi",
+          "originArea": "Các khu vực ven biển và miền núi Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Thành phố hiện hành kế thừa cả không gian làng biển, đảo và bản miền núi; cách tổ chức không gian sống, sinh kế và lễ tục khác nhau theo địa bàn.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "dinh-tra-co-va-khong-gian-lang-bien",
+          "name": "Đình Trà Cổ và không gian làng biển",
+          "originArea": "Quảng Ninh cũ – Trà Cổ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Đình làng là không gian thờ Thành hoàng, hội họp và tổ chức lễ hội của cư dân ven biển.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        },
+        {
+          "id": "khong-gian-thien-mon-yen-tu",
+          "name": "Không gian chùa tháp Yên Tử",
+          "originArea": "Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Hệ thống chùa, am, tháp và đường hành hương gắn với lịch sử Thiền phái Trúc Lâm và cảnh quan núi rừng.",
+          "sourceIds": [
+            "src-251"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-then-dan-tinh-quang-ninh",
+          "name": "Thực hành Then và đàn tính",
+          "originArea": "Cộng đồng Tày tại Quảng Ninh cũ.",
+          "currentProvinceId": "quang-ninh",
+          "description": "Then kết hợp nghi lễ, lời hát và nhạc cụ; cần mô tả theo nhóm thực hành và không đồng nhất với các dạng diễn xướng sân khấu hóa.",
+          "sourceIds": [
+            "src-249"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "vinh-ha-long-di-san-the-gioi",
+          "name": "Vịnh Hạ Long",
+          "originArea": "Quảng Ninh cũ; một phần cảnh quan di sản mở rộng với quần đảo Cát Bà.",
+          "currentProvinceId": "quang-ninh",
+          "description": "UNESCO ghi danh năm 1994 và mở rộng tiêu chí năm 2000; di sản liên kết với quần đảo Cát Bà từ năm 2023.",
+          "sourceIds": [
+            "src-250"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        },
+        {
+          "id": "yen-tu-vinh-nghiem-con-son-kiep-bac",
+          "name": "Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc",
+          "originArea": "Quảng Ninh cũ, Bắc Ninh và Hải Phòng.",
+          "currentProvinceId": "quang-ninh",
+          "description": "UNESCO ghi danh năm 2025; Yên Tử là thành tố thuộc địa bàn Quảng Ninh cũ.",
+          "sourceIds": [
+            "src-251"
+          ],
+          "originUnitIds": [
+            "quang-ninh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-nha-to-cua-dinh",
+        "name": "Hát nhà tơ – hát cửa đình",
+        "category": "Hát nghi lễ; diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Hát nhà tơ – hát cửa đình – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng cư dân vùng biển Quảng Ninh cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng cư dân vùng biển Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "characteristics": "Loại hình hát cửa đình có bối cảnh thờ tự, nghi lễ và sinh hoạt làng biển; tên gọi và bài bản có thể khác nhau giữa địa phương.",
+        "instrumentsOrPerformance": "Hình thức trình diễn có hát, nhạc cụ và tiết mục theo nghi lễ; cần sưu tầm tư liệu của nghệ nhân và ban quản lý di tích.",
+        "culturalValue": "Gìn giữ ký ức làng biển và thực hành nghi lễ cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "hat-soong-co",
+        "name": "Hát Soóng Cọ",
+        "category": "Dân ca; hát giao duyên",
+        "image": {
+          "file": null,
+          "alt": "Hát Soóng Cọ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Sán Dìu ở Quảng Ninh cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Sán Dìu ở Quảng Ninh cũ.",
+        "currentProvinceId": "quang-ninh",
+        "characteristics": "Hát đối đáp bằng tiếng Sán Dìu, thường xuất hiện trong gặp gỡ, sinh hoạt cộng đồng và dịp hội.",
+        "instrumentsOrPerformance": "Hát theo lối đối đáp; lời ca được truyền dạy và biến đổi theo nhóm địa phương.",
+        "culturalValue": "Bảo tồn tiếng nói, ký ức và quan hệ cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": [
+          "quang-ninh"
+        ]
+      },
+      {
+        "id": "then-dan-tinh-tay",
+        "name": "Then và đàn tính của người Tày",
+        "category": "Nghi lễ; âm nhạc truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Then và đàn tính của người Tày – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày tại Bình Liêu, Tiên Yên và các khu vực liên quan.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày tại Bình Liêu, Tiên Yên và các khu vực liên quan.",
+        "currentProvinceId": "quang-ninh",
+        "characteristics": "Then có thể là thực hành nghi lễ và nghệ thuật diễn xướng; hình thức thực hành khác nhau theo cộng đồng và bối cảnh.",
+        "instrumentsOrPerformance": "Đàn tính đi cùng lời hát Then, phách và các nhạc cụ tùy bài bản.",
+        "culturalValue": "Duy trì tri thức nghi lễ, âm nhạc và bản sắc Tày.",
+        "recognition": "Thực hành Then của người Tày, Nùng, Thái được UNESCO ghi danh năm 2019; cần ghi rõ đây là di sản liên tỉnh.",
+        "sourceIds": [
+          "src-249"
+        ],
+        "originUnitIds": []
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Năm 2025, Quảng Ninh giữ nguyên đơn vị cấp tỉnh theo Nghị quyết 202/2025/QH15; không sáp nhập với tỉnh khác.",
+      "Từ 01/09/2026 là Thành phố Quảng Ninh trực thuộc Trung ương theo Nghị quyết 36/2026/QH16.",
+      "Diện tích 6.231,27 km²; quy mô dân số 1.523.400 người; 54 đơn vị cấp xã (30 phường, 22 xã, 2 đặc khu) theo hồ sơ thành lập thành phố.",
+      "Mã đơn vị cấp tỉnh 22; biển số 14.",
+      "Di sản Vịnh Hạ Long và quần thể Yên Tử cần ghi đúng danh hiệu và phạm vi liên tỉnh.",
+      "Trung tâm hành chính, địa chỉ cấp xã, tọa độ và giấy phép ảnh cần bổ sung.",
+      "Thành phố Quảng Ninh được thành lập theo Nghị quyết 36/2026/QH16, hiệu lực 01/09/2026; tỉnh Quảng Ninh giữ nguyên trong đợt sắp xếp cấp tỉnh năm 2025.",
+      "Theo hồ sơ thành lập thành phố năm 2026: diện tích 6.231,27 km², quy mô dân số tổng 1.523.400 người (gồm 1.457.503 thường trú và 65.897 tạm trú); cơ cấu 54 đơn vị cấp xã gồm 30 phường, 22 xã và 2 đặc khu. Đây không phải số dân thường trú đơn thuần."
+    ],
+    "sourceIds": [
+      "src-226",
+      "src-232",
+      "src-233",
+      "src-234",
+      "src-249",
+      "src-250",
+      "src-251",
+      "src-252",
+      "src-330",
+      "src-308"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "quang-ninh",
+      "name": "Quảng Ninh"
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "id": "tay-ninh",
+  "name": "Tỉnh Tây Ninh",
+  "administrativeType": "Tỉnh",
+  "region": "Đông Nam Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Tây Ninh – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Tây Ninh mới kế thừa toàn bộ Tây Ninh và Long An cũ. Núi Bà Đen, Tòa Thánh Cao Đài, căn cứ Trung ương Cục miền Nam cùng vùng sông Vàm Cỏ, làng nghề Trảng Bàng và Đồng Tháp Mười tạo nên không gian văn hóa đa dạng.",
+    "featuredDestinationIds": [
+      "nui-ba-den",
+      "toa-thanh-cao-dai"
+    ],
+    "featuredSpecialtyIds": [
+      "banh-trang-phoi-suong-trang-bang",
+      "muoi-tom-tay-ninh"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Tây Ninh",
+      "administrativeCode": "80",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "62",
+        "70"
+      ],
+      "areaKm2": 8536.44,
+      "areaYear": 2025,
+      "population": {
+        "value": 3254170,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh Đông Nam Bộ mới hình thành từ Tây Ninh và Long An cũ; có vùng biên giới Campuchia, đồng bằng sông Vàm Cỏ, vùng đất ngập nước Đồng Tháp Mười và các khu vực bán sơn địa.",
+      "boundaries": [],
+      "naturalFeatures": "Núi Bà Đen, hồ Dầu Tiếng, sông Vàm Cỏ, rừng khộp và hệ sinh thái đất ngập nước vùng Đồng Tháp Mười.",
+      "climate": null,
+      "history": "Tỉnh Tây Ninh mới hình thành từ toàn bộ tỉnh Long An và Tây Ninh cũ, chính quyền mới hoạt động từ 01/07/2025. Hai vùng tiền thân có lịch sử, sinh kế và bản sắc riêng: vùng biên giới – núi Bà Đen, đạo Cao Đài tại Tây Ninh cũ; vùng sông Vàm Cỏ, Đồng Tháp Mười và làng nghề tại Long An cũ.",
+      "description": "Tây Ninh mới kết nối không gian núi Bà Đen, Tòa Thánh Cao Đài và căn cứ cách mạng với vùng sông Vàm Cỏ, làng nghề bánh tráng và hệ sinh thái Đồng Tháp Mười của Long An cũ.",
+      "sourceIds": [
+        "src-260",
+        "src-261",
+        "src-272",
+        "src-262",
+        "src-274",
+        "src-275",
+        "src-276",
+        "src-277",
+        "src-278"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "nui-ba-den",
+        "name": "Núi Bà Đen",
+        "category": "Danh lam thắng cảnh; tín ngưỡng; du lịch núi",
+        "originArea": "Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Núi Bà Đen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Núi Bà Đen, tỉnh Tây Ninh.",
+        "coordinates": null,
+        "shortDescription": "Khối núi nổi bật ở Đông Nam Bộ, gắn với cảnh quan, tín ngưỡng Linh Sơn Thánh Mẫu và hoạt động hành hương.",
+        "fullDescription": "Núi Bà Đen có hệ thống chùa, am, công trình tín ngưỡng và tuyến tham quan núi. Cần phân biệt công trình hiện đại với các thực hành tín ngưỡng lâu đời; thông tin cáp treo và dịch vụ thay đổi theo đơn vị vận hành.",
+        "highlights": [
+          "Đỉnh núi; hệ thống chùa; lễ Vía Bà; cảnh quan vùng đồng bằng."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, tín ngưỡng và sinh hoạt hành hương.",
+        "recognition": "Tín ngưỡng Vía Bà Linh Sơn Thánh Mẫu được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2018.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-275",
+          "src-274"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "toa-thanh-cao-dai",
+        "name": "Tòa Thánh Cao Đài Tây Ninh",
+        "category": "Kiến trúc tôn giáo; tín ngưỡng",
+        "originArea": "Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Tòa Thánh Cao Đài Tây Ninh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Long Hoa, tỉnh Tây Ninh.",
+        "coordinates": null,
+        "shortDescription": "Công trình trung tâm của đạo Cao Đài Tây Ninh, nổi bật với kiến trúc và biểu tượng tôn giáo.",
+        "fullDescription": "Tòa Thánh là không gian tôn giáo đang hoạt động. Khi tham quan cần tuân thủ nội quy, trang phục và quy định của cơ sở tôn giáo; mô tả giáo lý theo tài liệu của tổ chức và không gán nhận định chủ quan.",
+        "highlights": [
+          "Chính điện; kiến trúc; biểu tượng tôn giáo; nghi lễ."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, lịch sử tôn giáo và đời sống cộng đồng tín đồ.",
+        "recognition": "Cơ sở tôn giáo; không gán danh hiệu di sản nếu chưa có quyết định riêng.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-278",
+          "src-274"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "can-cu-trung-uong-cuc-mien-nam",
+        "name": "Di tích Căn cứ Trung ương Cục miền Nam",
+        "category": "Di tích lịch sử cách mạng",
+        "originArea": "Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Di tích Căn cứ Trung ương Cục miền Nam – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tân Lập, tỉnh Tây Ninh.",
+        "coordinates": null,
+        "shortDescription": "Căn cứ cách mạng trong kháng chiến chống Mỹ, gắn với hoạt động lãnh đạo, chỉ đạo cách mạng miền Nam.",
+        "fullDescription": "Di tích có hệ thống nhà làm việc, hầm, hội trường và không gian rừng. Thuyết minh cần phân biệt các giai đoạn sử dụng và tên gọi lịch sử.",
+        "highlights": [
+          "Nhà làm việc; hầm; hội trường; không gian rừng."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử cách mạng và giáo dục truyền thống.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-274"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-lo-go-xa-mat",
+        "name": "Vườn quốc gia Lò Gò – Xa Mát",
+        "category": "Vườn quốc gia; bảo tồn đa dạng sinh học",
+        "originArea": "Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Lò Gò – Xa Mát – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực biên giới Tây Ninh – Campuchia.",
+        "coordinates": null,
+        "shortDescription": "Không gian rừng và đất ngập nước vùng biên, có giá trị đa dạng sinh học và hành lang sinh thái.",
+        "fullDescription": "Vườn quốc gia bảo tồn các sinh cảnh rừng, vùng ngập nước và loài hoang dã. Tuyến tham quan và hoạt động nghiên cứu cần theo ban quản lý.",
+        "highlights": [
+          "Rừng khộp; đất ngập nước; sinh cảnh chim và động vật."
+        ],
+        "historicalCulturalValue": "Giá trị bảo tồn thiên nhiên và sinh thái biên giới.",
+        "recognition": "Vườn quốc gia; khu bảo tồn thiên nhiên.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-274"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "lang-noi-tan-lap",
+        "name": "Khu du lịch sinh thái Làng nổi Tân Lập",
+        "category": "Du lịch sinh thái; đất ngập nước",
+        "originArea": "Long An cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch sinh thái Làng nổi Tân Lập – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tân Lập, tỉnh Tây Ninh.",
+        "coordinates": null,
+        "shortDescription": "Không gian sinh thái vùng Đồng Tháp Mười, có rừng tràm, kênh rạch và hệ sinh thái đất ngập nước.",
+        "fullDescription": "Tân Lập gắn với cảnh quan rừng tràm và hệ thống đường đi bộ, xuồng/kênh tùy hoạt động được cấp phép. Mùa nước và điều kiện bảo tồn ảnh hưởng trải nghiệm.",
+        "highlights": [
+          "Rừng tràm; kênh rạch; đường xuyên rừng; hệ động thực vật vùng ngập nước."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, du lịch và sinh kế vùng đất ngập nước.",
+        "recognition": "Điểm du lịch sinh thái; không gán danh hiệu di sản.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-274"
+        ],
+        "originUnitIds": [
+          "long-an"
+        ]
+      },
+      {
+        "id": "nha-tram-cot-can-duoc",
+        "name": "Nhà trăm cột Cần Đước",
+        "category": "Di tích kiến trúc nghệ thuật; nhà cổ",
+        "originArea": "Long An cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Nhà trăm cột Cần Đước – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cần Đước, tỉnh Tây Ninh.",
+        "coordinates": null,
+        "shortDescription": "Nhà gỗ truyền thống có hệ thống cột lớn, chạm khắc và bố cục kiến trúc Nam Bộ.",
+        "fullDescription": "Công trình phản ánh kỹ thuật mộc, thẩm mỹ và điều kiện kinh tế xã hội của chủ nhân trong giai đoạn đầu thế kỷ XX; cần đối chiếu hồ sơ di tích khi nêu niên đại và xếp hạng.",
+        "highlights": [
+          "Kết cấu gỗ; hệ cột; chạm khắc; đồ thờ và không gian nhà."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, nghệ thuật và lịch sử cư trú Nam Bộ.",
+        "recognition": "Di tích kiến trúc nghệ thuật; cấp xếp hạng cụ thể cần trích quyết định gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-274"
+        ],
+        "originUnitIds": [
+          "long-an"
+        ]
+      },
+      {
+        "id": "ho-dau-tieng",
+        "name": "Hồ Dầu Tiếng",
+        "category": "Hồ chứa; cảnh quan; cấp nước",
+        "originArea": "Tây Ninh cũ và vùng giáp ranh.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Hồ Dầu Tiếng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực hồ Dầu Tiếng, tỉnh Tây Ninh và địa bàn giáp ranh.",
+        "coordinates": null,
+        "shortDescription": "Hồ chứa nhân tạo lớn phục vụ thủy lợi, cấp nước và có cảnh quan mặt nước rộng.",
+        "fullDescription": "Hồ có vai trò thủy lợi và sinh thái; bờ hồ, đảo và hoạt động du lịch phải theo quy định quản lý, không tự coi mọi khu vực là điểm tham quan công cộng.",
+        "highlights": [
+          "Mặt hồ; đảo; vùng bán ngập; công trình đầu mối."
+        ],
+        "historicalCulturalValue": "Giá trị hạ tầng thủy lợi, cảnh quan và sinh kế.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-274"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "banh-trang-phoi-suong-trang-bang",
+        "name": "Bánh tráng phơi sương Trảng Bàng",
+        "category": "Sản phẩm chế biến; nghề thủ công ẩm thực",
+        "originArea": "Tây Ninh cũ – Trảng Bàng.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Bánh tráng phơi sương Trảng Bàng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh tráng phơi sương Trảng Bàng gắn với Tây Ninh cũ – Trảng Bàng.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bột gạo",
+          "Muối",
+          "Nước."
+        ],
+        "preparation": "Bánh được tráng, nướng rồi phơi sương theo kỹ thuật làng nghề; quy trình cụ thể thay đổi giữa cơ sở.",
+        "characteristics": "Bánh mềm, có độ dai và hương gạo; dùng cuốn rau, thịt và các món ăn kèm.",
+        "culturalContext": "Gắn với làng nghề và văn hóa ẩm thực Trảng Bàng.",
+        "recognition": "Nghề làm bánh tráng phơi sương được ghi danh di sản văn hóa phi vật thể quốc gia theo nguồn địa phương; kiểm tra quyết định khi cần ghi chính xác năm.",
+        "sourceIds": [
+          "src-277",
+          "src-276"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "muoi-tom-tay-ninh",
+        "name": "Muối tôm Tây Ninh",
+        "category": "Gia vị; sản phẩm chế biến",
+        "originArea": "Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Muối tôm Tây Ninh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Muối tôm Tây Ninh gắn với Tây Ninh cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Muối",
+          "Tôm khô hoặc nguyên liệu tôm",
+          "Ớt",
+          "Tỏi và gia vị."
+        ],
+        "preparation": "Nguyên liệu được rang/xay/trộn và sấy theo công thức cơ sở sản xuất.",
+        "characteristics": "Vị mặn, cay, thơm; hạt và màu thay đổi tùy cơ sở.",
+        "culturalContext": "Gia vị phổ biến trong ăn trái cây và món cuốn vùng Đông Nam Bộ.",
+        "recognition": "Sản phẩm địa phương; không mặc định mọi nhãn hàng có chứng nhận OCOP.",
+        "sourceIds": [
+          "src-276"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "mang-cau-ba-den",
+        "name": "Mãng cầu Bà Đen",
+        "category": "Trái cây; nông sản",
+        "originArea": "Vùng chân núi Bà Đen, Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Mãng cầu Bà Đen – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mãng cầu Bà Đen gắn với Vùng chân núi Bà Đen, Tây Ninh cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả mãng cầu ta (na)."
+        ],
+        "preparation": "Thu hoạch khi đạt độ già phù hợp, phân loại và tiêu thụ tươi hoặc chế biến.",
+        "characteristics": "Thịt quả thơm, vị ngọt chua tùy giống và độ chín.",
+        "culturalContext": "Gắn với vùng trồng nông nghiệp quanh núi Bà Đen.",
+        "recognition": "Sản phẩm nông nghiệp vùng; chứng nhận cụ thể theo từng vùng trồng/cơ sở.",
+        "sourceIds": [
+          "src-276",
+          "src-275"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "gao-nang-thom-cho-dao",
+        "name": "Gạo Nàng Thơm Chợ Đào",
+        "category": "Nông sản; gạo đặc sản",
+        "originArea": "Long An cũ – vùng Chợ Đào, Cần Đước.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Gạo Nàng Thơm Chợ Đào – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gạo Nàng Thơm Chợ Đào gắn với Long An cũ – vùng Chợ Đào, Cần Đước.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Lúa Nàng Thơm Chợ Đào."
+        ],
+        "preparation": "Canh tác theo điều kiện thổ nhưỡng vùng; thu hoạch, xay xát và bảo quản theo lô.",
+        "characteristics": "Hạt gạo và mùi thơm đặc trưng theo giống, điều kiện trồng và bảo quản.",
+        "culturalContext": "Gắn với vùng lúa Chợ Đào và tập quán canh tác vùng hạ lưu sông Vàm Cỏ.",
+        "recognition": "Có hồ sơ thương hiệu/chỉ dẫn địa lý cần kiểm tra phạm vi văn bằng trước khi gán chứng nhận cho sản phẩm cụ thể.",
+        "sourceIds": [
+          "src-272"
+        ],
+        "originUnitIds": [
+          "long-an"
+        ]
+      },
+      {
+        "id": "lap-xuong-can-duoc",
+        "name": "Lạp xưởng Cần Đước",
+        "category": "Sản phẩm chế biến; thực phẩm",
+        "originArea": "Long An cũ – vùng Cần Đước.",
+        "currentProvinceId": "tay-ninh",
+        "image": {
+          "file": null,
+          "alt": "Lạp xưởng Cần Đước – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Lạp xưởng Cần Đước gắn với Long An cũ – vùng Cần Đước.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt heo",
+          "Mỡ",
+          "Gia vị",
+          "Vỏ nhồi."
+        ],
+        "preparation": "Thịt được tẩm ướp, nhồi và phơi/sấy hoặc lên men nhẹ theo phương pháp cơ sở.",
+        "characteristics": "Vị mặn ngọt, thơm gia vị; độ khô và màu tùy quy trình.",
+        "culturalContext": "Gắn với nghề chế biến thực phẩm và chợ địa phương vùng Cần Đước.",
+        "recognition": "Đặc sản địa phương; cần xác minh nhà sản xuất và tiêu chuẩn an toàn thực phẩm.",
+        "sourceIds": [
+          "src-272"
+        ],
+        "originUnitIds": [
+          "long-an"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh-tay-ninh",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Các vùng Tây Ninh cũ và Long An cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Cộng đồng Kinh có nếp sống nông nghiệp, làng xã, nghề thủ công, tín ngưỡng và sinh hoạt ven sông, vùng biên.",
+          "sourceIds": [
+            "src-272",
+            "src-274"
+          ],
+          "originUnitIds": [
+            "tay-ninh",
+            "long-an"
+          ]
+        },
+        {
+          "id": "cong-dong-khmer-tay-ninh-long-an",
+          "name": "Cộng đồng Khmer",
+          "originArea": "Một số địa bàn cư trú tại vùng Tây Ninh mở rộng.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Cần ghi nhận theo địa bàn cụ thể và số liệu thống kê dân tộc; không khái quát thành toàn tỉnh.",
+          "sourceIds": [
+            "src-272"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "thuc-hanh-tin-nguong-cao-dai",
+          "name": "Thực hành tín ngưỡng đạo Cao Đài",
+          "originArea": "Tây Ninh cũ và các cộng đồng tín đồ ở nhiều tỉnh.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Đạo Cao Đài hình thành tại Nam Bộ đầu thế kỷ XX; Tòa Thánh Tây Ninh là trung tâm quan trọng. Mô tả trung lập, tôn trọng tín đồ và tài liệu của tổ chức.",
+          "sourceIds": [
+            "src-278"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-via-ba-linh-son-thanh-mau",
+          "name": "Lễ Vía Bà Linh Sơn Thánh Mẫu",
+          "originArea": "Núi Bà Đen, Tây Ninh cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Lễ hội hành hương và thực hành tín ngưỡng tại hệ thống chùa, am trên núi Bà Đen.",
+          "sourceIds": [
+            "src-275"
+          ],
+          "timeAndLocation": "Khu vực Núi Bà Đen; thời gian và chương trình từng năm theo đơn vị quản lý.",
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        },
+        {
+          "id": "le-hoi-lam-chay",
+          "name": "Lễ hội Làm Chay",
+          "originArea": "Tầm Vu, Long An cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Lễ hội cộng đồng có nghi thức tưởng niệm, cầu an và sinh hoạt văn hóa; cần mô tả đúng địa bàn và chủ thể.",
+          "sourceIds": [
+            "src-274"
+          ],
+          "timeAndLocation": "Khu vực Tầm Vu; ngày tổ chức theo lịch lễ hội địa phương.",
+          "originUnitIds": [
+            "long-an"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-cao-dai",
+          "name": "Trang phục nghi lễ Cao Đài",
+          "originArea": "Cộng đồng tín đồ Cao Đài Tây Ninh và các địa phương.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Trang phục tôn giáo có quy chuẩn theo vai trò và nghi lễ; cần dùng hình ảnh/tư liệu của cơ sở tôn giáo được phép.",
+          "sourceIds": [
+            "src-278"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "van-hoa-lang-nghe-trang-bang",
+          "name": "Không gian làng nghề bánh tráng Trảng Bàng",
+          "originArea": "Trảng Bàng, Tây Ninh cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Làng nghề gắn với hộ gia đình, kỹ thuật tráng – nướng – phơi sương và mạng lưới chợ/ẩm thực.",
+          "sourceIds": [
+            "src-277"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-toa-thanh-cao-dai",
+          "name": "Kiến trúc Tòa Thánh Cao Đài",
+          "originArea": "Tây Ninh cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Công trình có hệ thống biểu tượng và tổ chức không gian tôn giáo; giới thiệu qua nguồn cơ sở tôn giáo và cơ quan văn hóa.",
+          "sourceIds": [
+            "src-278"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-linh-son-thanh-mau",
+          "name": "Tín ngưỡng thờ Linh Sơn Thánh Mẫu",
+          "originArea": "Cộng đồng hành hương Núi Bà Đen, Tây Ninh cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Thực hành tín ngưỡng có nghi thức và sinh hoạt hành hương; tránh đồng nhất với toàn bộ tín ngưỡng thờ Mẫu của người Việt.",
+          "sourceIds": [
+            "src-275"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "tin-nguong-via-ba-linh-son",
+          "name": "Tín ngưỡng Vía Bà Linh Sơn Thánh Mẫu",
+          "originArea": "Tây Ninh cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Thực hành tín ngưỡng được ghi danh trong Danh mục di sản văn hóa phi vật thể quốc gia theo hồ sơ địa phương năm 2018.",
+          "sourceIds": [
+            "src-275"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        },
+        {
+          "id": "nghe-banh-trang-phoi-suong",
+          "name": "Nghề làm bánh tráng phơi sương Trảng Bàng",
+          "originArea": "Trảng Bàng, Tây Ninh cũ.",
+          "currentProvinceId": "tay-ninh",
+          "description": "Nghề thủ công ẩm thực gắn với kỹ thuật tráng, nướng và phơi sương, được ghi danh di sản văn hóa phi vật thể quốc gia theo nguồn du lịch địa phương.",
+          "sourceIds": [
+            "src-277"
+          ],
+          "originUnitIds": [
+            "tay-ninh"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "nhac-le-cao-dai",
+        "name": "Nhạc lễ Cao Đài",
+        "category": "Âm nhạc nghi lễ tôn giáo",
+        "image": {
+          "file": null,
+          "alt": "Nhạc lễ Cao Đài – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng tín đồ Cao Đài, đặc biệt tại Tây Ninh cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng tín đồ Cao Đài, đặc biệt tại Tây Ninh cũ.",
+        "currentProvinceId": "tay-ninh",
+        "characteristics": "Âm nhạc được thực hành trong nghi lễ, tuân thủ quy thức của tổ chức tôn giáo.",
+        "instrumentsOrPerformance": "Dàn nhạc và bài bản theo quy định nghi lễ; cần tham chiếu người thực hành và nguồn của Tòa Thánh.",
+        "culturalValue": "Giữ vai trò trong sinh hoạt phụng sự và nghi lễ cộng đồng.",
+        "recognition": "Không gán danh hiệu nghệ thuật UNESCO.",
+        "sourceIds": [
+          "src-278"
+        ],
+        "originUnitIds": [
+          "tay-ninh"
+        ]
+      },
+      {
+        "id": "don-ca-tai-tu-nam-bo-tay-ninh",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống; diễn xướng",
+        "image": {
+          "file": null,
+          "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Tây Ninh cũ và Long An cũ; thực hành liên tỉnh Nam Bộ.",
+        "origin": null,
+        "originArea": "Tây Ninh cũ và Long An cũ; thực hành liên tỉnh Nam Bộ.",
+        "currentProvinceId": "tay-ninh",
+        "characteristics": "Hệ thống bài bản, điệu thức và kỹ thuật ngẫu hứng có nền tảng nhạc lễ và dân ca Nam Bộ.",
+        "instrumentsOrPerformance": "Nhạc cụ thường gồm đàn kìm, đàn tranh, đàn cò, guitar phím lõm và song lang; dàn nhạc thay đổi theo nhóm.",
+        "culturalValue": "Sinh hoạt nghệ thuật cộng đồng, giao lưu và truyền dạy.",
+        "recognition": "UNESCO ghi danh nghệ thuật Đờn ca tài tử Nam Bộ năm 2013; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-274"
+        ],
+        "originUnitIds": [
+          "tay-ninh",
+          "long-an"
+        ]
+      },
+      {
+        "id": "ho-ly-va-dan-ca-long-an",
+        "name": "Hò và dân ca vùng Long An",
+        "category": "Dân ca; hò lao động",
+        "image": {
+          "file": null,
+          "alt": "Hò và dân ca vùng Long An – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Long An cũ.",
+        "origin": null,
+        "originArea": "Long An cũ.",
+        "currentProvinceId": "tay-ninh",
+        "characteristics": "Lời ca và lối hò gắn với sông nước, sản xuất nông nghiệp và sinh hoạt cộng đồng.",
+        "instrumentsOrPerformance": "Hình thức đối đáp hoặc hát theo nhịp lao động; tư liệu hóa cần ghi theo từng địa bàn và làn điệu.",
+        "culturalValue": "Lưu giữ ngôn ngữ, ký ức và môi trường văn hóa vùng Vàm Cỏ.",
+        "recognition": "Không tự gán một danh hiệu duy nhất cho toàn bộ dân ca vùng.",
+        "sourceIds": [
+          "src-272"
+        ],
+        "originUnitIds": [
+          "long-an"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Long An + Tây Ninh; hoạt động từ 01/07/2025.",
+      "Diện tích 8.536,44 km²; quy mô dân số 3.254.170 người theo hồ sơ sắp xếp 2025; 96 đơn vị cấp xã (82 xã, 14 phường).",
+      "Mã tỉnh 80; biển số 62,70.",
+      "Trụ sở và trung tâm hành chính được để null cho đến khi có văn bản xác minh dứt điểm.",
+      "Nguồn gốc mỗi nội dung ghi theo tỉnh tiền thân; tọa độ và giấy phép ảnh cần bổ sung."
+    ],
+    "sourceIds": [
+      "src-260",
+      "src-261",
+      "src-272",
+      "src-262",
+      "src-274",
+      "src-275",
+      "src-276",
+      "src-277",
+      "src-278"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "tay-ninh",
+      "name": "Tây Ninh"
+    },
+    {
+      "id": "long-an",
+      "name": "Long An"
+    }
+  ]
+}

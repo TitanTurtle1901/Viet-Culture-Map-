@@ -1,0 +1,714 @@
+{
+  "id": "lao-cai",
+  "name": "Tỉnh Lào Cai",
+  "administrativeType": "Tỉnh",
+  "region": "Tây Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Lào Cai – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Tỉnh Lào Cai mới hình thành từ Lào Cai và Yên Bái trước đây, kết nối Sa Pa – Fansipan, Bắc Hà, Y Tý với Mù Cang Chải, Mường Lò và hồ Thác Bà. Không gian này có nhiều cộng đồng Thái, Mông, Dao, Giáy, Tày với di sản Xòe Thái, Then và tri thức canh tác ruộng bậc thang.",
+    "featuredDestinationIds": [
+      "khu-du-lich-quoc-gia-sa-pa",
+      "mu-cang-chai"
+    ],
+    "featuredSpecialtyIds": [
+      "com-nep-tu-le",
+      "thang-co-bac-ha"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Lào Cai",
+      "administrativeCode": "15",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "21",
+        "24"
+      ],
+      "areaKm2": 13256.92,
+      "areaYear": 2025,
+      "population": {
+        "value": 1778785,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh miền núi biên giới Tây Bắc, hình thành từ Lào Cai cũ và Yên Bái cũ; giáp Lai Châu, Phú Thọ, Sơn La, Tuyên Quang và Trung Quốc.",
+      "boundaries": [
+        "Phía bắc giáp Trung Quốc.",
+        "Phía tây giáp Lai Châu.",
+        "Phía nam giáp Sơn La và Phú Thọ.",
+        "Phía đông giáp Tuyên Quang."
+      ],
+      "naturalFeatures": "Địa hình núi cao Hoàng Liên Sơn, thung lũng, ruộng bậc thang, hồ thủy điện, sông Hồng và các vùng sinh thái khác nhau theo độ cao.",
+      "climate": null,
+      "history": "Lào Cai mới hình thành từ toàn bộ Lào Cai và Yên Bái cũ, chính quyền mới hoạt động từ 01/07/2025. Không gian lịch sử – văn hóa kế thừa các trung tâm giao thương vùng biên, bản làng người Thái, Mông, Dao, Giáy, Tày; các di tích và cảnh quan ruộng bậc thang ở Yên Bái cũ.",
+      "description": "Lào Cai mới kết nối không gian núi cao biên giới với thung lũng Mường Lò, ruộng bậc thang Mù Cang Chải và hồ Thác Bà. Các di sản Xòe Thái, Then và những thực hành văn hóa cộng đồng cần được ghi theo chủ thể và địa bàn tiền thân.",
+      "sourceIds": [
+        "src-199",
+        "src-215",
+        "src-197",
+        "src-198",
+        "src-200",
+        "src-216",
+        "src-217",
+        "src-218",
+        "src-219"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "khu-du-lich-quoc-gia-sa-pa",
+        "name": "Khu du lịch quốc gia Sa Pa",
+        "category": "Du lịch nghỉ dưỡng; cảnh quan núi",
+        "originArea": "Lào Cai cũ – khu vực Sa Pa.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch quốc gia Sa Pa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Sa Pa và các xã lân cận, tỉnh Lào Cai.",
+        "coordinates": null,
+        "shortDescription": "Không gian nghỉ dưỡng núi cao gắn với dãy Hoàng Liên Sơn, bản làng và cảnh quan ruộng bậc thang.",
+        "fullDescription": "Sa Pa có các sản phẩm du lịch sinh thái, văn hóa cộng đồng và nghỉ dưỡng; hoạt động du lịch nên tôn trọng quyền và đời sống của cộng đồng bản địa.",
+        "highlights": "Cảnh quan núi; bản làng; ruộng bậc thang; tuyến trekking.",
+        "historicalCulturalValue": "Giá trị cảnh quan và không gian văn hóa đa dân tộc.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-216",
+          "src-215"
+        ],
+        "originUnitIds": [
+          "lao-cai"
+        ]
+      },
+      {
+        "id": "fansipan",
+        "name": "Đỉnh Fansipan",
+        "category": "Danh lam thắng cảnh; du lịch núi cao",
+        "originArea": "Lào Cai cũ – dãy Hoàng Liên Sơn.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Đỉnh Fansipan – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Sa Pa, tỉnh Lào Cai.",
+        "coordinates": null,
+        "shortDescription": "Đỉnh núi cao nhất Việt Nam, nằm trong dãy Hoàng Liên Sơn.",
+        "fullDescription": "Điểm đến du lịch núi cao, tiếp cận bằng các tuyến leo núi hoặc hệ thống cáp treo; điều kiện tham quan và thời tiết cần kiểm tra tại thời điểm đi.",
+        "highlights": "Cảnh quan núi cao; hệ sinh thái Hoàng Liên Sơn; tuyến cáp treo và trekking.",
+        "historicalCulturalValue": "Giá trị địa hình, sinh thái và biểu tượng cảnh quan Tây Bắc.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-216"
+        ],
+        "originUnitIds": [
+          "lao-cai"
+        ]
+      },
+      {
+        "id": "bac-ha",
+        "name": "Không gian du lịch Bắc Hà",
+        "category": "Du lịch cộng đồng; chợ phiên; văn hóa vùng cao",
+        "originArea": "Lào Cai cũ – vùng Bắc Hà.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Không gian du lịch Bắc Hà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Bắc Hà và các xã lân cận, tỉnh Lào Cai.",
+        "coordinates": null,
+        "shortDescription": "Vùng cao có chợ phiên, kiến trúc dinh thự và các cộng đồng dân tộc sinh sống.",
+        "fullDescription": "Du lịch Bắc Hà kết hợp chợ, cảnh quan và văn hóa cộng đồng; lịch chợ và sự kiện phải kiểm tra từng thời điểm.",
+        "highlights": "Chợ phiên; cảnh quan núi; làng bản; di tích lịch sử địa phương.",
+        "historicalCulturalValue": "Phản ánh không gian giao thương và văn hóa của các cộng đồng vùng cao.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-216",
+          "src-215"
+        ],
+        "originUnitIds": [
+          "lao-cai"
+        ]
+      },
+      {
+        "id": "y-ty",
+        "name": "Y Tý",
+        "category": "Du lịch cộng đồng; cảnh quan núi cao",
+        "originArea": "Lào Cai cũ – vùng Bát Xát.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Y Tý – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Y Tý, tỉnh Lào Cai.",
+        "coordinates": null,
+        "shortDescription": "Địa bàn vùng cao với cảnh quan núi, biển mây và bản làng của các cộng đồng địa phương.",
+        "fullDescription": "Các trải nghiệm cộng đồng và trekking cần theo hướng dẫn địa phương, tôn trọng không gian cư trú và tập quán bản địa.",
+        "highlights": "Cảnh quan núi cao; bản làng; ruộng bậc thang.",
+        "historicalCulturalValue": "Giá trị cảnh quan và du lịch cộng đồng vùng biên.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-216"
+        ],
+        "originUnitIds": [
+          "lao-cai"
+        ]
+      },
+      {
+        "id": "mu-cang-chai",
+        "name": "Ruộng bậc thang Mù Cang Chải",
+        "category": "Cảnh quan nông nghiệp; di sản cảnh quan",
+        "originArea": "Yên Bái cũ – vùng Mù Cang Chải.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Ruộng bậc thang Mù Cang Chải – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Mù Cang Chải và các xã lân cận, tỉnh Lào Cai.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan ruộng bậc thang do cộng đồng cư dân vùng cao kiến tạo và duy trì qua nhiều thế hệ.",
+        "fullDescription": "Ruộng bậc thang gắn với tri thức canh tác trên sườn núi của cộng đồng Mông và các nhóm cư dân; cảnh sắc thay đổi theo mùa nước đổ và mùa lúa chín.",
+        "highlights": "Ruộng bậc thang; bản làng; đèo Khau Phạ và thung lũng.",
+        "historicalCulturalValue": "Giá trị cảnh quan văn hóa và tri thức canh tác truyền thống.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-217",
+          "src-216"
+        ],
+        "originUnitIds": [
+          "yen-bai"
+        ]
+      },
+      {
+        "id": "muong-lo",
+        "name": "Cánh đồng Mường Lò",
+        "category": "Cảnh quan nông nghiệp; không gian văn hóa Thái",
+        "originArea": "Yên Bái cũ – vùng Nghĩa Lộ.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Cánh đồng Mường Lò – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Nghĩa Lộ và các xã lân cận, tỉnh Lào Cai.",
+        "coordinates": null,
+        "shortDescription": "Một trong những cánh đồng lớn của vùng Tây Bắc, gắn với lịch sử cư trú và văn hóa Thái.",
+        "fullDescription": "Không gian đồng bằng thung lũng kết nối bản làng, lễ hội, ẩm thực và các thực hành văn hóa Thái.",
+        "highlights": "Cánh đồng; nhà sàn; sinh hoạt cộng đồng; lễ hội Xòe.",
+        "historicalCulturalValue": "Giá trị nông nghiệp và văn hóa cộng đồng Thái.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-216",
+          "src-218"
+        ],
+        "originUnitIds": [
+          "yen-bai"
+        ]
+      },
+      {
+        "id": "ho-thac-ba",
+        "name": "Hồ Thác Bà",
+        "category": "Cảnh quan hồ; du lịch sinh thái",
+        "originArea": "Yên Bái cũ – vùng hồ Thác Bà.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Hồ Thác Bà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các xã ven hồ Thác Bà, tỉnh Lào Cai; cần xác định bến/tuyến cụ thể.",
+        "coordinates": null,
+        "shortDescription": "Hồ nhân tạo rộng với nhiều đảo và không gian sinh thái ven hồ.",
+        "fullDescription": "Du lịch hồ kết hợp tham quan cảnh quan, làng bản và trải nghiệm đường thủy; lịch tàu và dịch vụ cần xác nhận từ đơn vị khai thác.",
+        "highlights": "Mặt hồ; đảo; cảnh quan đồi núi và bản làng ven hồ.",
+        "historicalCulturalValue": "Giá trị cảnh quan, sinh thái và lịch sử thủy lợi – năng lượng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-216"
+        ],
+        "originUnitIds": [
+          "yen-bai"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "thang-co-bac-ha",
+        "name": "Thắng cố vùng Bắc Hà",
+        "category": "Món ăn; ẩm thực cộng đồng",
+        "originArea": "Lào Cai cũ – không gian chợ vùng cao Bắc Hà và các cộng đồng miền núi phía Bắc.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Thắng cố vùng Bắc Hà – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thắng cố vùng Bắc Hà gắn với Lào Cai cũ – không gian chợ vùng cao Bắc Hà và các cộng đồng miền núi phía Bắc.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt và nội tạng gia súc theo công thức địa phương",
+          "Thảo mộc và gia vị."
+        ],
+        "preparation": "Nấu hầm trong nồi lớn; thành phần, cách nêm và bối cảnh sử dụng khác nhau theo cộng đồng.",
+        "characteristics": "Món hầm có mùi vị đậm, thường xuất hiện ở chợ phiên và dịp cộng đồng.",
+        "culturalContext": "Gắn với văn hóa ẩm thực vùng cao; không khẳng định chỉ có tại Lào Cai.",
+        "recognition": null,
+        "sourceIds": [
+          "src-216"
+        ],
+        "originUnitIds": [
+          "lao-cai"
+        ]
+      },
+      {
+        "id": "com-nep-tu-le",
+        "name": "Cốm nếp Tú Lệ",
+        "category": "Nông sản chế biến; ẩm thực truyền thống",
+        "originArea": "Yên Bái cũ – vùng Tú Lệ, Văn Chấn.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Cốm nếp Tú Lệ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cốm nếp Tú Lệ gắn với Yên Bái cũ – vùng Tú Lệ, Văn Chấn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Lúa nếp địa phương thu hoạch non."
+        ],
+        "preparation": "Thóc nếp non được rang, giã và sàng theo phương thức truyền thống; quy trình tùy hộ và mùa vụ.",
+        "characteristics": "Hạt cốm thơm, mềm, màu xanh tự nhiên tùy độ non và kỹ thuật chế biến.",
+        "culturalContext": "Gắn với tri thức canh tác lúa nếp và mùa vụ của cư dân Tú Lệ.",
+        "recognition": null,
+        "sourceIds": [
+          "src-217"
+        ],
+        "originUnitIds": [
+          "yen-bai"
+        ]
+      },
+      {
+        "id": "gao-nep-tu-le",
+        "name": "Gạo nếp Tú Lệ",
+        "category": "Nông sản; gạo nếp",
+        "originArea": "Yên Bái cũ – vùng Tú Lệ.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Gạo nếp Tú Lệ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gạo nếp Tú Lệ gắn với Yên Bái cũ – vùng Tú Lệ.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp trồng tại thung lũng Tú Lệ."
+        ],
+        "preparation": "Canh tác lúa nếp theo mùa vụ, thu hoạch và bảo quản theo tập quán địa phương.",
+        "characteristics": "Hạt gạo nếp có hương và độ dẻo được người tiêu dùng nhận diện; đặc tính phụ thuộc giống và vụ mùa.",
+        "culturalContext": "Gắn với nông nghiệp thung lũng và ẩm thực vùng Mường Lò – Tú Lệ.",
+        "recognition": "Chưa gán chỉ dẫn địa lý/chứng nhận nếu chưa có hồ sơ.",
+        "sourceIds": [
+          "src-217"
+        ],
+        "originUnitIds": [
+          "yen-bai"
+        ]
+      },
+      {
+        "id": "che-shan-tuyet-suoi-giang",
+        "name": "Chè Shan tuyết Suối Giàng",
+        "category": "Nông sản; chè",
+        "originArea": "Yên Bái cũ – vùng Suối Giàng.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Chè Shan tuyết Suối Giàng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè Shan tuyết Suối Giàng gắn với Yên Bái cũ – vùng Suối Giàng.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Búp chè Shan tuyết từ các cây chè vùng cao."
+        ],
+        "preparation": "Thu hái búp và chế biến theo các dòng trà; cách làm thay đổi theo cơ sở và sản phẩm.",
+        "characteristics": "Hương vị phụ thuộc tuổi cây, độ cao, mùa hái và kỹ thuật chế biến.",
+        "culturalContext": "Gắn với tri thức canh tác và sản xuất chè vùng cao.",
+        "recognition": null,
+        "sourceIds": [
+          "src-216"
+        ],
+        "originUnitIds": [
+          "yen-bai"
+        ]
+      },
+      {
+        "id": "gao-seng-cu-lao-cai",
+        "name": "Gạo Séng Cù",
+        "category": "Nông sản; gạo",
+        "originArea": "Lào Cai cũ – các vùng trồng Séng Cù, gồm Mường Khương và một số địa bàn.",
+        "currentProvinceId": "lao-cai",
+        "image": {
+          "file": null,
+          "alt": "Gạo Séng Cù – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gạo Séng Cù gắn với Lào Cai cũ – các vùng trồng Séng Cù, gồm Mường Khương và một số địa bàn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Gạo từ giống Séng Cù."
+        ],
+        "preparation": "Canh tác và chế biến theo quy trình từng vùng trồng, hợp tác xã và hộ sản xuất.",
+        "characteristics": "Hạt gạo và hương vị phụ thuộc vùng trồng, giống và kỹ thuật sau thu hoạch.",
+        "culturalContext": "Gắn với nông nghiệp vùng cao Lào Cai cũ; cần chỉ rõ vùng trồng khi truy xuất.",
+        "recognition": null,
+        "sourceIds": [
+          "src-216"
+        ],
+        "originUnitIds": [
+          "lao-cai"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-thai-lao-cai",
+          "name": "Cộng đồng Thái",
+          "originArea": "Yên Bái cũ – vùng Mường Lò, Nghĩa Lộ và các địa bàn khác.",
+          "currentProvinceId": "lao-cai",
+          "description": "Cộng đồng Thái duy trì ngôn ngữ, nhà sàn, trang phục, nghệ thuật Xòe và các nghi lễ cộng đồng; cách thực hành có khác biệt theo nhóm địa phương.",
+          "sourceIds": [
+            "src-218",
+            "src-216"
+          ],
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        },
+        {
+          "id": "cong-dong-mong-lao-cai",
+          "name": "Cộng đồng Mông",
+          "originArea": "Lào Cai cũ và Yên Bái cũ – các vùng núi cao.",
+          "currentProvinceId": "lao-cai",
+          "description": "Cộng đồng Mông có các hình thức canh tác trên núi, trang phục, khèn, lễ hội và chợ phiên; không đồng nhất mọi nhóm Mông.",
+          "sourceIds": [
+            "src-216",
+            "src-217"
+          ],
+          "originUnitIds": [
+            "lao-cai",
+            "yen-bai"
+          ]
+        },
+        {
+          "id": "cong-dong-dao-giay-tay",
+          "name": "Cộng đồng Dao, Giáy và Tày",
+          "originArea": "Nhiều địa bàn thuộc hai tỉnh tiền thân.",
+          "currentProvinceId": "lao-cai",
+          "description": "Các cộng đồng có tri thức, trang phục, ngôn ngữ, nghi lễ và nghệ thuật riêng; khi mở rộng dữ liệu cần ghi theo từng nhóm và vùng cư trú cụ thể.",
+          "sourceIds": [
+            "src-216",
+            "src-219"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "customs": [
+        {
+          "id": "cho-phien-vung-cao-lao-cai",
+          "name": "Chợ phiên vùng cao",
+          "originArea": "Các vùng Bắc Hà, Sa Pa và các xã miền núi thuộc hai tỉnh tiền thân.",
+          "currentProvinceId": "lao-cai",
+          "description": "Chợ phiên vừa phục vụ trao đổi hàng hóa vừa là không gian giao tiếp xã hội, nơi các nhóm cư dân gặp gỡ; lịch họp chợ tùy từng địa bàn.",
+          "sourceIds": [
+            "src-216"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "tri-thuc-ruong-bac-thang",
+          "name": "Tri thức canh tác ruộng bậc thang",
+          "originArea": "Yên Bái cũ – Mù Cang Chải, Tú Lệ và một số thung lũng vùng cao.",
+          "currentProvinceId": "lao-cai",
+          "description": "Ruộng bậc thang phản ánh tri thức tạo mặt bằng canh tác, dẫn nước và tổ chức mùa vụ của cộng đồng cư dân miền núi.",
+          "sourceIds": [
+            "src-217"
+          ],
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-xoe-thai-muong-lo",
+          "name": "Lễ hội Xòe và sinh hoạt văn hóa Thái",
+          "originArea": "Yên Bái cũ – vùng Mường Lò và các cộng đồng Thái.",
+          "currentProvinceId": "lao-cai",
+          "description": "Các sự kiện/lễ hội Xòe được tổ chức theo kế hoạch địa phương; cần phân biệt sự kiện quảng bá du lịch với thực hành Xòe trong cộng đồng.",
+          "sourceIds": [
+            "src-218",
+            "src-216"
+          ],
+          "timeAndLocation": "Mường Lò và các địa bàn người Thái; lịch sự kiện theo thông báo từng năm.",
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        },
+        {
+          "id": "le-hoi-gau-tao-lao-cai",
+          "name": "Lễ hội Gầu Tào",
+          "originArea": "Một số cộng đồng Mông ở vùng cao Lào Cai.",
+          "currentProvinceId": "lao-cai",
+          "description": "Lễ hội gắn với cầu phúc, cầu mùa và sinh hoạt cộng đồng người Mông; tên gọi, nghi thức và thời điểm tùy địa phương.",
+          "sourceIds": [
+            "src-216"
+          ],
+          "timeAndLocation": "Theo lịch cộng đồng và địa phương; không có một ngày chung toàn tỉnh.",
+          "originUnitIds": [
+            "lao-cai"
+          ]
+        },
+        {
+          "id": "le-hoi-den-dong-cuong",
+          "name": "Lễ hội Đền Đông Cuông",
+          "originArea": "Yên Bái cũ – vùng Đông Cuông, Văn Yên.",
+          "currentProvinceId": "lao-cai",
+          "description": "Lễ hội tín ngưỡng gắn với đền Đông Cuông và cộng đồng địa phương; thời điểm, nghi lễ và quy mô tổ chức cần theo hồ sơ di sản và thông báo từng năm.",
+          "sourceIds": [
+            "src-217"
+          ],
+          "timeAndLocation": "Xã Đông Cuông, tỉnh Lào Cai; lịch chính thức cần xác minh từng năm.",
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-thai-mong-dao",
+          "name": "Trang phục truyền thống Thái, Mông và Dao",
+          "originArea": "Các cộng đồng ở Lào Cai cũ và Yên Bái cũ.",
+          "currentProvinceId": "lao-cai",
+          "description": "Trang phục thay đổi theo tộc người, nhóm địa phương, giới, tuổi và dịp sử dụng; không dùng một hình ảnh trang phục làm đại diện chung cho tỉnh.",
+          "sourceIds": [
+            "src-216",
+            "src-218"
+          ],
+          "originUnitIds": [
+            "lao-cai",
+            "yen-bai"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-ban-lang-lao-cai",
+          "name": "Không gian bản làng vùng cao",
+          "originArea": "Các cộng đồng Thái, Mông, Dao, Giáy và Tày.",
+          "currentProvinceId": "lao-cai",
+          "description": "Không gian sinh hoạt gắn với nhà ở, ruộng nương, chợ phiên, nguồn nước và quan hệ cộng đồng; cách tổ chức khác nhau giữa thung lũng, sườn núi và vùng biên.",
+          "sourceIds": [
+            "src-216",
+            "src-217"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-san-thai-muong-lo",
+          "name": "Nhà sàn Thái vùng Mường Lò",
+          "originArea": "Yên Bái cũ – vùng Mường Lò.",
+          "currentProvinceId": "lao-cai",
+          "description": "Nhà sàn là một dạng không gian cư trú quan trọng trong nhiều cộng đồng Thái; cấu trúc và vật liệu khác nhau theo địa bàn và gia đình.",
+          "sourceIds": [
+            "src-218",
+            "src-216"
+          ],
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "then-tay-nung-thai-lao-cai",
+          "name": "Thực hành Then của người Tày, Nùng, Thái",
+          "originArea": "Các cộng đồng Tày, Nùng, Thái ở nhiều tỉnh, có địa bàn thuộc Lào Cai mới.",
+          "currentProvinceId": "lao-cai",
+          "description": "Then gồm hệ thống thực hành nghi lễ và âm nhạc; chỉ ghi địa bàn thuộc tỉnh mới khi có nguồn xác nhận, không gán độc quyền cho tỉnh.",
+          "sourceIds": [
+            "src-219"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "xoe-thai-unesco-lao-cai",
+          "name": "Nghệ thuật Xòe Thái",
+          "originArea": "Cộng đồng Thái tại nhiều tỉnh Tây Bắc, gồm Yên Bái cũ.",
+          "currentProvinceId": "lao-cai",
+          "description": "UNESCO ghi danh năm 2021; Mường Lò là một không gian thực hành quan trọng. Đây là di sản liên tỉnh.",
+          "sourceIds": [
+            "src-218",
+            "src-217"
+          ],
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        },
+        {
+          "id": "ruong-bac-thang-mu-cang-chai",
+          "name": "Ruộng bậc thang Mù Cang Chải",
+          "originArea": "Yên Bái cũ – Mù Cang Chải.",
+          "currentProvinceId": "lao-cai",
+          "description": "Cảnh quan văn hóa do cộng đồng tạo dựng qua nhiều thế hệ; chưa gắn nhãn UNESCO trong hồ sơ này.",
+          "sourceIds": [
+            "src-217"
+          ],
+          "originUnitIds": [
+            "yen-bai"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "xoe-thai-muong-lo",
+        "name": "Múa Xòe Thái",
+        "category": "Múa dân gian; nghệ thuật cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Múa Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Thái tại Mường Lò và các địa bàn Tây Bắc.",
+        "origin": null,
+        "originArea": "Cộng đồng Thái tại Mường Lò và các địa bàn Tây Bắc.",
+        "currentProvinceId": "lao-cai",
+        "characteristics": "Xòe là loại hình múa cộng đồng với nhiều điệu và hình thức diễn xướng; không phải một bài múa cố định.",
+        "instrumentsOrPerformance": "Người tham gia múa theo vòng hoặc đội hình, có thể kết hợp khăn, quạt, nón và nhạc cụ truyền thống.",
+        "culturalValue": "Thể hiện tinh thần cộng đồng, nghi lễ, giao tiếp và niềm vui trong sinh hoạt người Thái.",
+        "recognition": "UNESCO ghi danh năm 2021; di sản liên tỉnh.",
+        "sourceIds": [
+          "src-218"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "thuc-hanh-then-tay-thai",
+        "name": "Hát Then và đàn tính",
+        "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
+        "image": {
+          "file": null,
+          "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng, Thái ở nhiều tỉnh, gồm khu vực tỉnh Lào Cai mới.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày, Nùng, Thái ở nhiều tỉnh, gồm khu vực tỉnh Lào Cai mới.",
+        "currentProvinceId": "lao-cai",
+        "characteristics": "Then kết hợp lời hát, âm nhạc và nghi lễ; nội dung phụ thuộc cộng đồng và bối cảnh thực hành.",
+        "instrumentsOrPerformance": "Đàn tính thường là nhạc cụ đệm; người thực hành vừa hát vừa thực hiện nghi lễ khi đúng bối cảnh.",
+        "culturalValue": "Lưu truyền tri thức và ký ức văn hóa cộng đồng.",
+        "recognition": "UNESCO ghi danh năm 2019.",
+        "sourceIds": [
+          "src-219"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "khen-mong-lao-cai",
+        "name": "Khèn Mông",
+        "category": "Nhạc cụ truyền thống; múa dân gian",
+        "image": {
+          "file": null,
+          "alt": "Khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Mông ở các vùng núi Lào Cai cũ và Yên Bái cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Mông ở các vùng núi Lào Cai cũ và Yên Bái cũ.",
+        "currentProvinceId": "lao-cai",
+        "characteristics": "Khèn gắn với sinh hoạt cộng đồng, giao duyên, lễ hội và một số nghi lễ; cách diễn tấu khác nhau theo vùng.",
+        "instrumentsOrPerformance": "Nhạc cụ hơi nhiều ống; trong một số hình thức biểu diễn, người diễn kết hợp thổi khèn với động tác múa.",
+        "culturalValue": "Là biểu đạt nghệ thuật gắn với ngôn ngữ và bản sắc cộng đồng Mông.",
+        "recognition": null,
+        "sourceIds": [
+          "src-216",
+          "src-217"
+        ],
+        "originUnitIds": [
+          "lao-cai",
+          "yen-bai"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ Lào Cai + Yên Bái cũ; hoạt động từ 01/07/2025.",
+      "Diện tích 13.256,92 km² và quy mô dân số 1.778.785 người theo Nghị quyết 202/2025/QH15; Cục Thống kê ghi 99 đơn vị cấp xã năm 2026.",
+      "Mã tỉnh 15; biển số 21 và 24.",
+      "Nguồn trung tâm hành chính cần tiếp tục kiểm tra tên trụ sở phường hiện hành; hồ sơ tạm ghi khu vực Yên Bái cũ.",
+      "Xòe Thái và Then là di sản liên tỉnh; không gán độc quyền cho Lào Cai.",
+      "Tọa độ, giấy phép ảnh, giờ mở cửa, giá vé và lịch lễ hội cần cập nhật trước khi phát hành."
+    ],
+    "sourceIds": [
+      "src-199",
+      "src-197",
+      "src-198",
+      "src-200",
+      "src-216",
+      "src-217",
+      "src-218",
+      "src-219"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "lao-cai",
+      "name": "Lào Cai"
+    },
+    {
+      "id": "yen-bai",
+      "name": "Yên Bái"
+    }
+  ]
+}

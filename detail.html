@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Địa phương – Viet Culture Map</title>
+  <meta name="description" content="Hồ sơ văn hóa, lịch sử, địa điểm, đặc sản và nghệ thuật của một tỉnh/thành phố Việt Nam.">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/vietnam-silhouette.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="js/tailwind-config.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="detail">
+  <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-white focus:p-3 focus:rounded">Bỏ qua điều hướng</a>
+  <div id="site-header"></div>
+
+  <main id="main" class="pt-16">
+    <div id="detail-loading" class="flex justify-center py-32"><div class="spinner" role="status" aria-label="Đang tải hồ sơ"></div></div>
+
+    <div id="detail-error" class="hidden max-w-2xl mx-auto text-center py-28 px-4" role="alert">
+      <h1 class="font-display text-3xl font-bold text-deep-700">Không tìm thấy địa phương</h1>
+      <p id="detail-error-msg" class="text-gray-600 mt-3"></p>
+      <a href="explore.html" class="btn-primary mt-6">Về trang Khám phá</a>
+    </div>
+
+    <article id="detail-root" class="hidden">
+      <!-- Banner -->
+      <section id="detail-banner" class="relative overflow-hidden text-white" style="background:linear-gradient(135deg,#0f2e3c 0%,#1d4a5e 55%,#2f6a3f 100%)"></section>
+
+      <div class="max-w-7xl mx-auto px-4 sm:px-6">
+        <!-- Thanh tab -->
+        <div class="sticky top-16 z-30 bg-cream/95 backdrop-blur -mx-4 px-4 sm:mx-0 sm:px-0 mt-4">
+          <div class="tab-list" role="tablist" aria-label="Nội dung địa phương" id="tab-list"></div>
+        </div>
+
+        <div class="py-8" id="tab-panels"></div>
+
+        <!-- Địa phương liên quan -->
+        <section aria-labelledby="related-heading" class="pb-4">
+          <h2 id="related-heading" class="font-display text-2xl sm:text-3xl font-bold text-deep-700">Tiếp tục khám phá</h2>
+          <p class="text-gray-600 mt-1">Các địa phương khác để bạn tìm hiểu.</p>
+          <div id="related-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 mt-6"></div>
+        </section>
+      </div>
+    </article>
+  </main>
+
+  <!-- Modal chi tiết mục -->
+  <div id="item-modal" class="modal-backdrop" aria-hidden="true">
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1">
+      <button type="button" class="modal-close" id="modal-close" aria-label="Đóng">&times;</button>
+      <div id="modal-content" class="modal-body p-6 sm:p-8 pt-10"></div>
+    </div>
+  </div>
+
+  <div id="site-footer"></div>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/detail.js"></script>
+</body>
+</html>

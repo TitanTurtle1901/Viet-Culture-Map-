@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0.0",
+  "asOfDate": "2026-11-05",
+  "regions": [
+    {
+      "id": "dong-bang-song-hong",
+      "label": "Đồng bằng sông Hồng",
+      "notes": "Phân vùng địa lý – kinh tế; cần dùng nhất quán cho toàn dự án."
+    },
+    {
+      "id": "dong-bang-song-cuu-long",
+      "label": "Đồng bằng sông Cửu Long",
+      "notes": "Phân vùng địa lý – kinh tế; áp dụng cho tỉnh An Giang mới sau hợp nhất An Giang và Kiên Giang năm 2025."
+    },
+    {
+      "id": "dong-bang-song-hong-trung-du",
+      "label": "Đồng bằng sông Hồng (không gian chuyển tiếp trung du – đồng bằng)",
+      "notes": "Dùng cho đơn vị Bắc Ninh hiện hành; diễn giải rõ vùng đồng bằng phía nam và trung du, đồi núi phía bắc do hợp nhất Bắc Giang và Bắc Ninh cũ."
+    },
+    {
+      "id": "trung-du-mien-nui-phia-bac",
+      "label": "Trung du và miền núi phía Bắc",
+      "notes": "Vùng phân loại địa lý; dùng cho Cao Bằng và Điện Biên."
+    },
+    {
+      "id": "tay-nguyen-duyen-hai-nam-trung-bo",
+      "label": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+      "notes": "Không gian liên vùng của tỉnh Đắk Lắk mới sau hợp nhất Đắk Lắk và Phú Yên cũ."
+    },
+    {
+      "id": "dong-nam-bo",
+      "label": "Đông Nam Bộ",
+      "notes": "Vùng địa lý – kinh tế của thành phố Đồng Nai mới; hồ sơ văn hóa kế thừa Đồng Nai và Bình Phước cũ."
+    }
+  ],
+  "destinationCategories": [
+    "Di sản thế giới",
+    "Di tích quốc gia đặc biệt",
+    "Di tích lịch sử – văn hóa",
+    "Danh lam thắng cảnh",
+    "Di tích khảo cổ",
+    "Làng nghề truyền thống",
+    "Làng cổ truyền thống",
+    "Khu du lịch sinh thái",
+    "Vườn quốc gia",
+    "Khu du lịch biển đảo",
+    "Di tích tín ngưỡng",
+    "Điểm du lịch biển"
+  ],
+  "specialtyCategories": [
+    "Món ăn",
+    "Sản phẩm ẩm thực",
+    "Tri thức dân gian ẩm thực",
+    "Nghề truyền thống",
+    "Sản phẩm thủ công địa phương",
+    "Sản phẩm thủy sản chế biến",
+    "Đặc sản biển đảo",
+    "Món ăn của cộng đồng dân tộc"
+  ],
+  "festivalCategories": [
+    "Lễ hội truyền thống",
+    "Lễ hội tín ngưỡng",
+    "Lễ hội làng"
+  ],
+  "heritageCategories": [
+    "Di sản văn hóa thế giới",
+    "Di sản văn hóa phi vật thể đại diện của nhân loại",
+    "Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp",
+    "Di sản văn hóa phi vật thể quốc gia",
+    "Di tích quốc gia đặc biệt",
+    "Tri thức dân gian",
+    "Nghề thủ công truyền thống"
+  ],
+  "artsCategories": [
+    "Âm nhạc truyền thống",
+    "Diễn xướng dân gian",
+    "Nghệ thuật trình diễn dân gian"
+  ],
+  "notes": [
+    "Không suy diễn tình trạng ghi danh từ việc địa phương quảng bá hoặc tổ chức biểu diễn.",
+    "Phân biệt phạm vi di sản lịch sử với đơn vị hành chính hiện hành.",
+    "Các trường chưa xác minh cần để null hoặc mảng rỗng và ghi trong unresolved-items.md."
+  ]
+}

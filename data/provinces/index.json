@@ -1,0 +1,2286 @@
+{
+  "schemaVersion": "1.0.0",
+  "asOfDate": "2026-11-06",
+  "generatedBy": "tools/build_data.py",
+  "units": [
+    {
+      "id": "an-giang",
+      "name": "Tỉnh An Giang",
+      "administrativeType": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "administrativeCode": "91",
+      "file": "an-giang.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "an-giang",
+          "name": "An Giang"
+        },
+        {
+          "id": "kien-giang",
+          "name": "Kiên Giang"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Ảnh đại diện tổng hợp tỉnh An Giang: không gian sông nước, núi Bảy Núi và biển đảo (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "An Giang là tỉnh ở cực Tây Nam vùng Đồng bằng sông Cửu Long, hình thành từ việc hợp nhất An Giang và Kiên Giang cũ từ ngày 01/07/2025. Không gian tỉnh trải từ vùng biên giới – sông nước – Thất Sơn đến bờ biển Vịnh Thái Lan và các quần đảo; bản sắc văn hóa là sự cộng cư, giao thoa của cộng đồng Kinh, Khmer, Chăm và Hoa.",
+        "featuredDestinations": [
+          {
+            "id": "oc-eo-ba-the",
+            "name": "Khu di tích khảo cổ Óc Eo – Ba Thê"
+          },
+          {
+            "id": "mien-ba-chua-xu-nui-sam",
+            "name": "Miếu Bà Chúa Xứ Núi Sam"
+          },
+          {
+            "id": "vuon-quoc-gia-phu-quoc",
+            "name": "Vườn quốc gia Phú Quốc"
+          },
+          {
+            "id": "thach-dong-ha-tien",
+            "name": "Thạch Động"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "mam-chau-doc",
+            "name": "Mắm Châu Đốc"
+          },
+          {
+            "id": "nuoc-mam-phu-quoc",
+            "name": "Nước mắm Phú Quốc"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu di tích khảo cổ Óc Eo – Ba Thê",
+          "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+          "Miếu Bà Chúa Xứ Núi Sam",
+          "Rừng tràm Trà Sư",
+          "Núi Cấm (Thiên Cấm Sơn)",
+          "Đồi Tức Dụp",
+          "Vườn quốc gia Phú Quốc",
+          "Quần đảo Nam Du",
+          "Thạch Động",
+          "Di tích thắng cảnh Mũi Nai"
+        ],
+        "specialties": [
+          "Mắm Châu Đốc",
+          "Đường thốt nốt Bảy Núi",
+          "Bánh bò thốt nốt",
+          "Nước mắm Phú Quốc",
+          "Gỏi cá trích Phú Quốc",
+          "Tung lò mò (lạp xưởng bò Chăm)"
+        ]
+      }
+    },
+    {
+      "id": "bac-ninh",
+      "name": "Thành phố Bắc Ninh",
+      "administrativeType": "Thành phố trực thuộc Trung ương",
+      "region": "Đồng bằng sông Hồng và trung du, miền núi phía Bắc (vùng chuyển tiếp)",
+      "administrativeCode": "24",
+      "file": "bac-ninh.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "bac-ninh",
+          "name": "Bắc Ninh"
+        },
+        {
+          "id": "bac-giang",
+          "name": "Bắc Giang"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Bắc Ninh – ảnh đại diện; quyền sử dụng chưa xác minh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Thành phố Bắc Ninh được thành lập ngày 20/09/2026 trên toàn bộ địa giới tỉnh Bắc Ninh mới, vốn hợp nhất Bắc Giang và Bắc Ninh cũ từ 01/07/2025. Không gian văn hóa rộng từ vùng đồng bằng Kinh Bắc với Quan họ, tranh Đông Hồ, chùa cổ và làng nghề đến vùng trung du – miền núi phía Bắc với Tây Yên Tử, chùa Vĩnh Nghiêm, khởi nghĩa Yên Thế, vải thiều Lục Ngạn và các cộng đồng Tày, Nùng, Dao, Sán Chay.",
+        "featuredDestinations": [
+          {
+            "id": "den-do-ly-bat-de",
+            "name": "Đền Đô (Đền Lý Bát Đế)"
+          },
+          {
+            "id": "lang-tranh-dong-ho",
+            "name": "Làng tranh dân gian Đông Hồ"
+          },
+          {
+            "id": "chua-vinh-nghiem",
+            "name": "Chùa Vĩnh Nghiêm và kho mộc bản kinh Phật"
+          },
+          {
+            "id": "khu-di-tich-khoi-nghia-yen-the",
+            "name": "Quần thể di tích Khởi nghĩa Yên Thế"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "banh-phu-the-dinh-bang",
+            "name": "Bánh phu thê Đình Bảng"
+          },
+          {
+            "id": "vai-thieu-luc-ngan",
+            "name": "Vải thiều Lục Ngạn"
+          },
+          {
+            "id": "my-chu",
+            "name": "Mỳ Chũ"
+          },
+          {
+            "id": "ga-doi-yen-the",
+            "name": "Gà đồi Yên Thế"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Đền Đô (Đền Lý Bát Đế)",
+          "Chùa Phật Tích (Vạn Phúc tự)",
+          "Chùa Dâu (Diên Ứng tự)",
+          "Làng tranh dân gian Đông Hồ",
+          "Chùa Vĩnh Nghiêm và kho mộc bản kinh Phật",
+          "Chùa Bổ Đà (Tứ Ân Tự)",
+          "Không gian văn hóa – sinh thái Tây Yên Tử",
+          "Khu di tích lịch sử Chiến thắng Xương Giang",
+          "Quần thể di tích Khởi nghĩa Yên Thế",
+          "Khu du lịch sinh thái Suối Mỡ"
+        ],
+        "specialties": [
+          "Bánh phu thê Đình Bảng",
+          "Vải thiều Lục Ngạn",
+          "Mỳ Chũ",
+          "Gà đồi Yên Thế",
+          "Bánh đa Kế",
+          "Rượu làng Vân"
+        ]
+      }
+    },
+    {
+      "id": "ca-mau",
+      "name": "Tỉnh Cà Mau",
+      "administrativeType": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "administrativeCode": "96",
+      "file": "ca-mau.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "ca-mau",
+          "name": "Cà Mau"
+        },
+        {
+          "id": "bac-lieu",
+          "name": "Bạc Liêu"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Ảnh đại diện tổng hợp tỉnh Cà Mau: rừng ngập mặn, bờ biển và không gian văn hóa Bạc Liêu – chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Cà Mau là tỉnh ở cực Nam Việt Nam, hình thành từ việc hợp nhất tỉnh Cà Mau và tỉnh Bạc Liêu cũ, chính thức hoạt động từ ngày 01/07/2025. Không gian văn hóa của tỉnh mới kết nối vùng rừng ngập mặn – rừng tràm, nghề biển và hệ sinh thái Đất Mũi với bản sắc Bạc Liêu: đờn ca tài tử, Dạ cổ hoài lang, nghề muối và giao thoa văn hóa Kinh – Khmer – Hoa.",
+        "featuredDestinations": [
+          {
+            "id": "khu-du-lich-mui-ca-mau",
+            "name": "Khu du lịch quốc gia Mũi Cà Mau"
+          },
+          {
+            "id": "vuon-quoc-gia-u-minh-ha",
+            "name": "Vườn quốc gia U Minh Hạ"
+          },
+          {
+            "id": "ben-vam-lung",
+            "name": "Khu di tích Quốc gia đặc biệt Bến Vàm Lũng"
+          },
+          {
+            "id": "khu-luu-niem-cao-van-lau",
+            "name": "Khu lưu niệm Nghệ thuật Đờn ca tài tử Nam Bộ và nhạc sĩ Cao Văn Lầu"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "cua-ca-mau",
+            "name": "Cua Cà Mau"
+          },
+          {
+            "id": "ba-khia-rach-goc",
+            "name": "Ba khía Rạch Gốc / ba khía muối"
+          },
+          {
+            "id": "muoi-bac-lieu",
+            "name": "Muối Bạc Liêu"
+          },
+          {
+            "id": "banh-tam-ngan-dua",
+            "name": "Bánh tằm Ngan Dừa"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu du lịch quốc gia Mũi Cà Mau",
+          "Vườn quốc gia U Minh Hạ",
+          "Khu di tích lịch sử Hòn Đá Bạc – Trung tâm chỉ huy kế hoạch CM12",
+          "Cụm đảo Hòn Khoai",
+          "Khu di tích Quốc gia đặc biệt Bến Vàm Lũng",
+          "Khu lưu niệm Nghệ thuật Đờn ca tài tử Nam Bộ và nhạc sĩ Cao Văn Lầu",
+          "Nhà Công tử Bạc Liêu",
+          "Quán Âm Phật Đài (Mẹ Nam Hải)",
+          "Nhà thờ Tắc Sậy",
+          "Tháp cổ Vĩnh Hưng"
+        ],
+        "specialties": [
+          "Cua Cà Mau",
+          "Ba khía Rạch Gốc / ba khía muối",
+          "Tôm khô Cà Mau (Rạch Gốc)",
+          "Muối Bạc Liêu",
+          "Bánh tằm Ngan Dừa",
+          "Bún bò cay Bạc Liêu",
+          "Lẩu mắm U Minh"
+        ]
+      }
+    },
+    {
+      "id": "can-tho",
+      "name": "Thành phố Cần Thơ",
+      "administrativeType": "Thành phố trực thuộc Trung ương",
+      "region": "Đồng bằng sông Cửu Long",
+      "administrativeCode": "92",
+      "file": "can-tho.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "can-tho",
+          "name": "Cần Thơ"
+        },
+        {
+          "id": "soc-trang",
+          "name": "Sóc Trăng"
+        },
+        {
+          "id": "hau-giang",
+          "name": "Hậu Giang"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Cần Thơ – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Cần Thơ mới kế thừa thành phố Cần Thơ, Sóc Trăng và Hậu Giang cũ. Chợ nổi Cái Răng, văn hóa Khmer – Hoa, lễ Oóc Om Bóc, đờn ca tài tử và các vùng sinh thái sông nước là những lớp bản sắc quan trọng.",
+        "featuredDestinations": [
+          {
+            "id": "cho-noi-cai-rang",
+            "name": "Chợ nổi Cái Răng"
+          },
+          {
+            "id": "chua-khleang",
+            "name": "Chùa Kh’Leang"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "banh-pia-soc-trang",
+            "name": "Bánh pía Sóc Trăng"
+          },
+          {
+            "id": "banh-tet-la-cam-can-tho",
+            "name": "Bánh tét lá cẩm"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Chợ nổi Cái Răng",
+          "Nhà cổ Bình Thủy",
+          "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng",
+          "Chùa Mahatup (Chùa Dơi)",
+          "Chùa Kh’Leang",
+          "Chợ nổi Ngã Năm",
+          "Cồn Sơn"
+        ],
+        "specialties": [
+          "Bánh pía Sóc Trăng",
+          "Bún nước lèo Sóc Trăng",
+          "Bánh tét lá cẩm",
+          "Hành tím Vĩnh Châu",
+          "Khóm Cầu Đúc",
+          "Gạo ST25"
+        ]
+      }
+    },
+    {
+      "id": "cao-bang",
+      "name": "Tỉnh Cao Bằng",
+      "administrativeType": "Tỉnh",
+      "region": "Trung du và miền núi phía Bắc",
+      "administrativeCode": "04",
+      "file": "cao-bang.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "cao-bang",
+          "name": "Cao Bằng"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Ảnh đại diện Tỉnh Cao Bằng; ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Cao Bằng là tỉnh miền núi biên giới phía Bắc, nổi bật với cảnh quan karst, Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng, thác Bản Giốc và các địa chỉ lịch sử như Pác Bó. Không gian văn hóa Tày, Nùng và các cộng đồng địa phương được thể hiện qua thực hành Then, lễ hội, ẩm thực và nghề truyền thống.",
+        "featuredDestinations": [
+          {
+            "id": "cong-vien-dia-chat-non-nuoc-cao-bang",
+            "name": "Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng"
+          },
+          {
+            "id": "thac-ban-gioc",
+            "name": "Thác Bản Giốc"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "hat-de-trung-khanh",
+            "name": "Hạt dẻ Trùng Khánh"
+          },
+          {
+            "id": "lap-suon-cao-bang",
+            "name": "Lạp sườn Cao Bằng"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng",
+          "Thác Bản Giốc",
+          "Khu di tích quốc gia đặc biệt Pác Bó",
+          "Động Ngườm Ngao",
+          "Vườn quốc gia Phja Oắc – Phja Đén",
+          "Hồ Thang Hen"
+        ],
+        "specialties": [
+          "Hạt dẻ Trùng Khánh",
+          "Lạp sườn Cao Bằng",
+          "Miến dong Phia Đén",
+          "Khẩu sli"
+        ]
+      }
+    },
+    {
+      "id": "da-nang",
+      "name": "Thành phố Đà Nẵng",
+      "administrativeType": "Thành phố trực thuộc trung ương",
+      "region": "Duyên hải Nam Trung Bộ",
+      "administrativeCode": "48",
+      "file": "da-nang.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "da-nang",
+          "name": "Đà Nẵng"
+        },
+        {
+          "id": "quang-nam",
+          "name": "Quảng Nam"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Đà Nẵng – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Đà Nẵng mới kết nối đô thị biển với di sản Hội An, Mỹ Sơn, Cù Lao Chàm và các làng nghề xứ Quảng.",
+        "featuredDestinations": [
+          {
+            "id": "pho-co-hoi-an",
+            "name": "Đô thị cổ Hội An"
+          },
+          {
+            "id": "thanh-dia-my-son",
+            "name": "Thánh địa Mỹ Sơn"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "mi-quang",
+            "name": "Mì Quảng"
+          },
+          {
+            "id": "cao-lau-hoi-an",
+            "name": "Cao lầu Hội An"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Đô thị cổ Hội An",
+          "Thánh địa Mỹ Sơn",
+          "Danh thắng Ngũ Hành Sơn",
+          "Bán đảo Sơn Trà",
+          "Cù Lao Chàm – Khu dự trữ sinh quyển thế giới",
+          "Khu du lịch Bà Nà – Núi Chúa",
+          "Vịnh Lăng Cô – đèo Hải Vân"
+        ],
+        "specialties": [
+          "Mì Quảng",
+          "Cao lầu Hội An",
+          "Nước mắm Nam Ô",
+          "Bánh tráng Túy Loan",
+          "Bánh ít lá gai"
+        ]
+      }
+    },
+    {
+      "id": "dak-lak",
+      "name": "Tỉnh Đắk Lắk",
+      "administrativeType": "Tỉnh",
+      "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+      "administrativeCode": "66",
+      "file": "dak-lak.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "dak-lak",
+          "name": "Đắk Lắk"
+        },
+        {
+          "id": "phu-yen",
+          "name": "Phú Yên"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Ảnh đại diện Tỉnh Đắk Lắk; ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Đắk Lắk mới được hình thành từ Đắk Lắk và Phú Yên trước đây, nối không gian cao nguyên bazan với duyên hải Nam Trung Bộ. Bản sắc của tỉnh mới gồm văn hóa cồng chiêng, cộng đồng Ê Đê – M’nông, cà phê Buôn Ma Thuột, cùng di sản biển và văn hóa Chăm ở khu vực Phú Yên cũ.",
+        "featuredDestinations": [
+          {
+            "id": "vuon-quoc-gia-yok-don",
+            "name": "Vườn quốc gia Yok Đôn"
+          },
+          {
+            "id": "buon-don",
+            "name": "Không gian văn hóa – du lịch Buôn Đôn"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "ca-phe-buon-ma-thuot",
+            "name": "Cà phê Buôn Ma Thuột"
+          },
+          {
+            "id": "ga-nuong-buon-don",
+            "name": "Gà nướng Buôn Đôn"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Vườn quốc gia Yok Đôn",
+          "Không gian văn hóa – du lịch Buôn Đôn",
+          "Thác Dray Nur",
+          "Hồ Lắk",
+          "Danh thắng quốc gia đặc biệt Gành Đá Đĩa",
+          "Tháp Nhạn",
+          "Vịnh Vũng Rô"
+        ],
+        "specialties": [
+          "Cà phê Buôn Ma Thuột",
+          "Gà nướng Buôn Đôn",
+          "Cơm lam",
+          "Cá ngừ đại dương",
+          "Tôm hùm Sông Cầu"
+        ]
+      }
+    },
+    {
+      "id": "dien-bien",
+      "name": "Tỉnh Điện Biên",
+      "administrativeType": "Tỉnh",
+      "region": "Trung du và miền núi phía Bắc",
+      "administrativeCode": "11",
+      "file": "dien-bien.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "dien-bien",
+          "name": "Điện Biên"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Ảnh đại diện Tỉnh Điện Biên; ảnh chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Điện Biên là tỉnh miền núi biên giới Tây Bắc, nổi tiếng với Di tích quốc gia đặc biệt Chiến trường Điện Biên Phủ, cảnh quan núi rừng và sự đa dạng văn hóa của các cộng đồng Thái, Mông, Lào, Khơ Mú và các dân tộc khác. Xòe Thái, thực hành Then và các lễ hội cộng đồng là những lớp di sản quan trọng.",
+        "featuredDestinations": [
+          {
+            "id": "di-tich-chien-truong-dien-bien-phu",
+            "name": "Di tích quốc gia đặc biệt Chiến trường Điện Biên Phủ"
+          },
+          {
+            "id": "muong-phang",
+            "name": "Khu di tích Sở Chỉ huy Chiến dịch Điện Biên Phủ tại Mường Phăng"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "gao-dien-bien",
+            "name": "Gạo Điện Biên"
+          },
+          {
+            "id": "pa-pinh-top",
+            "name": "Pa pỉnh tộp"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Di tích quốc gia đặc biệt Chiến trường Điện Biên Phủ",
+          "Khu di tích Sở Chỉ huy Chiến dịch Điện Biên Phủ tại Mường Phăng",
+          "Cột mốc giao điểm biên giới A Pa Chải",
+          "Hồ Pá Khoang",
+          "Bản văn hóa cộng đồng vùng Điện Biên"
+        ],
+        "specialties": [
+          "Gạo Điện Biên",
+          "Pa pỉnh tộp",
+          "Thịt trâu gác bếp",
+          "Chè Shan tuyết Tủa Chùa"
+        ]
+      }
+    },
+    {
+      "id": "dong-nai",
+      "name": "Thành phố Đồng Nai",
+      "administrativeType": "Thành phố trực thuộc Trung ương",
+      "region": "Đông Nam Bộ",
+      "administrativeCode": "75",
+      "file": "dong-nai.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "dong-nai",
+          "name": "Đồng Nai"
+        },
+        {
+          "id": "binh-phuoc",
+          "name": "Bình Phước"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Đồng Nai – ảnh đại diện; quyền sử dụng chưa xác minh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Thành phố Đồng Nai là đơn vị hành chính cấp tỉnh trực thuộc Trung ương, kế thừa toàn bộ địa bàn Đồng Nai và Bình Phước trước đây. Không gian văn hóa mới nối vùng đô thị – công nghiệp và sông Đồng Nai với rừng, hồ, văn hóa S’tiêng, M’nông, Chơ-ro và các di sản của vùng Bình Phước cũ.",
+        "featuredDestinations": [
+          {
+            "id": "vuon-quoc-gia-cat-tien",
+            "name": "Vườn quốc gia Cát Tiên"
+          },
+          {
+            "id": "vuon-quoc-gia-bu-gia-map",
+            "name": "Vườn quốc gia Bù Gia Mập"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "hat-dieu-binh-phuoc",
+            "name": "Hạt điều Bình Phước"
+          },
+          {
+            "id": "buoi-tan-trieu",
+            "name": "Bưởi Tân Triều"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Vườn quốc gia Cát Tiên",
+          "Vườn quốc gia Bù Gia Mập",
+          "Khu dự trữ sinh quyển thế giới Đồng Nai",
+          "Hồ Trị An",
+          "Núi Bà Rá – hồ Thác Mơ",
+          "Không gian văn hóa Sóc Bom Bo",
+          "Cù lao Phố và các di tích thương cảng Biên Hòa"
+        ],
+        "specialties": [
+          "Hạt điều Bình Phước",
+          "Bưởi Tân Triều",
+          "Hồ tiêu Lộc Ninh",
+          "Gà thả vườn Bình Phước",
+          "Cá lóc nướng trui"
+        ]
+      }
+    },
+    {
+      "id": "dong-thap",
+      "name": "Tỉnh Đồng Tháp",
+      "administrativeType": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "administrativeCode": "82",
+      "file": "dong-thap.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "dong-thap",
+          "name": "Đồng Tháp"
+        },
+        {
+          "id": "tien-giang",
+          "name": "Tiền Giang"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Phong cảnh sông nước và hoa sen Đồng Tháp – ảnh đại diện chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Tỉnh Đồng Tháp mới được hình thành từ Tiền Giang và Đồng Tháp trước đây. Không gian văn hóa kết nối sông Tiền, Đồng Tháp Mười, vùng miệt vườn, làng hoa, di tích Gò Tháp và hệ sinh thái Tràm Chim.",
+        "featuredDestinations": [
+          {
+            "id": "vuon-quoc-gia-tram-chim",
+            "name": "Vườn quốc gia Tràm Chim"
+          },
+          {
+            "id": "khu-di-tich-go-thap",
+            "name": "Khu di tích Gò Tháp"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "nem-lai-vung",
+            "name": "Nem Lai Vung"
+          },
+          {
+            "id": "hu-tieu-my-tho",
+            "name": "Hủ tiếu Mỹ Tho"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Vườn quốc gia Tràm Chim",
+          "Khu di tích Gò Tháp",
+          "Khu di tích Xẻo Quýt",
+          "Làng hoa Sa Đéc",
+          "Khu di tích Nguyễn Sinh Sắc",
+          "Cồn Thới Sơn"
+        ],
+        "specialties": [
+          "Nem Lai Vung",
+          "Quýt hồng Lai Vung",
+          "Xoài Cao Lãnh",
+          "Hủ tiếu Mỹ Tho"
+        ]
+      }
+    },
+    {
+      "id": "gia-lai",
+      "name": "Tỉnh Gia Lai",
+      "administrativeType": "Tỉnh",
+      "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+      "administrativeCode": "52",
+      "file": "gia-lai.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "gia-lai",
+          "name": "Gia Lai"
+        },
+        {
+          "id": "binh-dinh",
+          "name": "Bình Định"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Cảnh quan cao nguyên và duyên hải Gia Lai – ảnh đại diện chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Gia Lai mới hợp nhất Gia Lai và Bình Định trước đây, kết nối cao nguyên bazan, rừng Kon Hà Nừng, không gian Bahnar – Jrai với bờ biển Quy Nhơn và di sản Chăm, Tây Sơn.",
+        "featuredDestinations": [
+          {
+            "id": "bien-ho-t-nung",
+            "name": "Biển Hồ T’Nưng"
+          },
+          {
+            "id": "vuon-quoc-gia-kon-ka-kinh",
+            "name": "Vườn quốc gia Kon Ka Kinh"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "pho-kho-gia-lai",
+            "name": "Phở khô Gia Lai"
+          },
+          {
+            "id": "banh-it-la-gai-binh-dinh",
+            "name": "Bánh ít lá gai"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Biển Hồ T’Nưng",
+          "Núi lửa Chư Đăng Ya",
+          "Vườn quốc gia Kon Ka Kinh",
+          "Khu bảo tồn thiên nhiên Kon Chư Răng",
+          "Bảo tàng Quang Trung",
+          "Tháp Bánh Ít",
+          "Eo Gió"
+        ],
+        "specialties": [
+          "Phở khô Gia Lai",
+          "Bò một nắng muối kiến vàng",
+          "Bánh ít lá gai",
+          "Rượu Bàu Đá",
+          "Nem Chợ Huyện"
+        ]
+      }
+    },
+    {
+      "id": "ha-noi",
+      "name": "Thành phố Hà Nội",
+      "administrativeType": "Thành phố trực thuộc trung ương",
+      "region": "Đồng bằng sông Hồng",
+      "administrativeCode": "01",
+      "file": "ha-noi.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "ha-noi",
+          "name": "Hà Nội"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Ảnh đại diện toàn cảnh Hà Nội – chưa chọn ảnh do chưa xác minh giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Hà Nội là Thủ đô của Việt Nam, nằm ở phía tây bắc trung tâm đồng bằng châu thổ sông Hồng. Không gian văn hóa của thành phố kết hợp di sản kinh đô Thăng Long, khu phố thị lịch sử, các làng cổ và làng nghề; địa giới cấp tỉnh được giữ nguyên trong đợt sắp xếp năm 2025.",
+        "featuredDestinations": [
+          {
+            "id": "hoang-thanh-thang-long",
+            "name": "Khu di tích trung tâm Hoàng thành Thăng Long – Hà Nội"
+          },
+          {
+            "id": "ho-hoan-kiem-den-ngoc-son",
+            "name": "Di tích hồ Hoàn Kiếm và đền Ngọc Sơn"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "pho-ha-noi",
+            "name": "Phở Hà Nội"
+          },
+          {
+            "id": "com-lang-vong",
+            "name": "Cốm làng Vòng"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu di tích trung tâm Hoàng thành Thăng Long – Hà Nội",
+          "Văn Miếu – Quốc Tử Giám",
+          "Di tích hồ Hoàn Kiếm và đền Ngọc Sơn",
+          "Khu di tích quốc gia đặc biệt Cổ Loa",
+          "Quần thể di tích và danh thắng Hương Sơn (Chùa Hương)",
+          "Làng cổ ở Đường Lâm",
+          "Làng nghề gốm sứ Bát Tràng"
+        ],
+        "specialties": [
+          "Phở Hà Nội",
+          "Bánh cuốn Thanh Trì",
+          "Cốm làng Vòng",
+          "Tri thức chế biến và thưởng thức Chả cá Lã Vọng",
+          "Gốm sứ Bát Tràng"
+        ]
+      }
+    },
+    {
+      "id": "ha-tinh",
+      "name": "Tỉnh Hà Tĩnh",
+      "administrativeType": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "administrativeCode": "42",
+      "file": "ha-tinh.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "ha-tinh",
+          "name": "Hà Tĩnh"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Biển Thiên Cầm và núi Hồng Lĩnh – ảnh đại diện chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Hà Tĩnh giữ nguyên địa giới cấp tỉnh trong đợt sắp xếp năm 2025. Bản sắc kết hợp văn hóa Nghệ Tĩnh, di sản Nguyễn Du, Ngã ba Đồng Lộc, dãy Hồng Lĩnh và không gian biển Thiên Cầm.",
+        "featuredDestinations": [
+          {
+            "id": "nga-ba-dong-loc",
+            "name": "Khu di tích Ngã ba Đồng Lộc"
+          },
+          {
+            "id": "khu-di-tich-nguyen-du",
+            "name": "Khu di tích Nguyễn Du"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "buoi-phuc-trach",
+            "name": "Bưởi Phúc Trạch"
+          },
+          {
+            "id": "keo-cu-do-ha-tinh",
+            "name": "Kẹo cu đơ Hà Tĩnh"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu di tích Ngã ba Đồng Lộc",
+          "Khu di tích Nguyễn Du",
+          "Chùa Hương Tích",
+          "Biển Thiên Cầm",
+          "Hồ Kẻ Gỗ",
+          "Khu di tích Hải Thượng Lãn Ông Lê Hữu Trác"
+        ],
+        "specialties": [
+          "Bưởi Phúc Trạch",
+          "Nhung hươu Hương Sơn",
+          "Kẹo cu đơ Hà Tĩnh",
+          "Cam bù Hương Sơn",
+          "Mực Thạch Kim – Cửa Sót"
+        ]
+      }
+    },
+    {
+      "id": "hai-phong",
+      "name": "Thành phố Hải Phòng",
+      "administrativeType": "Thành phố trực thuộc trung ương",
+      "region": "Đồng bằng sông Hồng và duyên hải Bắc Bộ",
+      "administrativeCode": "31",
+      "file": "hai-phong.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "hai-phong",
+          "name": "Hải Phòng"
+        },
+        {
+          "id": "hai-duong",
+          "name": "Hải Dương"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Hải Phòng – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Hải Phòng mới kết nối di sản đô thị cảng, biển đảo Cát Bà với Côn Sơn – Kiếp Bạc và các làng nghề Hải Dương.",
+        "featuredDestinations": [
+          {
+            "id": "quan-dao-cat-ba",
+            "name": "Quần đảo Cát Bà"
+          },
+          {
+            "id": "con-son-kiep-bac",
+            "name": "Quần thể Côn Sơn – Kiếp Bạc"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "banh-da-cua-hai-phong",
+            "name": "Bánh đa cua Hải Phòng"
+          },
+          {
+            "id": "vai-thieu-thanh-ha",
+            "name": "Vải thiều Thanh Hà"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Quần đảo Cát Bà",
+          "Khu du lịch Đồ Sơn",
+          "Khu di tích Bạch Đằng Giang",
+          "Quần thể Côn Sơn – Kiếp Bạc",
+          "Chùa Nhẫm Dương",
+          "Chùa Dư Hàng",
+          "Không gian làng nghề và di tích vùng Thanh Miện – Hải Dương cũ"
+        ],
+        "specialties": [
+          "Bánh đa cua Hải Phòng",
+          "Nem cua bể",
+          "Bánh mì que Hải Phòng",
+          "Bánh đậu xanh Hải Dương",
+          "Vải thiều Thanh Hà",
+          "Rươi Tứ Kỳ"
+        ]
+      }
+    },
+    {
+      "id": "ho-chi-minh",
+      "name": "Thành phố Hồ Chí Minh",
+      "administrativeType": "Thành phố trực thuộc trung ương",
+      "region": "Đông Nam Bộ",
+      "administrativeCode": "79",
+      "file": "ho-chi-minh.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "ho-chi-minh",
+          "name": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "id": "binh-duong",
+          "name": "Bình Dương"
+        },
+        {
+          "id": "ba-ria-vung-tau",
+          "name": "Bà Rịa – Vũng Tàu"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Hồ Chí Minh – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "TP.HCM mới nối không gian Sài Gòn – Chợ Lớn, Bình Dương làng nghề và vùng biển đảo Bà Rịa – Vũng Tàu.",
+        "featuredDestinations": [
+          {
+            "id": "dinh-doc-lap",
+            "name": "Di tích lịch sử Dinh Độc Lập"
+          },
+          {
+            "id": "dia-dao-cu-chi",
+            "name": "Địa đạo Củ Chi"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "com-tam-sai-gon",
+            "name": "Cơm tấm Sài Gòn"
+          },
+          {
+            "id": "mang-cut-lai-thieu",
+            "name": "Măng cụt Lái Thiêu"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Di tích lịch sử Dinh Độc Lập",
+          "Địa đạo Củ Chi",
+          "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ",
+          "Nhà tù Côn Đảo",
+          "Bạch Dinh",
+          "Chùa Bà Thiên Hậu Thủ Dầu Một",
+          "Nhà Lớn Long Sơn"
+        ],
+        "specialties": [
+          "Cơm tấm Sài Gòn",
+          "Hủ tiếu Nam Vang và hủ tiếu Sài Gòn",
+          "Bánh khọt Vũng Tàu",
+          "Gỏi cá trích Côn Đảo",
+          "Măng cụt Lái Thiêu"
+        ]
+      }
+    },
+    {
+      "id": "hue",
+      "name": "Thành phố Huế",
+      "administrativeType": "Thành phố trực thuộc trung ương",
+      "region": "Bắc Trung Bộ",
+      "administrativeCode": "46",
+      "file": "hue.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "hue",
+          "name": "Huế"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Huế – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Huế là không gian di sản Cố đô, âm nhạc cung đình, nhà vườn, đầm phá và ẩm thực đặc trưng.",
+        "featuredDestinations": [
+          {
+            "id": "quan-the-di-tich-co-do-hue",
+            "name": "Quần thể di tích Cố đô Huế"
+          },
+          {
+            "id": "chua-thien-mu",
+            "name": "Chùa Thiên Mụ"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "bun-bo-hue",
+            "name": "Bún bò Huế"
+          },
+          {
+            "id": "com-hen-hue",
+            "name": "Cơm hến"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Quần thể di tích Cố đô Huế",
+          "Chùa Thiên Mụ",
+          "Ứng Lăng – Lăng Khải Định",
+          "Hệ sinh thái và điểm đến Bạch Mã",
+          "Hệ đầm phá Tam Giang – Cầu Hai",
+          "Vịnh Lăng Cô",
+          "Di tích Trấn Hải Thành và cửa biển Thuận An"
+        ],
+        "specialties": [
+          "Bún bò Huế",
+          "Cơm hến",
+          "Bánh khoái",
+          "Mè xửng Huế",
+          "Tôm chua Huế"
+        ]
+      }
+    },
+    {
+      "id": "hung-yen",
+      "name": "Tỉnh Hưng Yên",
+      "administrativeType": "Tỉnh",
+      "region": "Đồng bằng sông Hồng",
+      "administrativeCode": "33",
+      "file": "hung-yen.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "hung-yen",
+          "name": "Hưng Yên"
+        },
+        {
+          "id": "thai-binh",
+          "name": "Thái Bình"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Phố Hiến và cảnh quan làng quê Hưng Yên – ảnh đại diện chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Hưng Yên mới hợp nhất Hưng Yên và Thái Bình trước đây. Không gian văn hóa kết hợp thương cảng Phố Hiến, chùa Keo, làng nghề Đồng Xâm, hội làng và nông sản đồng bằng.",
+        "featuredDestinations": [
+          {
+            "id": "pho-hien",
+            "name": "Quần thể di tích Phố Hiến"
+          },
+          {
+            "id": "chua-keo-thai-binh",
+            "name": "Chùa Keo (Thần Quang tự)"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "nhan-long-hung-yen",
+            "name": "Nhãn lồng Hưng Yên"
+          },
+          {
+            "id": "banh-cay-lang-nguyen",
+            "name": "Bánh cáy Làng Nguyễn"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Quần thể di tích Phố Hiến",
+          "Chùa Keo (Thần Quang tự)",
+          "Làng nghề chạm bạc Đồng Xâm",
+          "Đền Đa Hòa – đền Dạ Trạch",
+          "Đền Tiên La",
+          "Chùa Nôm và làng Nôm"
+        ],
+        "specialties": [
+          "Nhãn lồng Hưng Yên",
+          "Bánh cáy Làng Nguyễn",
+          "Gà Đông Tảo",
+          "Tương Bần",
+          "Mắm cáy Diêm Điền"
+        ]
+      }
+    },
+    {
+      "id": "khanh-hoa",
+      "name": "Tỉnh Khánh Hòa",
+      "administrativeType": "Tỉnh",
+      "region": "Duyên hải Nam Trung Bộ",
+      "administrativeCode": "56",
+      "file": "khanh-hoa.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "khanh-hoa",
+          "name": "Khánh Hòa"
+        },
+        {
+          "id": "ninh-thuan",
+          "name": "Ninh Thuận"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Vịnh biển Nha Trang và tháp Chăm Khánh Hòa – ảnh đại diện chưa xác minh giấy phép.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Khánh Hòa mới hợp nhất Khánh Hòa và Ninh Thuận trước đây. Hồ sơ kết nối không gian biển đảo Nha Trang với di sản Chăm, tháp cổ, làng gốm Bàu Trúc, dệt Mỹ Nghiệp và hệ sinh thái Núi Chúa.",
+        "featuredDestinations": [
+          {
+            "id": "vinh-nha-trang",
+            "name": "Vịnh Nha Trang"
+          },
+          {
+            "id": "thap-ba-ponagar",
+            "name": "Tháp Bà Pô Nagar"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "yen-sao-khanh-hoa",
+            "name": "Yến sào Khánh Hòa"
+          },
+          {
+            "id": "nho-ninh-thuan",
+            "name": "Nho Ninh Thuận"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Vịnh Nha Trang",
+          "Tháp Bà Pô Nagar",
+          "Tháp Pô Klong Garai",
+          "Tháp Hòa Lai",
+          "Vườn quốc gia Núi Chúa và vịnh Vĩnh Hy",
+          "Làng gốm Chăm Bàu Trúc",
+          "Làng dệt thổ cẩm Chăm Mỹ Nghiệp"
+        ],
+        "specialties": [
+          "Yến sào Khánh Hòa",
+          "Nem Ninh Hòa",
+          "Bún cá Nha Trang",
+          "Nho Ninh Thuận",
+          "Táo Ninh Thuận"
+        ]
+      }
+    },
+    {
+      "id": "lai-chau",
+      "name": "Tỉnh Lai Châu",
+      "administrativeType": "Tỉnh",
+      "region": "Tây Bắc",
+      "administrativeCode": "12",
+      "file": "lai-chau.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "lai-chau",
+          "name": "Lai Châu"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Lai Châu – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Lai Châu là tỉnh miền núi biên giới Tây Bắc với cảnh quan Hoàng Liên Sơn, các bản làng Thái, Mông, Dao và nhiều cộng đồng khác. Văn hóa Then, Xòe Thái, chợ phiên và du lịch cộng đồng là những lớp bản sắc quan trọng.",
+        "featuredDestinations": [
+          {
+            "id": "deo-o-quy-ho",
+            "name": "Đèo Ô Quy Hồ"
+          },
+          {
+            "id": "sin-suoi-ho",
+            "name": "Bản du lịch cộng đồng Sin Suối Hồ"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "pa-pinh-top",
+            "name": "Pa pỉnh tộp"
+          },
+          {
+            "id": "che-tan-uyen",
+            "name": "Chè Tân Uyên"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Đèo Ô Quy Hồ",
+          "Khu du lịch sinh thái Cầu kính Rồng Mây",
+          "Bản du lịch cộng đồng Sin Suối Hồ",
+          "Đồi chè Tân Uyên",
+          "Động Pu Sam Cáp",
+          "Đỉnh Putaleng",
+          "Chợ đêm San Thàng"
+        ],
+        "specialties": [
+          "Thịt trâu gác bếp",
+          "Pa pỉnh tộp",
+          "Xôi tím",
+          "Chè Tân Uyên"
+        ]
+      }
+    },
+    {
+      "id": "lam-dong",
+      "name": "Tỉnh Lâm Đồng",
+      "administrativeType": "Tỉnh",
+      "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
+      "administrativeCode": "68",
+      "file": "lam-dong.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "lam-dong",
+          "name": "Lâm Đồng"
+        },
+        {
+          "id": "dak-nong",
+          "name": "Đắk Nông"
+        },
+        {
+          "id": "binh-thuan",
+          "name": "Bình Thuận"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Lâm Đồng – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Lâm Đồng mới kết nối ba không gian tiền thân: cao nguyên Lâm Đồng, không gian địa chất – văn hóa Đắk Nông và dải duyên hải Bình Thuận. Đà Lạt, Tà Đùng, Mũi Né, văn hóa cồng chiêng, Chăm và các sản phẩm nông nghiệp là những lớp bản sắc tiêu biểu.",
+        "featuredDestinations": [
+          {
+            "id": "mui-ne",
+            "name": "Khu du lịch quốc gia Mũi Né"
+          },
+          {
+            "id": "ho-ta-dung",
+            "name": "Hồ Tà Đùng"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "ca-phe-lam-dong",
+            "name": "Cà phê Lâm Đồng"
+          },
+          {
+            "id": "thanh-long-binh-thuan",
+            "name": "Thanh long Bình Thuận"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Hồ Xuân Hương và không gian trung tâm Đà Lạt",
+          "Khu du lịch quốc gia Hồ Tuyền Lâm",
+          "Núi Lang Biang",
+          "Khu du lịch quốc gia Mũi Né",
+          "Hồ Tà Đùng",
+          "Bàu Trắng",
+          "Công viên địa chất toàn cầu UNESCO Đắk Nông"
+        ],
+        "specialties": [
+          "Cà phê Lâm Đồng",
+          "Thanh long Bình Thuận",
+          "Nước mắm Phan Thiết",
+          "Rượu vang Đà Lạt",
+          "Hạt tiêu Đắk Nông"
+        ]
+      }
+    },
+    {
+      "id": "lang-son",
+      "name": "Tỉnh Lạng Sơn",
+      "administrativeType": "Tỉnh",
+      "region": "Đông Bắc",
+      "administrativeCode": "20",
+      "file": "lang-son.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "lang-son",
+          "name": "Lạng Sơn"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Lạng Sơn – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Lạng Sơn là tỉnh biên giới Đông Bắc, nổi bật với địa hình núi đá vôi, thung lũng Bắc Sơn, cửa khẩu Hữu Nghị và các cộng đồng Tày, Nùng, Dao. Công viên địa chất toàn cầu UNESCO, lễ hội Kỳ Cùng – Tả Phủ, hát Sli và Then là những giá trị văn hóa quan trọng.",
+        "featuredDestinations": [
+          {
+            "id": "khu-du-lich-mau-son",
+            "name": "Khu du lịch Mẫu Sơn"
+          },
+          {
+            "id": "cong-vien-dia-chat-toan-cau-lang-son",
+            "name": "Công viên địa chất toàn cầu UNESCO Lạng Sơn"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "vit-quay-lang-son",
+            "name": "Vịt quay Lạng Sơn"
+          },
+          {
+            "id": "na-chi-lang",
+            "name": "Na Chi Lăng"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu du lịch Mẫu Sơn",
+          "Cụm danh thắng Tam Thanh – Nhị Thanh",
+          "Thành nhà Mạc",
+          "Thung lũng Bắc Sơn",
+          "Ải Chi Lăng",
+          "Cửa khẩu quốc tế Hữu Nghị",
+          "Công viên địa chất toàn cầu UNESCO Lạng Sơn"
+        ],
+        "specialties": [
+          "Vịt quay Lạng Sơn",
+          "Phở chua Lạng Sơn",
+          "Khâu nhục",
+          "Na Chi Lăng",
+          "Quýt Bắc Sơn"
+        ]
+      }
+    },
+    {
+      "id": "lao-cai",
+      "name": "Tỉnh Lào Cai",
+      "administrativeType": "Tỉnh",
+      "region": "Tây Bắc",
+      "administrativeCode": "15",
+      "file": "lao-cai.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "lao-cai",
+          "name": "Lào Cai"
+        },
+        {
+          "id": "yen-bai",
+          "name": "Yên Bái"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Lào Cai – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Tỉnh Lào Cai mới hình thành từ Lào Cai và Yên Bái trước đây, kết nối Sa Pa – Fansipan, Bắc Hà, Y Tý với Mù Cang Chải, Mường Lò và hồ Thác Bà. Không gian này có nhiều cộng đồng Thái, Mông, Dao, Giáy, Tày với di sản Xòe Thái, Then và tri thức canh tác ruộng bậc thang.",
+        "featuredDestinations": [
+          {
+            "id": "khu-du-lich-quoc-gia-sa-pa",
+            "name": "Khu du lịch quốc gia Sa Pa"
+          },
+          {
+            "id": "mu-cang-chai",
+            "name": "Ruộng bậc thang Mù Cang Chải"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "thang-co-bac-ha",
+            "name": "Thắng cố vùng Bắc Hà"
+          },
+          {
+            "id": "com-nep-tu-le",
+            "name": "Cốm nếp Tú Lệ"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu du lịch quốc gia Sa Pa",
+          "Đỉnh Fansipan",
+          "Không gian du lịch Bắc Hà",
+          "Y Tý",
+          "Ruộng bậc thang Mù Cang Chải",
+          "Cánh đồng Mường Lò",
+          "Hồ Thác Bà"
+        ],
+        "specialties": [
+          "Thắng cố vùng Bắc Hà",
+          "Cốm nếp Tú Lệ",
+          "Gạo nếp Tú Lệ",
+          "Chè Shan tuyết Suối Giàng",
+          "Gạo Séng Cù"
+        ]
+      }
+    },
+    {
+      "id": "nghe-an",
+      "name": "Tỉnh Nghệ An",
+      "administrativeType": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "administrativeCode": "40",
+      "file": "nghe-an.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "nghe-an",
+          "name": "Nghệ An"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Nghệ An – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Nghệ An là tỉnh Bắc Trung Bộ có dải địa hình từ biển đến núi rừng Trường Sơn. Khu di tích Kim Liên, Pù Mát, Cửa Lò, Truông Bồn và văn hóa Thái miền tây cùng dân ca Ví, Giặm Nghệ Tĩnh là những nét tiêu biểu.",
+        "featuredDestinations": [
+          {
+            "id": "khu-di-tich-quoc-gia-dac-biet-kim-lien",
+            "name": "Khu di tích quốc gia đặc biệt Kim Liên"
+          },
+          {
+            "id": "vuon-quoc-gia-pu-mat",
+            "name": "Vườn quốc gia Pù Mát"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "nhut-thanh-chuong",
+            "name": "Nhút Thanh Chương"
+          },
+          {
+            "id": "tuong-nam-dan",
+            "name": "Tương Nam Đàn"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu di tích quốc gia đặc biệt Kim Liên",
+          "Vườn quốc gia Pù Mát",
+          "Thác Khe Kèm",
+          "Biển Cửa Lò",
+          "Đảo chè Thanh Chương",
+          "Khu di tích lịch sử Truông Bồn",
+          "Đền Cuông"
+        ],
+        "specialties": [
+          "Nhút Thanh Chương",
+          "Tương Nam Đàn",
+          "Cam Vinh",
+          "Cháo lươn Nghệ An",
+          "Giò bê Nam Đàn"
+        ]
+      }
+    },
+    {
+      "id": "ninh-binh",
+      "name": "Tỉnh Ninh Bình",
+      "administrativeType": "Tỉnh",
+      "region": "Đồng bằng sông Hồng",
+      "administrativeCode": "37",
+      "file": "ninh-binh.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "ninh-binh",
+          "name": "Ninh Bình"
+        },
+        {
+          "id": "ha-nam",
+          "name": "Hà Nam"
+        },
+        {
+          "id": "nam-dinh",
+          "name": "Nam Định"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Ninh Bình – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Ninh Bình mới kế thừa không gian văn hóa của Hà Nam, Nam Định và Ninh Bình cũ. Tràng An, cố đô Hoa Lư, Phủ Dầy, Phát Diệm và Tam Chúc cho thấy sự kết nối giữa di sản thiên nhiên, lịch sử, tín ngưỡng và kiến trúc vùng đồng bằng Bắc Bộ.",
+        "featuredDestinations": [
+          {
+            "id": "quan-the-danh-thang-trang-an",
+            "name": "Quần thể danh thắng Tràng An"
+          },
+          {
+            "id": "co-do-hoa-lu",
+            "name": "Cố đô Hoa Lư"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "de-nui-ninh-binh",
+            "name": "Dê núi Ninh Bình"
+          },
+          {
+            "id": "pho-nam-dinh",
+            "name": "Phở Nam Định"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Quần thể danh thắng Tràng An",
+          "Cố đô Hoa Lư",
+          "Tam Cốc – Bích Động",
+          "Vườn quốc gia Cúc Phương",
+          "Quần thể nhà thờ đá Phát Diệm",
+          "Quần thể di tích Phủ Dầy",
+          "Quần thể chùa Tam Chúc"
+        ],
+        "specialties": [
+          "Dê núi Ninh Bình",
+          "Cơm cháy Ninh Bình",
+          "Nem chua Yên Mạc",
+          "Rượu Kim Sơn",
+          "Phở Nam Định",
+          "Kẹo Sìu Châu"
+        ]
+      }
+    },
+    {
+      "id": "phu-tho",
+      "name": "Tỉnh Phú Thọ",
+      "administrativeType": "Tỉnh",
+      "region": "Trung du và miền núi phía Bắc",
+      "administrativeCode": "25",
+      "file": "phu-tho.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "phu-tho",
+          "name": "Phú Thọ"
+        },
+        {
+          "id": "vinh-phuc",
+          "name": "Vĩnh Phúc"
+        },
+        {
+          "id": "hoa-binh",
+          "name": "Hòa Bình"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Phú Thọ – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Phú Thọ mới kế thừa Phú Thọ, Vĩnh Phúc và Hòa Bình cũ. Tín ngưỡng thờ cúng Hùng Vương, Hát Xoan, Tây Thiên, Tam Đảo, hồ Hòa Bình và văn hóa Mường tạo nên không gian di sản đa dạng từ trung du đến miền núi.",
+        "featuredDestinations": [
+          {
+            "id": "den-hung-phu-tho",
+            "name": "Khu di tích lịch sử Đền Hùng"
+          },
+          {
+            "id": "ho-hoa-binh",
+            "name": "Hồ Hòa Bình"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "buoi-doan-hung",
+            "name": "Bưởi Đoan Hùng"
+          },
+          {
+            "id": "thit-chua-thanh-son",
+            "name": "Thịt chua Thanh Sơn"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Khu di tích lịch sử Đền Hùng",
+          "Vườn quốc gia Xuân Sơn",
+          "Khu di tích danh thắng Tây Thiên",
+          "Vườn quốc gia Tam Đảo",
+          "Hồ Hòa Bình",
+          "Không gian du lịch cộng đồng Mai Châu"
+        ],
+        "specialties": [
+          "Bưởi Đoan Hùng",
+          "Thịt chua Thanh Sơn",
+          "Chè Bát Tiên Phú Thọ",
+          "Cơm lam vùng Hòa Bình",
+          "Bánh tai Phú Thọ"
+        ]
+      }
+    },
+    {
+      "id": "quang-ngai",
+      "name": "Tỉnh Quảng Ngãi",
+      "administrativeType": "Tỉnh",
+      "region": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "administrativeCode": "51",
+      "file": "quang-ngai.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "quang-ngai",
+          "name": "Quảng Ngãi"
+        },
+        {
+          "id": "kon-tum",
+          "name": "Kon Tum"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Quảng Ngãi – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Quảng Ngãi mới kết nối dải duyên hải Quảng Ngãi cũ với cao nguyên Kon Tum cũ. Lý Sơn, Sa Huỳnh, Sơn Mỹ, Măng Đen, nhà thờ gỗ Kon Tum, văn hóa Ba Na – Xơ Đăng – Hrê và lễ Khao lề thế lính Hoàng Sa là những lớp bản sắc tiêu biểu.",
+        "featuredDestinations": [
+          {
+            "id": "dac-khu-ly-son",
+            "name": "Đặc khu Lý Sơn"
+          },
+          {
+            "id": "mang-den",
+            "name": "Khu du lịch sinh thái Măng Đen"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "toi-ly-son",
+            "name": "Tỏi Lý Sơn"
+          },
+          {
+            "id": "sam-ngoc-linh-quang-ngai",
+            "name": "Sâm Ngọc Linh"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Đặc khu Lý Sơn",
+          "Khu chứng tích Sơn Mỹ",
+          "Không gian văn hóa Sa Huỳnh",
+          "Biển Mỹ Khê Quảng Ngãi",
+          "Nhà thờ gỗ Kon Tum",
+          "Khu du lịch sinh thái Măng Đen",
+          "Vườn quốc gia Chư Mom Ray"
+        ],
+        "specialties": [
+          "Tỏi Lý Sơn",
+          "Mạch nha Quảng Ngãi",
+          "Sâm Ngọc Linh",
+          "Cà phê Măng Đen",
+          "Don Quảng Ngãi"
+        ]
+      }
+    },
+    {
+      "id": "quang-ninh",
+      "name": "Thành phố Quảng Ninh",
+      "administrativeType": "Thành phố trực thuộc Trung ương",
+      "region": "Đông Bắc",
+      "administrativeCode": "22",
+      "file": "quang-ninh.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "quang-ninh",
+          "name": "Quảng Ninh"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Thành phố Quảng Ninh – ảnh đại diện; quyền sử dụng chưa xác minh.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Quảng Ninh không sáp nhập cấp tỉnh trong đợt năm 2025; từ 01/09/2026 toàn bộ tỉnh Quảng Ninh cũ được thành lập thành phố trực thuộc Trung ương. Vịnh Hạ Long, Yên Tử, Bái Tử Long, Cô Tô và văn hóa các cộng đồng Tày, Dao, Sán Dìu là những lớp bản sắc tiêu biểu.",
+        "featuredDestinations": [
+          {
+            "id": "vinh-ha-long",
+            "name": "Vịnh Hạ Long"
+          },
+          {
+            "id": "yen-tu",
+            "name": "Quần thể di tích và danh thắng Yên Tử"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "cha-muc-ha-long",
+            "name": "Chả mực Hạ Long"
+          },
+          {
+            "id": "sa-sung-van-don",
+            "name": "Sá sùng Vân Đồn"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Vịnh Hạ Long",
+          "Quần thể di tích và danh thắng Yên Tử",
+          "Vườn quốc gia Bái Tử Long",
+          "Đặc khu Cô Tô",
+          "Đền Cửa Ông",
+          "Không gian du lịch Trà Cổ – Móng Cái"
+        ],
+        "specialties": [
+          "Chả mực Hạ Long",
+          "Sá sùng Vân Đồn",
+          "Gà Tiên Yên",
+          "Ngán Quảng Ninh",
+          "Rượu ba kích"
+        ]
+      }
+    },
+    {
+      "id": "quang-tri",
+      "name": "Tỉnh Quảng Trị",
+      "administrativeType": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "administrativeCode": "44",
+      "file": "quang-tri.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "quang-tri",
+          "name": "Quảng Trị"
+        },
+        {
+          "id": "quang-binh",
+          "name": "Quảng Bình"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Quảng Trị – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Quảng Trị mới hình thành từ Quảng Bình và Quảng Trị cũ, nối liền dải di sản thiên nhiên Phong Nha – Kẻ Bàng với các di tích giới tuyến, địa đạo, nghĩa trang và văn hóa làng biển – Trường Sơn. Hò khoan Lệ Thủy, Hiền Lương – Bến Hải và cà phê Khe Sanh là những nội dung tiêu biểu.",
+        "featuredDestinations": [
+          {
+            "id": "vuon-quoc-gia-phong-nha-ke-bang",
+            "name": "Vườn quốc gia Phong Nha – Kẻ Bàng"
+          },
+          {
+            "id": "hien-luong-ben-hai",
+            "name": "Di tích đôi bờ Hiền Lương – Bến Hải"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "khoai-deo-quang-binh",
+            "name": "Khoai deo Quảng Bình"
+          },
+          {
+            "id": "ca-phe-khe-sanh",
+            "name": "Cà phê Khe Sanh"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Vườn quốc gia Phong Nha – Kẻ Bàng",
+          "Thành cổ Quảng Trị",
+          "Địa đạo Vịnh Mốc",
+          "Di tích đôi bờ Hiền Lương – Bến Hải",
+          "Nghĩa trang liệt sĩ Trường Sơn",
+          "Đặc khu Cồn Cỏ",
+          "Di tích Hang Tám Cô"
+        ],
+        "specialties": [
+          "Khoai deo Quảng Bình",
+          "Bánh bột lọc",
+          "Cháo canh Quảng Bình",
+          "Cà phê Khe Sanh",
+          "Nước mắm vùng Cửa Việt"
+        ]
+      }
+    },
+    {
+      "id": "son-la",
+      "name": "Tỉnh Sơn La",
+      "administrativeType": "Tỉnh",
+      "region": "Trung du và miền núi phía Bắc",
+      "administrativeCode": "14",
+      "file": "son-la.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "son-la",
+          "name": "Sơn La"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Sơn La – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Sơn La là tỉnh miền núi Tây Bắc với cao nguyên Mộc Châu, cảnh quan sông Đà và các cộng đồng Thái, Mông, Dao, Mường. Nghệ thuật Xòe Thái, lễ Hết Chá và ẩm thực bản địa là những lớp bản sắc nổi bật.",
+        "featuredDestinations": [
+          {
+            "id": "cao-nguyen-moc-chau",
+            "name": "Cao nguyên Mộc Châu"
+          },
+          {
+            "id": "nha-tu-son-la",
+            "name": "Di tích Nhà tù Sơn La"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "pa-pinh-top",
+            "name": "Pa pỉnh tộp"
+          },
+          {
+            "id": "che-moc-chau",
+            "name": "Chè Mộc Châu"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Cao nguyên Mộc Châu",
+          "Di tích Nhà tù Sơn La",
+          "Tà Xùa",
+          "Vùng du lịch cộng đồng Ngọc Chiến",
+          "Hồ thủy điện Sơn La – vùng lòng hồ",
+          "Đèo Pha Đin",
+          "Thung lũng mận Nà Ka"
+        ],
+        "specialties": [
+          "Pa pỉnh tộp",
+          "Chè Mộc Châu",
+          "Sữa và sản phẩm sữa Mộc Châu",
+          "Mận hậu Sơn La",
+          "Thịt trâu gác bếp"
+        ]
+      }
+    },
+    {
+      "id": "tay-ninh",
+      "name": "Tỉnh Tây Ninh",
+      "administrativeType": "Tỉnh",
+      "region": "Đông Nam Bộ",
+      "administrativeCode": "80",
+      "file": "tay-ninh.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "tay-ninh",
+          "name": "Tây Ninh"
+        },
+        {
+          "id": "long-an",
+          "name": "Long An"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Tây Ninh – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Tây Ninh mới kế thừa toàn bộ Tây Ninh và Long An cũ. Núi Bà Đen, Tòa Thánh Cao Đài, căn cứ Trung ương Cục miền Nam cùng vùng sông Vàm Cỏ, làng nghề Trảng Bàng và Đồng Tháp Mười tạo nên không gian văn hóa đa dạng.",
+        "featuredDestinations": [
+          {
+            "id": "nui-ba-den",
+            "name": "Núi Bà Đen"
+          },
+          {
+            "id": "toa-thanh-cao-dai",
+            "name": "Tòa Thánh Cao Đài Tây Ninh"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "banh-trang-phoi-suong-trang-bang",
+            "name": "Bánh tráng phơi sương Trảng Bàng"
+          },
+          {
+            "id": "muoi-tom-tay-ninh",
+            "name": "Muối tôm Tây Ninh"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Núi Bà Đen",
+          "Tòa Thánh Cao Đài Tây Ninh",
+          "Di tích Căn cứ Trung ương Cục miền Nam",
+          "Vườn quốc gia Lò Gò – Xa Mát",
+          "Khu du lịch sinh thái Làng nổi Tân Lập",
+          "Nhà trăm cột Cần Đước",
+          "Hồ Dầu Tiếng"
+        ],
+        "specialties": [
+          "Bánh tráng phơi sương Trảng Bàng",
+          "Muối tôm Tây Ninh",
+          "Mãng cầu Bà Đen",
+          "Gạo Nàng Thơm Chợ Đào",
+          "Lạp xưởng Cần Đước"
+        ]
+      }
+    },
+    {
+      "id": "thai-nguyen",
+      "name": "Tỉnh Thái Nguyên",
+      "administrativeType": "Tỉnh",
+      "region": "Trung du và miền núi phía Bắc",
+      "administrativeCode": "19",
+      "file": "thai-nguyen.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "thai-nguyen",
+          "name": "Thái Nguyên"
+        },
+        {
+          "id": "bac-kan",
+          "name": "Bắc Kạn"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Thái Nguyên – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Thái Nguyên mới kế thừa Bắc Kạn và Thái Nguyên cũ, kết nối hồ Ba Bể, ATK Định Hóa – Chợ Đồn, vùng chè Tân Cương và văn hóa đa dân tộc Việt Bắc.",
+        "featuredDestinations": [
+          {
+            "id": "ho-ba-be",
+            "name": "Hồ Ba Bể và Vườn quốc gia Ba Bể"
+          },
+          {
+            "id": "atk-dinh-hoa",
+            "name": "Khu di tích lịch sử quốc gia đặc biệt ATK Định Hóa"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "che-tan-cuong",
+            "name": "Chè Tân Cương"
+          },
+          {
+            "id": "mien-dong-na-ri",
+            "name": "Miến dong Na Rì"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Hồ Ba Bể và Vườn quốc gia Ba Bể",
+          "Khu di tích lịch sử quốc gia đặc biệt ATK Định Hóa",
+          "Khu di tích lịch sử ATK Chợ Đồn",
+          "Hồ Núi Cốc",
+          "Cảnh quan hồ và rừng vùng Ba Bể – Chợ Đồn",
+          "Di tích đền Đuổm",
+          "Vùng chè Tân Cương"
+        ],
+        "specialties": [
+          "Chè Tân Cương",
+          "Miến dong Na Rì",
+          "Bánh chưng Bờ Đậu",
+          "Cơm lam Định Hóa",
+          "Khâu nhục vùng Ba Bể"
+        ]
+      }
+    },
+    {
+      "id": "thanh-hoa",
+      "name": "Tỉnh Thanh Hóa",
+      "administrativeType": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "administrativeCode": "38",
+      "file": "thanh-hoa.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "thanh-hoa",
+          "name": "Thanh Hóa"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Thanh Hóa – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Thanh Hóa giữ nguyên cấp tỉnh sau sắp xếp 2025, nổi bật với Thành nhà Hồ, Lam Kinh, Pù Luông, Sầm Sơn và văn hóa các cộng đồng Kinh, Mường, Thái.",
+        "featuredDestinations": [
+          {
+            "id": "thanh-nha-ho",
+            "name": "Thành nhà Hồ"
+          },
+          {
+            "id": "khu-di-tich-lam-kinh",
+            "name": "Khu di tích lịch sử Lam Kinh"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "nem-chua-thanh-hoa",
+            "name": "Nem chua Thanh Hóa"
+          },
+          {
+            "id": "cha-tom-thanh-hoa",
+            "name": "Chả tôm Thanh Hóa"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Thành nhà Hồ",
+          "Khu di tích lịch sử Lam Kinh",
+          "Khu bảo tồn thiên nhiên Pù Luông",
+          "Bãi biển Sầm Sơn",
+          "Suối cá Cẩm Lương",
+          "Vườn quốc gia Bến En",
+          "Cầu Hàm Rồng và quần thể di tích Hàm Rồng"
+        ],
+        "specialties": [
+          "Nem chua Thanh Hóa",
+          "Chả tôm Thanh Hóa",
+          "Bánh gai Tứ Trụ",
+          "Mắm tép Hà Yên",
+          "Chè lam Phủ Quảng"
+        ]
+      }
+    },
+    {
+      "id": "tuyen-quang",
+      "name": "Tỉnh Tuyên Quang",
+      "administrativeType": "Tỉnh",
+      "region": "Đông Bắc và Tây Bắc",
+      "administrativeCode": "08",
+      "file": "tuyen-quang.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "tuyen-quang",
+          "name": "Tuyên Quang"
+        },
+        {
+          "id": "ha-giang",
+          "name": "Hà Giang"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Tuyên Quang – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Tuyên Quang mới kết nối di tích cách mạng Tân Trào với cao nguyên đá Đồng Văn, các cộng đồng vùng cao và văn hóa Then.",
+        "featuredDestinations": [
+          {
+            "id": "cao-nguyen-da-dong-van",
+            "name": "Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn"
+          },
+          {
+            "id": "khu-di-tich-tan-trao",
+            "name": "Khu di tích lịch sử Tân Trào"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "cam-sanh-ham-yen",
+            "name": "Cam sành Hàm Yên"
+          },
+          {
+            "id": "che-shan-tuyet-tay-con-linh",
+            "name": "Chè Shan tuyết Tây Côn Lĩnh"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn",
+          "Cột cờ Lũng Cú",
+          "Đèo Mã Pí Lèng và hẻm vực Tu Sản",
+          "Khu di tích lịch sử Tân Trào",
+          "Khu du lịch sinh thái Na Hang – Lâm Bình",
+          "Ruộng bậc thang Hoàng Su Phì",
+          "Không gian chợ tình Khâu Vai"
+        ],
+        "specialties": [
+          "Cam sành Hàm Yên",
+          "Chè Shan tuyết Tây Côn Lĩnh",
+          "Thắng cố",
+          "Mèn mén",
+          "Thịt treo gác bếp"
+        ]
+      }
+    },
+    {
+      "id": "vinh-long",
+      "name": "Tỉnh Vĩnh Long",
+      "administrativeType": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "administrativeCode": "86",
+      "file": "vinh-long.json",
+      "researchStatus": "needs_review",
+      "formerUnits": [
+        {
+          "id": "vinh-long",
+          "name": "Vĩnh Long"
+        },
+        {
+          "id": "tra-vinh",
+          "name": "Trà Vinh"
+        },
+        {
+          "id": "ben-tre",
+          "name": "Bến Tre"
+        }
+      ],
+      "summary": {
+        "image": {
+          "file": null,
+          "alt": "Tỉnh Vĩnh Long – ảnh đại diện chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "shortIntroduction": "Vĩnh Long mới kế thừa ba không gian văn hóa Vĩnh Long, Bến Tre và Trà Vinh trước đây: văn hóa miệt vườn – sông nước, xứ dừa và di sản Khmer Nam Bộ. Các điểm nhấn gồm làng gạch gốm Mang Thít, Khu lưu niệm Nguyễn Đình Chiểu, Ao Bà Om, Ok Om Bok và Đờn ca tài tử.",
+        "featuredDestinations": [
+          {
+            "id": "lo-gach-mang-thit",
+            "name": "Làng nghề gạch, gốm Mang Thít"
+          },
+          {
+            "id": "mo-va-khu-luu-niem-nguyen-dinh-chieu",
+            "name": "Mộ và Khu lưu niệm Nguyễn Đình Chiểu"
+          },
+          {
+            "id": "ao-ba-om-chua-ang",
+            "name": "Khu danh thắng Ao Bà Om và chùa Âng"
+          }
+        ],
+        "featuredSpecialties": [
+          {
+            "id": "dua-sap-cau-ke",
+            "name": "Dừa sáp Cầu Kè"
+          },
+          {
+            "id": "keo-dua-ben-tre",
+            "name": "Kẹo dừa Bến Tre"
+          },
+          {
+            "id": "banh-tet-tra-cuon",
+            "name": "Bánh tét Trà Cuôn"
+          }
+        ]
+      },
+      "searchNames": {
+        "destinations": [
+          "Làng nghề gạch, gốm Mang Thít",
+          "Cù lao An Bình",
+          "Văn Thánh Miếu Vĩnh Long",
+          "Mộ và Khu lưu niệm Nguyễn Đình Chiểu",
+          "Cồn Phụng",
+          "Khu danh thắng Ao Bà Om và chùa Âng",
+          "Bảo tàng Văn hóa dân tộc Khmer",
+          "Biển Ba Động"
+        ],
+        "specialties": [
+          "Dừa sáp Cầu Kè",
+          "Kẹo dừa Bến Tre",
+          "Bánh tét Trà Cuôn",
+          "Bánh tráng Mỹ Lồng và bánh phồng Sơn Đốc",
+          "Bưởi Năm Roi Mỹ Hòa",
+          "Cam sành Tam Bình",
+          "Sầu riêng Cái Mơn"
+        ]
+      }
+    }
+  ]
+}

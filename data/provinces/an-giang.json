@@ -1,0 +1,1184 @@
+{
+  "id": "an-giang",
+  "name": "Tỉnh An Giang",
+  "administrativeType": "Tỉnh",
+  "region": "Đồng bằng sông Cửu Long",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Ảnh đại diện tổng hợp tỉnh An Giang: không gian sông nước, núi Bảy Núi và biển đảo (chưa xác minh giấy phép sử dụng).",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "An Giang là tỉnh ở cực Tây Nam vùng Đồng bằng sông Cửu Long, hình thành từ việc hợp nhất An Giang và Kiên Giang cũ từ ngày 01/07/2025. Không gian tỉnh trải từ vùng biên giới – sông nước – Thất Sơn đến bờ biển Vịnh Thái Lan và các quần đảo; bản sắc văn hóa là sự cộng cư, giao thoa của cộng đồng Kinh, Khmer, Chăm và Hoa.",
+    "featuredDestinationIds": [
+      "mien-ba-chua-xu-nui-sam",
+      "oc-eo-ba-the",
+      "vuon-quoc-gia-phu-quoc",
+      "thach-dong-ha-tien"
+    ],
+    "featuredSpecialtyIds": [
+      "mam-chau-doc",
+      "nuoc-mam-phu-quoc"
+    ],
+    "sourceIds": [
+      "src-031",
+      "src-033",
+      "src-034",
+      "src-049",
+      "src-056"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh An Giang",
+      "administrativeCode": "91",
+      "administrativeCenter": "Phường Rạch Giá (trụ sở Văn phòng UBND tỉnh công khai tại số 06 Nguyễn Công Trứ, phường Rạch Giá; chưa tìm thấy văn bản riêng trong bộ nguồn này dùng thuật ngữ chính thức “trung tâm hành chính”).",
+      "vehiclePlateCodes": [
+        "67",
+        "68"
+      ],
+      "areaKm2": 9893.92,
+      "areaYear": 2025,
+      "population": {
+        "value": 5062758,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh An Giang nằm ở phía Tây Nam Việt Nam, thuộc vùng Đồng bằng sông Cửu Long. Tỉnh mới được hình thành từ toàn bộ tỉnh An Giang cũ và tỉnh Kiên Giang cũ; vừa có không gian đồng bằng – sông Hậu – vùng núi Bảy Núi, vừa có dải ven biển Vịnh Thái Lan và hệ thống đảo, quần đảo.",
+      "boundaries": [
+        "Phía Bắc: Vương quốc Campuchia",
+        "Phía Đông: tỉnh Đồng Tháp",
+        "Phía Nam: thành phố Cần Thơ và tỉnh Cà Mau",
+        "Phía Tây: Vịnh Thái Lan"
+      ],
+      "naturalFeatures": "Không gian tự nhiên đa dạng gồm đồng bằng phù sa và sông ngòi vùng thượng nguồn sông Hậu; vùng núi Thất Sơn/Bảy Núi ở phần nội địa; vùng ngập nước, rừng tràm; dải bờ biển khoảng 200 km và các đảo, quần đảo trên Vịnh Thái Lan. Tuyến biên giới trên bộ giáp Campuchia dài hơn 148 km. Các khu vực sinh thái đáng chú ý gồm rừng tràm Trà Sư, Vườn quốc gia Phú Quốc và vùng biển đảo Kiên Hải.",
+      "climate": null,
+      "history": "Không gian An Giang – Kiên Giang có nhiều lớp lịch sử. Ở phần An Giang cũ, văn hóa khảo cổ Óc Eo phát triển trong những thế kỷ đầu Công nguyên tại hạ lưu Mekong, gắn với mạng lưới đô thị – thương mại của Phù Nam; về sau vùng biên giới, sông Hậu và Thất Sơn hình thành các trung tâm cư trú Kinh, Khmer, Chăm và Hoa. Ở phần Kiên Giang cũ, Hà Tiên phát triển thành một trung tâm thương mại – văn hóa gắn với dòng họ Mạc và Tao đàn Chiêu Anh Các do Mạc Thiên Tích sáng lập năm 1736; Rạch Giá và vùng biển đảo phát triển gắn với kinh tế biển, nghề cá và lịch sử đấu tranh chống thực dân, trong đó có Anh hùng dân tộc Nguyễn Trung Trực. Ngày 12/06/2025, Quốc hội thông qua Nghị quyết 202/2025/QH15 hợp nhất hai tỉnh; chính quyền tỉnh mới chính thức hoạt động từ 01/07/2025.",
+      "description": "An Giang là không gian văn hóa – sinh thái đặc sắc ở Tây Nam Bộ, kết nối biên giới đất liền, đồng bằng sông Hậu, vùng núi Bảy Núi, ven biển và đảo. Bức tranh di sản trải từ khảo cổ Óc Eo – Ba Thê, tín ngưỡng Bà Chúa Xứ Núi Sam, di tích Chủ tịch Tôn Đức Thắng, lễ hội Khmer vùng Bảy Núi đến di sản biển đảo như nghề làm nước mắm Phú Quốc, lễ hội Nguyễn Trung Trực và văn chương Tao đàn Chiêu Anh Các ở Hà Tiên. Dữ liệu văn hóa trong hồ sơ phân định nguồn gốc từ hai tỉnh tiền thân, không gộp mọi tập quán thành bản sắc đồng nhất.",
+      "sourceIds": [
+        "src-031",
+        "src-032",
+        "src-033",
+        "src-034",
+        "src-035",
+        "src-036",
+        "src-037",
+        "src-038",
+        "src-041",
+        "src-042",
+        "src-044",
+        "src-048"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "oc-eo-ba-the",
+        "name": "Khu di tích khảo cổ Óc Eo – Ba Thê",
+        "category": "Di tích quốc gia đặc biệt; di tích khảo cổ",
+        "originArea": "Không gian văn hóa Óc Eo thuộc tỉnh An Giang cũ; khu vực Óc Eo – Ba Thê, trước đây thuộc huyện Thoại Sơn",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích khảo cổ Óc Eo – Ba Thê (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Óc Eo, tỉnh An Giang (địa giới cấp xã hiện hành).",
+        "coordinates": null,
+        "shortDescription": "Quần thể khảo cổ tiêu biểu của văn hóa Óc Eo, phản ánh một trung tâm cư trú, tôn giáo và giao thương quan trọng ở hạ lưu Mekong trong những thế kỷ đầu Công nguyên.",
+        "fullDescription": "Khu di tích Óc Eo – Ba Thê gồm không gian cánh đồng Óc Eo và sườn núi Ba Thê cùng các điểm di tích liên quan. Các khai quật khảo cổ ghi nhận dấu tích kiến trúc, cư trú, tôn giáo và mạng lưới giao thương của văn hóa Óc Eo, gắn với thời kỳ phát triển của vương quốc Phù Nam. Cần phân biệt danh hiệu Di tích quốc gia đặc biệt với tình trạng UNESCO: theo nguồn cập nhật năm 2026, khu di tích đang trong tiến trình đề cử và đã được đưa vào Danh sách dự kiến năm 2022, chưa phải Di sản Thế giới được ghi danh chính thức.",
+        "highlights": [
+          "Cánh đồng Óc Eo và các di chỉ khảo cổ",
+          "Sườn núi Ba Thê với các dấu tích kiến trúc tôn giáo",
+          "Hiện vật khảo cổ phản ánh giao thương và đời sống Phù Nam"
+        ],
+        "historicalCulturalValue": "Cung cấp tư liệu quan trọng về lịch sử đô thị, thương mại, tôn giáo và giao lưu văn hóa ở Nam Bộ, Đông Nam Á trong những thế kỷ đầu Công nguyên.",
+        "recognition": "Di tích quốc gia đặc biệt theo quyết định của Thủ tướng Chính phủ năm 2012; UNESCO đưa vào Danh sách dự kiến Di sản Thế giới năm 2022. Chưa ghi danh chính thức là Di sản Thế giới tại ngày 05/11/2026.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-041",
+          "src-042",
+          "src-043"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "khu-luu-niem-ton-duc-thang",
+        "name": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+        "category": "Di tích quốc gia đặc biệt; di tích lịch sử lưu niệm",
+        "originArea": "Cù lao Ông Hổ, xã Mỹ Hòa Hưng, tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Khu lưu niệm Chủ tịch Tôn Đức Thắng (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Mỹ Hòa Hưng, tỉnh An Giang.",
+        "coordinates": null,
+        "shortDescription": "Quần thể di tích gắn với quê hương, thời niên thiếu và cuộc đời hoạt động cách mạng của Chủ tịch Tôn Đức Thắng.",
+        "fullDescription": "Khu lưu niệm nằm trên Cù lao Ông Hổ, lưu giữ ngôi nhà thời niên thiếu của Chủ tịch Tôn Đức Thắng cùng đền tưởng niệm và không gian trưng bày tư liệu. Ngôi nhà được công nhận là di tích lịch sử lưu niệm năm 1984; toàn khu được Thủ tướng Chính phủ xếp hạng Di tích quốc gia đặc biệt theo Quyết định 548/QĐ-TTg ngày 10/05/2012.",
+        "highlights": [
+          "Ngôi nhà gia đình xây dựng năm 1887",
+          "Đền tưởng niệm Chủ tịch Tôn Đức Thắng",
+          "Nhà trưng bày thân thế, sự nghiệp và tư liệu lịch sử"
+        ],
+        "historicalCulturalValue": "Là địa chỉ giáo dục truyền thống lịch sử, cách mạng và tưởng niệm một nhân vật lãnh đạo tiêu biểu của Việt Nam thế kỷ XX.",
+        "recognition": "Di tích quốc gia đặc biệt theo Quyết định 548/QĐ-TTg ngày 10/05/2012.",
+        "visitorInformation": "Trang quản lý di tích công bố lịch mở cửa hằng ngày: 07:30–11:00 và 13:30–17:00; nên kiểm tra lại trước chuyến tham quan.",
+        "sourceIds": [
+          "src-044"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "mien-ba-chua-xu-nui-sam",
+        "name": "Miếu Bà Chúa Xứ Núi Sam",
+        "category": "Di tích tín ngưỡng; điểm du lịch tâm linh",
+        "originArea": "Núi Sam – Châu Đốc, tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Miếu Bà Chúa Xứ Núi Sam (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Vĩnh Tế, tỉnh An Giang.",
+        "coordinates": null,
+        "shortDescription": "Trung tâm tín ngưỡng quan trọng ở vùng Châu Đốc, gắn với lễ hội Vía Bà Chúa Xứ Núi Sam và đời sống tâm linh Nam Bộ.",
+        "fullDescription": "Miếu Bà Chúa Xứ nằm ở khu vực Núi Sam, là trung tâm hành hương lớn của Nam Bộ. Lễ hội Vía Bà phản ánh tiến trình hình thành tín ngưỡng địa phương và sự giao lưu, tiếp biến văn hóa giữa cộng đồng Kinh với Hoa, Khmer và Chăm. Quần thể cảnh quan – di tích Núi Sam còn có Tây An cổ tự và Lăng Thoại Ngọc Hầu; hồ sơ này tách riêng lễ hội khỏi công trình miếu để tiện liên kết ID.",
+        "highlights": [
+          "Không gian thờ Bà Chúa Xứ",
+          "Gắn với Lễ hội Vía Bà Chúa Xứ Núi Sam",
+          "Nằm trong không gian di tích – du lịch Núi Sam"
+        ],
+        "historicalCulturalValue": "Là trung tâm thực hành tín ngưỡng dân gian có sức lan tỏa rộng, đồng thời là không gian giao lưu văn hóa của nhiều cộng đồng ở vùng biên giới Tây Nam.",
+        "recognition": "Khu du lịch quốc gia Núi Sam được công nhận theo Quyết định 2646/QĐ-BVHTTDL ngày 13/07/2018; Lễ hội Vía Bà Chúa Xứ Núi Sam được UNESCO ghi danh năm 2024 (mục lễ hội ở phần văn hóa).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-039",
+          "src-045",
+          "src-053",
+          "src-056"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "rung-tram-tra-su",
+        "name": "Rừng tràm Trà Sư",
+        "category": "Điểm du lịch sinh thái; vùng đất ngập nước",
+        "originArea": "Vùng Bảy Núi – tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Rừng tràm Trà Sư (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã An Cư, tỉnh An Giang (theo danh mục điểm du lịch được công nhận năm 2025).",
+        "coordinates": null,
+        "shortDescription": "Không gian rừng tràm ngập nước tiêu biểu của vùng Tây sông Hậu, với hệ thống kênh rạch, thảm thực vật thủy sinh và cảnh quan sinh thái đặc trưng.",
+        "fullDescription": "Trà Sư là điểm du lịch sinh thái nổi bật của vùng An Giang cũ. Cảnh quan gồm rừng tràm, mặt nước theo mùa, thảm thực vật nổi và các tuyến tham quan bằng xuồng. Đây là một đại diện quan trọng cho nhóm tài nguyên sinh thái nội địa của tỉnh mới, bên cạnh cảnh quan biển đảo phía Kiên Giang cũ.",
+        "highlights": [
+          "Rừng tràm và kênh nước",
+          "Thảm thực vật nổi trên mặt nước",
+          "Quan sát cảnh quan và sinh thái đất ngập nước"
+        ],
+        "historicalCulturalValue": "Gắn với sinh kế và cảnh quan vùng ngập nước Đồng bằng sông Cửu Long; có giá trị giáo dục môi trường và trải nghiệm sinh thái.",
+        "recognition": "Điểm du lịch được UBND tỉnh An Giang (cũ) công nhận theo Quyết định 2949/QĐ-UBND ngày 09/12/2019.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-040",
+          "src-061"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "thien-cam-son-nui-cam",
+        "name": "Núi Cấm (Thiên Cấm Sơn)",
+        "category": "Khu du lịch; danh lam thắng cảnh; không gian tín ngưỡng",
+        "originArea": "Vùng Thất Sơn/Bảy Núi, tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Núi Cấm – Thiên Cấm Sơn (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Núi Cấm, xã An Cư và phường Chi Lăng, tỉnh An Giang.",
+        "coordinates": null,
+        "shortDescription": "Ngọn núi cao nổi bật của vùng Bảy Núi, kết hợp cảnh quan tự nhiên, không gian tâm linh và hoạt động du lịch sinh thái.",
+        "fullDescription": "Núi Cấm còn gọi là Thiên Cấm Sơn, nằm trong vùng Bảy Núi ở phần nội địa An Giang cũ. Theo Sở Du lịch tỉnh năm 2026, núi cao khoảng 710 m, có diện tích tự nhiên hơn 3.100 ha; không gian núi liên quan đến nhiều điểm thờ tự và cảnh quan tự nhiên. Địa bàn hành chính hiện nay trải trên xã Núi Cấm, xã An Cư và phường Chi Lăng.",
+        "highlights": [
+          "Thiên Cấm Sơn cao khoảng 710 m",
+          "Cảnh quan vùng Thất Sơn",
+          "Kết hợp du lịch tự nhiên và tín ngưỡng"
+        ],
+        "historicalCulturalValue": "Là một biểu tượng cảnh quan – tâm linh của vùng Bảy Núi và không gian văn hóa cư trú của nhiều cộng đồng địa phương.",
+        "recognition": "Khu du lịch Núi Cấm được UBND tỉnh An Giang (cũ) công nhận theo Quyết định 355/QĐ-UBND ngày 13/03/2014.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-039",
+          "src-060"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "doi-tuc-dup",
+        "name": "Đồi Tức Dụp",
+        "category": "Điểm du lịch lịch sử; di tích cách mạng",
+        "originArea": "Tri Tôn, tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Đồi Tức Dụp (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Ô Lâm, tỉnh An Giang.",
+        "coordinates": null,
+        "shortDescription": "Địa điểm lịch sử ở vùng Bảy Núi, gắn với hoạt động chiến đấu và hệ thống hang động trong kháng chiến.",
+        "fullDescription": "Đồi Tức Dụp là điểm đến lịch sử – cảnh quan tại khu vực Tri Tôn cũ. Các hang, hốc đá tự nhiên trong khu đồi từng được sử dụng làm căn cứ, nơi trú ẩn và tổ chức hoạt động trong chiến tranh. Sở Du lịch tỉnh đưa Tức Dụp vào danh mục điểm du lịch được công nhận; chi tiết cấp xếp hạng di tích và hồ sơ quyết định riêng cần tiếp tục đối chiếu trước khi mô tả sâu hơn.",
+        "highlights": [
+          "Địa hình đồi đá và hệ thống hang",
+          "Ký ức lịch sử kháng chiến ở vùng Bảy Núi",
+          "Không gian cảnh quan vùng núi"
+        ],
+        "historicalCulturalValue": "Gợi nhắc lịch sử đấu tranh cách mạng của cộng đồng địa phương ở vùng biên giới Tây Nam.",
+        "recognition": "Điểm du lịch được công nhận theo Quyết định 2651/QĐ-UBND ngày 01/11/2019 của UBND tỉnh An Giang (cũ).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-040"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-phu-quoc",
+        "name": "Vườn quốc gia Phú Quốc",
+        "category": "Vườn quốc gia; khu bảo tồn thiên nhiên; du lịch sinh thái",
+        "originArea": "Đặc khu Phú Quốc, địa bàn tỉnh Kiên Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Phú Quốc (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Phú Quốc, tỉnh An Giang.",
+        "coordinates": null,
+        "shortDescription": "Khu vực bảo tồn hệ sinh thái rừng và biển quan trọng trên đảo Phú Quốc, thuộc không gian Khu Dự trữ Sinh quyển Kiên Giang.",
+        "fullDescription": "Vườn quốc gia Phú Quốc bảo tồn hệ sinh thái rừng trên đảo cùng các sinh cảnh có liên hệ với vùng biển xung quanh. Đây là phần quan trọng của không gian sinh quyển Kiên Giang được UNESCO công nhận; hồ sơ sử dụng tên đặc khu hiện hành Phú Quốc, thay vì địa danh huyện/thành phố Phú Quốc thuộc tỉnh Kiên Giang cũ.",
+        "highlights": [
+          "Hệ sinh thái rừng trên đảo",
+          "Tài nguyên sinh học rừng – biển",
+          "Liên hệ với Khu Dự trữ Sinh quyển Kiên Giang"
+        ],
+        "historicalCulturalValue": "Không gian tự nhiên gắn với lịch sử cư trú, sinh kế biển đảo và nhận diện du lịch sinh thái của Phú Quốc.",
+        "recognition": "Vườn quốc gia; nằm trong Khu Dự trữ Sinh quyển Kiên Giang được UNESCO công nhận. Cần đối chiếu hồ sơ UNESCO cụ thể trước khi hiển thị năm và phạm vi ranh giới sinh quyển.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-057",
+          "src-034"
+        ],
+        "originUnitIds": [
+          "kien-giang"
+        ]
+      },
+      {
+        "id": "quan-dao-nam-du",
+        "name": "Quần đảo Nam Du",
+        "category": "Khu du lịch biển đảo; danh lam thắng cảnh",
+        "originArea": "Huyện Kiên Hải, tỉnh Kiên Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Quần đảo Nam Du (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Kiên Hải, tỉnh An Giang.",
+        "coordinates": null,
+        "shortDescription": "Quần đảo ngoài khơi Vịnh Thái Lan, tiêu biểu cho không gian biển đảo của phần Kiên Giang trước khi hợp nhất.",
+        "fullDescription": "Nam Du là quần đảo thuộc đặc khu Kiên Hải hiện nay, gắn với đời sống cư dân biển, nghề khai thác thủy sản và du lịch cộng đồng – nghỉ dưỡng. Sở Du lịch tỉnh liệt kê quần đảo Nam Du là khu du lịch được công nhận theo quyết định của UBND tỉnh Kiên Giang (cũ) năm 2017.",
+        "highlights": [
+          "Cảnh quan đảo và vùng biển Vịnh Thái Lan",
+          "Cộng đồng cư dân gắn với sinh kế biển",
+          "Các hoạt động trải nghiệm biển đảo"
+        ],
+        "historicalCulturalValue": "Đại diện cho bản sắc văn hóa biển đảo của vùng Kiên Giang cũ trong tỉnh An Giang mới.",
+        "recognition": "Khu du lịch quần đảo Nam Du được công nhận theo Quyết định 2931/QĐ-UBND ngày 29/12/2017 của UBND tỉnh Kiên Giang (cũ).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-039",
+          "src-063"
+        ],
+        "originUnitIds": [
+          "kien-giang"
+        ]
+      },
+      {
+        "id": "thach-dong-ha-tien",
+        "name": "Thạch Động",
+        "category": "Danh lam thắng cảnh; di tích quốc gia",
+        "originArea": "Hà Tiên, tỉnh Kiên Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Thạch Động Hà Tiên (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Hà Tiên, tỉnh An Giang (theo địa giới sau sắp xếp cấp xã năm 2025).",
+        "coordinates": null,
+        "shortDescription": "Khối núi đá vôi nổi bật, một trong Hà Tiên thập cảnh, gắn với truyền thuyết dân gian và cảnh quan vùng biên giới biển Tây.",
+        "fullDescription": "Thạch Động là khối đá vôi cao khoảng 50 m ở khu vực Hà Tiên, được biết đến trong hệ thống Hà Tiên thập cảnh. Địa điểm được xếp hạng di tích cấp quốc gia năm 1989. Cổng du lịch tỉnh hiện còn lưu địa chỉ theo đơn vị cũ là phường Mỹ Đức; địa giới hiện hành đã hợp nhất thành phường Hà Tiên.",
+        "highlights": [
+          "Hang động trong khối đá vôi",
+          "Một trong Hà Tiên thập cảnh",
+          "Cảnh quan gần biên giới Việt Nam – Campuchia"
+        ],
+        "historicalCulturalValue": "Gắn với thi ca, truyền thuyết và ký ức cảnh quan của Hà Tiên; đại diện cho lớp di sản văn hóa – thiên nhiên vùng Kiên Giang cũ.",
+        "recognition": "Di tích cấp quốc gia, xếp hạng năm 1989.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-058",
+          "src-036"
+        ],
+        "originUnitIds": [
+          "kien-giang"
+        ]
+      },
+      {
+        "id": "mui-nai-ha-tien",
+        "name": "Di tích thắng cảnh Mũi Nai",
+        "category": "Danh lam thắng cảnh; điểm du lịch biển",
+        "originArea": "Hà Tiên, tỉnh Kiên Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Bãi biển Mũi Nai Hà Tiên (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Hà Tiên, tỉnh An Giang (địa chỉ cổng du lịch trước sắp xếp ghi phường Pháo Đài).",
+        "coordinates": null,
+        "shortDescription": "Bãi biển nổi tiếng của Hà Tiên, là một trong những điểm du lịch biển tiêu biểu của vùng Kiên Giang cũ.",
+        "fullDescription": "Mũi Nai nằm ở khu vực Hà Tiên, được biết đến với bãi biển và cảnh quan ven Vịnh Thái Lan. Đây là một điểm du lịch biển của không gian tỉnh Kiên Giang cũ, nay thuộc phường Hà Tiên của tỉnh An Giang mới. Thông tin hoạt động, dịch vụ và điều kiện bãi biển cần được kiểm tra riêng theo thời điểm tham quan.",
+        "highlights": [
+          "Cảnh quan bãi biển ven Vịnh Thái Lan",
+          "Một điểm du lịch tiêu biểu của Hà Tiên",
+          "Kết nối với các danh thắng Thạch Động, núi Bình San và Đầm Đông Hồ"
+        ],
+        "historicalCulturalValue": "Gắn với lịch sử du lịch biển của Hà Tiên và sinh kế cư dân vùng ven biển.",
+        "recognition": "Cổng du lịch tỉnh giới thiệu với tên Di tích thắng cảnh Mũi Nai; chưa ghi thêm cấp xếp hạng khi chưa có quyết định được xác minh trong nguồn đã tra cứu.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-059",
+          "src-036"
+        ],
+        "originUnitIds": [
+          "kien-giang"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "mam-chau-doc",
+        "name": "Mắm Châu Đốc",
+        "category": "Sản phẩm ẩm thực; thủy sản chế biến truyền thống",
+        "originArea": "Châu Đốc, tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Các loại mắm Châu Đốc (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nghề làm mắm gắn với nguồn thủy sản nước ngọt vùng sông Hậu và hoạt động giao thương – ẩm thực ở Châu Đốc.",
+        "ingredients": [
+          "Cá nước ngọt và nguyên liệu ướp muối",
+          "Thính, đường và gia vị tùy loại sản phẩm"
+        ],
+        "preparation": "Cá được sơ chế, ướp muối và ủ lên men theo thời gian; mỗi dòng mắm có quy trình và cách phối trộn riêng. Không quy về một công thức duy nhất vì Châu Đốc có nhiều loại mắm.",
+        "characteristics": "Nhóm sản phẩm có hương vị đậm, mặn và mùi lên men đặc trưng; thường được dùng làm nguyên liệu nấu lẩu mắm, bún mắm hoặc ăn kèm.",
+        "culturalContext": "Nghề làm mắm và làm khô cá gắn với sinh kế thủy sản, chợ và văn hóa ẩm thực vùng Châu Đốc.",
+        "recognition": null,
+        "sourceIds": [
+          "src-053"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "duong-thot-not-bay-nui",
+        "name": "Đường thốt nốt Bảy Núi",
+        "category": "Sản phẩm địa phương; nghề thủ công truyền thống; tri thức dân gian",
+        "originArea": "Vùng Bảy Núi, gắn với cộng đồng Khmer ở Tri Tôn và Tịnh Biên thuộc tỉnh An Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Đường thốt nốt Bảy Núi (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Sản phẩm từ cây thốt nốt gắn lâu đời với đời sống và nghề truyền thống của cộng đồng Khmer vùng Bảy Núi.",
+        "ingredients": [
+          "Nước nhựa hoa thốt nốt"
+        ],
+        "preparation": "Nước thốt nốt được thu lấy từ cụm hoa, lọc và nấu cô đặc thành đường; kỹ thuật nấu truyền thống đòi hỏi kiểm soát nhiệt và thời gian để tạo mùi thơm, độ sánh.",
+        "characteristics": "Đường có màu vàng nâu đến nâu sẫm tùy phương pháp nấu, vị ngọt dịu và mùi thơm đặc trưng; còn được dùng làm nguyên liệu cho bánh và thức uống từ thốt nốt.",
+        "culturalContext": "Nghề nấu đường là một tri thức truyền thống của cộng đồng Khmer, liên quan đến lịch mùa vụ, kinh nghiệm khai thác cây và sinh kế làng nghề.",
+        "recognition": "Nghề làm đường thốt nốt của người Khmer được đưa vào Danh mục Di sản văn hóa phi vật thể quốc gia năm 2024 theo thống kê của cơ quan văn hóa tỉnh.",
+        "sourceIds": [
+          "src-049",
+          "src-050",
+          "src-052"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "banh-bo-thot-not",
+        "name": "Bánh bò thốt nốt",
+        "category": "Món ăn; bánh truyền thống",
+        "originArea": "Vùng Bảy Núi, tỉnh An Giang cũ; có liên hệ với nguyên liệu và nghề thốt nốt Khmer",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Bánh bò thốt nốt (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Là một trong các sản phẩm ẩm thực làm từ thốt nốt được nguồn tỉnh nêu là đặc sản gắn với vùng Bảy Núi.",
+        "ingredients": [
+          "Bột gạo hoặc bột năng tùy biến thể",
+          "Đường hoặc nước thốt nốt",
+          "Nước cốt dừa (tùy công thức)"
+        ],
+        "preparation": "Bột được phối trộn với đường/nước thốt nốt, để lên men hoặc tạo độ xốp theo công thức địa phương rồi hấp chín; công thức có nhiều biến thể nên cần tư liệu nghề cụ thể nếu chuẩn hóa định lượng.",
+        "characteristics": "Bánh có màu vàng nâu tự nhiên và mùi thơm của thốt nốt; cấu trúc xốp, mềm, có thể kết hợp vị béo của dừa.",
+        "culturalContext": "Sử dụng nguyên liệu địa phương, thể hiện sự lan tỏa của cây thốt nốt từ sinh kế sang ẩm thực vùng Bảy Núi.",
+        "recognition": null,
+        "sourceIds": [
+          "src-052",
+          "src-055"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "nuoc-mam-phu-quoc",
+        "name": "Nước mắm Phú Quốc",
+        "category": "Sản phẩm ẩm thực; nghề thủ công truyền thống; tri thức dân gian",
+        "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Nước mắm truyền thống Phú Quốc (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nghề làm nước mắm gắn với hoạt động khai thác cá cơm, hệ thống nhà thùng và kinh nghiệm ủ chượp của cư dân Phú Quốc.",
+        "ingredients": [
+          "Cá cơm",
+          "Muối biển"
+        ],
+        "preparation": "Cá cơm được trộn muối và ủ chượp trong thùng gỗ theo thời gian; nước mắm cốt được rút lọc theo quy trình nghề truyền thống. Tỷ lệ, thời gian và quy cách của từng cơ sở có thể khác nhau.",
+        "characteristics": "Nước mắm có màu nâu cánh gián đến hổ phách, hương vị đậm; nghề sản xuất gắn với hệ thống nhà thùng đặc trưng trên đảo.",
+        "culturalContext": "Nghề truyền thống và tri thức dân gian gắn với kinh tế biển, nghề cá và bản sắc ẩm thực Phú Quốc.",
+        "recognition": "Được đưa vào Danh mục Di sản văn hóa phi vật thể quốc gia theo Quyết định 1730/QĐ-BVHTTDL ngày 27/05/2021. Thông tin về chỉ dẫn địa lý cần trỏ tới hồ sơ pháp lý cụ thể trước khi hiển thị.",
+        "sourceIds": [
+          "src-051",
+          "src-050"
+        ],
+        "originUnitIds": [
+          "kien-giang"
+        ]
+      },
+      {
+        "id": "goi-ca-trich-phu-quoc",
+        "name": "Gỏi cá trích Phú Quốc",
+        "category": "Món ăn; ẩm thực biển đảo",
+        "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Gỏi cá trích Phú Quốc (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Món ăn gắn với nguồn cá trích ở vùng biển Phú Quốc và cách chế biến, thưởng thức của cư dân đảo.",
+        "ingredients": [
+          "Cá trích phi lê",
+          "Chanh",
+          "Rau rừng và rau thơm",
+          "Dừa nạo, đậu phộng",
+          "Bánh tráng và nước mắm pha"
+        ],
+        "preparation": "Cá được lọc lấy phi lê, làm tái bằng nước cốt chanh, trộn hoặc ăn cuốn với rau, dừa nạo, đậu phộng và bánh tráng; nước chấm thường pha từ nước mắm cùng chanh, đường, tỏi, ớt.",
+        "characteristics": "Vị ngọt và béo của cá, chua dịu của chanh, thơm của rau rừng và bùi của dừa, đậu phộng; thường được ăn theo kiểu cuốn.",
+        "culturalContext": "Món ăn phản ánh sự kết hợp nguồn hải sản với rau, gia vị và nước mắm địa phương trong ẩm thực biển đảo Phú Quốc.",
+        "recognition": null,
+        "sourceIds": [
+          "src-054"
+        ],
+        "originUnitIds": [
+          "kien-giang"
+        ]
+      },
+      {
+        "id": "tung-lo-mo-cham",
+        "name": "Tung lò mò (lạp xưởng bò Chăm)",
+        "category": "Món ăn; sản phẩm chế biến truyền thống",
+        "originArea": "Cộng đồng Chăm Islam ở An Giang cũ, đặc biệt tại các khu vực cư trú Chăm ven sông Hậu",
+        "currentProvinceId": "an-giang",
+        "image": {
+          "file": null,
+          "alt": "Tung lò mò – lạp xưởng bò Chăm (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Món ăn gắn với cộng đồng Chăm Islam ở An Giang; xuất hiện trong tư liệu văn hóa – ẩm thực của cộng đồng Chăm địa phương.",
+        "ingredients": [
+          "Thịt bò",
+          "Mỡ bò",
+          "Gia vị và thành phần lên men theo công thức cộng đồng"
+        ],
+        "preparation": "Thịt bò được sơ chế, tẩm ướp, nhồi vào lòng làm vỏ và chế biến theo phương thức truyền thống; thành phần, thời gian ủ và cách làm có thể khác nhau giữa các gia đình.",
+        "characteristics": "Lạp xưởng bò có hương vị đặc trưng của thịt bò và gia vị, có thể có vị chua nhẹ do quá trình lên men ở một số biến thể.",
+        "culturalContext": "Là một ví dụ về ẩm thực cộng đồng Chăm Islam; cần trình bày trong bối cảnh văn hóa cộng đồng, không khái quát cho toàn tỉnh.",
+        "recognition": null,
+        "sourceIds": [
+          "src-055"
+        ],
+        "originUnitIds": [
+          "an-giang"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-kinh",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Phân bố rộng khắp tỉnh, gồm vùng đô thị, đồng bằng, biên giới và ven biển",
+          "description": "Cộng đồng Kinh cùng các cộng đồng khác tạo nên đời sống xã hội đa dạng của tỉnh. Các sinh hoạt tín ngưỡng, lễ hội, nghề nghiệp và ẩm thực biến đổi theo không gian sông nước, biên giới và biển đảo.",
+          "sourceIds": [
+            "src-056",
+            "src-045"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": []
+        },
+        {
+          "id": "cong-dong-khmer",
+          "name": "Cộng đồng Khmer",
+          "originArea": "Vùng Bảy Núi và các địa bàn cư trú Khmer thuộc cả An Giang cũ và Kiên Giang cũ",
+          "description": "Cộng đồng Khmer duy trì Phật giáo Nam tông, các lễ hội Chôl Chnăm Thmây, Sene Dolta, Ok Om Bok, nghề đường thốt nốt, tri thức chữ trên lá buông và nhiều loại hình nghệ thuật trình diễn.",
+          "sourceIds": [
+            "src-049",
+            "src-055",
+            "src-064"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang",
+            "kien-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-cham",
+          "name": "Cộng đồng Chăm",
+          "originArea": "Các khu vực cư trú Chăm ở An Giang cũ, trong đó có Châu Phong và vùng ven sông Hậu",
+          "description": "Cộng đồng Chăm Islam có các thực hành tôn giáo, nghi lễ vòng đời, kiến trúc thánh đường, nghề dệt thổ cẩm và ẩm thực riêng; nội dung được trình bày theo bối cảnh cộng đồng, không suy rộng cho mọi người Chăm ở Việt Nam.",
+          "sourceIds": [
+            "src-049",
+            "src-055"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-hoa",
+          "name": "Cộng đồng Hoa",
+          "originArea": "Các đô thị và khu vực giao thương như Châu Đốc, Rạch Giá, Hà Tiên và Phú Quốc",
+          "description": "Cộng đồng Hoa là một thành tố trong không gian giao lưu văn hóa của tỉnh; dấu ấn thể hiện trong cơ sở thờ tự, hoạt động thương mại và quá trình tiếp biến tín ngưỡng tại các đô thị. Nguồn hiện có xác nhận sự cộng cư nhưng chưa đủ tư liệu để mô tả chi tiết phân bố dân số hoặc từng nhóm phương ngữ.",
+          "sourceIds": [
+            "src-056",
+            "src-045"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "le-tet-khmer",
+          "name": "Chu kỳ lễ tết và nghi lễ cộng đồng Khmer",
+          "originArea": "Các cộng đồng Khmer ở vùng Bảy Núi và một số địa bàn thuộc Kiên Giang cũ",
+          "description": "Các dịp Chôl Chnăm Thmây, Sene Dolta, Ok Om Bok và Kathina gắn với lịch Phật giáo Nam tông, gia đình, chùa và sinh hoạt cộng đồng. Tên gọi, thời điểm và nghi thức có thể khác nhau theo từng địa bàn và truyền thống địa phương.",
+          "sourceIds": [
+            "src-049",
+            "src-055",
+            "src-064"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        },
+        {
+          "id": "nghi-le-doi-vong-cham-islam",
+          "name": "Nghi lễ vòng đời của người Chăm Islam",
+          "originArea": "Cộng đồng Chăm Islam ở An Giang cũ",
+          "description": "Các nghi thức gắn với những giai đoạn quan trọng của đời người, được thực hành trong bối cảnh đức tin Islam và sự tham gia của gia đình, cộng đồng. Di sản được ghi danh cấp quốc gia năm 2023; hồ sơ này không mô tả chi tiết nghi lễ riêng tư hoặc thực hành tôn giáo khi chưa có tư liệu chuyên sâu.",
+          "sourceIds": [
+            "src-049",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-via-ba-chua-xu-nui-sam",
+          "name": "Lễ hội Vía Bà Chúa Xứ Núi Sam",
+          "originArea": "Núi Sam – Châu Đốc, tỉnh An Giang cũ",
+          "currentProvinceId": "an-giang",
+          "description": "Lễ hội gắn với tín ngưỡng thờ Bà Chúa Xứ, là dịp hành hương, thực hành nghi lễ và tổ chức hoạt động văn hóa – cộng đồng. Lễ hội phản ánh sự giao lưu, tiếp biến giữa người Kinh với người Hoa, Khmer và Chăm; UNESCO ghi danh di sản ngày 04/12/2024.",
+          "communityOrArea": "Cộng đồng thực hành và khách hành hương ở Châu Đốc, vùng Nam Bộ; có sự tham gia và giao lưu của nhiều cộng đồng dân tộc.",
+          "recognition": "Di sản văn hóa phi vật thể đại diện của nhân loại – UNESCO, năm 2024; di sản văn hóa phi vật thể quốc gia năm 2014.",
+          "sourceIds": [
+            "src-045",
+            "src-056"
+          ],
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "hoi-dua-bo-bay-nui",
+          "name": "Hội đua bò Bảy Núi",
+          "originArea": "Vùng Bảy Núi, tỉnh An Giang cũ; gắn với cộng đồng Khmer",
+          "currentProvinceId": "an-giang",
+          "description": "Sự kiện văn hóa – thể thao truyền thống gắn với lễ Sene Dolta của người Khmer. Các đôi bò được điều khiển thi đấu trên đường đua ruộng sau vụ mùa; hoạt động vừa mang tính hội hè vừa gắn với đời sống nông nghiệp và sự gắn kết cộng đồng.",
+          "communityOrArea": "Cộng đồng Khmer vùng Bảy Núi; sân đua thường ở khu vực An Cư và các địa bàn lân cận.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 246/QĐ-BVHTTDL ngày 19/01/2016.",
+          "sourceIds": [
+            "src-046",
+            "src-064",
+            "src-055"
+          ],
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "le-hoi-dinh-nguyen-trung-truc",
+          "name": "Lễ hội đình thần Nguyễn Trung Trực – Rạch Giá",
+          "originArea": "Rạch Giá, tỉnh Kiên Giang cũ",
+          "currentProvinceId": "an-giang",
+          "description": "Lễ hội tưởng niệm Anh hùng dân tộc Nguyễn Trung Trực, tổ chức hằng năm vào ngày 26–28 tháng Tám âm lịch tại đình Nguyễn Trung Trực ở Rạch Giá. Phần lễ gồm các nghi thức dâng hương, tế lễ; phần hội có hoạt động văn hóa và cộng đồng.",
+          "communityOrArea": "Cộng đồng cư dân Rạch Giá và người dân nhiều địa phương vùng Đồng bằng sông Cửu Long.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 151/QĐ-BVHTTDL ngày 02/02/2023.",
+          "sourceIds": [
+            "src-047"
+          ],
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        },
+        {
+          "id": "tao-dan-chieu-anh-cac",
+          "name": "Lễ hội Tao đàn Chiêu Anh Các",
+          "originArea": "Hà Tiên, tỉnh Kiên Giang cũ",
+          "currentProvinceId": "an-giang",
+          "description": "Lễ hội gắn với tao đàn văn học do Mạc Thiên Tích sáng lập tại Hà Tiên vào rằm tháng Giêng năm 1736. Lễ hội hiện đại thường diễn ra trong dịp Tết Nguyên tiêu, với hoạt động tôn vinh văn chương, lịch sử Hà Tiên và giao lưu văn hóa.",
+          "communityOrArea": "Cộng đồng cư dân Hà Tiên, giới văn nghệ sĩ, nhà nghiên cứu và du khách.",
+          "recognition": "Lễ hội văn hóa – văn học địa phương; chưa ghi nhận trong bộ nguồn hiện có là di sản văn hóa phi vật thể quốc gia hoặc UNESCO.",
+          "sourceIds": [
+            "src-048"
+          ],
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        }
+      ],
+      "traditionalCostumes": [],
+      "communityLife": [
+        {
+          "id": "nghe-det-tho-cam-cham",
+          "name": "Nghề dệt thổ cẩm của người Chăm",
+          "originArea": "Châu Phong và các cộng đồng Chăm thuộc An Giang cũ",
+          "description": "Nghề dệt thổ cẩm là thực hành thủ công gắn với tri thức dệt và đời sống cộng đồng Chăm; sản phẩm vừa có chức năng sử dụng vừa mang giá trị nhận diện văn hóa. Di sản được ghi danh cấp quốc gia năm 2023.",
+          "sourceIds": [
+            "src-049",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "nghe-nau-duong-thot-not-khmer",
+          "name": "Nghề nấu đường thốt nốt của người Khmer",
+          "originArea": "Vùng Bảy Núi, tỉnh An Giang cũ",
+          "description": "Người thợ khai thác nhựa hoa thốt nốt và nấu cô đặc thành đường; nghề thủ công gắn với mùa vụ, kinh nghiệm truyền nghề và sản phẩm ẩm thực địa phương.",
+          "sourceIds": [
+            "src-049",
+            "src-050",
+            "src-052"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "nghe-lam-nuoc-mam-phu-quoc",
+          "name": "Không gian nhà thùng nước mắm Phú Quốc",
+          "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
+          "description": "Nhà thùng, thùng gỗ ủ chượp và hoạt động nghề cá tạo nên không gian sản xuất – truyền nghề gắn với di sản nước mắm Phú Quốc.",
+          "sourceIds": [
+            "src-051",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "thanh-duong-mubarak",
+          "name": "Thánh đường Hồi giáo Mubarak",
+          "originArea": "Cộng đồng Chăm tại Châu Phong, tỉnh An Giang cũ",
+          "description": "Cơ sở tôn giáo tiêu biểu của cộng đồng Chăm Islam, đồng thời là điểm nhấn kiến trúc và không gian sinh hoạt tôn giáo cộng đồng; được địa phương liệt kê trong nhóm di tích văn hóa.",
+          "sourceIds": [
+            "src-049"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "chua-xvayton",
+          "name": "Chùa Xvayton (chùa Khmer)",
+          "originArea": "Vùng Tri Tôn, tỉnh An Giang cũ",
+          "description": "Cơ sở Phật giáo Nam tông Khmer, thể hiện vai trò của chùa trong đời sống tôn giáo, giáo dục và sinh hoạt văn hóa cộng đồng Khmer.",
+          "sourceIds": [
+            "src-049"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "khong-gian-nha-thung-phu-quoc",
+          "name": "Không gian nhà thùng nước mắm Phú Quốc",
+          "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
+          "description": "Hệ thống nhà thùng và thùng gỗ lớn phục vụ ủ chượp cá – muối, là không gian lao động và truyền nghề đặc trưng của nghề làm nước mắm trên đảo.",
+          "sourceIds": [
+            "src-051"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "phat-giao-nam-tong-khmer",
+          "name": "Phật giáo Nam tông trong cộng đồng Khmer",
+          "originArea": "Vùng Bảy Núi và các địa bàn Khmer thuộc tỉnh An Giang mới",
+          "description": "Chùa Nam tông giữ vai trò quan trọng trong đời sống tinh thần, lễ tết, giáo dục và sinh hoạt cộng đồng Khmer. Các thực hành được giới thiệu theo bối cảnh tôn giáo và văn hóa, tôn trọng sự đa dạng giữa các địa bàn.",
+          "sourceIds": [
+            "src-049",
+            "src-055"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": []
+        },
+        {
+          "id": "islam-cham-an-giang",
+          "name": "Đời sống tín ngưỡng Islam của cộng đồng Chăm",
+          "originArea": "Các cộng đồng Chăm Islam ở An Giang cũ, trong đó có Châu Phong",
+          "description": "Các hoạt động tôn giáo, lễ Ramadan, Roya Haji và nghi lễ vòng đời gắn với đức tin Islam và tổ chức cộng đồng. Các mô tả về nghi thức cần dựa trên tư liệu do cộng đồng và cơ quan văn hóa xác nhận.",
+          "sourceIds": [
+            "src-049"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "tin-nguong-ba-chua-xu",
+          "name": "Tín ngưỡng thờ Bà Chúa Xứ Núi Sam",
+          "originArea": "Châu Đốc – Núi Sam, tỉnh An Giang cũ",
+          "description": "Thực hành thờ Bà Chúa Xứ là một tín ngưỡng dân gian quan trọng ở Nam Bộ; lễ hội cho thấy quá trình giao lưu văn hóa giữa nhiều cộng đồng cư dân.",
+          "sourceIds": [
+            "src-045"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "via-ba-chua-xu-unesco",
+          "name": "Lễ hội Vía Bà Chúa Xứ Núi Sam",
+          "originArea": "Châu Đốc, tỉnh An Giang cũ",
+          "description": "Lễ hội tín ngưỡng truyền thống với nghi lễ, hành hương và hoạt động cộng đồng; thể hiện sự giao lưu, tiếp biến văn hóa ở vùng Nam Bộ.",
+          "recognition": "UNESCO ghi danh năm 2024 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-045"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "don-ca-tai-tu-nam-bo",
+          "name": "Đờn ca tài tử Nam Bộ",
+          "originArea": "Không gian văn hóa Nam Bộ, có thực hành tại cả An Giang cũ và Kiên Giang cũ; không phải di sản chỉ riêng của tỉnh",
+          "description": "Loại hình âm nhạc thính phòng dân gian Nam Bộ, kết hợp nhạc cụ dây và nhạc cụ gõ, gắn với sinh hoạt cộng đồng và các nhóm tài tử.",
+          "recognition": "UNESCO ghi danh năm 2013 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+          "sourceIds": [
+            "src-050",
+            "src-056"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang",
+            "kien-giang"
+          ]
+        },
+        {
+          "id": "hoi-dua-bo-bay-nui-ich",
+          "name": "Hội đua bò Bảy Núi",
+          "originArea": "Vùng Bảy Núi, tỉnh An Giang cũ",
+          "description": "Lễ hội truyền thống gắn với cộng đồng Khmer và mùa lễ Sene Dolta.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2016.",
+          "sourceIds": [
+            "src-046",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "chu-viet-la-buong-khmer",
+          "name": "Tri thức và kỹ thuật viết chữ trên lá buông của người Khmer",
+          "originArea": "Cộng đồng Khmer ở An Giang cũ",
+          "description": "Tri thức tạo tác, ghi chép và bảo quản văn bản trên lá buông; cần bảo tồn các bộ kinh và kỹ thuật truyền dạy.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2017 (theo thống kê di sản của tỉnh năm 2026).",
+          "sourceIds": [
+            "src-049",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "nghe-nuoc-mam-phu-quoc-ich",
+          "name": "Nghề làm nước mắm Phú Quốc",
+          "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
+          "description": "Nghề thủ công và tri thức dân gian về chọn cá, muối, ủ chượp và rút lọc nước mắm.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2021.",
+          "sourceIds": [
+            "src-051",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "kien-giang"
+          ]
+        },
+        {
+          "id": "nghi-le-vong-doi-cham",
+          "name": "Nghi lễ vòng đời của người Chăm Islam",
+          "originArea": "Cộng đồng Chăm Islam ở An Giang cũ",
+          "description": "Hệ thống nghi thức gắn với các giai đoạn đời người và đời sống tôn giáo cộng đồng.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2023 (theo thống kê của cơ quan văn hóa tỉnh).",
+          "sourceIds": [
+            "src-049",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "san-khau-di-ke-khmer",
+          "name": "Nghệ thuật sân khấu Dì kê của người Khmer",
+          "originArea": "Cộng đồng Khmer, trong đó có vùng Bảy Núi thuộc An Giang cũ",
+          "description": "Loại hình sân khấu dân gian Khmer với diễn xuất, lời ca, âm nhạc và cốt truyện truyền thống.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2023 (theo thống kê của cơ quan văn hóa tỉnh).",
+          "sourceIds": [
+            "src-049",
+            "src-050",
+            "src-055"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "det-tho-cam-cham-ich",
+          "name": "Nghề dệt thổ cẩm của người Chăm",
+          "originArea": "Cộng đồng Chăm tại An Giang cũ",
+          "description": "Tri thức và kỹ thuật dệt truyền thống gắn với cộng đồng Chăm.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2023 (theo thống kê của cơ quan văn hóa tỉnh).",
+          "sourceIds": [
+            "src-049",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "nghe-duong-thot-not-khmer-ich",
+          "name": "Nghề làm đường thốt nốt của người Khmer",
+          "originArea": "Vùng Bảy Núi, tỉnh An Giang cũ",
+          "description": "Tri thức khai thác nhựa hoa thốt nốt và kỹ thuật nấu đường truyền thống.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2024 (theo thống kê của cơ quan văn hóa tỉnh).",
+          "sourceIds": [
+            "src-049",
+            "src-050",
+            "src-052"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": [
+            "an-giang"
+          ]
+        },
+        {
+          "id": "trong-chhay-dam-khmer",
+          "name": "Nghệ thuật diễn tấu trống Chhay-dăm của người Khmer",
+          "originArea": "Cộng đồng Khmer ở An Giang mới, trong đó có vùng Bảy Núi",
+          "description": "Nghệ thuật diễn tấu trống gắn với sinh hoạt văn hóa và các sự kiện cộng đồng Khmer.",
+          "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2025 (theo thống kê di sản của tỉnh năm 2026).",
+          "sourceIds": [
+            "src-049",
+            "src-050"
+          ],
+          "currentProvinceId": "an-giang",
+          "originUnitIds": []
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "don-ca-tai-tu-nam-bo",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống; nghệ thuật trình diễn dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ nhân biểu diễn Đờn ca tài tử Nam Bộ (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng thực hành âm nhạc tài tử tại Nam Bộ, có các câu lạc bộ và hoạt động bảo tồn tại An Giang cũ và Kiên Giang cũ.",
+        "origin": "Hình thành trong môi trường văn hóa Nam Bộ từ cuối thế kỷ XIX; không phải loại hình chỉ thuộc riêng An Giang.",
+        "characteristics": "Âm nhạc thính phòng dân gian dựa trên hệ thống bài bản, điệu thức và kỹ thuật ngẫu hứng; gắn với sinh hoạt văn nghệ, gặp gỡ và giao lưu cộng đồng.",
+        "instrumentsOrPerformance": "Các nhạc cụ thường gặp gồm đàn kìm, đàn cò, đàn tranh, guitar phím lõm, song lang và các nhạc cụ khác tùy dàn tài tử.",
+        "culturalValue": "Thể hiện khả năng sáng tạo, giao lưu và truyền nối âm nhạc trong đời sống Nam Bộ.",
+        "recognition": "UNESCO ghi danh năm 2013 vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+        "sourceIds": [
+          "src-050",
+          "src-056"
+        ],
+        "originArea": "Di sản âm nhạc Nam Bộ có phạm vi liên tỉnh; được thực hành tại các cộng đồng ở An Giang và Kiên Giang trước đây.",
+        "currentProvinceId": "an-giang",
+        "originUnitIds": [
+          "an-giang",
+          "kien-giang"
+        ]
+      },
+      {
+        "id": "san-khau-di-ke-khmer-art",
+        "name": "Nghệ thuật sân khấu Dì kê của người Khmer",
+        "category": "Nghệ thuật sân khấu; diễn xướng dân gian",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật sân khấu Dì kê của người Khmer (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer, nổi bật ở các khu vực Ô Lâm và vùng Bảy Núi; một số địa bàn Kiên Giang cũ cũng có hoạt động truyền dạy.",
+        "origin": "Nghệ thuật sân khấu truyền thống Khmer, được duy trì trong các dịp lễ hội và sinh hoạt văn hóa cộng đồng.",
+        "characteristics": "Kết hợp diễn xuất, lời ca, âm nhạc, hóa trang và tích truyện; cách thực hành và tên gọi cụ thể có thể thay đổi theo địa phương.",
+        "instrumentsOrPerformance": "Trình diễn sân khấu có ca hát, nhạc đệm và động tác diễn xuất; việc truyền dạy hiện chủ yếu qua nghệ nhân, nhóm cộng đồng và câu lạc bộ.",
+        "culturalValue": "Gìn giữ ngôn ngữ, ký ức, thẩm mỹ và tri thức diễn xướng của cộng đồng Khmer.",
+        "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2023 theo thống kê của cơ quan văn hóa tỉnh năm 2026.",
+        "sourceIds": [
+          "src-049",
+          "src-050",
+          "src-055"
+        ],
+        "originArea": "Cộng đồng Khmer ở vùng Bảy Núi, nhất là địa bàn Tri Tôn – tỉnh An Giang cũ.",
+        "currentProvinceId": "an-giang",
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "trong-chhay-dam-khmer-art",
+        "name": "Nghệ thuật diễn tấu trống Chhay-dăm của người Khmer",
+        "category": "Nghệ thuật trình diễn dân gian; nhạc cụ truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Nghệ thuật diễn tấu trống Chhay-dăm của người Khmer (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer tại tỉnh An Giang, đặc biệt các không gian văn hóa vùng Bảy Núi.",
+        "origin": "Loại hình diễn tấu trống truyền thống của người Khmer; được duy trì trong các hoạt động văn hóa – lễ hội.",
+        "characteristics": "Tiết tấu trống có tính trình diễn, phối hợp động tác và nhịp điệu cộng đồng; không nên đồng nhất với mọi hình thức trống Khmer khác.",
+        "instrumentsOrPerformance": "Các nhóm nghệ nhân sử dụng trống Chhay-dăm trong trình diễn tập thể; chi tiết cấu tạo nhạc cụ và bài bản cần tư liệu chuyên ngành bổ sung.",
+        "culturalValue": "Góp phần duy trì âm nhạc, vận động trình diễn và bản sắc văn hóa của cộng đồng Khmer.",
+        "recognition": "Di sản văn hóa phi vật thể quốc gia năm 2025 theo thống kê di sản của tỉnh năm 2026.",
+        "sourceIds": [
+          "src-049",
+          "src-050"
+        ],
+        "originArea": "Cộng đồng Khmer tại tỉnh An Giang cũ, vùng Bảy Núi.",
+        "currentProvinceId": "an-giang",
+        "originUnitIds": [
+          "an-giang"
+        ]
+      },
+      {
+        "id": "nhac-ngu-am-khmer",
+        "name": "Dàn nhạc ngũ âm Khmer",
+        "category": "Âm nhạc truyền thống; nhạc cụ dân gian",
+        "image": {
+          "file": null,
+          "alt": "Dàn nhạc ngũ âm Khmer (chưa xác minh giấy phép sử dụng).",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer ở vùng Bảy Núi và các địa bàn có chùa Nam tông Khmer.",
+        "origin": "Không gian âm nhạc Phật giáo và lễ hội Khmer Nam Bộ.",
+        "characteristics": "Dàn nhạc phối hợp các nhạc cụ thuộc nhóm âm sắc khác nhau, thường gắn với lễ hội, nghi thức và sinh hoạt tại chùa Khmer.",
+        "instrumentsOrPerformance": "Có thể gồm các nhạc cụ gõ, hơi và dây truyền thống; thành phần cụ thể tùy dàn nhạc và địa phương.",
+        "culturalValue": "Tạo không gian âm thanh đặc trưng cho sinh hoạt tín ngưỡng và lễ hội cộng đồng Khmer.",
+        "recognition": "Chưa ghi nhận danh hiệu UNESCO riêng trong nguồn đã tra cứu; cần tránh trình bày như một di sản được ghi danh độc lập.",
+        "sourceIds": [
+          "src-055",
+          "src-049"
+        ],
+        "originArea": "Cộng đồng Khmer tại An Giang cũ và các không gian thực hành văn hóa Khmer ở Tây Nam Bộ.",
+        "currentProvinceId": "an-giang",
+        "originUnitIds": [
+          "an-giang"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Dữ liệu hành chính mô tả tỉnh An Giang mới sau khi hợp nhất toàn bộ tỉnh An Giang cũ và tỉnh Kiên Giang cũ, chính thức hoạt động từ 01/07/2025.",
+      "Diện tích 9.893,92 km² và dân số 5.062.758 người là số liệu tính đến 31/12/2025 theo cổng thông tin tỉnh, khác số liệu tại thời điểm ban hành Nghị quyết 202/2025/QH15 (9.888,91 km² và 4.952.238 người). Không trộn hai mốc thống kê.",
+      "Trường administrativeCenter ghi địa điểm trụ sở Văn phòng UBND tỉnh tại phường Rạch Giá; cần bổ sung quyết định chính thức nếu website muốn dùng khái niệm “trung tâm hành chính”.",
+      "Các địa điểm, món ăn, lễ hội và nghệ thuật được gắn originArea để bảo tồn nguồn gốc từ hai tỉnh tiền thân; phường/xã hiện hành được dùng ở trường location khi nguồn đã xác minh.",
+      "Óc Eo – Ba Thê là Di tích quốc gia đặc biệt và nằm trong Danh sách dự kiến UNESCO; chưa phải Di sản Thế giới đã được ghi danh.",
+      "Ảnh chưa đưa vào sử dụng vì chưa xác minh được bản quyền/giấy phép và dòng ghi công. Tọa độ được để null nếu chưa đối chiếu nguồn tọa độ đáng tin cậy.",
+      "Danh mục văn hóa là lớp dữ liệu nền, chưa bao phủ đầy đủ 102 xã/phường/đặc khu hoặc tất cả các cộng đồng và di sản trong tỉnh."
+    ],
+    "sourceIds": [
+      "src-031",
+      "src-032",
+      "src-033",
+      "src-034",
+      "src-035",
+      "src-036",
+      "src-037",
+      "src-038",
+      "src-039",
+      "src-040",
+      "src-041",
+      "src-042",
+      "src-043",
+      "src-044",
+      "src-045",
+      "src-046",
+      "src-047",
+      "src-048",
+      "src-049",
+      "src-050",
+      "src-051",
+      "src-052",
+      "src-053",
+      "src-054",
+      "src-055",
+      "src-056",
+      "src-057",
+      "src-058",
+      "src-059",
+      "src-060",
+      "src-061",
+      "src-063",
+      "src-064",
+      "src-065"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "an-giang",
+      "name": "An Giang"
+    },
+    {
+      "id": "kien-giang",
+      "name": "Kiên Giang"
+    }
+  ]
+}

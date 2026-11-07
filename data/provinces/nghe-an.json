@@ -1,0 +1,699 @@
+{
+  "id": "nghe-an",
+  "name": "Tỉnh Nghệ An",
+  "administrativeType": "Tỉnh",
+  "region": "Bắc Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Nghệ An – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Nghệ An là tỉnh Bắc Trung Bộ có dải địa hình từ biển đến núi rừng Trường Sơn. Khu di tích Kim Liên, Pù Mát, Cửa Lò, Truông Bồn và văn hóa Thái miền tây cùng dân ca Ví, Giặm Nghệ Tĩnh là những nét tiêu biểu.",
+    "featuredDestinationIds": [
+      "khu-di-tich-quoc-gia-dac-biet-kim-lien",
+      "vuon-quoc-gia-pu-mat"
+    ],
+    "featuredSpecialtyIds": [
+      "nhut-thanh-chuong",
+      "tuong-nam-dan"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Nghệ An",
+      "administrativeCode": "40",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "37"
+      ],
+      "areaKm2": 16486.5,
+      "areaYear": 2025,
+      "population": {
+        "value": 3831694,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh Bắc Trung Bộ, giáp Thanh Hóa, Hà Tĩnh, Lào và Biển Đông; địa hình kéo dài từ dãy Trường Sơn tới đồng bằng và ven biển.",
+      "boundaries": [
+        "Phía bắc giáp Thanh Hóa.",
+        "Phía nam giáp Hà Tĩnh.",
+        "Phía tây giáp Lào.",
+        "Phía đông giáp Biển Đông."
+      ],
+      "naturalFeatures": "Địa hình đa dạng gồm núi cao Trường Sơn, rừng nhiệt đới, thung lũng sông, đồng bằng ven biển, cửa sông và bãi biển.",
+      "climate": null,
+      "history": "Nghệ An là vùng đất có lịch sử lâu đời, gắn với các nhân vật lịch sử, phong trào yêu nước, văn học và văn hóa dân gian. Miền tây có nhiều cộng đồng dân tộc thiểu số; đồng bằng và ven biển có lịch sử làng xã, nông nghiệp và nghề biển.",
+      "description": "Nghệ An kết nối vùng biển Cửa Lò với quê hương Kim Liên, các di tích lịch sử và hệ sinh thái Pù Mát. Dân ca Ví, Giặm Nghệ Tĩnh, sinh hoạt văn hóa miền tây và ẩm thực xứ Nghệ là những lớp nội dung quan trọng.",
+      "sourceIds": [
+        "src-197",
+        "src-198",
+        "src-199",
+        "src-200",
+        "src-221",
+        "src-222",
+        "src-224",
+        "src-225"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "khu-di-tich-quoc-gia-dac-biet-kim-lien",
+        "name": "Khu di tích quốc gia đặc biệt Kim Liên",
+        "category": "Di tích lịch sử; lưu niệm danh nhân",
+        "originArea": "Nghệ An – quê hương Chủ tịch Hồ Chí Minh.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích quốc gia đặc biệt Kim Liên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Kim Liên, tỉnh Nghệ An.",
+        "coordinates": null,
+        "shortDescription": "Không gian di tích gắn với quê hương, gia đình và thời niên thiếu của Chủ tịch Hồ Chí Minh.",
+        "fullDescription": "Khu di tích gồm các địa điểm tại quê nội, quê ngoại và các hạng mục lưu niệm; nội dung tham quan và địa chỉ cần theo thông tin của Ban Quản lý di tích.",
+        "highlights": "Nhà quê nội; nhà quê ngoại; cảnh quan làng Sen; khu trưng bày.",
+        "historicalCulturalValue": "Giá trị lịch sử, giáo dục truyền thống và ký ức quốc gia.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-221",
+          "src-225"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-pu-mat",
+        "name": "Vườn quốc gia Pù Mát",
+        "category": "Vườn quốc gia; khu bảo tồn thiên nhiên",
+        "originArea": "Nghệ An – vùng Con Cuông và miền tây Nghệ An.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Pù Mát – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các xã thuộc vùng đệm và vùng lõi Pù Mát, tỉnh Nghệ An; xác định điểm tham quan cụ thể trước khi định vị.",
+        "coordinates": null,
+        "shortDescription": "Không gian bảo tồn rừng nhiệt đới và đa dạng sinh học phía tây Nghệ An.",
+        "fullDescription": "Pù Mát là điểm đến sinh thái gắn với các tuyến thác, sông, rừng và du lịch cộng đồng; cần tuân thủ quy định bảo tồn và hướng dẫn vào rừng.",
+        "highlights": "Hệ sinh thái rừng; đa dạng sinh học; cảnh quan sông suối.",
+        "historicalCulturalValue": "Giá trị bảo tồn thiên nhiên và sinh kế cộng đồng vùng đệm.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-222",
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "thac-khe-kem",
+        "name": "Thác Khe Kèm",
+        "category": "Danh lam thắng cảnh; thác nước",
+        "originArea": "Nghệ An – khu vực Vườn quốc gia Pù Mát.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Thác Khe Kèm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Pù Mát, tỉnh Nghệ An.",
+        "coordinates": null,
+        "shortDescription": "Thác nước tự nhiên trong không gian rừng Pù Mát.",
+        "fullDescription": "Được công nhận là điểm du lịch cấp tỉnh theo Quyết định 3690/QĐ-UBND ngày 21/08/2018; hoạt động tham quan cần theo quy định an toàn và bảo tồn.",
+        "highlights": "Thác nước; rừng; tuyến tham quan sinh thái.",
+        "historicalCulturalValue": "Giá trị cảnh quan và giáo dục môi trường.",
+        "recognition": "Điểm du lịch cấp tỉnh theo quyết định được nguồn Ban Quản lý di tích trích dẫn.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-222"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "bien-cua-lo",
+        "name": "Biển Cửa Lò",
+        "category": "Du lịch biển; bãi tắm",
+        "originArea": "Nghệ An – vùng ven biển Cửa Lò cũ.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Biển Cửa Lò – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cửa Lò, tỉnh Nghệ An; phường/xã hiện hành cần đối chiếu bản đồ năm 2026.",
+        "coordinates": null,
+        "shortDescription": "Không gian bãi biển và dịch vụ du lịch ven biển của Nghệ An.",
+        "fullDescription": "Cửa Lò kết nối với Vinh, Kim Liên, Truông Bồn và các điểm du lịch phía tây Nghệ An; thời gian hoạt động dịch vụ theo mùa.",
+        "highlights": "Bãi biển; hoạt động nghỉ dưỡng; làng nghề và ẩm thực biển.",
+        "historicalCulturalValue": "Đại diện cho văn hóa biển và du lịch nghỉ dưỡng của Nghệ An.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "dao-che-thanh-chuong",
+        "name": "Đảo chè Thanh Chương",
+        "category": "Cảnh quan nông nghiệp; du lịch trải nghiệm",
+        "originArea": "Nghệ An – vùng Thanh Chương.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Đảo chè Thanh Chương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Thanh Chương, tỉnh Nghệ An.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan đồi chè trên các đảo nhỏ giữa hồ, được khai thác làm điểm tham quan.",
+        "fullDescription": "Đây là cảnh quan sản xuất chè kết hợp du lịch; dịch vụ thuyền và tuyến tham quan cần xác nhận tại địa phương.",
+        "highlights": "Đồi chè; mặt hồ; trải nghiệm nông nghiệp.",
+        "historicalCulturalValue": "Phản ánh sự kết hợp giữa sản xuất nông nghiệp và du lịch địa phương.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "di-tich-truong-bon",
+        "name": "Khu di tích lịch sử Truông Bồn",
+        "category": "Di tích lịch sử; tưởng niệm",
+        "originArea": "Nghệ An – tuyến giao thông chiến lược trong kháng chiến chống Mỹ.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử Truông Bồn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Mỹ Sơn, tỉnh Nghệ An; địa giới cũ và mới cần đối chiếu chính xác khi hiển thị.",
+        "coordinates": null,
+        "shortDescription": "Di tích gắn với sự hy sinh của lực lượng thanh niên xung phong trên tuyến đường chiến lược.",
+        "fullDescription": "Không gian tưởng niệm và giáo dục truyền thống; nên dùng hồ sơ di tích để mô tả đúng sự kiện, nhân vật và quyết định xếp hạng.",
+        "highlights": "Khu tưởng niệm; nhà trưng bày; các hạng mục ghi công.",
+        "historicalCulturalValue": "Giá trị lịch sử và tưởng niệm các liệt sĩ thanh niên xung phong.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "den-cuong",
+        "name": "Đền Cuông",
+        "category": "Di tích lịch sử; tín ngưỡng",
+        "originArea": "Nghệ An – vùng Diễn Châu cũ.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Đền Cuông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã An Châu, tỉnh Nghệ An; địa chỉ cần đối chiếu trên bản đồ xã mới.",
+        "coordinates": null,
+        "shortDescription": "Di tích thờ An Dương Vương, gắn với truyền thuyết và lịch sử khu vực Cửa Hiền – núi Mộ Dạ.",
+        "fullDescription": "Đền là điểm sinh hoạt tín ngưỡng và lễ hội của cộng đồng; khi diễn giải cần phân biệt lớp truyền thuyết với dữ kiện khảo cổ/sử liệu.",
+        "highlights": "Không gian đền; lễ hội; cảnh quan núi và biển lân cận.",
+        "historicalCulturalValue": "Giá trị tín ngưỡng, lịch sử và văn hóa dân gian.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "nhut-thanh-chuong",
+        "name": "Nhút Thanh Chương",
+        "category": "Món ăn; thực phẩm lên men",
+        "originArea": "Nghệ An – vùng Thanh Chương.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Nhút Thanh Chương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nhút Thanh Chương gắn với Nghệ An – vùng Thanh Chương.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Mít non",
+          "Muối và gia vị theo công thức gia đình."
+        ],
+        "preparation": "Mít non được sơ chế, thái/sợi, muối chua hoặc chế biến theo cách địa phương; công thức có biến thể.",
+        "characteristics": "Vị chua mặn, giòn; dùng ăn kèm hoặc chế biến món ăn.",
+        "culturalContext": "Gắn với kinh nghiệm chế biến và bảo quản thực phẩm của cư dân vùng Thanh Chương.",
+        "recognition": null,
+        "sourceIds": [
+          "src-223",
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "tuong-nam-dan",
+        "name": "Tương Nam Đàn",
+        "category": "Sản phẩm chế biến; nước chấm truyền thống",
+        "originArea": "Nghệ An – vùng Nam Đàn.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Tương Nam Đàn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Tương Nam Đàn gắn với Nghệ An – vùng Nam Đàn.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Đậu tương",
+          "Gạo nếp hoặc ngô tùy công thức",
+          "Muối và nước."
+        ],
+        "preparation": "Nguyên liệu được ủ lên men theo quy trình truyền thống; công thức và thời gian phụ thuộc cơ sở sản xuất.",
+        "characteristics": "Tương sánh, có vị mặn ngọt và mùi lên men đặc trưng.",
+        "culturalContext": "Gắn với bữa ăn và nghề chế biến thực phẩm của vùng Nam Đàn.",
+        "recognition": null,
+        "sourceIds": [
+          "src-223"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "cam-vinh",
+        "name": "Cam Vinh",
+        "category": "Nông sản; trái cây",
+        "originArea": "Nghệ An – các vùng trồng cam thuộc khu vực Nghệ An.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Cam Vinh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cam Vinh gắn với Nghệ An – các vùng trồng cam thuộc khu vực Nghệ An.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Cam thuộc các giống trồng tại vùng cam Nghệ An."
+        ],
+        "preparation": "Canh tác, chăm sóc và thu hoạch theo quy trình vùng trồng và giống.",
+        "characteristics": "Hương vị và chất lượng phụ thuộc giống, vùng trồng, mùa vụ và tiêu chuẩn thu hái.",
+        "culturalContext": "Là sản phẩm nông nghiệp có thương hiệu gắn với Nghệ An.",
+        "recognition": "Tên gọi/chỉ dẫn địa lý cần dùng theo đúng phạm vi và văn bằng sở hữu trí tuệ hiện hành.",
+        "sourceIds": [
+          "src-223"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "chao-luon-nghe-an",
+        "name": "Cháo lươn Nghệ An",
+        "category": "Món ăn; ẩm thực địa phương",
+        "originArea": "Nghệ An – không gian đô thị Vinh và các địa bàn trong tỉnh.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Cháo lươn Nghệ An – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cháo lươn Nghệ An gắn với Nghệ An – không gian đô thị Vinh và các địa bàn trong tỉnh.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Lươn",
+          "Gạo",
+          "Hành, nghệ, rau thơm và gia vị."
+        ],
+        "preparation": "Lươn được sơ chế, xào hoặc nấu cùng cháo theo công thức cơ sở; có biến thể cháo và súp lươn.",
+        "characteristics": "Món ăn có vị cay, thơm, màu sắc đậm tùy cách nấu.",
+        "culturalContext": "Gắn với văn hóa ẩm thực xứ Nghệ; món ăn có nhiều biến thể địa phương.",
+        "recognition": null,
+        "sourceIds": [
+          "src-223"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "gio-be-nam-dan",
+        "name": "Giò bê Nam Đàn",
+        "category": "Thực phẩm chế biến; món ăn địa phương",
+        "originArea": "Nghệ An – vùng Nam Đàn và các cơ sở chế biến liên quan.",
+        "currentProvinceId": "nghe-an",
+        "image": {
+          "file": null,
+          "alt": "Giò bê Nam Đàn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Giò bê Nam Đàn gắn với Nghệ An – vùng Nam Đàn và các cơ sở chế biến liên quan.. Không khẳng định là sản phẩm độc quyền của địa phương nếu chưa có căn cứ.",
+        "ingredients": [
+          "Thịt bê",
+          "Gia vị và nguyên liệu gói theo công thức cơ sở."
+        ],
+        "preparation": "Thịt được tẩm ướp, cuộn/gói và hấp chín; cách chế biến khác nhau giữa cơ sở.",
+        "characteristics": "Món nguội thái lát, vị thịt và gia vị đặc trưng tùy nhà sản xuất.",
+        "culturalContext": "Sản phẩm chế biến gắn với sinh kế và ẩm thực vùng Nam Đàn.",
+        "recognition": null,
+        "sourceIds": [
+          "src-223"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-thai-nghe-an",
+          "name": "Cộng đồng Thái",
+          "originArea": "Các huyện miền tây Nghệ An cũ và những xã miền núi hiện nay.",
+          "currentProvinceId": "nghe-an",
+          "description": "Cộng đồng Thái có ngôn ngữ, nhà ở, trang phục, dân ca, nhạc cụ và nghi lễ riêng; cần phân biệt Thái đen, Thái trắng và từng địa bàn.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        },
+        {
+          "id": "cong-dong-tho-kho-mu-o-du",
+          "name": "Cộng đồng Thổ, Khơ Mú và Ơ Đu",
+          "originArea": "Các địa bàn miền núi Nghệ An.",
+          "currentProvinceId": "nghe-an",
+          "description": "Các cộng đồng có tri thức canh tác, ngôn ngữ, nghi lễ và nghệ thuật riêng; Ơ Đu là một cộng đồng dân tộc rất ít người, cần sử dụng nguồn dân tộc học và cơ quan chuyên môn khi mô tả sâu.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-nghe-an",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Đồng bằng, đô thị, ven biển và nhiều địa bàn Nghệ An.",
+          "currentProvinceId": "nghe-an",
+          "description": "Cộng đồng Kinh có các thực hành văn hóa gắn với nông nghiệp, làng xã, nghề biển và di tích lịch sử; không khái quát một mô hình cho toàn tỉnh.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-lang-xa-xu-nghe",
+          "name": "Sinh hoạt làng xã xứ Nghệ",
+          "originArea": "Nhiều địa bàn nông thôn Nghệ An.",
+          "currentProvinceId": "nghe-an",
+          "description": "Đời sống làng xã gắn với đình, đền, dòng họ, nghề nông, lễ hội và sinh hoạt văn nghệ; thực hành khác nhau theo địa phương.",
+          "sourceIds": [
+            "src-221",
+            "src-224"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-lang-sen",
+          "name": "Lễ hội Làng Sen",
+          "originArea": "Nghệ An – khu vực Kim Liên và các địa bàn liên quan.",
+          "currentProvinceId": "nghe-an",
+          "description": "Sự kiện văn hóa – tưởng niệm gắn với quê hương Chủ tịch Hồ Chí Minh; nội dung và lịch tổ chức thay đổi theo năm.",
+          "sourceIds": [
+            "src-225",
+            "src-221"
+          ],
+          "timeAndLocation": "Khu di tích Kim Liên; lịch tổ chức theo kế hoạch hằng năm.",
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        },
+        {
+          "id": "le-hoi-den-cuong",
+          "name": "Lễ hội Đền Cuông",
+          "originArea": "Nghệ An – vùng Diễn Châu cũ.",
+          "currentProvinceId": "nghe-an",
+          "description": "Lễ hội tín ngưỡng gắn với đền Cuông và truyền thuyết An Dương Vương; nghi thức và thời điểm tổ chức cần xác minh theo lịch địa phương.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "timeAndLocation": "Đền Cuông, xã An Châu; lịch cần kiểm tra từng năm.",
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        },
+        {
+          "id": "le-hoi-den-qua-son",
+          "name": "Lễ hội Đền Quả Sơn",
+          "originArea": "Nghệ An – vùng Đô Lương cũ.",
+          "currentProvinceId": "nghe-an",
+          "description": "Lễ hội truyền thống gắn với không gian thờ tự và lịch sử địa phương; thông tin chi tiết cần đối chiếu hồ sơ di tích và thông báo tổ chức.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "timeAndLocation": "Khu vực Đền Quả Sơn; lịch theo thông báo địa phương.",
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-thai-nghe-an",
+          "name": "Trang phục truyền thống người Thái",
+          "originArea": "Cộng đồng Thái ở miền tây Nghệ An.",
+          "currentProvinceId": "nghe-an",
+          "description": "Trang phục có khác biệt theo nhóm Thái, giới, tuổi và dịp sử dụng; không dùng chung một bộ để đại diện cho cộng đồng.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-ban-thai-nghe-an",
+          "name": "Không gian bản Thái miền tây Nghệ An",
+          "originArea": "Các cộng đồng Thái ở miền tây Nghệ An.",
+          "currentProvinceId": "nghe-an",
+          "description": "Không gian bản gồm nhà ở, ruộng nước, nhà cộng đồng và mạng lưới sinh hoạt; kiến trúc và nghi lễ biến đổi theo vùng.",
+          "sourceIds": [
+            "src-221",
+            "src-222"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-san-thai-nghe-an",
+          "name": "Nhà sàn và không gian cư trú miền tây Nghệ An",
+          "originArea": "Cộng đồng Thái và một số cộng đồng miền núi.",
+          "currentProvinceId": "nghe-an",
+          "description": "Nhà sàn là kiểu cư trú phổ biến ở một số cộng đồng miền núi; cấu trúc, vật liệu và công năng khác nhau theo nhóm và địa bàn.",
+          "sourceIds": [
+            "src-221"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tho-cung-va-le-hoi-lang-xa-nghe-an",
+          "name": "Tín ngưỡng thờ tự và lễ hội làng xã",
+          "originArea": "Nhiều cộng đồng ở Nghệ An.",
+          "currentProvinceId": "nghe-an",
+          "description": "Thực hành thờ thành hoàng, nhân vật lịch sử và thần linh địa phương tồn tại trong các không gian đình, đền, miếu; cần mô tả riêng từng di tích và cộng đồng.",
+          "sourceIds": [
+            "src-221",
+            "src-225"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "vi-giam-nghe-tinh",
+          "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+          "originArea": "Nghệ An và Hà Tĩnh; các cộng đồng thực hành dân ca Nghệ Tĩnh.",
+          "currentProvinceId": "nghe-an",
+          "description": "UNESCO ghi danh năm 2014. Đây là di sản liên tỉnh; khi dùng cho hồ sơ Nghệ An cần ghi rõ không gian thực hành và các cộng đồng chủ thể.",
+          "sourceIds": [
+            "src-224"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        },
+        {
+          "id": "khu-di-tich-kim-lien",
+          "name": "Khu di tích Kim Liên",
+          "originArea": "Nghệ An – xã Kim Liên.",
+          "currentProvinceId": "nghe-an",
+          "description": "Di tích quốc gia đặc biệt gắn với quê hương Chủ tịch Hồ Chí Minh.",
+          "sourceIds": [
+            "src-225",
+            "src-221"
+          ],
+          "originUnitIds": [
+            "nghe-an"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "vi-giam-nghe-tinh",
+        "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
+        "category": "Dân ca; nghệ thuật trình diễn",
+        "image": {
+          "file": null,
+          "alt": "Dân ca Ví, Giặm Nghệ Tĩnh – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Nghệ An và Hà Tĩnh.",
+        "origin": null,
+        "originArea": "Cộng đồng Nghệ An và Hà Tĩnh.",
+        "currentProvinceId": "nghe-an",
+        "characteristics": "Ví và Giặm là các hình thức dân ca gắn với lao động, sinh hoạt và giao tiếp cộng đồng; làn điệu và lời ca biến đổi theo vùng.",
+        "instrumentsOrPerformance": "Hát trong lao động, sinh hoạt hoặc trình diễn; có thể có hình thức đối đáp và diễn xướng nhóm.",
+        "culturalValue": "Lưu giữ ngôn ngữ, ký ức, kinh nghiệm lao động và tình cảm cộng đồng.",
+        "recognition": "UNESCO ghi danh năm 2014; di sản liên tỉnh Nghệ An – Hà Tĩnh.",
+        "sourceIds": [
+          "src-224"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      },
+      {
+        "id": "dan-ca-ho-song-lam",
+        "name": "Hò sông Lam và dân ca địa phương",
+        "category": "Dân ca; hát lao động và sinh hoạt",
+        "image": {
+          "file": null,
+          "alt": "Hò sông Lam và dân ca địa phương – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các cộng đồng cư dân ven sông Lam và các vùng liên quan.",
+        "origin": null,
+        "originArea": "Các cộng đồng cư dân ven sông Lam và các vùng liên quan.",
+        "currentProvinceId": "nghe-an",
+        "characteristics": "Các làn điệu dân ca, hò địa phương phản ánh đời sống lao động và sinh hoạt vùng sông nước; cần kiểm chứng từng điệu cụ thể theo nguồn âm nhạc học.",
+        "instrumentsOrPerformance": "Hát trong lao động, sinh hoạt và giao lưu; cách thực hành khác nhau theo địa bàn.",
+        "culturalValue": "Thể hiện mối liên hệ giữa sông Lam, sinh kế và đời sống tinh thần.",
+        "recognition": null,
+        "sourceIds": [
+          "src-221"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "dan-ca-thai-nghe-an",
+        "name": "Dân ca và nhạc cụ truyền thống người Thái",
+        "category": "Âm nhạc truyền thống; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Dân ca và nhạc cụ truyền thống người Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Thái ở miền tây Nghệ An.",
+        "origin": null,
+        "originArea": "Cộng đồng Thái ở miền tây Nghệ An.",
+        "currentProvinceId": "nghe-an",
+        "characteristics": "Dân ca và nhạc cụ gắn với lễ hội, sinh hoạt và các dịp cộng đồng; cần ghi đúng tên gọi và biến thể từng nhóm Thái.",
+        "instrumentsOrPerformance": "Các nhạc cụ và cách trình diễn khác nhau theo nhóm, dịp và nghệ nhân.",
+        "culturalValue": "Bảo tồn ngôn ngữ và tri thức âm nhạc cộng đồng.",
+        "recognition": null,
+        "sourceIds": [
+          "src-221"
+        ],
+        "originUnitIds": [
+          "nghe-an"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Nghệ An giữ nguyên đơn vị hành chính cấp tỉnh theo Nghị quyết 202/2025/QH15.",
+      "Diện tích 16.486,50 km² và quy mô dân số 3.831.694 người theo số liệu hồ sơ hành chính năm 2025; Cục Thống kê ghi 130 đơn vị cấp xã năm 2026.",
+      "Mã tỉnh 40; biển số 37.",
+      "Ví, Giặm Nghệ Tĩnh là di sản liên tỉnh Nghệ An – Hà Tĩnh, UNESCO ghi danh năm 2014.",
+      "Trung tâm hành chính, địa chỉ cấp xã sau sắp xếp, tọa độ và giấy phép ảnh cần xác minh thêm."
+    ],
+    "sourceIds": [
+      "src-197",
+      "src-198",
+      "src-199",
+      "src-200",
+      "src-221",
+      "src-222",
+      "src-224",
+      "src-225"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "nghe-an",
+      "name": "Nghệ An"
+    }
+  ]
+}

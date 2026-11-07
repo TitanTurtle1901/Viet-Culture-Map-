@@ -1,0 +1,837 @@
+{
+  "id": "can-tho",
+  "name": "Thành phố Cần Thơ",
+  "administrativeType": "Thành phố trực thuộc Trung ương",
+  "region": "Đồng bằng sông Cửu Long",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Cần Thơ – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Cần Thơ mới kế thừa thành phố Cần Thơ, Sóc Trăng và Hậu Giang cũ. Chợ nổi Cái Răng, văn hóa Khmer – Hoa, lễ Oóc Om Bóc, đờn ca tài tử và các vùng sinh thái sông nước là những lớp bản sắc quan trọng.",
+    "featuredDestinationIds": [
+      "cho-noi-cai-rang",
+      "chua-khleang"
+    ],
+    "featuredSpecialtyIds": [
+      "banh-pia-soc-trang",
+      "banh-tet-la-cam-can-tho"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Cần Thơ",
+      "administrativeCode": "92",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "65",
+        "83",
+        "95"
+      ],
+      "areaKm2": 6360.83,
+      "areaYear": 2025,
+      "population": {
+        "value": 4199824,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Thành phố trực thuộc Trung ương tại vùng Đồng bằng sông Cửu Long, hình thành từ thành phố Cần Thơ, Sóc Trăng và Hậu Giang cũ; có mạng lưới sông Hậu, kênh rạch, vùng ven biển và đồng bằng thấp.",
+      "boundaries": [],
+      "naturalFeatures": "Sông Hậu, hệ thống kênh rạch, vùng đất ngập nước, vườn cây, vùng ven biển và các khu bảo tồn như Lung Ngọc Hoàng.",
+      "climate": null,
+      "history": "Thành phố Cần Thơ mới hình thành từ thành phố Cần Thơ, tỉnh Sóc Trăng và tỉnh Hậu Giang cũ; chính quyền mới hoạt động từ 01/07/2025. Hồ sơ kế thừa văn hóa thương hồ Cần Thơ, di sản Khmer – Hoa ở Sóc Trăng và không gian nông nghiệp – sinh thái Hậu Giang.",
+      "description": "Cần Thơ mới là không gian văn hóa sông nước, đô thị và đa dân tộc. Chợ nổi Cái Răng, nhà cổ Bình Thủy, chùa Khmer, lễ Oóc Om Bóc – đua ghe Ngo, đờn ca tài tử và các sản phẩm nông nghiệp tạo nên bản sắc của ba vùng tiền thân.",
+      "sourceIds": [
+        "src-260",
+        "src-261",
+        "src-295",
+        "src-296",
+        "src-262",
+        "src-297",
+        "src-298",
+        "src-299",
+        "src-300",
+        "src-301",
+        "src-303"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "cho-noi-cai-rang",
+        "name": "Chợ nổi Cái Răng",
+        "category": "Di sản văn hóa phi vật thể; chợ nổi",
+        "originArea": "Cần Thơ cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Chợ nổi Cái Răng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực sông Cần Thơ, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Không gian buôn bán trên sông, nơi ghe thuyền trao đổi nông sản và hàng hóa.",
+        "fullDescription": "Chợ nổi phản ánh hoạt động thương mại đường thủy và văn hóa sông nước vùng Hậu Giang. Quy mô và giờ hoạt động thay đổi; trải nghiệm du lịch cần tôn trọng hoạt động mưu sinh của thương hồ.",
+        "highlights": [
+          "Ghe thuyền; cây bẹo; giao thương nông sản; bến sông."
+        ],
+        "historicalCulturalValue": "Giá trị văn hóa thương hồ, kinh tế sông nước và tri thức giao thông thủy.",
+        "recognition": "Di sản văn hóa phi vật thể quốc gia theo Quyết định 829/QĐ-BVHTTDL năm 2016.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-297"
+        ],
+        "originUnitIds": [
+          "can-tho"
+        ]
+      },
+      {
+        "id": "nha-co-binh-thuy",
+        "name": "Nhà cổ Bình Thủy",
+        "category": "Di tích kiến trúc; nhà cổ",
+        "originArea": "Cần Thơ cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Nhà cổ Bình Thủy – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Bình Thủy, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Nhà cổ kết hợp kiến trúc phương Tây và yếu tố nhà ở Nam Bộ, lưu giữ đồ nội thất và cảnh quan khuôn viên.",
+        "fullDescription": "Công trình là tư liệu về kiến trúc, sinh hoạt gia đình và giao lưu văn hóa cuối thế kỷ XIX – đầu thế kỷ XX. Giờ tham quan và khu vực mở cửa cần kiểm tra trước khi đến.",
+        "highlights": [
+          "Mặt tiền; phòng khách; đồ gỗ; khuôn viên cây xanh."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, lịch sử cư trú và giao lưu văn hóa.",
+        "recognition": "Di tích kiến trúc nghệ thuật; hạng xếp loại cần đối chiếu quyết định gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-297"
+        ],
+        "originUnitIds": [
+          "can-tho"
+        ]
+      },
+      {
+        "id": "khu-bao-ton-lung-ngoc-hoang",
+        "name": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng",
+        "category": "Khu bảo tồn; đất ngập nước",
+        "originArea": "Hậu Giang cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Phụng Hiệp, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Vùng đất ngập nước và rừng tràm có giá trị bảo tồn đa dạng sinh học ở vùng hạ lưu sông Hậu.",
+        "fullDescription": "Lung Ngọc Hoàng là không gian sinh thái quan trọng; hoạt động du lịch, đi thuyền và quan sát động vật cần theo quy định bảo tồn.",
+        "highlights": [
+          "Rừng tràm; kênh rạch; chim nước; sinh cảnh đất ngập nước."
+        ],
+        "historicalCulturalValue": "Giá trị đa dạng sinh học, thủy văn và sinh thái vùng trũng.",
+        "recognition": "Khu bảo tồn thiên nhiên; chứng nhận/nhãn hiệu du lịch cần tra riêng.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-303"
+        ],
+        "originUnitIds": [
+          "hau-giang"
+        ]
+      },
+      {
+        "id": "chua-doi-soc-trang",
+        "name": "Chùa Mahatup (Chùa Dơi)",
+        "category": "Di tích tôn giáo; kiến trúc Khmer",
+        "originArea": "Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Chùa Mahatup (Chùa Dơi) – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Sóc Trăng, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Ngôi chùa Khmer nổi bật với kiến trúc truyền thống và khuôn viên có đàn dơi sinh sống.",
+        "fullDescription": "Chùa là không gian tôn giáo đang hoạt động của cộng đồng Khmer. Khách tham quan cần tuân thủ quy định nơi thờ tự và tôn trọng nghi lễ.",
+        "highlights": [
+          "Chánh điện; mái kiến trúc Khmer; khuôn viên cây; đàn dơi."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc, tín ngưỡng Phật giáo Nam tông Khmer và đa dạng sinh học đô thị.",
+        "recognition": "Di tích văn hóa – tôn giáo; cấp xếp hạng cần đối chiếu hồ sơ gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-300"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "chua-khleang",
+        "name": "Chùa Kh’Leang",
+        "category": "Di tích tôn giáo; kiến trúc Khmer",
+        "originArea": "Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Chùa Kh’Leang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Sóc Trăng, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Ngôi chùa Khmer có lịch sử lâu đời, thể hiện nghệ thuật kiến trúc, điêu khắc và sinh hoạt Phật giáo Nam tông Khmer.",
+        "fullDescription": "Chùa là trung tâm sinh hoạt tôn giáo và văn hóa của cộng đồng Khmer. Nội dung về niên đại, tu sửa và xếp hạng phải dựa hồ sơ di tích.",
+        "highlights": [
+          "Chánh điện; tượng; hoa văn; khuôn viên chùa."
+        ],
+        "historicalCulturalValue": "Giá trị tôn giáo, kiến trúc và bản sắc Khmer Nam Bộ.",
+        "recognition": "Di tích kiến trúc nghệ thuật; cần xác nhận cấp xếp hạng trong quyết định gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-300"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "cho-noi-nga-nam",
+        "name": "Chợ nổi Ngã Năm",
+        "category": "Chợ nổi; văn hóa thương hồ",
+        "originArea": "Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Chợ nổi Ngã Năm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Ngã Năm, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Chợ nổi tại nút giao các nhánh sông, gắn với trao đổi nông sản và sinh hoạt đường thủy.",
+        "fullDescription": "Chợ nổi phản ánh mạng lưới giao thông và thương mại trên sông. Hoạt động buôn bán thay đổi theo mùa vụ và hạ tầng giao thông.",
+        "highlights": [
+          "Ngã giao sông; ghe thuyền; mua bán nông sản."
+        ],
+        "historicalCulturalValue": "Giá trị văn hóa thương hồ và đời sống sông nước.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-300"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "con-son-can-tho",
+        "name": "Cồn Sơn",
+        "category": "Du lịch cộng đồng; nông nghiệp sinh thái",
+        "originArea": "Cần Thơ cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Cồn Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cồn Sơn, thành phố Cần Thơ.",
+        "coordinates": null,
+        "shortDescription": "Cù lao trên sông Hậu phát triển mô hình du lịch cộng đồng, vườn cây và trải nghiệm sinh kế.",
+        "fullDescription": "Cồn Sơn do cộng đồng dân cư tham gia cung cấp dịch vụ và giới thiệu hoạt động vườn, bè cá, ẩm thực. Cần tôn trọng quy ước tham quan, giới hạn khách và lợi ích cộng đồng.",
+        "highlights": [
+          "Vườn cây; bè cá; trải nghiệm làm bánh; sinh hoạt xóm cù lao."
+        ],
+        "historicalCulturalValue": "Giá trị sinh kế sông nước, nông nghiệp và du lịch cộng đồng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-304"
+        ],
+        "originUnitIds": [
+          "can-tho"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "banh-pia-soc-trang",
+        "name": "Bánh pía Sóc Trăng",
+        "category": "Bánh truyền thống; sản phẩm chế biến",
+        "originArea": "Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Bánh pía Sóc Trăng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh pía Sóc Trăng gắn với Sóc Trăng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bột mì",
+          "Đậu xanh",
+          "Sầu riêng",
+          "Mỡ/nhân và nguyên liệu tùy cơ sở."
+        ],
+        "preparation": "Bột cán lớp, bọc nhân, tạo hình và nướng; công thức từng cơ sở khác nhau.",
+        "characteristics": "Nhiều lớp vỏ, nhân đậu xanh và sầu riêng; hương vị thay đổi theo nhãn hiệu.",
+        "culturalContext": "Gắn với truyền thống làm bánh và giao lưu ẩm thực Hoa – Khmer – Kinh vùng Sóc Trăng.",
+        "recognition": "Sản phẩm đặc trưng vùng; thương hiệu và chứng nhận phải xét theo cơ sở.",
+        "sourceIds": [
+          "src-304"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "bun-nuoc-leo-soc-trang",
+        "name": "Bún nước lèo Sóc Trăng",
+        "category": "Món ăn; ẩm thực Khmer – Nam Bộ",
+        "originArea": "Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Bún nước lèo Sóc Trăng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bún nước lèo Sóc Trăng gắn với Sóc Trăng cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bún",
+          "Nước dùng nấu với mắm theo công thức địa phương",
+          "Cá hoặc tôm",
+          "Rau ăn kèm."
+        ],
+        "preparation": "Nước dùng nấu từ mắm và cá/ hải sản; ăn cùng bún, rau và nguyên liệu theo quán.",
+        "characteristics": "Nước dùng có mùi vị mắm đặc trưng; thành phần và độ đậm khác nhau giữa các gia đình, quán.",
+        "culturalContext": "Phản ánh giao lưu ẩm thực Kinh, Khmer, Hoa tại Sóc Trăng.",
+        "recognition": "Món ăn vùng có nhiều biến thể; không khẳng định độc quyền.",
+        "sourceIds": [
+          "src-300",
+          "src-304"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "banh-tet-la-cam-can-tho",
+        "name": "Bánh tét lá cẩm",
+        "category": "Bánh truyền thống; sản phẩm chế biến",
+        "originArea": "Cần Thơ cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Bánh tét lá cẩm – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh tét lá cẩm gắn với Cần Thơ cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Gạo nếp",
+          "Lá cẩm",
+          "Đậu xanh",
+          "Thịt mỡ hoặc nhân ngọt tùy loại."
+        ],
+        "preparation": "Lá cẩm tạo màu cho nếp; bánh gói lá chuối và luộc chín lâu.",
+        "characteristics": "Nếp có màu tím, dẻo; nhân và hương vị tùy công thức.",
+        "culturalContext": "Gắn với ẩm thực gia đình, dịp Tết và nghề bánh truyền thống Cần Thơ.",
+        "recognition": "Đặc sản địa phương; công thức và nhà sản xuất khác nhau.",
+        "sourceIds": [
+          "src-304"
+        ],
+        "originUnitIds": [
+          "can-tho"
+        ]
+      },
+      {
+        "id": "hanh-tim-vinh-chau",
+        "name": "Hành tím Vĩnh Châu",
+        "category": "Nông sản; gia vị",
+        "originArea": "Sóc Trăng cũ – vùng Vĩnh Châu.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Hành tím Vĩnh Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Hành tím Vĩnh Châu gắn với Sóc Trăng cũ – vùng Vĩnh Châu.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Hành tím."
+        ],
+        "preparation": "Trồng, thu hoạch, phơi/sấy và bảo quản theo quy trình vùng trồng.",
+        "characteristics": "Củ hành có đặc tính theo giống và điều kiện canh tác; chất lượng từng lô phụ thuộc quy trình.",
+        "culturalContext": "Gắn với sinh kế nông nghiệp ven biển và cộng đồng Khmer, Hoa, Kinh tại Vĩnh Châu.",
+        "recognition": "Có hồ sơ chỉ dẫn địa lý/nhãn hiệu cần kiểm tra phạm vi văn bằng và tên chủ thể.",
+        "sourceIds": [
+          "src-301"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "khom-cau-duc",
+        "name": "Khóm Cầu Đúc",
+        "category": "Trái cây; nông sản",
+        "originArea": "Hậu Giang cũ.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Khóm Cầu Đúc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Khóm Cầu Đúc gắn với Hậu Giang cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả khóm (dứa)."
+        ],
+        "preparation": "Thu hoạch theo độ chín, phân loại và tiêu thụ tươi hoặc chế biến.",
+        "characteristics": "Độ ngọt, chua và cấu trúc phụ thuộc giống, mùa vụ và kỹ thuật canh tác.",
+        "culturalContext": "Gắn với vùng nguyên liệu Cầu Đúc và sinh kế nông nghiệp Hậu Giang cũ.",
+        "recognition": "Sản phẩm có hồ sơ chỉ dẫn địa lý/chứng nhận địa phương; cần kiểm tra văn bằng khi ghi chi tiết.",
+        "sourceIds": [
+          "src-301"
+        ],
+        "originUnitIds": [
+          "hau-giang"
+        ]
+      },
+      {
+        "id": "gao-st25",
+        "name": "Gạo ST25",
+        "category": "Nông sản; gạo",
+        "originArea": "Sóc Trăng cũ và vùng canh tác phù hợp.",
+        "currentProvinceId": "can-tho",
+        "image": {
+          "file": null,
+          "alt": "Gạo ST25 – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gạo ST25 gắn với Sóc Trăng cũ và vùng canh tác phù hợp.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Lúa giống ST25."
+        ],
+        "preparation": "Canh tác, thu hoạch, sấy, xay xát và đóng gói theo cơ sở.",
+        "characteristics": "Chất lượng phụ thuộc giống xác thực, vùng trồng và quy trình chế biến/bảo quản.",
+        "culturalContext": "Gắn với thành tựu chọn tạo giống lúa tại Sóc Trăng cũ và ngành lúa gạo vùng đồng bằng.",
+        "recognition": "Không đồng nhất mọi sản phẩm mang chữ ST25 với lô giống xác thực hoặc giải thưởng; truy xuất theo nhà sản xuất.",
+        "sourceIds": [
+          "src-302"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-khmer-can-tho",
+          "name": "Cộng đồng Khmer",
+          "originArea": "Đặc biệt tại Sóc Trăng cũ và các khu vực khác của thành phố mới.",
+          "currentProvinceId": "can-tho",
+          "description": "Cộng đồng Khmer có Phật giáo Nam tông, ngôn ngữ, chùa, lễ hội, nghệ thuật sân khấu và nghề thủ công riêng; thống kê và địa bàn cư trú cần theo số liệu chính thức.",
+          "sourceIds": [
+            "src-300",
+            "src-299"
+          ],
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        },
+        {
+          "id": "cong-dong-hoa-can-tho",
+          "name": "Cộng đồng Hoa",
+          "originArea": "Các khu vực đô thị và thương mại thuộc ba tỉnh tiền thân.",
+          "currentProvinceId": "can-tho",
+          "description": "Cộng đồng Hoa có các nhóm phương ngữ, hội quán, cơ sở tín ngưỡng, nghề thương mại và ẩm thực; không khái quát thành một tập quán duy nhất.",
+          "sourceIds": [
+            "src-300"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "cong-dong-kinh-song-hau",
+          "name": "Cộng đồng Kinh vùng sông Hậu",
+          "originArea": "Cần Thơ cũ, Hậu Giang cũ và Sóc Trăng cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Cư dân Kinh vùng đồng bằng với sinh kế lúa nước, vườn cây, thủy sản và thương mại đường sông.",
+          "sourceIds": [
+            "src-297",
+            "src-304"
+          ],
+          "originUnitIds": [
+            "can-tho",
+            "soc-trang",
+            "hau-giang"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "van-hoa-thuong-ho",
+          "name": "Văn hóa thương hồ và chợ nổi",
+          "originArea": "Cần Thơ cũ và các vùng sông nước thuộc ba tỉnh tiền thân.",
+          "currentProvinceId": "can-tho",
+          "description": "Sinh hoạt mua bán, vận chuyển và giao lưu trên sông gắn với nhịp nước, mùa vụ và mạng lưới kênh rạch.",
+          "sourceIds": [
+            "src-297"
+          ],
+          "originUnitIds": [
+            "can-tho"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-ooc-om-boc",
+          "name": "Lễ hội Oóc Om Bóc – cúng trăng",
+          "originArea": "Cộng đồng Khmer, đặc biệt vùng Sóc Trăng cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Lễ hội tạ ơn mặt trăng và cầu mong mùa màng, sức khỏe; có nghi lễ, sinh hoạt cộng đồng và hoạt động đua ghe Ngo ở một số địa bàn.",
+          "sourceIds": [
+            "src-299"
+          ],
+          "timeAndLocation": "Tổ chức theo lịch Khmer và chương trình từng địa phương; thường vào rằm tháng 10 âm lịch.",
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        },
+        {
+          "id": "dua-ghe-ngo",
+          "name": "Đua ghe Ngo",
+          "originArea": "Cộng đồng Khmer vùng Sóc Trăng cũ và các địa phương Nam Bộ.",
+          "currentProvinceId": "can-tho",
+          "description": "Hoạt động đua thuyền truyền thống gắn với lễ Oóc Om Bóc và sự tham gia của các chùa, đội ghe, cộng đồng.",
+          "sourceIds": [
+            "src-299"
+          ],
+          "timeAndLocation": "Tổ chức theo lịch lễ hội và kế hoạch hằng năm.",
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        },
+        {
+          "id": "le-hoi-nghinh-ong-can-tho",
+          "name": "Lễ hội Nghinh Ông vùng ven biển",
+          "originArea": "Cộng đồng ngư dân tại các khu vực ven biển thuộc thành phố mới.",
+          "currentProvinceId": "can-tho",
+          "description": "Nghi lễ tín ngưỡng của cư dân biển, có biến thể theo làng cá và địa bàn; cần ghi nhận cụ thể từng lễ hội, không gộp tất cả thành một sự kiện.",
+          "sourceIds": [
+            "src-304"
+          ],
+          "timeAndLocation": "Theo lịch và thông báo của từng cộng đồng/ngư dân.",
+          "originUnitIds": []
+        },
+        {
+          "id": "le-hoi-ha-dien-binh-thuy",
+          "name": "Lễ hội Thượng điền Bình Thủy",
+          "originArea": "Bình Thủy, Cần Thơ cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Lễ hội tại đình Bình Thủy gắn với tín ngưỡng nông nghiệp, tạ ơn và cầu an cho cộng đồng.",
+          "sourceIds": [
+            "src-297"
+          ],
+          "timeAndLocation": "Đình Bình Thủy; thời gian theo lịch lễ hội và thông báo của ban quản lý.",
+          "originUnitIds": [
+            "can-tho"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-khmer-nam-bo",
+          "name": "Trang phục truyền thống Khmer Nam Bộ",
+          "originArea": "Cộng đồng Khmer, nhất là vùng Sóc Trăng cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Trang phục thường nhật và trang phục lễ hội có khác biệt; cần mô tả cụ thể theo nghi lễ và nhóm thực hành.",
+          "sourceIds": [
+            "src-300",
+            "src-299"
+          ],
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "khong-gian-cho-noi-song-hau",
+          "name": "Không gian chợ nổi và xóm thương hồ",
+          "originArea": "Cần Thơ cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Nhà ven sông, bến ghe, chợ và mạng lưới kênh rạch tổ chức sinh kế và giao tiếp cộng đồng.",
+          "sourceIds": [
+            "src-297"
+          ],
+          "originUnitIds": [
+            "can-tho"
+          ]
+        },
+        {
+          "id": "khong-gian-chua-khmer",
+          "name": "Không gian chùa Khmer",
+          "originArea": "Sóc Trăng cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Chùa vừa là không gian tôn giáo vừa là trung tâm văn hóa, học tập và sinh hoạt cộng đồng Khmer.",
+          "sourceIds": [
+            "src-300"
+          ],
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-chua-khmer",
+          "name": "Kiến trúc chùa Khmer Nam Bộ",
+          "originArea": "Cộng đồng Khmer tại Sóc Trăng cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Chùa Khmer có mái nhiều tầng, trang trí, tượng và không gian hành lễ riêng; từng chùa có lịch sử và đặc trưng nghệ thuật khác nhau.",
+          "sourceIds": [
+            "src-300"
+          ],
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        },
+        {
+          "id": "nha-co-binh-thuy-architecture",
+          "name": "Kiến trúc nhà cổ Bình Thủy",
+          "originArea": "Bình Thủy, Cần Thơ cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Nhà cổ phản ánh giao lưu phong cách kiến trúc, đồ nội thất và điều kiện sinh hoạt của gia đình Nam Bộ đô thị.",
+          "sourceIds": [
+            "src-297"
+          ],
+          "originUnitIds": [
+            "can-tho"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "phat-giao-nam-tong-khmer",
+          "name": "Phật giáo Nam tông Khmer",
+          "originArea": "Cộng đồng Khmer tại Sóc Trăng cũ và các vùng Nam Bộ.",
+          "currentProvinceId": "can-tho",
+          "description": "Chùa, sư sãi và nghi lễ Phật giáo Nam tông giữ vị trí trung tâm trong đời sống một bộ phận cộng đồng Khmer; mô tả trung lập, không đánh đồng mọi cá nhân.",
+          "sourceIds": [
+            "src-300",
+            "src-299"
+          ],
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "cho-noi-cai-rang-di-san",
+          "name": "Văn hóa chợ nổi Cái Răng",
+          "originArea": "Cần Thơ cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Chợ nổi Cái Răng được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia theo Quyết định 829/QĐ-BVHTTDL năm 2016.",
+          "sourceIds": [
+            "src-297"
+          ],
+          "originUnitIds": [
+            "can-tho"
+          ]
+        },
+        {
+          "id": "don-ca-tai-tu-nam-bo",
+          "name": "Đờn ca tài tử Nam Bộ",
+          "originArea": "Cần Thơ, Sóc Trăng, Hậu Giang cũ và toàn vùng Nam Bộ.",
+          "currentProvinceId": "can-tho",
+          "description": "Loại hình âm nhạc cộng đồng Nam Bộ, UNESCO ghi danh năm 2013; không gán riêng cho thành phố Cần Thơ.",
+          "sourceIds": [
+            "src-298"
+          ],
+          "originUnitIds": [
+            "can-tho",
+            "soc-trang",
+            "hau-giang"
+          ]
+        },
+        {
+          "id": "ooc-om-boc-di-san",
+          "name": "Lễ hội Oóc Om Bóc của người Khmer",
+          "originArea": "Cộng đồng Khmer vùng Nam Bộ, trong đó có Sóc Trăng cũ.",
+          "currentProvinceId": "can-tho",
+          "description": "Lễ hội gắn với nghi thức cúng trăng và cộng đồng Khmer; tình trạng ghi danh cần đối chiếu tên di sản/ quyết định cụ thể theo từng hồ sơ.",
+          "sourceIds": [
+            "src-299"
+          ],
+          "originUnitIds": [
+            "soc-trang"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "don-ca-tai-tu",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống; diễn xướng",
+        "image": {
+          "file": null,
+          "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cần Thơ, Sóc Trăng và Hậu Giang cũ; phạm vi Nam Bộ.",
+        "origin": null,
+        "originArea": "Cần Thơ, Sóc Trăng và Hậu Giang cũ; phạm vi Nam Bộ.",
+        "currentProvinceId": "can-tho",
+        "characteristics": "Hệ thống bài bản tài tử với điệu thức, nhạc cụ và cách ngẫu hứng đặc trưng.",
+        "instrumentsOrPerformance": "Nhạc cụ có đàn kìm, đàn tranh, đàn cò, guitar phím lõm, song lang và các nhạc cụ khác; hình thức sinh hoạt theo nhóm.",
+        "culturalValue": "Sinh hoạt nghệ thuật cộng đồng, truyền dạy và giao lưu văn hóa Nam Bộ.",
+        "recognition": "UNESCO ghi danh năm 2013; di sản liên tỉnh Nam Bộ.",
+        "sourceIds": [
+          "src-298"
+        ],
+        "originUnitIds": [
+          "can-tho",
+          "soc-trang",
+          "hau-giang"
+        ]
+      },
+      {
+        "id": "du-ke-khmer",
+        "name": "Sân khấu Dù kê Khmer",
+        "category": "Sân khấu truyền thống; diễn xướng",
+        "image": {
+          "file": null,
+          "alt": "Sân khấu Dù kê Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer tại Sóc Trăng cũ và vùng Nam Bộ.",
+        "origin": null,
+        "originArea": "Cộng đồng Khmer tại Sóc Trăng cũ và vùng Nam Bộ.",
+        "currentProvinceId": "can-tho",
+        "characteristics": "Sân khấu ca kịch Khmer kết hợp ca, múa, nhạc và tích truyện; repertoire có nguồn gốc và biến thể theo nhóm nghệ nhân.",
+        "instrumentsOrPerformance": "Trình diễn với nhạc cụ truyền thống và trang phục sân khấu Khmer; hình thức phụ thuộc đoàn và dịp lễ hội.",
+        "culturalValue": "Gìn giữ ngôn ngữ, nghệ thuật và ký ức cộng đồng Khmer.",
+        "recognition": "Loại hình sân khấu truyền thống; không gán danh hiệu UNESCO nếu chưa có căn cứ.",
+        "sourceIds": [
+          "src-300"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "ro-bam-khmer",
+        "name": "Sân khấu Rô băm Khmer",
+        "category": "Múa – kịch; sân khấu truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Sân khấu Rô băm Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer Nam Bộ, trong đó có Sóc Trăng cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Khmer Nam Bộ, trong đó có Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "characteristics": "Hình thức múa – kịch truyền thống với nhân vật, động tác và trang phục có quy ước.",
+        "instrumentsOrPerformance": "Biểu diễn theo tích truyện và dàn nhạc; cần dẫn tư liệu của nghệ nhân/đoàn cụ thể.",
+        "culturalValue": "Bảo tồn nghệ thuật diễn xướng và truyền thống cộng đồng Khmer.",
+        "recognition": null,
+        "sourceIds": [
+          "src-300"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      },
+      {
+        "id": "nhac-ngu-am-khmer",
+        "name": "Dàn nhạc ngũ âm Khmer",
+        "category": "Âm nhạc; nhạc cụ truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Dàn nhạc ngũ âm Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Khmer tại Sóc Trăng cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Khmer tại Sóc Trăng cũ.",
+        "currentProvinceId": "can-tho",
+        "characteristics": "Dàn nhạc truyền thống gồm các nhóm nhạc cụ gõ và hơi/dây tùy cấu trúc dàn nhạc.",
+        "instrumentsOrPerformance": "Biểu diễn trong lễ hội, nghi lễ và sân khấu Khmer; thành phần dàn nhạc theo từng ngữ cảnh.",
+        "culturalValue": "Gắn với nghi lễ Phật giáo, lễ hội và bản sắc nghệ thuật Khmer.",
+        "recognition": null,
+        "sourceIds": [
+          "src-300",
+          "src-299"
+        ],
+        "originUnitIds": [
+          "soc-trang"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Hình thành từ thành phố Cần Thơ + Sóc Trăng + Hậu Giang; hoạt động từ 01/07/2025.",
+      "Diện tích 6.360,83 km²; quy mô dân số 4.199.824 theo Nghị quyết 202/2025/QH15; 103 đơn vị cấp xã theo nguồn thành phố năm 2026.",
+      "Mã cấp tỉnh 92; biển số 65,83,95.",
+      "Trung tâm hành chính và địa chỉ cấp xã mới để null đến khi đối chiếu văn bản chính thức.",
+      "Các di sản liên tỉnh như Đờn ca tài tử ghi rõ phạm vi vùng; ảnh và tọa độ cần xác minh."
+    ],
+    "sourceIds": [
+      "src-260",
+      "src-261",
+      "src-295",
+      "src-296",
+      "src-262",
+      "src-297",
+      "src-298",
+      "src-299",
+      "src-300",
+      "src-301",
+      "src-303",
+      "src-304"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "can-tho",
+      "name": "Cần Thơ"
+    },
+    {
+      "id": "soc-trang",
+      "name": "Sóc Trăng"
+    },
+    {
+      "id": "hau-giang",
+      "name": "Hậu Giang"
+    }
+  ]
+}

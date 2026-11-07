@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Khám phá Việt Nam – Viet Culture Map</title>
+  <meta name="description" content="Tìm kiếm và lọc 34 tỉnh/thành phố Việt Nam theo tên, địa điểm, đặc sản và vùng miền.">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/vietnam-silhouette.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="js/tailwind-config.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="explore">
+  <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-white focus:p-3 focus:rounded">Bỏ qua điều hướng</a>
+  <div id="site-header"></div>
+
+  <main id="main" class="pt-16">
+    <section class="bg-deep-800 text-white" aria-labelledby="explore-title">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+        <nav aria-label="Breadcrumb" class="text-sm text-white/70 mb-3"><a class="hover:text-ochre-400" href="index.html">Trang chủ</a> <span aria-hidden="true">›</span> <span aria-current="page">Khám phá</span></nav>
+        <h1 id="explore-title" class="font-display text-4xl sm:text-5xl font-bold">Khám phá Việt Nam</h1>
+        <p class="mt-3 text-white/85 text-lg max-w-2xl">Tìm hiểu những nét đẹp văn hóa đặc trưng của từng vùng miền.</p>
+      </div>
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 py-8" aria-label="Tìm kiếm và bộ lọc">
+      <form id="explore-form" class="bg-white rounded-2xl shadow-card border border-cream-200 p-4 sm:p-6 grid gap-4 lg:grid-cols-[1.6fr_1fr_1fr]" role="search" onsubmit="return false">
+        <div>
+          <label for="q" class="block text-sm font-semibold text-deep-700 mb-1">Tìm kiếm</label>
+          <input id="q" type="search" class="field" autocomplete="off" placeholder="Tên tỉnh thành, địa điểm hoặc đặc sản...">
+          <p class="text-xs text-gray-500 mt-1">Không cần gõ dấu. Tìm theo tên địa phương, đơn vị tiền thân, địa điểm và đặc sản.</p>
+        </div>
+        <div>
+          <label for="sort" class="block text-sm font-semibold text-deep-700 mb-1">Sắp xếp theo tên</label>
+          <select id="sort" class="field">
+            <option value="asc">A → Z</option>
+            <option value="desc">Z → A</option>
+          </select>
+        </div>
+        <div>
+          <label for="former" class="block text-sm font-semibold text-deep-700 mb-1">Đơn vị tiền thân</label>
+          <select id="former" class="field"><option value="">Tất cả</option></select>
+        </div>
+        <div class="lg:col-span-3 flex flex-wrap items-center justify-between gap-3">
+          <div id="explore-region-chips" class="flex flex-wrap gap-2" role="group" aria-label="Lọc theo miền"></div>
+          <div class="flex items-center gap-2">
+            <label for="per-page" class="text-sm text-gray-600">Số thẻ mỗi trang</label>
+            <select id="per-page" class="field !w-auto !min-h-[2.5rem] !py-1.5">
+              <option value="6">6</option><option value="9" selected>9</option><option value="12">12</option><option value="18">18</option><option value="34">Tất cả</option>
+            </select>
+            <button type="button" id="reset-filters" class="btn-secondary !min-h-[2.5rem] !py-1.5">Xóa lọc</button>
+          </div>
+        </div>
+      </form>
+
+      <p id="result-summary" class="mt-6 text-sm text-gray-600" role="status" aria-live="polite"></p>
+      <div id="explore-grid" class="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="col-span-full flex justify-center py-16"><div class="spinner" role="status" aria-label="Đang tải"></div></div>
+      </div>
+      <div id="empty-state" class="hidden text-center py-16 bg-white rounded-2xl border border-dashed border-cream-200 mt-4" role="status">
+        <p class="font-display text-2xl font-bold text-deep-700">Không tìm thấy kết quả phù hợp</p>
+        <p class="text-gray-600 mt-2">Hãy thử từ khóa khác, bớt bộ lọc hoặc kiểm tra lại chính tả.</p>
+        <button type="button" id="empty-reset" class="btn-primary mt-5">Xóa toàn bộ bộ lọc</button>
+      </div>
+      <nav id="pagination" class="mt-10 flex flex-wrap items-center justify-center gap-2" aria-label="Phân trang"></nav>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/explore.js"></script>
+</body>
+</html>

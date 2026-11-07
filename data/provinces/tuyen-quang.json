@@ -1,0 +1,761 @@
+{
+  "id": "tuyen-quang",
+  "name": "Tỉnh Tuyên Quang",
+  "administrativeType": "Tỉnh",
+  "region": "Đông Bắc và Tây Bắc",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Tỉnh Tuyên Quang – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Tuyên Quang mới kết nối di tích cách mạng Tân Trào với cao nguyên đá Đồng Văn, các cộng đồng vùng cao và văn hóa Then.",
+    "featuredDestinationIds": [
+      "cao-nguyen-da-dong-van",
+      "khu-di-tich-tan-trao"
+    ],
+    "featuredSpecialtyIds": [
+      "cam-sanh-ham-yen",
+      "che-shan-tuyet-tay-con-linh"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Tuyên Quang",
+      "administrativeCode": "08",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "22",
+        "23"
+      ],
+      "areaKm2": 13795.5,
+      "areaYear": 2025,
+      "population": {
+        "value": 1865270,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Ở vùng Đông Bắc và miền núi phía Bắc, gồm không gian Tuyên Quang cũ và Hà Giang cũ; có đường biên giới phía bắc, cao nguyên đá, dãy núi cao và thung lũng sông.",
+      "boundaries": [
+        "Tỉnh Cao Bằng",
+        "Tỉnh Lào Cai",
+        "Tỉnh Yên Bái không còn là đơn vị cấp tỉnh hiện hành",
+        "Tỉnh Thái Nguyên",
+        "Tỉnh Phú Thọ"
+      ],
+      "naturalFeatures": "Địa hình núi cao, karst đá vôi, thung lũng, sông suối và rừng đầu nguồn; hệ sinh thái phong phú, trong đó cao nguyên đá và vùng Tây Côn Lĩnh có giá trị địa chất – sinh thái.",
+      "climate": "Khí hậu nhiệt đới gió mùa miền núi; mùa đông lạnh, vùng cao có rét đậm và sương mù; lượng mưa và nhiệt độ phân hóa theo độ cao.",
+      "history": "Tỉnh Tuyên Quang mới hình thành từ Hà Giang và Tuyên Quang cũ theo Nghị quyết 202/2025/QH15; diện tích 13.795,50 km², quy mô dân số 1.865.270 người. Không gian mới kết nối vùng căn cứ cách mạng Tân Trào với cao nguyên đá Đồng Văn, các cộng đồng Tày, Nùng, Dao, Mông, Lô Lô, Pà Thẻn và nhiều nhóm khác.",
+      "description": "Tuyên Quang mới kế thừa hai không gian văn hóa: vùng Tuyên Quang cũ với Tân Trào, Na Hang và cộng đồng Tày – Dao; vùng Hà Giang cũ với cao nguyên đá, Đồng Văn, Lũng Cú, Hoàng Su Phì và cộng đồng Mông, Lô Lô, Dao. Quy mô dân số là số trong Nghị quyết 202/2025/QH15, không phải thống kê dân số 2026.",
+      "sourceIds": [
+        "src-305",
+        "src-306",
+        "src-307",
+        "src-324",
+        "src-325",
+        "src-326",
+        "src-329",
+        "src-328"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "cao-nguyen-da-dong-van",
+        "name": "Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn",
+        "category": "Công viên địa chất toàn cầu; cảnh quan karst",
+        "originArea": "Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Các xã thuộc cao nguyên đá Đồng Văn, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Cao nguyên karst đá vôi với hẻm vực sâu, thung lũng, bản làng và địa hình núi đá đặc sắc.",
+        "fullDescription": "Cao nguyên đá Đồng Văn được UNESCO công nhận là Công viên địa chất toàn cầu; vùng cảnh quan gắn với cộng đồng Mông, Lô Lô, Dao và các nhóm cư trú khác. Các điểm cụ thể cần được gắn với địa giới xã hiện hành khi định vị.",
+        "highlights": [
+          "Đồng Văn; Mèo Vạc; hẻm Tu Sản; các bản làng đá."
+        ],
+        "historicalCulturalValue": "Giá trị địa chất, cảnh quan, văn hóa và tri thức thích ứng vùng núi đá.",
+        "recognition": "Công viên địa chất toàn cầu UNESCO.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-329",
+          "src-308"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "cot-co-lung-cu",
+        "name": "Cột cờ Lũng Cú",
+        "category": "Di tích lịch sử; cảnh quan biên giới",
+        "originArea": "Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Cột cờ Lũng Cú – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Lũng Cú, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Công trình biểu tượng trên đỉnh núi Rồng, gắn với không gian biên giới phía bắc.",
+        "fullDescription": "Cột cờ là điểm tham quan và biểu tượng chủ quyền quốc gia; khu vực có các cộng đồng Lô Lô và Mông sinh sống. Khi giới thiệu cần tách biểu tượng quốc gia khỏi các câu chuyện truyền thuyết chưa có hồ sơ.",
+        "highlights": [
+          "Cột cờ; núi Rồng; bản Lô Lô Chải; cảnh quan biên giới."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử, chủ quyền, cảnh quan và văn hóa cộng đồng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-329",
+          "src-326"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "deo-ma-pi-leng",
+        "name": "Đèo Mã Pí Lèng và hẻm vực Tu Sản",
+        "category": "Danh lam thắng cảnh; cảnh quan địa chất",
+        "originArea": "Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Đèo Mã Pí Lèng và hẻm vực Tu Sản – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Mèo Vạc – Đồng Văn, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Đèo núi cao nhìn xuống sông Nho Quế và hẻm vực Tu Sản.",
+        "fullDescription": "Mã Pí Lèng là một đoạn cảnh quan nổi tiếng của cao nguyên đá; các hoạt động đi bộ, thuyền và điểm ngắm cảnh phải theo quy định an toàn và bảo tồn địa chất.",
+        "highlights": [
+          "Cung đường đèo; hẻm vực Tu Sản; sông Nho Quế; điểm ngắm cảnh."
+        ],
+        "historicalCulturalValue": "Giá trị địa chất, cảnh quan và giao thông vùng cao.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-329"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "khu-di-tich-tan-trao",
+        "name": "Khu di tích lịch sử Tân Trào",
+        "category": "Di tích lịch sử cách mạng",
+        "originArea": "Tuyên Quang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Khu di tích lịch sử Tân Trào – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Tân Trào, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Không gian di tích gắn với Cách mạng tháng Tám, Đại hội Quốc dân và hoạt động của Trung ương trong kháng chiến.",
+        "fullDescription": "Tân Trào gồm nhiều điểm di tích như đình Tân Trào, cây đa Tân Trào, lán Nà Nưa và các địa điểm liên quan. Cần trích hồ sơ xếp hạng cho từng địa điểm, không coi cả vùng là một công trình đơn lẻ.",
+        "highlights": [
+          "Đình Tân Trào; lán Nà Nưa; cây đa Tân Trào; đình Hồng Thái."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử cách mạng và giáo dục truyền thống.",
+        "recognition": "Di tích quốc gia đặc biệt (khu di tích lịch sử Tân Trào).",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-324",
+          "src-326"
+        ],
+        "originUnitIds": [
+          "tuyen-quang"
+        ]
+      },
+      {
+        "id": "na-hang-lam-binh",
+        "name": "Khu du lịch sinh thái Na Hang – Lâm Bình",
+        "category": "Hồ sinh thái; bảo tồn thiên nhiên",
+        "originArea": "Tuyên Quang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Khu du lịch sinh thái Na Hang – Lâm Bình – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Na Hang – Lâm Bình, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan hồ chứa, núi đá vôi, rừng và các bản làng ven hồ.",
+        "fullDescription": "Na Hang – Lâm Bình là không gian sinh thái kết hợp lòng hồ thủy điện, rừng và cộng đồng địa phương; cần bảo đảm hoạt động tham quan tuân thủ bảo vệ rừng, nguồn nước và an toàn giao thông thủy.",
+        "highlights": [
+          "Lòng hồ; thác; rừng đặc dụng; bản làng ven hồ."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, cảnh quan và sinh kế cộng đồng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "tuyen-quang"
+        ]
+      },
+      {
+        "id": "ruong-bac-thang-hoang-su-phi",
+        "name": "Ruộng bậc thang Hoàng Su Phì",
+        "category": "Cảnh quan nông nghiệp; văn hóa ruộng bậc thang",
+        "originArea": "Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Ruộng bậc thang Hoàng Su Phì – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Hoàng Su Phì, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Cảnh quan ruộng bậc thang được tạo tác qua nhiều thế hệ trên địa hình núi dốc.",
+        "fullDescription": "Ruộng bậc thang gắn với tri thức canh tác, thủy lợi và lịch mùa vụ của các cộng đồng Dao, Nùng, La Chí và các nhóm khác; thời điểm mùa nước đổ và lúa chín thay đổi theo năm.",
+        "highlights": [
+          "Ruộng bậc thang; bản làng; hệ thống mương dẫn nước; mùa vụ."
+        ],
+        "historicalCulturalValue": "Giá trị cảnh quan, tri thức nông nghiệp và văn hóa cộng đồng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "cho-tinh-khau-vai",
+        "name": "Không gian chợ tình Khâu Vai",
+        "category": "Không gian văn hóa; lễ hội truyền thống",
+        "originArea": "Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Không gian chợ tình Khâu Vai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Khâu Vai, tỉnh Tuyên Quang.",
+        "coordinates": null,
+        "shortDescription": "Không gian gặp gỡ cộng đồng gắn với phiên chợ tình vùng cao.",
+        "fullDescription": "Chợ tình Khâu Vai gắn với lịch sử và truyền thuyết địa phương; cách thực hành và ý nghĩa đương đại cần trình bày theo tư liệu cộng đồng, không giản lược thành sự kiện du lịch.",
+        "highlights": [
+          "Phiên chợ; sinh hoạt cộng đồng; văn hóa vùng cao."
+        ],
+        "historicalCulturalValue": "Giá trị ký ức, giao lưu cộng đồng và văn hóa vùng núi.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "cam-sanh-ham-yen",
+        "name": "Cam sành Hàm Yên",
+        "category": "Trái cây; nông sản",
+        "originArea": "Hàm Yên, Tuyên Quang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Cam sành Hàm Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cam sành Hàm Yên gắn với Hàm Yên, Tuyên Quang cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả cam sành."
+        ],
+        "preparation": "Thu hoạch theo mùa, phân loại và tiêu thụ tươi hoặc chế biến.",
+        "characteristics": "Vỏ sần, màu xanh vàng đến cam khi chín; vị chua ngọt phụ thuộc giống, đất và độ chín.",
+        "culturalContext": "Gắn với vùng cây ăn quả Hàm Yên và sinh kế nông nghiệp địa phương.",
+        "recognition": "Có hồ sơ chỉ dẫn địa lý/nhãn hiệu vùng; kiểm tra phạm vi và chủ thể bảo hộ trước khi gán cho từng sản phẩm.",
+        "sourceIds": [
+          "src-328"
+        ],
+        "originUnitIds": [
+          "tuyen-quang"
+        ]
+      },
+      {
+        "id": "che-shan-tuyet-tay-con-linh",
+        "name": "Chè Shan tuyết Tây Côn Lĩnh",
+        "category": "Trà; nông sản vùng cao",
+        "originArea": "Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Chè Shan tuyết Tây Côn Lĩnh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Chè Shan tuyết Tây Côn Lĩnh gắn với Hà Giang cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Búp chè Shan tuyết từ cây chè vùng cao."
+        ],
+        "preparation": "Thu hái búp, làm héo, diệt men, vò và sấy theo dòng chè xanh hoặc chè chế biến khác.",
+        "characteristics": "Hương vị thay đổi theo giống, độ cao, mùa hái và cách chế biến; cây chè cổ thụ gắn với tri thức canh tác vùng cao.",
+        "culturalContext": "Gắn với cộng đồng ở vùng Tây Côn Lĩnh và sinh kế nông lâm kết hợp.",
+        "recognition": "Nguồn địa phương mô tả sản phẩm vùng; chỉ dẫn địa lý hoặc chứng nhận từng chủ thể cần kiểm tra riêng.",
+        "sourceIds": [
+          "src-327"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "thang-co-ha-giang",
+        "name": "Thắng cố",
+        "category": "Món ăn; ẩm thực cộng đồng vùng cao",
+        "originArea": "Các cộng đồng vùng cao Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Thắng cố – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thắng cố gắn với Các cộng đồng vùng cao Hà Giang cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt và nội tạng gia súc",
+          "Gia vị vùng cao, thảo quả và rau tùy cách làm."
+        ],
+        "preparation": "Nguyên liệu được sơ chế, nấu trong nồi lớn với gia vị; công thức thay đổi giữa các cộng đồng và vùng.",
+        "characteristics": "Món nước đậm vị, gắn với chợ phiên và sinh hoạt cộng đồng; không phải món riêng của một tỉnh.",
+        "culturalContext": "Món ăn phổ biến ở nhiều vùng miền núi phía Bắc; ghi nguồn gốc theo cộng đồng và địa bàn.",
+        "recognition": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "men-men",
+        "name": "Mèn mén",
+        "category": "Món ăn; ẩm thực truyền thống",
+        "originArea": "Cộng đồng Mông tại Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Mèn mén – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Mèn mén gắn với Cộng đồng Mông tại Hà Giang cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Ngô tẻ xay",
+          "Nước và muối tùy cách làm."
+        ],
+        "preparation": "Ngô xay, sàng, làm ẩm và đồ nhiều lần để đạt độ chín; kỹ thuật khác nhau theo hộ gia đình.",
+        "characteristics": "Hạt ngô tơi, thơm, thường ăn cùng canh hoặc món mặn.",
+        "culturalContext": "Gắn với sinh kế trồng ngô trên địa hình núi đá và ẩm thực của cộng đồng Mông.",
+        "recognition": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "thit-treo-gac-bep-tuyen-quang",
+        "name": "Thịt treo gác bếp",
+        "category": "Sản phẩm chế biến; món ăn vùng cao",
+        "originArea": "Các cộng đồng vùng núi Tuyên Quang và Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "image": {
+          "file": null,
+          "alt": "Thịt treo gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Thịt treo gác bếp gắn với Các cộng đồng vùng núi Tuyên Quang và Hà Giang cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Thịt lợn hoặc trâu",
+          "Muối",
+          "Gia vị địa phương."
+        ],
+        "preparation": "Thịt được tẩm ướp, hong khói và bảo quản theo cách gia đình; quy trình vệ sinh và thời gian làm khác nhau.",
+        "characteristics": "Mùi khói và gia vị rõ; độ khô, độ dai tùy nguyên liệu và cách chế biến.",
+        "culturalContext": "Gắn với tập quán bảo quản thực phẩm ở vùng núi và dịp lễ tết.",
+        "recognition": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "tuyen-quang",
+          "ha-giang"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-tay-nung",
+          "name": "Cộng đồng Tày và Nùng",
+          "originArea": "Cả địa bàn Tuyên Quang cũ và Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Cộng đồng Tày, Nùng có tiếng nói, nhà sàn, Then, đàn tính, lễ hội Lồng Tồng và tri thức canh tác; thực hành khác nhau theo nhóm địa phương.",
+          "sourceIds": [
+            "src-326",
+            "src-309"
+          ],
+          "originUnitIds": [
+            "tuyen-quang",
+            "ha-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-dao",
+          "name": "Cộng đồng Dao",
+          "originArea": "Nhiều địa bàn miền núi tỉnh Tuyên Quang mới.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Các nhóm Dao có trang phục, nghi lễ vòng đời, chữ viết và tri thức rừng đa dạng; cần nêu rõ nhóm Dao cụ thể khi mô tả thực hành.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": []
+        },
+        {
+          "id": "cong-dong-mong-lo-lo",
+          "name": "Cộng đồng Mông và Lô Lô",
+          "originArea": "Vùng cao nguyên đá Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Cộng đồng có nhà ở, trang phục, âm nhạc và tri thức sinh tồn vùng núi đá; không gộp thực hành của hai cộng đồng thành một.",
+          "sourceIds": [
+            "src-326",
+            "src-329"
+          ],
+          "originUnitIds": [
+            "ha-giang"
+          ]
+        },
+        {
+          "id": "cong-dong-pa-then",
+          "name": "Cộng đồng Pà Thẻn",
+          "originArea": "Một số địa bàn Tuyên Quang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Cộng đồng Pà Thẻn có nghi lễ, trang phục, dân ca và thực hành văn hóa riêng; thông tin cần dựa tư liệu của chủ thể di sản.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": [
+            "tuyen-quang"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "nghi-le-cap-sac-dao",
+          "name": "Nghi lễ cấp sắc của một số nhóm Dao",
+          "originArea": "Cộng đồng Dao tại các địa bàn miền núi.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Nghi lễ vòng đời có vai trò trong tín ngưỡng và quan niệm cộng đồng; nghi thức, độ tuổi và tên gọi khác nhau theo nhóm Dao.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-long-tong",
+          "name": "Lễ hội Lồng Tồng",
+          "originArea": "Cộng đồng Tày, Nùng tại các vùng Tuyên Quang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Lễ hội xuống đồng đầu năm, gắn với nghi lễ nông nghiệp, cầu mùa và sinh hoạt cộng đồng.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "timeAndLocation": "Tại các địa bàn có cộng đồng Tày, Nùng; thời gian theo lịch âm và lịch địa phương.",
+          "originUnitIds": [
+            "tuyen-quang"
+          ]
+        },
+        {
+          "id": "le-hoi-gau-tao",
+          "name": "Lễ hội Gầu Tào",
+          "originArea": "Cộng đồng Mông tại vùng Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Lễ hội truyền thống gắn với cầu phúc, cầu sức khỏe và sinh hoạt cộng đồng; nghi lễ có biến thể theo nhóm và địa bàn.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "timeAndLocation": "Các bản người Mông; lịch tổ chức theo cộng đồng.",
+          "originUnitIds": [
+            "ha-giang"
+          ]
+        },
+        {
+          "id": "cho-tinh-khau-vai-festival",
+          "name": "Phiên chợ tình Khâu Vai",
+          "originArea": "Khu vực Khâu Vai, Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Phiên chợ gắn với ký ức văn hóa và giao lưu cộng đồng vùng cao; diễn giải cần tránh lãng mạn hóa hoặc khái quát sai thực hành.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "timeAndLocation": "Khâu Vai; thời điểm theo lịch âm và kế hoạch địa phương.",
+          "originUnitIds": [
+            "ha-giang"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-mong",
+          "name": "Trang phục truyền thống Mông",
+          "originArea": "Cộng đồng Mông tại các huyện vùng cao Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Trang phục có kỹ thuật thêu, ghép vải, nhuộm chàm và hoa văn khác nhau theo nhóm Mông; không quy một mẫu cho tất cả.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": [
+            "ha-giang"
+          ]
+        },
+        {
+          "id": "trang-phuc-dao-do",
+          "name": "Trang phục truyền thống Dao đỏ",
+          "originArea": "Cộng đồng Dao đỏ tại một số địa bàn Tuyên Quang mới.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Trang phục thường có khăn, áo, trang trí màu đỏ và thêu; mẫu mã khác nhau theo nhóm địa phương.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "nha-trinh-tuong-cao-nguyen-da",
+          "name": "Nhà trình tường vùng cao nguyên đá",
+          "originArea": "Cộng đồng ở cao nguyên đá Đồng Văn, Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Nhà trình tường đất với mái ngói âm dương, hàng rào đá và sân trong là dạng kiến trúc thích ứng với khí hậu và vật liệu địa phương.",
+          "sourceIds": [
+            "src-329"
+          ],
+          "originUnitIds": [
+            "ha-giang"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "nha-san-tay-tuyen-quang",
+          "name": "Nhà sàn Tày",
+          "originArea": "Cộng đồng Tày ở vùng Tuyên Quang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Nhà sàn gỗ gắn với địa hình thung lũng, sinh hoạt gia đình, sản xuất nông nghiệp và tín ngưỡng tổ tiên.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": [
+            "tuyen-quang"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "thuc-hanh-then-tay-nung",
+          "name": "Thực hành Then của người Tày, Nùng",
+          "originArea": "Cộng đồng Tày, Nùng tại các tỉnh miền núi phía Bắc, gồm Tuyên Quang.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Then vừa là thực hành tín ngưỡng vừa là loại hình diễn xướng sử dụng đàn tính, lời hát và nghi lễ; có các tuyến thực hành khác nhau.",
+          "sourceIds": [
+            "src-309",
+            "src-326"
+          ],
+          "recognition": "UNESCO ghi danh năm 2019; thực hành liên tỉnh của các cộng đồng Tày, Nùng, Thái.",
+          "originUnitIds": [
+            "tuyen-quang"
+          ]
+        },
+        {
+          "id": "tin-nguong-tho-than-nui-rung",
+          "name": "Tín ngưỡng gắn với núi rừng và tổ tiên",
+          "originArea": "Các cộng đồng dân tộc tại Tuyên Quang và Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Thực hành tín ngưỡng gắn với tổ tiên, thần rừng, thần núi và không gian sinh thái; mỗi cộng đồng có nghi lễ riêng.",
+          "sourceIds": [
+            "src-326"
+          ],
+          "originUnitIds": [
+            "tuyen-quang",
+            "ha-giang"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "thuc-hanh-then",
+          "name": "Thực hành Then của người Tày, Nùng, Thái",
+          "originArea": "Các cộng đồng Tày, Nùng, Thái tại Tuyên Quang và các tỉnh miền núi phía Bắc.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Thực hành kết hợp nghi lễ, lời Then, đàn tính, hát và diễn xướng; người thực hành có vai trò thầy Then và cộng đồng hỗ trợ.",
+          "sourceIds": [
+            "src-309",
+            "src-326"
+          ],
+          "recognition": "UNESCO ghi danh năm 2019; phạm vi nhiều tỉnh, không chỉ Tuyên Quang.",
+          "originUnitIds": [
+            "tuyen-quang"
+          ]
+        },
+        {
+          "id": "khong-gian-van-hoa-cao-nguyen-da",
+          "name": "Không gian văn hóa cao nguyên đá Đồng Văn",
+          "originArea": "Hà Giang cũ.",
+          "currentProvinceId": "tuyen-quang",
+          "description": "Không gian gồm địa chất karst, kiến trúc nhà trình tường, chợ phiên, lễ tục và tri thức thích ứng của nhiều cộng đồng cư trú.",
+          "sourceIds": [
+            "src-329",
+            "src-326"
+          ],
+          "recognition": "Nằm trong Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn.",
+          "originUnitIds": [
+            "ha-giang"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "hat-then-dan-tinh",
+        "name": "Hát Then – đàn tính",
+        "category": "Âm nhạc nghi lễ và diễn xướng",
+        "image": {
+          "file": null,
+          "alt": "Hát Then – đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Tày, Nùng và Thái tại Tuyên Quang và các tỉnh miền núi.",
+        "origin": null,
+        "originArea": "Cộng đồng Tày, Nùng và Thái tại Tuyên Quang và các tỉnh miền núi.",
+        "currentProvinceId": "tuyen-quang",
+        "characteristics": "Lời hát Then, đàn tính, nhịp phách và nghi thức; phong cách khác nhau theo cộng đồng và vùng.",
+        "instrumentsOrPerformance": "Thực hành trong nghi lễ Then và các chương trình diễn xướng cộng đồng; cần phân biệt nghi lễ đầy đủ với tiết mục sân khấu.",
+        "culturalValue": "Giá trị tín ngưỡng, âm nhạc và truyền dạy văn hóa cộng đồng.",
+        "recognition": "UNESCO ghi danh năm 2019 trong phạm vi liên tỉnh.",
+        "sourceIds": [
+          "src-309",
+          "src-326"
+        ],
+        "originUnitIds": [
+          "tuyen-quang"
+        ]
+      },
+      {
+        "id": "khen-mong",
+        "name": "Khèn Mông",
+        "category": "Âm nhạc và múa truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Mông ở vùng cao Hà Giang cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Mông ở vùng cao Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "characteristics": "Khèn là nhạc cụ hơi nhiều ống, gắn với kỹ thuật thổi, múa và sinh hoạt cộng đồng; cách chế tác khác nhau theo nghệ nhân.",
+        "instrumentsOrPerformance": "Thổi khèn kết hợp động tác múa; xuất hiện trong lễ hội, chợ phiên và nghi lễ cộng đồng.",
+        "culturalValue": "Giá trị âm nhạc, kỹ thuật chế tác và bản sắc cộng đồng Mông.",
+        "recognition": null,
+        "sourceIds": [
+          "src-326"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      },
+      {
+        "id": "dan-ca-lo-lo",
+        "name": "Dân ca và trống đồng Lô Lô",
+        "category": "Âm nhạc và diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Dân ca và trống đồng Lô Lô – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Lô Lô tại cao nguyên đá Đồng Văn, Hà Giang cũ.",
+        "origin": null,
+        "originArea": "Cộng đồng Lô Lô tại cao nguyên đá Đồng Văn, Hà Giang cũ.",
+        "currentProvinceId": "tuyen-quang",
+        "characteristics": "Trống đồng, nhạc cụ, trang phục và dân ca có vai trò trong nghi lễ và sinh hoạt cộng đồng; cần mô tả theo nhóm Lô Lô địa phương.",
+        "instrumentsOrPerformance": "Sử dụng trong các dịp lễ và hoạt động cộng đồng do chủ thể thực hành.",
+        "culturalValue": "Bảo tồn tri thức nghi lễ, nhạc cụ và truyền thống của cộng đồng Lô Lô.",
+        "recognition": null,
+        "sourceIds": [
+          "src-326",
+          "src-329"
+        ],
+        "originUnitIds": [
+          "ha-giang"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Diện tích và quy mô dân số theo Nghị quyết 202/2025/QH15. Số đơn vị cấp xã 124 theo thông tin UBND tỉnh tháng 05/2026."
+    ],
+    "sourceIds": [
+      "src-305",
+      "src-306",
+      "src-307",
+      "src-324",
+      "src-325",
+      "src-326",
+      "src-327",
+      "src-328",
+      "src-329",
+      "src-308",
+      "src-309"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "tuyen-quang",
+      "name": "Tuyên Quang"
+    },
+    {
+      "id": "ha-giang",
+      "name": "Hà Giang"
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "id": "khanh-hoa",
+  "name": "Tỉnh Khánh Hòa",
+  "administrativeType": "Tỉnh",
+  "region": "Duyên hải Nam Trung Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Vịnh biển Nha Trang và tháp Chăm Khánh Hòa – ảnh đại diện chưa xác minh giấy phép.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "Khánh Hòa mới hợp nhất Khánh Hòa và Ninh Thuận trước đây. Hồ sơ kết nối không gian biển đảo Nha Trang với di sản Chăm, tháp cổ, làng gốm Bàu Trúc, dệt Mỹ Nghiệp và hệ sinh thái Núi Chúa.",
+    "featuredDestinationIds": [
+      "vinh-nha-trang",
+      "thap-ba-ponagar"
+    ],
+    "featuredSpecialtyIds": [
+      "yen-sao-khanh-hoa",
+      "nho-ninh-thuan"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Tỉnh Khánh Hòa",
+      "administrativeCode": "56",
+      "administrativeCenter": "Nha Trang (khu vực thành phố Nha Trang, tỉnh Khánh Hòa cũ).",
+      "vehiclePlateCodes": [
+        "79",
+        "85"
+      ],
+      "areaKm2": 8555.86,
+      "areaYear": 2025,
+      "population": {
+        "value": 2243554,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Tỉnh thuộc Duyên hải Nam Trung Bộ, hình thành từ toàn bộ Khánh Hòa cũ và Ninh Thuận cũ; kéo dài từ vùng vịnh Nha Trang đến vùng biển – bán hoang mạc Phan Rang.",
+      "boundaries": [],
+      "naturalFeatures": "Có vịnh, đảo ven bờ, đồng bằng duyên hải, núi, rừng khô hạn, hệ sinh thái rạn san hô và vùng biển có giá trị sinh học cao.",
+      "climate": null,
+      "history": "Tỉnh Khánh Hòa mới hình thành từ Khánh Hòa cũ và Ninh Thuận cũ, hoạt động từ 01/07/2025. Không gian Khánh Hòa cũ gắn với Nha Trang, vịnh biển, văn hóa biển và tháp Bà Pô Nagar; Ninh Thuận cũ lưu giữ các trung tâm di sản Chăm, tháp Pô Klong Garai, Hòa Lai, làng gốm Bàu Trúc, làng dệt Mỹ Nghiệp và hệ sinh thái Núi Chúa.",
+      "description": "Khánh Hòa là vùng duyên hải có sự giao thoa giữa văn hóa biển và văn hóa Chăm. Vịnh Nha Trang, tháp Bà Pô Nagar, tháp Pô Klong Garai, tháp Hòa Lai, làng gốm Bàu Trúc, làng dệt Mỹ Nghiệp và Khu dự trữ sinh quyển Núi Chúa thể hiện sự đa dạng của tỉnh mới.",
+      "sourceIds": [
+        "src-189",
+        "src-190",
+        "src-191",
+        "src-192",
+        "src-193",
+        "src-165",
+        "src-167",
+        "src-196"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "vinh-nha-trang",
+        "name": "Vịnh Nha Trang",
+        "category": "Danh lam thắng cảnh; vịnh biển",
+        "originArea": "Khánh Hòa cũ – Nha Trang.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Vịnh Nha Trang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực ven biển Nha Trang, tỉnh Khánh Hòa.",
+        "coordinates": null,
+        "shortDescription": "Vịnh biển với các đảo, bãi tắm và hệ sinh thái biển, là không gian du lịch và sinh kế biển quan trọng.",
+        "fullDescription": "Vịnh Nha Trang gắn với các đảo ven bờ, hoạt động du lịch biển và bảo tồn hệ sinh thái. Khai thác du lịch cần chú ý giới hạn môi trường và quy định tại từng khu vực đảo.",
+        "highlights": "Đảo ven bờ; bãi biển; cảnh quan vịnh; hệ sinh thái biển.",
+        "historicalCulturalValue": "Đại diện cho văn hóa biển và hình ảnh du lịch Nha Trang.",
+        "recognition": "Cần xác minh trạng thái danh hiệu/ranh giới bảo tồn theo hồ sơ quản lý hiện hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-191",
+          "src-190"
+        ],
+        "originUnitIds": [
+          "khanh-hoa"
+        ]
+      },
+      {
+        "id": "thap-ba-ponagar",
+        "name": "Tháp Bà Pô Nagar",
+        "category": "Di tích kiến trúc nghệ thuật; di tích Chăm",
+        "originArea": "Khánh Hòa cũ – Nha Trang.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Tháp Bà Pô Nagar – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Bắc Nha Trang, tỉnh Khánh Hòa; địa chỉ hiện hành cần kiểm tra.",
+        "coordinates": null,
+        "shortDescription": "Quần thể tháp Chăm trên đồi gần cửa sông Cái, là trung tâm thờ nữ thần Pô Nagar.",
+        "fullDescription": "Các công trình gạch và tượng thờ phản ánh lịch sử Chăm Pa và sự tiếp nối tín ngưỡng của cộng đồng cư dân trong vùng. Lễ hội Tháp Bà là một hoạt động văn hóa – tín ngưỡng quan trọng.",
+        "highlights": "Kiến trúc tháp gạch; tượng thờ; nghi lễ và lễ hội.",
+        "historicalCulturalValue": "Là di tích quan trọng trong lịch sử văn hóa Chăm và tín ngưỡng miền duyên hải.",
+        "recognition": "Di tích quốc gia đặc biệt theo danh mục địa phương; cần trích quyết định xếp hạng gốc.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "khanh-hoa"
+        ]
+      },
+      {
+        "id": "thap-po-klong-garai",
+        "name": "Tháp Pô Klong Garai",
+        "category": "Di tích kiến trúc nghệ thuật; tháp Chăm",
+        "originArea": "Ninh Thuận cũ – Phan Rang.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Tháp Pô Klong Garai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực phường Đô Vinh, tỉnh Khánh Hòa; địa chỉ mới cần kiểm tra.",
+        "coordinates": null,
+        "shortDescription": "Cụm tháp Chăm thờ vua Pô Klong Garai, là trung tâm hành lễ và lễ hội Katê.",
+        "fullDescription": "Quần thể kiến trúc gạch trên đồi, gắn với nghệ thuật Chăm và nghi lễ truyền thống. Lễ Katê tại tháp vẫn là thực hành sống của cộng đồng Chăm Bàlamôn.",
+        "highlights": "Tháp chính; tháp cổng; tháp hỏa; nghi lễ Katê.",
+        "historicalCulturalValue": "Kết nối di sản kiến trúc Chăm với đời sống tôn giáo và lễ hội đương đại.",
+        "recognition": "Di tích quốc gia đặc biệt; lễ hội Katê có thực hành tại tháp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-195",
+          "src-194",
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "thap-hoa-lai",
+        "name": "Tháp Hòa Lai",
+        "category": "Di tích kiến trúc nghệ thuật; di tích Chăm",
+        "originArea": "Ninh Thuận cũ – vùng Bắc Phan Rang.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Tháp Hòa Lai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Thuận Bắc, tỉnh Khánh Hòa; cần kiểm tra địa chỉ hiện hành.",
+        "coordinates": null,
+        "shortDescription": "Cụm tháp Chăm cổ bằng gạch, có giá trị nghiên cứu về lịch sử kiến trúc Chăm.",
+        "fullDescription": "Tháp Hòa Lai là một trong những cụm kiến trúc Chăm nổi bật ở Ninh Thuận cũ, có giá trị về nghệ thuật xây gạch và trang trí kiến trúc.",
+        "highlights": "Cụm tháp gạch; mô típ trang trí; kỹ thuật xây dựng Chăm.",
+        "historicalCulturalValue": "Là chứng tích quan trọng của lịch sử văn hóa Chăm ở khu vực Ninh Thuận cũ.",
+        "recognition": "Di tích quốc gia đặc biệt theo nguồn cơ quan văn hóa Khánh Hòa.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "vuon-quoc-gia-nui-chua-vinh-hy",
+        "name": "Vườn quốc gia Núi Chúa và vịnh Vĩnh Hy",
+        "category": "Vườn quốc gia; khu dự trữ sinh quyển; danh lam thắng cảnh",
+        "originArea": "Ninh Thuận cũ – vùng Ninh Hải.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Vườn quốc gia Núi Chúa và vịnh Vĩnh Hy – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực xã Vĩnh Hải, tỉnh Khánh Hòa; tuyến tham quan và địa chỉ hiện hành cần kiểm tra.",
+        "coordinates": null,
+        "shortDescription": "Không gian rừng – biển – bán hoang mạc hiếm gặp, kết hợp vịnh Vĩnh Hy và hệ sinh thái ven bờ.",
+        "fullDescription": "Khu dự trữ sinh quyển Núi Chúa được UNESCO ghi danh năm 2021; đặc điểm sinh thái kết hợp núi, rừng khô hạn, biển và rạn san hô.",
+        "highlights": "Cảnh quan vịnh; rừng khô hạn; rạn san hô; vùng sinh sản rùa biển.",
+        "historicalCulturalValue": "Có giá trị bảo tồn sinh thái và cảnh quan đặc thù của vùng duyên hải Nam Trung Bộ.",
+        "recognition": "UNESCO công nhận Khu dự trữ sinh quyển thế giới năm 2021.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-192",
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "lang-gom-bau-truc",
+        "name": "Làng gốm Chăm Bàu Trúc",
+        "category": "Làng nghề; di sản văn hóa phi vật thể",
+        "originArea": "Ninh Thuận cũ – làng Bàu Trúc, Phước Dân.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Làng gốm Chăm Bàu Trúc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Ninh Phước, tỉnh Khánh Hòa (theo địa bàn hiện hành); cần kiểm tra tên thôn/địa chỉ mới.",
+        "coordinates": null,
+        "shortDescription": "Làng nghề gốm truyền thống do cộng đồng Chăm duy trì, nổi bật với kỹ thuật tạo hình không dùng bàn xoay.",
+        "fullDescription": "Nghệ nhân tạo hình bằng tay và dụng cụ đơn giản, sau đó phơi, trang trí và nung ngoài trời theo kỹ thuật truyền thống. Nghề gốm được truyền nối chủ yếu trong cộng đồng phụ nữ Chăm.",
+        "highlights": "Kỹ thuật nặn tay; hoa văn; nung gốm ngoài trời.",
+        "historicalCulturalValue": "Bảo tồn tri thức nghề, quan hệ cộng đồng và bản sắc Chăm.",
+        "recognition": "UNESCO ghi danh năm 2022 vào Danh sách di sản văn hóa phi vật thể cần bảo vệ khẩn cấp.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-193",
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "lang-det-my-nghiep",
+        "name": "Làng dệt thổ cẩm Chăm Mỹ Nghiệp",
+        "category": "Làng nghề; thủ công truyền thống",
+        "originArea": "Ninh Thuận cũ – vùng Phước Dân.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Làng dệt thổ cẩm Chăm Mỹ Nghiệp – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Xã Ninh Phước, tỉnh Khánh Hòa; địa chỉ cụ thể cần cập nhật.",
+        "coordinates": null,
+        "shortDescription": "Làng dệt thổ cẩm gắn với cộng đồng Chăm, duy trì kỹ thuật dệt và hoa văn truyền thống.",
+        "fullDescription": "Các nghệ nhân sử dụng khung dệt và kỹ thuật phối sợi, tạo hoa văn gắn với đời sống và mỹ thuật Chăm.",
+        "highlights": "Khung dệt; hoa văn thổ cẩm; sản phẩm dệt truyền thống.",
+        "historicalCulturalValue": "Lưu giữ tri thức thủ công và truyền thống mỹ thuật Chăm.",
+        "recognition": "Chưa xác minh ghi danh riêng nghề dệt vào danh mục UNESCO trong hồ sơ này.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "yen-sao-khanh-hoa",
+        "name": "Yến sào Khánh Hòa",
+        "category": "Thủy sản; sản phẩm đặc trưng",
+        "originArea": "Khánh Hòa cũ – các đảo yến và vùng ven biển.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Yến sào Khánh Hòa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Yến sào Khánh Hòa gắn với Khánh Hòa cũ – các đảo yến và vùng ven biển.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Tổ yến khai thác theo quy trình quản lý."
+        ],
+        "preparation": "Thu hoạch, làm sạch, phân loại và chế biến; các công đoạn phụ thuộc loại sản phẩm và tiêu chuẩn của cơ sở.",
+        "characteristics": "Sản phẩm tổ yến gắn với các đảo yến và nghề khai thác yến sào ở vùng biển Khánh Hòa.",
+        "culturalContext": "Có vai trò trong kinh tế biển và văn hóa ẩm thực, quà tặng địa phương.",
+        "recognition": "Thương hiệu và chỉ dẫn địa lý cần xác minh theo cơ sở, không khẳng định mọi sản phẩm đều cùng một chứng nhận.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "khanh-hoa"
+        ]
+      },
+      {
+        "id": "nem-ninh-hoa",
+        "name": "Nem Ninh Hòa",
+        "category": "Thực phẩm chế biến; món ăn địa phương",
+        "originArea": "Khánh Hòa cũ – Ninh Hòa.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Nem Ninh Hòa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nem Ninh Hòa gắn với Khánh Hòa cũ – Ninh Hòa.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Thịt heo",
+          "Da heo",
+          "Gia vị, thính và lá gói tùy loại."
+        ],
+        "preparation": "Thịt được sơ chế, phối trộn, ủ lên men hoặc chế biến thành nem nướng tùy sản phẩm; hai dạng cần phân biệt.",
+        "characteristics": "Có thể gặp nem chua và nem nướng Ninh Hòa; cách làm và cách ăn khác nhau theo cơ sở.",
+        "culturalContext": "Gắn với ẩm thực Ninh Hòa và văn hóa quán ăn địa phương.",
+        "recognition": "Chưa xác minh chứng nhận chung cho toàn nhóm sản phẩm.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "khanh-hoa"
+        ]
+      },
+      {
+        "id": "bun-ca-nha-trang",
+        "name": "Bún cá Nha Trang",
+        "category": "Món ăn; ẩm thực biển",
+        "originArea": "Khánh Hòa cũ – Nha Trang.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Bún cá Nha Trang – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bún cá Nha Trang gắn với Khánh Hòa cũ – Nha Trang.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Bún",
+          "Cá biển, chả cá",
+          "Nước dùng, rau và gia vị."
+        ],
+        "preparation": "Nấu nước dùng từ cá hoặc nguyên liệu biển; dùng với bún và chả cá. Công thức thay đổi theo quán.",
+        "characteristics": "Món nước có vị thanh, gắn với nguyên liệu biển và chả cá địa phương.",
+        "culturalContext": "Là món ăn phổ biến trong văn hóa ẩm thực đô thị biển Nha Trang.",
+        "recognition": "Không có danh hiệu bảo hộ được xác minh trong bộ nguồn này.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "khanh-hoa"
+        ]
+      },
+      {
+        "id": "nho-ninh-thuan",
+        "name": "Nho Ninh Thuận",
+        "category": "Nông sản; trái cây",
+        "originArea": "Ninh Thuận cũ – các vùng trồng nho Phan Rang, Ninh Hải và phụ cận.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Nho Ninh Thuận – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Nho Ninh Thuận gắn với Ninh Thuận cũ – các vùng trồng nho Phan Rang, Ninh Hải và phụ cận.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Các giống nho ăn tươi hoặc chế biến."
+        ],
+        "preparation": "Canh tác trên giàn, tưới và chăm sóc thích ứng điều kiện khô hạn; giống và quy trình thay đổi theo vườn.",
+        "characteristics": "Trái nho tươi và các sản phẩm chế biến như mật nho, rượu nho; đặc tính theo giống và mùa vụ.",
+        "culturalContext": "Gắn với khí hậu khô hạn và nông nghiệp đặc thù vùng Ninh Thuận cũ.",
+        "recognition": "Chứng nhận/nhãn hiệu cần xác minh theo giống, vùng và cơ sở.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "tao-ninh-thuan",
+        "name": "Táo Ninh Thuận",
+        "category": "Nông sản; trái cây",
+        "originArea": "Ninh Thuận cũ – các vùng trồng táo vùng Phan Rang.",
+        "currentProvinceId": "khanh-hoa",
+        "image": {
+          "file": null,
+          "alt": "Táo Ninh Thuận – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Táo Ninh Thuận gắn với Ninh Thuận cũ – các vùng trồng táo vùng Phan Rang.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "ingredients": [
+          "Táo địa phương."
+        ],
+        "preparation": "Canh tác vườn táo, có thể sử dụng lưới bảo vệ; kỹ thuật phụ thuộc vùng trồng và mùa vụ.",
+        "characteristics": "Trái táo giòn, vị ngọt/chua tùy giống và thời điểm thu hoạch.",
+        "culturalContext": "Gắn với sinh kế nông nghiệp ở vùng khô hạn Ninh Thuận cũ.",
+        "recognition": "Chưa xác minh chỉ dẫn địa lý/nhãn hiệu cụ thể.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-cham-khanh-hoa",
+          "name": "Cộng đồng Chăm",
+          "originArea": "Ninh Thuận cũ – các làng Chăm Bàlamôn và Bàni.",
+          "description": "Cộng đồng Chăm duy trì hệ thống nghi lễ, kiến trúc tháp, làng nghề gốm, dệt và ngôn ngữ – nghệ thuật riêng. Chăm Bàlamôn và Chăm Bàni có các thực hành tôn giáo khác nhau, cần phân biệt khi mô tả.",
+          "sourceIds": [
+            "src-191",
+            "src-193"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        },
+        {
+          "id": "cong-dong-raglai",
+          "name": "Cộng đồng Raglai",
+          "originArea": "Ninh Thuận cũ – vùng núi và trung du.",
+          "description": "Cộng đồng Raglai có các thực hành âm nhạc, nhạc cụ mã la, đàn chapi, nghi lễ và tri thức môi trường; chi tiết cần gắn với từng nhóm địa phương.",
+          "sourceIds": [
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-khanh-hoa",
+          "name": "Cộng đồng Kinh",
+          "originArea": "Các đô thị, làng biển, đồng bằng ở cả hai vùng tiền thân.",
+          "description": "Đời sống Kinh gắn với đô thị du lịch, nghề biển, thương mại, nông nghiệp và các tín ngưỡng dân gian. Thực hành văn hóa không đồng nhất trên toàn tỉnh.",
+          "sourceIds": [
+            "src-190",
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": []
+        }
+      ],
+      "customs": [
+        {
+          "id": "nghe-bien-khanh-hoa",
+          "name": "Tập quán nghề biển và sinh hoạt cộng đồng ven biển",
+          "originArea": "Khánh Hòa cũ và Ninh Thuận cũ.",
+          "description": "Nghề đánh bắt, nuôi trồng thủy sản, làm muối, lễ cầu ngư và các thiết chế thờ cá Ông góp phần hình thành văn hóa biển; nghi lễ thay đổi theo làng.",
+          "sourceIds": [
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "khanh-hoa",
+            "ninh-thuan"
+          ]
+        },
+        {
+          "id": "nghe-gom-va-det-cham",
+          "name": "Tri thức gốm và dệt của cộng đồng Chăm",
+          "originArea": "Ninh Thuận cũ – Bàu Trúc và Mỹ Nghiệp.",
+          "description": "Nghề gốm và dệt được duy trì trong cộng đồng, truyền nghề qua gia đình và nhóm nghệ nhân; kỹ thuật và vai trò giới cần mô tả đúng nguồn.",
+          "sourceIds": [
+            "src-193",
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-thap-ba-ponagar",
+          "name": "Lễ hội Tháp Bà Pô Nagar",
+          "originArea": "Khánh Hòa cũ – Tháp Bà Pô Nagar, Nha Trang.",
+          "description": "Lễ hội tín ngưỡng thờ nữ thần Pô Nagar, thu hút cộng đồng và khách hành hương; lịch và nội dung nghi lễ cần đối chiếu thông báo tổ chức từng năm.",
+          "sourceIds": [
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "timeAndLocation": "Tại di tích Tháp Bà Pô Nagar; thời gian lễ hội cần xác minh lịch hằng năm.",
+          "originUnitIds": [
+            "khanh-hoa"
+          ]
+        },
+        {
+          "id": "le-hoi-kate",
+          "name": "Lễ hội Katê của người Chăm",
+          "originArea": "Ninh Thuận cũ – các làng Chăm và tháp Pô Klong Garai, Pô Rômê.",
+          "description": "Lễ hội quan trọng của cộng đồng Chăm Bàlamôn, có nghi lễ rước y trang, cúng tháp, sinh hoạt văn hóa và hoạt động cộng đồng.",
+          "sourceIds": [
+            "src-194",
+            "src-195"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "timeAndLocation": "Các làng Chăm và tháp Chăm; lịch thường theo lịch Chăm, cần xác minh từng năm.",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        },
+        {
+          "id": "le-hoi-cau-ngu-khanh-hoa",
+          "name": "Lễ hội cầu ngư",
+          "originArea": "Các làng biển Khánh Hòa cũ.",
+          "description": "Nghi lễ cộng đồng của ngư dân cầu mong mùa biển thuận lợi, bình an; nội dung và thời điểm khác nhau theo làng.",
+          "sourceIds": [
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "timeAndLocation": "Tại đình/lăng cá Ông của từng làng biển; lịch theo lệ làng.",
+          "originUnitIds": [
+            "khanh-hoa"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-cham",
+          "name": "Trang phục truyền thống Chăm",
+          "originArea": "Các cộng đồng Chăm ở khu vực Ninh Thuận cũ.",
+          "description": "Trang phục có khác biệt theo cộng đồng, giới, tôn giáo và dịp sử dụng; không dùng một bộ trang phục để đại diện cho tất cả người Chăm.",
+          "sourceIds": [
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "sinh-hoat-lang-cham",
+          "name": "Sinh hoạt làng Chăm",
+          "originArea": "Ninh Thuận cũ – Bàu Trúc, Mỹ Nghiệp và các làng Chăm.",
+          "description": "Sinh hoạt làng gắn với thiết chế cộng đồng, chức sắc, Ban phong tục, nghề gốm, dệt và các lễ nghi theo hệ thống tín ngưỡng của từng nhóm Chăm.",
+          "sourceIds": [
+            "src-194",
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "thap-cham-khanh-hoa-ninh-thuan",
+          "name": "Không gian tháp Chăm và làng Chăm",
+          "originArea": "Khánh Hòa cũ và Ninh Thuận cũ.",
+          "description": "Các cụm tháp, làng nghề và làng cư trú tạo thành mạng lưới không gian văn hóa Chăm; mỗi tháp gắn với lịch sử và nghi lễ cụ thể.",
+          "sourceIds": [
+            "src-191",
+            "src-195"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "khanh-hoa",
+            "ninh-thuan"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tin-nguong-cham-ba-la-mon",
+          "name": "Tín ngưỡng Chăm Bàlamôn",
+          "originArea": "Ninh Thuận cũ – các làng Chăm Bàlamôn.",
+          "description": "Hệ thống thờ các thần, tổ tiên và nghi lễ tại tháp gắn với cộng đồng Chăm Bàlamôn; không đánh đồng với thực hành của Chăm Bàni hoặc các cộng đồng khác.",
+          "sourceIds": [
+            "src-194",
+            "src-191"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "nghe-gom-cham-bau-truc",
+          "name": "Nghề làm gốm của người Chăm",
+          "originArea": "Ninh Thuận cũ – làng Bàu Trúc.",
+          "description": "Nghề làm gốm được thực hành bằng kỹ thuật thủ công truyền thống, tạo hình không bàn xoay và nung ngoài trời; UNESCO ghi danh năm 2022 vào Danh sách cần bảo vệ khẩn cấp.",
+          "sourceIds": [
+            "src-193"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        },
+        {
+          "id": "khu-du-tru-sinh-quyen-nui-chua",
+          "name": "Khu dự trữ sinh quyển Núi Chúa",
+          "originArea": "Ninh Thuận cũ.",
+          "description": "Không gian bảo tồn biển – rừng – bán hoang mạc được UNESCO công nhận năm 2021.",
+          "sourceIds": [
+            "src-192"
+          ],
+          "currentProvinceId": "khanh-hoa",
+          "originUnitIds": [
+            "ninh-thuan"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "nghe-lam-gom-cham-bau-truc",
+        "name": "Nghề làm gốm Chăm Bàu Trúc",
+        "category": "Nghề thủ công; mỹ thuật truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Nghề làm gốm Chăm Bàu Trúc – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Chăm tại Bàu Trúc, Ninh Thuận cũ.",
+        "origin": "Tri thức nghề truyền thống do cộng đồng Chăm trao truyền qua các thế hệ, nổi bật với kỹ thuật tạo hình không dùng bàn xoay.",
+        "originArea": "Cộng đồng Chăm tại Bàu Trúc, Ninh Thuận cũ.",
+        "currentProvinceId": "khanh-hoa",
+        "characteristics": "Nặn tạo hình bằng tay, dùng dụng cụ đơn giản để tạo vân và hoa văn; nung theo phương thức truyền thống.",
+        "instrumentsOrPerformance": "Nghệ nhân di chuyển quanh sản phẩm khi tạo hình; sau đó phơi và nung ngoài trời.",
+        "culturalValue": "Thể hiện tri thức vật liệu, kỹ thuật và bản sắc thủ công của cộng đồng Chăm.",
+        "recognition": "UNESCO ghi danh năm 2022 vào Danh sách di sản cần bảo vệ khẩn cấp.",
+        "sourceIds": [
+          "src-193"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "det-tho-cam-cham-my-nghiep",
+        "name": "Dệt thổ cẩm Chăm Mỹ Nghiệp",
+        "category": "Nghề dệt; mỹ thuật truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Dệt thổ cẩm Chăm Mỹ Nghiệp – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Chăm ở Mỹ Nghiệp, Ninh Thuận cũ.",
+        "origin": "Nghề dệt truyền thống được duy trì trong cộng đồng Chăm, có kỹ thuật và hoa văn gắn với đời sống, nghi lễ.",
+        "originArea": "Cộng đồng Chăm ở Mỹ Nghiệp, Ninh Thuận cũ.",
+        "currentProvinceId": "khanh-hoa",
+        "characteristics": "Dệt bằng khung truyền thống, phối sợi và hoa văn; kỹ thuật khác nhau theo dòng sản phẩm.",
+        "instrumentsOrPerformance": "Sử dụng khung dệt và các thao tác thủ công để tạo vải, khăn và sản phẩm trang trí.",
+        "culturalValue": "Bảo tồn tri thức dệt và biểu đạt mỹ thuật của cộng đồng.",
+        "recognition": "Chưa xác minh ghi danh UNESCO riêng cho nghề dệt Mỹ Nghiệp.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "ninh-thuan"
+        ]
+      },
+      {
+        "id": "ho-ba-trao-khanh-hoa",
+        "name": "Hò bá trạo",
+        "category": "Diễn xướng dân gian; tín ngưỡng biển",
+        "image": {
+          "file": null,
+          "alt": "Hò bá trạo – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Các cộng đồng ngư dân ven biển Khánh Hòa.",
+        "origin": "Hình thức diễn xướng dân gian gắn với lễ cầu ngư và tín ngưỡng thờ cá Ông ở một số làng biển.",
+        "originArea": "Các cộng đồng ngư dân ven biển Khánh Hòa.",
+        "currentProvinceId": "khanh-hoa",
+        "characteristics": "Lời hò, động tác mô phỏng chèo thuyền và nghi lễ; cách thức tùy làng.",
+        "instrumentsOrPerformance": "Đội bá trạo trình diễn theo nhịp hò và động tác chèo; được thực hành trong một số lễ hội cầu ngư.",
+        "culturalValue": "Kết nối nghệ thuật diễn xướng với nghi lễ và bản sắc ngư dân.",
+        "recognition": "Tình trạng ghi danh cần đối chiếu danh mục di sản phi vật thể cấp quốc gia theo từng địa phương.",
+        "sourceIds": [
+          "src-191"
+        ],
+        "originUnitIds": [
+          "khanh-hoa"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Tỉnh mới hình thành từ toàn bộ Khánh Hòa cũ và Ninh Thuận cũ, chính thức hoạt động từ 01/07/2025.",
+      "Diện tích 8.555,86 km², dân số hơn 2,24 triệu và 65 đơn vị cấp xã (48 xã, 16 phường, 1 đặc khu) theo nguồn chính thức năm 2025; dân số được ghi dạng 2.243.554 theo quy mô dân số hồ sơ sắp xếp, không phải điều tra dân số cuối năm 2026.",
+      "Trung tâm hành chính đặt tại Nha Trang; mã tỉnh 56; biển số 79 và 85 theo các đơn vị tiền thân.",
+      "Nghề gốm Chăm được UNESCO ghi danh năm 2022 vào Danh sách cần bảo vệ khẩn cấp; Khu dự trữ sinh quyển Núi Chúa được UNESCO công nhận năm 2021.",
+      "Địa chỉ cấp xã sau sắp xếp của một số di tích Ninh Thuận cũ, ảnh, tọa độ và thông tin tham quan cần kiểm tra lại trước khi phát hành.",
+      "Mô tả ranh giới các tỉnh giáp ranh được để trống chờ đối chiếu bản đồ địa giới số chính thức; không suy diễn từ ranh giới các đơn vị tiền thân."
+    ],
+    "sourceIds": [
+      "src-189",
+      "src-190",
+      "src-191",
+      "src-192",
+      "src-193",
+      "src-194",
+      "src-195",
+      "src-166",
+      "src-165",
+      "src-167",
+      "src-196"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "khanh-hoa",
+      "name": "Khánh Hòa"
+    },
+    {
+      "id": "ninh-thuan",
+      "name": "Ninh Thuận"
+    }
+  ]
+}

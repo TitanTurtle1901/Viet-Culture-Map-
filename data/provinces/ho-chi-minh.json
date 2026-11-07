@@ -1,0 +1,726 @@
+{
+  "id": "ho-chi-minh",
+  "name": "Thành phố Hồ Chí Minh",
+  "administrativeType": "Thành phố trực thuộc trung ương",
+  "region": "Đông Nam Bộ",
+  "summary": {
+    "image": {
+      "file": null,
+      "alt": "Thành phố Hồ Chí Minh – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "sourceId": null,
+      "permissionStatus": "unverified"
+    },
+    "shortIntroduction": "TP.HCM mới nối không gian Sài Gòn – Chợ Lớn, Bình Dương làng nghề và vùng biển đảo Bà Rịa – Vũng Tàu.",
+    "featuredDestinationIds": [
+      "dinh-doc-lap",
+      "dia-dao-cu-chi"
+    ],
+    "featuredSpecialtyIds": [
+      "com-tam-sai-gon",
+      "mang-cut-lai-thieu"
+    ]
+  },
+  "detail": {
+    "overview": {
+      "officialName": "Thành phố Hồ Chí Minh",
+      "administrativeCode": "79",
+      "administrativeCenter": null,
+      "vehiclePlateCodes": [
+        "41",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "61",
+        "72"
+      ],
+      "areaKm2": 6772.59,
+      "areaYear": 2025,
+      "population": {
+        "value": 14002598,
+        "year": 2025,
+        "unit": "người"
+      },
+      "geographicLocation": "Ở Đông Nam Bộ, gồm không gian đô thị TP.HCM cũ, vùng công nghiệp – làng nghề Bình Dương cũ và vùng biển đảo Bà Rịa – Vũng Tàu cũ.",
+      "boundaries": [
+        "Tỉnh Đồng Nai",
+        "Tỉnh Tây Ninh",
+        "Biển Đông"
+      ],
+      "naturalFeatures": "Tự nhiên đa dạng từ đô thị – sông Sài Gòn, sông Đồng Nai, vùng vườn cây ăn trái, rừng ngập mặn Cần Giờ đến bờ biển và quần đảo Côn Đảo.",
+      "climate": "Khí hậu nhiệt đới gió mùa cận xích đạo, hai mùa mưa – khô tương đối rõ; vùng biển đảo chịu điều kiện gió biển và mùa mưa bão.",
+      "history": "TP.HCM mới hình thành từ TP.HCM, Bình Dương và Bà Rịa – Vũng Tàu cũ theo Nghị quyết 202/2025/QH15; chính quyền mới hoạt động từ 01/07/2025. Lịch sử vùng bao gồm đô thị Sài Gòn – Chợ Lớn, trung tâm công nghiệp Thủ Dầu Một và không gian cảng biển – dầu khí Vũng Tàu, Côn Đảo.",
+      "description": "Thành phố mới bao trùm đô thị trung tâm, làng nghề và vườn cây công nghiệp, cùng vùng biển đảo. Hồ sơ giữ nguồn gốc từng điểm đến và thực hành văn hóa theo ba địa bàn tiền thân, tránh đồng nhất chúng thành một không gian duy nhất.",
+      "sourceIds": [
+        "src-305",
+        "src-306",
+        "src-307",
+        "src-317",
+        "src-318",
+        "src-319",
+        "src-320"
+      ]
+    },
+    "destinations": [
+      {
+        "id": "dinh-doc-lap",
+        "name": "Di tích lịch sử Dinh Độc Lập",
+        "category": "Di tích lịch sử; kiến trúc hiện đại",
+        "originArea": "TP. Hồ Chí Minh cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Di tích lịch sử Dinh Độc Lập – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Bến Thành, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Công trình kiến trúc và địa điểm lịch sử gắn với sự kiện ngày 30/04/1975.",
+        "fullDescription": "Dinh Độc Lập là nơi làm việc của chính quyền Việt Nam Cộng hòa trước năm 1975 và gắn với sự kiện kết thúc chiến tranh ngày 30/04/1975. Công trình hiện là di tích lịch sử và điểm tham quan có tổ chức.",
+        "highlights": [
+          "Kiến trúc dinh; phòng khánh tiết; tầng hầm; khu trưng bày."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử hiện đại, kiến trúc và giáo dục.",
+        "recognition": "Di tích lịch sử quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ho-chi-minh"
+        ]
+      },
+      {
+        "id": "dia-dao-cu-chi",
+        "name": "Địa đạo Củ Chi",
+        "category": "Di tích lịch sử; hệ thống địa đạo",
+        "originArea": "TP. Hồ Chí Minh cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Địa đạo Củ Chi – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Củ Chi, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Hệ thống đường hầm và công trình ngầm gắn với chiến tranh ở vùng ven Sài Gòn.",
+        "fullDescription": "Địa đạo Củ Chi phản ánh hệ thống phòng thủ, hậu cần và sinh hoạt trong chiến tranh; cần trình bày trong bối cảnh lịch sử, không tách khỏi điều kiện chiến tranh và trải nghiệm dân cư.",
+        "highlights": [
+          "Đường hầm; hầm trú ẩn; bếp Hoàng Cầm; không gian trưng bày."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử quân sự và ký ức cộng đồng.",
+        "recognition": "Di tích lịch sử quốc gia đặc biệt; hồ sơ đề cử di sản thế giới đang được cơ quan chuyên môn nghiên cứu theo nguồn 2025.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ho-chi-minh"
+        ]
+      },
+      {
+        "id": "can-gio-mangrove",
+        "name": "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ",
+        "category": "Khu dự trữ sinh quyển; hệ sinh thái đất ngập nước",
+        "originArea": "TP. Hồ Chí Minh cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Khu vực Cần Giờ, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Hệ sinh thái rừng ngập mặn, sông rạch, bãi bồi và vùng cửa biển.",
+        "fullDescription": "Cần Giờ có giá trị bảo tồn rừng ngập mặn, thủy sinh và sinh kế cư dân ven biển; hoạt động tham quan cần tuân thủ quy định bảo vệ rừng và khu dự trữ sinh quyển.",
+        "highlights": [
+          "Rừng ngập mặn; khu căn cứ Rừng Sác; bến phà và tuyến sinh thái."
+        ],
+        "historicalCulturalValue": "Giá trị sinh thái, đa dạng sinh học và lịch sử kháng chiến.",
+        "recognition": "Khu dự trữ sinh quyển thế giới UNESCO năm 2000.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-308",
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ho-chi-minh"
+        ]
+      },
+      {
+        "id": "nha-tu-con-dao",
+        "name": "Nhà tù Côn Đảo",
+        "category": "Di tích lịch sử; hệ thống nhà tù",
+        "originArea": "Bà Rịa – Vũng Tàu cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Nhà tù Côn Đảo – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Côn Đảo, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Hệ thống nhà tù thuộc địa và nhà tù thời chiến trên quần đảo Côn Đảo.",
+        "fullDescription": "Nhà tù Côn Đảo là hệ thống di tích gắn với lịch sử tù chính trị và phong trào đấu tranh; được bảo tồn và giới thiệu qua các điểm như trại Phú Hải, chuồng cọp và nghĩa trang Hàng Dương.",
+        "highlights": [
+          "Trại giam; chuồng cọp; nghĩa trang Hàng Dương; bảo tàng."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử, tưởng niệm và giáo dục.",
+        "recognition": "Di tích quốc gia đặc biệt.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ba-ria-vung-tau"
+        ]
+      },
+      {
+        "id": "bach-dinh-vung-tau",
+        "name": "Bạch Dinh",
+        "category": "Di tích kiến trúc; bảo tàng",
+        "originArea": "Bà Rịa – Vũng Tàu cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Bạch Dinh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Vũng Tàu, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Công trình kiến trúc thời Pháp thuộc trên sườn núi ven biển Vũng Tàu.",
+        "fullDescription": "Bạch Dinh là công trình kiến trúc lịch sử, từng được sử dụng làm nơi nghỉ dưỡng và hiện là điểm tham quan – trưng bày. Thông tin bộ sưu tập và hiện vật cần theo hồ sơ bảo tàng.",
+        "highlights": [
+          "Kiến trúc biệt thự; cảnh quan núi; hiện vật trưng bày."
+        ],
+        "historicalCulturalValue": "Giá trị lịch sử đô thị, kiến trúc và bảo tàng.",
+        "recognition": "Di tích lịch sử – văn hóa cấp quốc gia theo hồ sơ địa phương; đối chiếu quyết định xếp hạng trước phát hành.",
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ba-ria-vung-tau"
+        ]
+      },
+      {
+        "id": "chua-ba-thien-hau-thu-dau-mot",
+        "name": "Chùa Bà Thiên Hậu Thủ Dầu Một",
+        "category": "Di tích tín ngưỡng; kiến trúc cộng đồng Hoa",
+        "originArea": "Bình Dương cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Chùa Bà Thiên Hậu Thủ Dầu Một – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Phường Thủ Dầu Một, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Cơ sở tín ngưỡng của cộng đồng người Hoa, gắn với lễ hội vía Bà và sinh hoạt cộng đồng.",
+        "fullDescription": "Chùa Bà Thiên Hậu là địa điểm tín ngưỡng nổi bật ở khu vực Thủ Dầu Một; lễ hội thu hút người dân và du khách, nhưng cần phân biệt truyền thống cộng đồng với các hoạt động du lịch hiện đại.",
+        "highlights": [
+          "Chính điện; tượng thờ; nghi lễ vía Bà; lễ rước kiệu."
+        ],
+        "historicalCulturalValue": "Giá trị tín ngưỡng, kiến trúc và giao lưu cộng đồng Hoa – Việt.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-319"
+        ],
+        "originUnitIds": [
+          "binh-duong"
+        ]
+      },
+      {
+        "id": "nha-lon-long-son",
+        "name": "Nhà Lớn Long Sơn",
+        "category": "Di tích kiến trúc – tín ngưỡng",
+        "originArea": "Bà Rịa – Vũng Tàu cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Nhà Lớn Long Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "location": "Đặc khu Long Sơn, Thành phố Hồ Chí Minh.",
+        "coordinates": null,
+        "shortDescription": "Quần thể kiến trúc gỗ gắn với tín ngưỡng Ông Trần và cộng đồng địa phương trên đảo Long Sơn.",
+        "fullDescription": "Nhà Lớn Long Sơn do cộng đồng tín ngưỡng xây dựng và gìn giữ, là không gian thờ tự, sinh hoạt và tiếp đãi khách; cần tôn trọng quy tắc ứng xử của cơ sở tín ngưỡng khi tham quan.",
+        "highlights": [
+          "Nhà thờ; nhà hội; khu sinh hoạt cộng đồng; lễ hội."
+        ],
+        "historicalCulturalValue": "Giá trị kiến trúc dân gian, tín ngưỡng và cộng đồng.",
+        "recognition": null,
+        "visitorInformation": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ba-ria-vung-tau"
+        ]
+      }
+    ],
+    "specialties": [
+      {
+        "id": "com-tam-sai-gon",
+        "name": "Cơm tấm Sài Gòn",
+        "category": "Món ăn; ẩm thực đô thị",
+        "originArea": "TP. Hồ Chí Minh cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Cơm tấm Sài Gòn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Cơm tấm Sài Gòn gắn với TP. Hồ Chí Minh cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Cơm tấm",
+          "Sườn nướng",
+          "Bì, chả, trứng",
+          "Nước mắm và đồ chua."
+        ],
+        "preparation": "Gạo tấm nấu cơm, ăn với sườn nướng và các món kèm; cách chế biến, nước mắm và khẩu phần khác nhau giữa quán.",
+        "characteristics": "Hạt cơm tấm rời, thơm; món ăn thường kết hợp vị mặn ngọt và đồ chua.",
+        "culturalContext": "Gắn với lịch sử ẩm thực đô thị Sài Gòn và đời sống hàng quán.",
+        "recognition": "Món ăn đặc trưng đô thị; không phải chứng nhận địa lý.",
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ho-chi-minh"
+        ]
+      },
+      {
+        "id": "hu-tieu-nam-vang-sai-gon",
+        "name": "Hủ tiếu Nam Vang và hủ tiếu Sài Gòn",
+        "category": "Món ăn; ẩm thực giao thoa",
+        "originArea": "TP. Hồ Chí Minh cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Hủ tiếu Nam Vang và hủ tiếu Sài Gòn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Hủ tiếu Nam Vang và hủ tiếu Sài Gòn gắn với TP. Hồ Chí Minh cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Sợi hủ tiếu",
+          "Thịt heo, tôm",
+          "Gan, trứng cút và rau tùy phiên bản."
+        ],
+        "preparation": "Sợi trụng, dùng với nước lèo hoặc ăn khô; topping tùy quán và dòng hủ tiếu.",
+        "characteristics": "Có nhiều biến thể, phản ánh giao thoa ẩm thực Hoa – Khmer – Việt; không quy một nguồn gốc duy nhất cho toàn bộ các phiên bản.",
+        "culturalContext": "Món ăn phố thị phổ biến ở Nam Bộ, đặc biệt trong mạng lưới hàng quán TP.HCM.",
+        "recognition": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ho-chi-minh"
+        ]
+      },
+      {
+        "id": "banh-khot-vung-tau",
+        "name": "Bánh khọt Vũng Tàu",
+        "category": "Món ăn; ẩm thực ven biển",
+        "originArea": "Bà Rịa – Vũng Tàu cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Bánh khọt Vũng Tàu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Bánh khọt Vũng Tàu gắn với Bà Rịa – Vũng Tàu cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Bột gạo",
+          "Tôm",
+          "Nước cốt dừa tùy công thức",
+          "Rau sống và nước chấm."
+        ],
+        "preparation": "Bột được đổ vào khuôn nhỏ, thêm tôm và chiên/nướng đến khi viền giòn.",
+        "characteristics": "Bánh nhỏ, mặt bánh có tôm, ăn cùng rau sống và nước chấm.",
+        "culturalContext": "Gắn với ẩm thực ven biển Vũng Tàu; có biến thể tại nhiều nơi.",
+        "recognition": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ba-ria-vung-tau"
+        ]
+      },
+      {
+        "id": "goi-ca-trich-con-dao",
+        "name": "Gỏi cá trích Côn Đảo",
+        "category": "Món ăn; ẩm thực biển đảo",
+        "originArea": "Bà Rịa – Vũng Tàu cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Gỏi cá trích Côn Đảo – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Gỏi cá trích Côn Đảo gắn với Bà Rịa – Vũng Tàu cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Cá trích tươi",
+          "Rau thơm",
+          "Dừa hoặc hành, gia vị tùy phiên bản."
+        ],
+        "preparation": "Cá được sơ chế, trộn cùng gia vị và rau; yêu cầu vệ sinh, xử lý cá sống phải bảo đảm an toàn thực phẩm.",
+        "characteristics": "Vị tươi của cá kết hợp rau và nước chấm; cách làm thay đổi theo cơ sở.",
+        "culturalContext": "Gắn với nguồn lợi biển và ẩm thực cộng đồng đảo.",
+        "recognition": null,
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ba-ria-vung-tau"
+        ]
+      },
+      {
+        "id": "mang-cut-lai-thieu",
+        "name": "Măng cụt Lái Thiêu",
+        "category": "Trái cây; nông sản",
+        "originArea": "Bình Dương cũ.",
+        "currentProvinceId": "ho-chi-minh",
+        "image": {
+          "file": null,
+          "alt": "Măng cụt Lái Thiêu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "origin": "Măng cụt Lái Thiêu gắn với Bình Dương cũ.; không khẳng định độc quyền khi chưa có căn cứ.",
+        "ingredients": [
+          "Quả măng cụt."
+        ],
+        "preparation": "Thu hoạch, phân loại và bảo quản quả tươi; thời vụ phụ thuộc điều kiện canh tác.",
+        "characteristics": "Vỏ tím, múi trắng, vị ngọt dịu; đặc tính chịu ảnh hưởng giống và độ chín.",
+        "culturalContext": "Gắn với vùng vườn cây ăn trái Lái Thiêu và văn hóa miệt vườn Bình Dương.",
+        "recognition": "Có hồ sơ bảo hộ/nhãn hiệu cần đối chiếu từng văn bằng và vùng sản xuất trước khi gán chỉ dẫn địa lý.",
+        "sourceIds": [
+          "src-319"
+        ],
+        "originUnitIds": [
+          "binh-duong"
+        ]
+      }
+    ],
+    "culture": {
+      "communities": [
+        {
+          "id": "cong-dong-hoa-cho-lon",
+          "name": "Cộng đồng người Hoa",
+          "originArea": "Khu vực Chợ Lớn, TP.HCM cũ và các địa bàn đô thị.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Cộng đồng Hoa có tổ chức hội quán, cơ sở tín ngưỡng, nghề thủ công và ẩm thực; thực hành khác nhau theo nhóm ngôn ngữ và lịch sử di cư.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "originUnitIds": [
+            "ho-chi-minh"
+          ]
+        },
+        {
+          "id": "cong-dong-cho-ro-stieng",
+          "name": "Cộng đồng Chơ-ro và S’tiêng",
+          "originArea": "Vùng Bình Dương cũ, Bà Rịa – Vũng Tàu cũ và khu vực rừng miền Đông.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Các cộng đồng có thực hành tiếng nói, nghi lễ, âm nhạc và tri thức rừng; cần xác định đúng nhóm và địa bàn từng hồ sơ.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "originUnitIds": [
+            "binh-duong",
+            "ba-ria-vung-tau"
+          ]
+        },
+        {
+          "id": "cong-dong-kinh-do-thi",
+          "name": "Cộng đồng Kinh đô thị và ven biển",
+          "originArea": "Ba không gian tiền thân TP.HCM, Bình Dương và Bà Rịa – Vũng Tàu.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Đời sống đô thị, công nghiệp, làng nghề, nghề biển, nông nghiệp ven đô và di dân tạo nên cấu trúc văn hóa đa dạng.",
+          "sourceIds": [
+            "src-317"
+          ],
+          "originUnitIds": [
+            "ho-chi-minh",
+            "binh-duong",
+            "ba-ria-vung-tau"
+          ]
+        }
+      ],
+      "customs": [
+        {
+          "id": "le-via-ba-thien-hau",
+          "name": "Lễ vía Bà Thiên Hậu",
+          "originArea": "Cộng đồng Hoa tại Thủ Dầu Một, Chợ Lớn và các địa bàn khác.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Nghi lễ tưởng niệm Thiên Hậu Thánh Mẫu, có rước kiệu và sinh hoạt cộng đồng; thời điểm, nghi thức cụ thể theo từng hội quán.",
+          "sourceIds": [
+            "src-319"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "festivals": [
+        {
+          "id": "le-hoi-nghinh-ong-can-gio",
+          "name": "Lễ hội Nghinh Ông Cần Giờ",
+          "originArea": "Cần Giờ, TP.HCM cũ.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Lễ hội ngư dân gắn với tín ngưỡng thờ cá Ông và cầu an cho nghề biển; các hoạt động theo ban tổ chức địa phương.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "timeAndLocation": "Cần Giờ; lịch theo chương trình địa phương hằng năm.",
+          "originUnitIds": [
+            "ho-chi-minh"
+          ]
+        },
+        {
+          "id": "le-hoi-nghinh-ong-thang-tam",
+          "name": "Lễ hội Nghinh Ông Thắng Tam",
+          "originArea": "Vũng Tàu, Bà Rịa – Vũng Tàu cũ.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Lễ hội dân gian ven biển tưởng niệm cá Ông, có nghi thức rước và hoạt động cộng đồng.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "timeAndLocation": "Khu vực đình Thắng Tam, Vũng Tàu; thời điểm theo lịch tổ chức hằng năm.",
+          "originUnitIds": [
+            "ba-ria-vung-tau"
+          ]
+        },
+        {
+          "id": "le-hoi-via-ba-thien-hau-thu-dau-mot",
+          "name": "Lễ hội vía Bà Thiên Hậu Thủ Dầu Một",
+          "originArea": "Thủ Dầu Một, Bình Dương cũ.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Lễ hội của cộng đồng Hoa, nổi bật với nghi thức rước kiệu và hoạt động tín ngưỡng; không đồng nhất với mọi lễ vía Bà tại các địa phương.",
+          "sourceIds": [
+            "src-319"
+          ],
+          "timeAndLocation": "Thủ Dầu Một; lịch âm và chương trình của ban tổ chức.",
+          "originUnitIds": [
+            "binh-duong"
+          ]
+        }
+      ],
+      "traditionalCostumes": [
+        {
+          "id": "trang-phuc-cho-ro",
+          "name": "Trang phục truyền thống Chơ-ro",
+          "originArea": "Các cộng đồng Chơ-ro ở vùng miền Đông.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Trang phục và hoa văn truyền thống có sự thay đổi theo thế hệ, dịp thực hành và cộng đồng; cần dùng tư liệu của chủ thể di sản.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "communityLife": [
+        {
+          "id": "cho-lon-hoi-quan",
+          "name": "Không gian hội quán và phố nghề Chợ Lớn",
+          "originArea": "Chợ Lớn, TP.HCM cũ.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Hội quán, miếu, chợ và phố nghề tạo nên không gian sinh hoạt cộng đồng của người Hoa; cấu trúc gắn với mạng lưới bang hội và tín ngưỡng.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "originUnitIds": [
+            "ho-chi-minh"
+          ]
+        }
+      ],
+      "architectureAndLivingSpaces": [
+        {
+          "id": "kien-truc-do-thi-sai-gon",
+          "name": "Kiến trúc đô thị Sài Gòn – Chợ Lớn",
+          "originArea": "TP.HCM cũ.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Kiến trúc kết hợp công trình thuộc địa, nhà phố, chợ, công trình tôn giáo và kiến trúc hiện đại; cần phân loại theo thời kỳ và loại hình.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "originUnitIds": [
+            "ho-chi-minh"
+          ]
+        }
+      ],
+      "beliefsAndPractices": [
+        {
+          "id": "tho-cao-dai-tphcm",
+          "name": "Thực hành tín ngưỡng Cao Đài tại khu vực phía Nam thành phố",
+          "originArea": "Một số địa bàn TP.HCM mới và vùng lân cận.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Các cơ sở Cao Đài có truyền thống và hệ phái riêng; nội dung giới thiệu cần trung lập, phân biệt tổ chức, thực hành và địa bàn.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "originUnitIds": []
+        }
+      ],
+      "culturalHeritage": [
+        {
+          "id": "don-ca-tai-tu-nam-bo",
+          "name": "Đờn ca tài tử Nam Bộ",
+          "originArea": "Ba vùng tiền thân: TP.HCM, Bình Dương và Bà Rịa – Vũng Tàu.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Loại hình âm nhạc thính phòng dân gian Nam Bộ với nhạc cụ dây, bài bản và lối ngẫu hứng; nghệ nhân thực hành trong gia đình, câu lạc bộ và sinh hoạt cộng đồng.",
+          "sourceIds": [
+            "src-309",
+            "src-319"
+          ],
+          "recognition": "UNESCO ghi danh năm 2013; di sản của Nam Bộ, không phải riêng TP.HCM.",
+          "originUnitIds": [
+            "ho-chi-minh",
+            "binh-duong",
+            "ba-ria-vung-tau"
+          ]
+        },
+        {
+          "id": "di-san-con-dao",
+          "name": "Hệ thống di tích lịch sử Côn Đảo",
+          "originArea": "Đặc khu Côn Đảo, Bà Rịa – Vũng Tàu cũ.",
+          "currentProvinceId": "ho-chi-minh",
+          "description": "Không gian di tích lịch sử cách mạng và tưởng niệm; cần bảo tồn hồ sơ từng trại giam, nghĩa trang và công trình.",
+          "sourceIds": [
+            "src-320"
+          ],
+          "recognition": "Nhiều thành phần được xếp hạng di tích quốc gia đặc biệt; cần đối chiếu danh mục và quyết định riêng từng điểm.",
+          "originUnitIds": [
+            "ba-ria-vung-tau"
+          ]
+        }
+      ]
+    },
+    "arts": [
+      {
+        "id": "don-ca-tai-tu",
+        "name": "Đờn ca tài tử Nam Bộ",
+        "category": "Âm nhạc truyền thống",
+        "image": {
+          "file": null,
+          "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Nam Bộ, có cộng đồng thực hành tại TP.HCM mới và ba vùng tiền thân.",
+        "origin": null,
+        "originArea": "Nam Bộ, có cộng đồng thực hành tại TP.HCM mới và ba vùng tiền thân.",
+        "currentProvinceId": "ho-chi-minh",
+        "characteristics": "Nhạc cụ dây và gõ, hệ thống bài bản, ngẫu hứng và kỹ thuật hòa đàn; không gian thực hành có thể là gia đình, câu lạc bộ hoặc sân khấu.",
+        "instrumentsOrPerformance": "Người chơi đàn và ca tham gia theo bài bản và điệu thức, có biến hóa trong khuôn khổ truyền thống.",
+        "culturalValue": "Giá trị thẩm mỹ, ký ức cộng đồng và truyền dạy âm nhạc Nam Bộ.",
+        "recognition": "UNESCO ghi danh năm 2013.",
+        "sourceIds": [
+          "src-309",
+          "src-319"
+        ],
+        "originUnitIds": []
+      },
+      {
+        "id": "cai-luong-nam-bo",
+        "name": "Cải lương Nam Bộ",
+        "category": "Sân khấu; nghệ thuật biểu diễn",
+        "image": {
+          "file": null,
+          "alt": "Cải lương Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "TP.HCM cũ và các vùng Nam Bộ.",
+        "origin": null,
+        "originArea": "TP.HCM cũ và các vùng Nam Bộ.",
+        "currentProvinceId": "ho-chi-minh",
+        "characteristics": "Kết hợp ca nhạc tài tử, diễn xuất, thoại, dàn nhạc và kỹ thuật sân khấu hiện đại.",
+        "instrumentsOrPerformance": "Biểu diễn theo vở tuồng, có dàn nhạc và vai diễn; repertory có thể là lịch sử, xã hội hoặc chuyển thể văn học.",
+        "culturalValue": "Giữ vai trò quan trọng trong đời sống sân khấu Nam Bộ và lịch sử văn hóa đại chúng.",
+        "recognition": "Nghệ thuật sân khấu truyền thống; trạng thái ghi danh từng hồ sơ cần kiểm tra riêng.",
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": [
+          "ho-chi-minh"
+        ]
+      },
+      {
+        "id": "mua-bong-roi-cho-ro",
+        "name": "Múa và diễn xướng truyền thống Chơ-ro",
+        "category": "Dân vũ; diễn xướng cộng đồng",
+        "image": {
+          "file": null,
+          "alt": "Múa và diễn xướng truyền thống Chơ-ro – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "sourceId": null,
+          "permissionStatus": "unverified"
+        },
+        "communityOrArea": "Cộng đồng Chơ-ro tại vùng miền Đông.",
+        "origin": null,
+        "originArea": "Cộng đồng Chơ-ro tại vùng miền Đông.",
+        "currentProvinceId": "ho-chi-minh",
+        "characteristics": "Nhạc cụ, động tác múa và lời ca gắn với lễ tục và sinh hoạt cộng đồng; biến thể theo địa bàn.",
+        "instrumentsOrPerformance": "Thực hành trong lễ hội, sinh hoạt cộng đồng và các dịp truyền dạy.",
+        "culturalValue": "Bảo tồn tri thức bản địa và sự tiếp nối thế hệ.",
+        "recognition": "Cần đối chiếu hồ sơ di sản phi vật thể cụ thể trước khi ghi danh hiệu.",
+        "sourceIds": [
+          "src-320"
+        ],
+        "originUnitIds": []
+      }
+    ]
+  },
+  "metadata": {
+    "asOfDate": "2026-11-05",
+    "lastVerified": "2026-11-05",
+    "researchStatus": "needs_review",
+    "isSample": false,
+    "notes": [
+      "Diện tích 6.772,59 km² và quy mô dân số 14.002.598 là số liệu theo Nghị quyết 202/2025/QH15; không phải số dân điều tra năm 2026."
+    ],
+    "sourceIds": [
+      "src-305",
+      "src-306",
+      "src-307",
+      "src-317",
+      "src-318",
+      "src-320",
+      "src-319"
+    ],
+    "derivedFields": [
+      "formerUnits: bảng đơn vị tiền thân theo Nghị quyết 202/2025/QH15, nhập bằng tay trong tools/build_data.py",
+      "originUnitIds: suy ra tự động từ chuỗi originArea (khớp tên không dấu); chưa được rà soát thủ công"
+    ]
+  },
+  "formerUnits": [
+    {
+      "id": "ho-chi-minh",
+      "name": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "id": "binh-duong",
+      "name": "Bình Dương"
+    },
+    {
+      "id": "ba-ria-vung-tau",
+      "name": "Bà Rịa – Vũng Tàu"
+    }
+  ]
+}

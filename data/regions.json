@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "1.0.0",
+  "rule": "Quy tắc phân vùng của dự án Viet Culture Map (biên tập, KHÔNG phải phân loại hành chính chính thức): mỗi đơn vị cấp tỉnh thuộc đúng một trong ba miền Bắc/Trung/Nam, xếp theo vị trí của trụ sở và phần lớn lãnh thổ. Trường 'region' trong hồ sơ từng tỉnh giữ nguyên phân vùng địa lý – kinh tế của bộ dữ liệu gốc.",
+  "regions": [
+    {
+      "id": "bac",
+      "label": "Miền Bắc",
+      "description": "Từ biên giới phía Bắc đến vùng đồng bằng sông Hồng: núi cao Tây Bắc – Đông Bắc, châu thổ Bắc Bộ, văn hóa Kinh Bắc, Hạ Long và nhiều cộng đồng dân tộc thiểu số.",
+      "provinceIds": [
+        "ha-noi",
+        "hai-phong",
+        "quang-ninh",
+        "bac-ninh",
+        "hung-yen",
+        "ninh-binh",
+        "phu-tho",
+        "thai-nguyen",
+        "tuyen-quang",
+        "lao-cai",
+        "lang-son",
+        "cao-bang",
+        "dien-bien",
+        "lai-chau",
+        "son-la"
+      ]
+    },
+    {
+      "id": "trung",
+      "label": "Miền Trung",
+      "description": "Dải đất từ Thanh Hóa đến Khánh Hòa và Tây Nguyên: kinh đô Huế, phố cổ Hội An, biển miền Trung, cao nguyên và không gian cồng chiêng.",
+      "provinceIds": [
+        "thanh-hoa",
+        "nghe-an",
+        "ha-tinh",
+        "quang-tri",
+        "hue",
+        "da-nang",
+        "quang-ngai",
+        "gia-lai",
+        "dak-lak",
+        "khanh-hoa",
+        "lam-dong"
+      ]
+    },
+    {
+      "id": "nam",
+      "label": "Miền Nam",
+      "description": "Đông Nam Bộ và đồng bằng sông Cửu Long: đô thị sôi động, sông nước miệt vườn, ẩm thực phong phú và văn hóa Kinh – Khmer – Hoa – Chăm.",
+      "provinceIds": [
+        "dong-nai",
+        "ho-chi-minh",
+        "tay-ninh",
+        "vinh-long",
+        "dong-thap",
+        "an-giang",
+        "can-tho",
+        "ca-mau"
+      ]
+    }
+  ],
+  "featuredProvinceIds": [
+    "ha-noi",
+    "hue",
+    "da-nang",
+    "ho-chi-minh",
+    "ninh-binh",
+    "quang-ninh",
+    "lao-cai",
+    "lam-dong"
+  ],
+  "featuredRule": "Danh sách biên tập: 8 địa phương đại diện cho nhiều vùng và nhiều loại hình di sản; không phải xếp hạng."
+}
