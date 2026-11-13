@@ -13,6 +13,16 @@
   var NS = 'http://www.w3.org/2000/svg';
   var MAX_ZOOM = 6;
   var SHOW_DELAY = 70, HIDE_DELAY = 220;
+  var ISLAND_INFO = {
+    'hoang-sa': {
+      name: 'Quần đảo Hoàng Sa',
+      description: 'Quần đảo ở Biển Đông, gồm các đảo, đá, bãi cạn và rạn san hô. Vị trí trên bản đồ được trình bày trong khung phụ.'
+    },
+    'truong-sa': {
+      name: 'Quần đảo Trường Sa',
+      description: 'Quần đảo ở Biển Đông, gồm nhiều đảo, đá, bãi cạn và rạn san hô. Vị trí trên bản đồ được trình bày trong khung phụ.'
+    }
+  };
 
   var ctx = null, svgEl = null, $svg = null, vb0 = null, view = null;
   var activeId = null, popupId = null, pinned = false;
@@ -52,10 +62,20 @@
     var found = {};
     $svg.find('.province').each(function () {
       var id = $(this).attr('data-province-id');
+      var islandId = $(this).attr('data-island-id');
       var u = ctx.byId[id];
       if (!u) { console.error('[map] SVG có id không có trong dữ liệu:', id); return; }
       found[id] = true;
-      $(this).addClass('region-' + u.macro).attr({ tabindex: 0, role: 'link', 'aria-label': u.name + ' – xem thông tin' });
+      $(this).addClass('region-' + u.macro).attr({
+        tabindex: islandId ? -1 : 0,
+        role: islandId ? 'button' : 'link',
+        'aria-label': islandId && ISLAND_INFO[islandId] ? ISLAND_INFO[islandId].name + ' – xem thông tin' : u.name + ' – xem thông tin'
+      });
+    });
+    $svg.find('.province-hit').each(function () {
+      var island = ISLAND_INFO[$(this).attr('data-island-id')];
+      if (!island) { return; }
+      $(this).attr({ tabindex: 0, role: 'button', 'aria-label': island.name + ' – xem thông tin' });
     });
     ctx.units.forEach(function (u) { if (!found[u.id]) { console.error('[map] Thiếu địa phương trên SVG:', u.id); } });
 
@@ -95,6 +115,16 @@
 
   /* ---------- Popup thông tin nhanh ---------- */
   function popupHtml(u) {
+    if (typeof u === 'string') {
+      var island = ISLAND_INFO[u];
+      return '' +
+        '<div class="relative">' +
+          '<button type="button" class="popup-close" aria-label="Đóng thông tin">&times;</button></div>' +
+        '<div class="p-4">' +
+          '<h3 class="font-display text-lg font-bold text-deep-700 leading-snug pr-8">' + esc(island.name) + '</h3>' +
+          '<p class="text-sm text-gray-700 mt-2">' + esc(island.description) + '</p>' +
+        '</div>';
+    }
     var s = u.summary;
     var dests = s.featuredDestinations.slice(0, 2).map(function (x) { return esc(x.name); }).join(', ');
     var specs = s.featuredSpecialties.slice(0, 2).map(function (x) { return esc(x.name); }).join(', ');
@@ -126,12 +156,13 @@
   }
 
   function showPopup(id, x, y, isPinned) {
-    var u = ctx.byId[id];
+    var islandId = id.indexOf('island:') === 0 ? id.slice(7) : null;
+    var u = islandId ? ISLAND_INFO[islandId] : ctx.byId[id];
     if (!u) { return; }
     var $p = $('#province-popup');
     clearTimeout(hideTimer);
     if (popupId !== id) {
-      $p.html(popupHtml(u));
+      $p.html(popupHtml(islandId || u));
       U.hydrateSilhouettes($p);
     }
     popupId = id;
@@ -139,7 +170,8 @@
     $p.toggleClass('is-pinned', pinned).attr('aria-hidden', 'false');
     placePopup($p, x, y);
     $p.addClass('is-visible');
-    setActive(id);
+    if (islandId) { clearActive(); }
+    else { setActive(id); }
   }
 
   function hidePopup() {
@@ -157,6 +189,10 @@
   }
 
   function provinceIdOf(el) { return $(el).attr('data-province-id'); }
+  function popupIdOf(el) {
+    var islandId = $(el).attr('data-island-id');
+    return islandId ? 'island:' + islandId : provinceIdOf(el);
+  }
 
   /* ---------- Sự kiện bản đồ ---------- */
   function bindMapEvents() {
@@ -208,7 +244,7 @@
     // HOVER (chuột) – cấp độ 1
     $(document).on('mouseenter', SEL, function (e) {
       if (lastPointer === 'touch' || moved) { return; }
-      var id = provinceIdOf(this), x = e.clientX, y = e.clientY;
+      var id = popupIdOf(this), x = e.clientX, y = e.clientY;
       clearTimeout(hideTimer); clearTimeout(showTimer);
       if (popupId === id) { return; }
       showTimer = setTimeout(function () { showPopup(id, x, y, false); }, SHOW_DELAY);
@@ -221,8 +257,8 @@
     // CLICK – cấp độ 2 (chuột: sang trang chi tiết; cảm ứng: mở popup có nút “Xem chi tiết”)
     $(document).on('click', SEL, function (e) {
       if (suppressClick) { e.preventDefault(); return; }
-      var id = provinceIdOf(this);
-      if (lastPointer === 'touch') {
+      var id = popupIdOf(this);
+      if (lastPointer === 'touch' || id.indexOf('island:') === 0) {
         showPopup(id, e.clientX, e.clientY, true);
         return;
       }
@@ -230,13 +266,22 @@
     });
 
     // Bàn phím
-    $(document).on('focus', '#map-container .province', function () {
+    $(document).on('focus', '#map-container .province, #map-container .province-hit', function () {
       var r = this.getBoundingClientRect();
-      showPopup(provinceIdOf(this), r.left + r.width / 2, r.top + r.height / 2, false);
+      showPopup(popupIdOf(this), r.left + r.width / 2, r.top + r.height / 2, false);
     });
-    $(document).on('blur', '#map-container .province', function () { scheduleHide(); });
-    $(document).on('keydown', '#map-container .province', function (e) {
-      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); global.location.href = D.detailUrl(provinceIdOf(this)); }
+    $(document).on('blur', '#map-container .province, #map-container .province-hit', function () { scheduleHide(); });
+    $(document).on('keydown', '#map-container .province, #map-container .province-hit', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        var id = popupIdOf(this);
+        if (id.indexOf('island:') === 0) {
+          var r = this.getBoundingClientRect();
+          showPopup(id, r.left + r.width / 2, r.top + r.height / 2, true);
+        } else {
+          global.location.href = D.detailUrl(id);
+        }
+      }
       if (e.key === 'Escape') { hidePopup(); }
     });
     $(document).on('keydown', function (e) { if (e.key === 'Escape' && popupId) { hidePopup(); } });

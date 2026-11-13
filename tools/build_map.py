@@ -80,6 +80,14 @@ def poly_path(poly, fx, tol):
 def dot_path(cx, cy, r=0.9):
     return f"M{cx - r:g},{cy:g}a{r:g},{r:g} 0 1,0 {2 * r:g},0a{r:g},{r:g} 0 1,0 {-2 * r:g},0Z"
 
+def star_path(cx, cy, outer=12, inner=5):
+    pts = []
+    for i in range(10):
+        radius = outer if i % 2 == 0 else inner
+        angle = math.radians(-90 + i * 36)
+        pts.append((cx + math.cos(angle) * radius, cy + math.sin(angle) * radius))
+    return "M" + "L".join(f"{x:.1f},{y:.1f}" for x, y in pts) + "Z"
+
 data = json.load(open(SRC, encoding="utf-8"))
 feats = data["features"]
 
@@ -174,7 +182,7 @@ def esc(s): return s.replace("&", "&amp;").replace('"', "&quot;")
 out = []
 out.append(f'<svg xmlns="http://www.w3.org/2000/svg" id="vietnam-map" viewBox="0 0 {VB_W} {VB_H}" role="group" aria-labelledby="map-title map-desc">')
 out.append('<title id="map-title">Bản đồ hành chính Việt Nam – 34 đơn vị cấp tỉnh</title>')
-out.append('<desc id="map-desc">Ranh giới 34 tỉnh/thành phố từ GeoJSON của Free-GIS-Data (nguyenduy1133), đã làm mịn đường biên. Hoàng Sa và Trường Sa nằm trong khung phụ, không theo vị trí và tỷ lệ thật.</desc>')
+out.append('<desc id="map-desc">Ranh giới 34 tỉnh/thành phố từ GeoJSON của Free-GIS-Data (nguyenduy1133), đã làm mịn đường biên. Dấu sao chỉ vị trí thủ đô Hà Nội. Hoàng Sa và Trường Sa nằm trong khung phụ, không theo vị trí và tỷ lệ thật.</desc>')
 out.append('<g id="provinces">')
 for pid, _ in sorted(items, key=lambda t: t[0]):
     if paths_main[pid]:
@@ -183,14 +191,17 @@ out.append('</g>')
 out.append('<g id="insets">')
 out.append(f'<rect class="inset-frame" x="{par_x0:.1f}" y="{par_y0:.1f}" width="{par_x1 - par_x0:.1f}" height="{par_y1 - par_y0:.1f}" rx="4" fill="none"/>')
 out.append(f'<rect class="inset-frame" x="{spr_x0:.1f}" y="{spr_y0:.1f}" width="{spr_w:.1f}" height="{spr_h:.1f}" rx="4" fill="none"/>')
-out.append(f'<text class="inset-label" x="{par_x0 + 4:.1f}" y="{par_y0 + 10:.1f}">Quần đảo Hoàng Sa (Đà Nẵng)</text>')
-out.append(f'<text class="inset-label" x="{spr_x0 + 4:.1f}" y="{spr_y0 + 10:.1f}">Quần đảo Trường Sa (Khánh Hòa)</text>')
+out.append(f'<text class="inset-label" x="{par_x0 + 4:.1f}" y="{par_y0 + 10:.1f}">Quần đảo Hoàng Sa</text>')
+out.append(f'<text class="inset-label" x="{spr_x0 + 4:.1f}" y="{spr_y0 + 10:.1f}">Quần đảo Trường Sa</text>')
 for pid in ("da-nang", "khanh-hoa"):
     d = paths_inset[pid]
-    out.append(f'<path id="province-{pid}-islands" class="province province-islands" data-province-id="{pid}" d="{d}"/>')
+    island_id = "hoang-sa" if pid == "da-nang" else "truong-sa"
+    out.append(f'<path id="province-{pid}-islands" class="province province-islands" data-province-id="{pid}" data-island-id="{island_id}" d="{d}"/>')
 # vùng bấm trong suốt phủ khung phụ để dễ chạm
-out.append(f'<rect class="province-hit" data-province-id="da-nang" x="{par_x0:.1f}" y="{par_y0:.1f}" width="{par_x1 - par_x0:.1f}" height="{par_y1 - par_y0:.1f}" fill="transparent"/>')
-out.append(f'<rect class="province-hit" data-province-id="khanh-hoa" x="{spr_x0:.1f}" y="{spr_y0:.1f}" width="{spr_w:.1f}" height="{spr_h:.1f}" fill="transparent"/>')
+out.append(f'<rect class="province-hit" data-province-id="da-nang" data-island-id="hoang-sa" x="{par_x0:.1f}" y="{par_y0:.1f}" width="{par_x1 - par_x0:.1f}" height="{par_y1 - par_y0:.1f}" fill="transparent"/>')
+out.append(f'<rect class="province-hit" data-province-id="khanh-hoa" data-island-id="truong-sa" x="{spr_x0:.1f}" y="{spr_y0:.1f}" width="{spr_w:.1f}" height="{spr_h:.1f}" fill="transparent"/>')
+capital_x, capital_y = px(105.8342, 21.0278)
+out.append(f'<path class="capital-star" aria-label="Thủ đô Hà Nội" d="{star_path(capital_x, capital_y)}"/>')
 out.append('</g>')
 out.append('<g id="labels" aria-hidden="true">')
 for pid, _ in sorted(items, key=lambda t: t[0]):
@@ -218,8 +229,13 @@ _pw = (_maxx - _minx) * K * S
 _ph = (_maxy - _miny) * S
 def _fx(x, y): return ((x - _minx) * K * S, (_maxy - y) * S)
 _d = "".join(ring_path(list(g.exterior.coords), _fx) for g in polys(_u))
-_icon = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 {_pw + 8:.0f} {_ph + 8:.0f}">'
-         f'<title>Hình dạng lãnh thổ Việt Nam (đã làm mịn mạnh)</title><path d="{_d}" fill="#2f6a3f" stroke="#c4902c" stroke-width="5" stroke-linejoin="round"/></svg>')
+capital_x, capital_y = px(105.8342, 21.0278)
+_icon = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 {VB_W + 8} {VB_H + 8}">'
+         f'<title>Hình dạng lãnh thổ Việt Nam (đã làm mịn mạnh)</title>'
+         f'<path d="{_d}" fill="#2f6a3f" stroke="#c4902c" stroke-width="5" stroke-linejoin="round"/>'
+         f'<path id="silhouette-hoang-sa" d="{paths_inset["da-nang"]}" fill="#2f6a3f" stroke="#c4902c" stroke-width="5" stroke-linejoin="round"/>'
+         f'<path id="silhouette-truong-sa" d="{paths_inset["khanh-hoa"]}" fill="#2f6a3f" stroke="#c4902c" stroke-width="5" stroke-linejoin="round"/>'
+         f'<path id="silhouette-capital-star" d="{star_path(capital_x, capital_y, outer=18, inner=7.5)}" fill="#c4902c" stroke="#143a4b" stroke-width="3" stroke-linejoin="round"/></svg>')
 import os as _os
 _icon_path = _os.path.join(_os.path.dirname(OUT), "..", "icons", "vietnam-silhouette.svg")
 _os.makedirs(_os.path.dirname(_icon_path), exist_ok=True)
