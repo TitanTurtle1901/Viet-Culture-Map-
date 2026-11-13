@@ -74,10 +74,11 @@ body { background: var(--cream); color: var(--ink); font-family: "Be Vietnam Pro
 #vietnam-map .province.is-dim { opacity: .22; }
 #vietnam-map .province:focus-visible { stroke: var(--deep); stroke-width: 2.5; }
 #vietnam-map .province-hit { fill: transparent; pointer-events: all; }
-#vietnam-map .inset-frame { stroke: #7b8a80; stroke-dasharray: 4 3; stroke-width: 1; vector-effect: non-scaling-stroke; fill: none; pointer-events: none; }
+#vietnam-map .inset-frame { display: none; }
 #vietnam-map .inset-label { font-size: 8.5px; fill: #4a5a50; pointer-events: none; }
 #vietnam-map .capital-star { fill: var(--ochre); stroke: #fff; stroke-width: 1.5; stroke-linejoin: round; vector-effect: non-scaling-stroke; pointer-events: none; }
 #vietnam-map .province-highlight { fill: var(--crimson); fill-opacity: .88; stroke: #5a1616; stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; filter: drop-shadow(0 2px 3px rgba(60, 10, 10, .4)); }
+#vietnam-map .province-label-leader { stroke: #52635a; stroke-width: .7; stroke-opacity: .65; vector-effect: non-scaling-stroke; }
 #vietnam-map .province-label { fill: #17301f; font-weight: 600; text-anchor: middle; dominant-baseline: middle; pointer-events: none; paint-order: stroke; stroke: rgba(255, 255, 255, .85); stroke-width: 2.2px; stroke-linejoin: round; }
 #vietnam-map .province-label.is-hidden { display: none; }
 #vietnam-map .province-label.is-active { fill: #fff; stroke: var(--crimson); stroke-width: 3px; }
@@ -98,18 +99,22 @@ body { background: var(--cream); color: var(--ink); font-family: "Be Vietnam Pro
 
 /* ---------- Popup thông tin nhanh ---------- */
 .province-popup {
-  position: fixed; z-index: 70; width: 292px; max-width: calc(100vw - 24px);
-  background: #fff; border-radius: 1rem; overflow: hidden;
+  position: fixed; z-index: 70; width: 292px; max-width: calc(100vw - 24px); max-height: calc(100vh - 16px);
+  background: #fff; border-radius: 1rem; overflow-x: hidden; overflow-y: auto;
   box-shadow: 0 18px 40px -10px rgba(15, 46, 60, .55), 0 0 0 1px rgba(20, 58, 75, .08);
   opacity: 0; visibility: hidden; transform: translateY(6px) scale(.97);
   transition: opacity .16s ease, transform .16s ease, visibility 0s linear .16s;
 }
 .province-popup.is-visible { opacity: 1; visibility: visible; transform: none; transition-delay: 0s; }
-.province-popup .popup-thumb { height: 6.5rem; }
+.province-popup .popup-thumb { height: 6.5rem; border-radius: 1rem 1rem 0 0; }
+.island-details > div + div { margin-top: .65rem; }
 .popup-close { position: absolute; top: .4rem; right: .4rem; width: 2.25rem; height: 2.25rem; border-radius: 9999px; background: rgba(255, 255, 255, .92); color: var(--deep); display: none; align-items: center; justify-content: center; font-size: 1.25rem; line-height: 1; }
 .province-popup.is-pinned .popup-close { display: flex; }
 @media (max-width: 639px) {
-  .province-popup { left: 12px !important; right: 12px; top: auto !important; bottom: 12px; width: auto; max-width: none; }
+  .province-popup { left: 12px !important; right: 12px; top: auto !important; bottom: 12px; width: auto; max-width: none; max-height: calc(100vh - 24px); font-size: 1rem; line-height: 1.55; }
+  .province-popup .p-4 { padding: 1.25rem; }
+  .province-popup .text-sm { font-size: 1rem; line-height: 1.55; }
+  .province-popup .popup-close { width: 2.75rem; height: 2.75rem; }
 }
 
 /* ---------- Tab ---------- */

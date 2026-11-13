@@ -16,15 +16,40 @@
   var ISLAND_INFO = {
     'hoang-sa': {
       name: 'Quần đảo Hoàng Sa',
-      description: 'Quần đảo ở Biển Đông, gồm các đảo, đá, bãi cạn và rạn san hô. Vị trí trên bản đồ được trình bày trong khung phụ.'
+      description: 'Quần đảo gồm các đảo, đá, bãi cạn và rạn san hô trên Biển Đông.',
+      details: [
+        { label: 'Vị trí', value: 'Phía đông Việt Nam, ngoài khơi miền Trung.' },
+        { label: 'Đơn vị hành chính', value: 'Đặc khu Hoàng Sa, thành phố Đà Nẵng.' },
+        { label: 'Địa hình', value: 'Các nhóm đảo, bãi đá và rạn san hô; những đảo tiêu biểu gồm Phú Lâm, Hoàng Sa, Hữu Nhật, Quang Ảnh và Tri Tôn.' },
+        { label: 'Giá trị văn hóa', value: 'Gắn với lịch sử đội Hoàng Sa và Lễ Khao lề thế lính Hoàng Sa được gìn giữ tại Lý Sơn.' }
+      ]
     },
     'truong-sa': {
       name: 'Quần đảo Trường Sa',
-      description: 'Quần đảo ở Biển Đông, gồm nhiều đảo, đá, bãi cạn và rạn san hô. Vị trí trên bản đồ được trình bày trong khung phụ.'
+      description: 'Quần đảo gồm các đảo, đá, bãi cạn và rạn san hô trên Biển Đông.',
+      details: [
+        { label: 'Vị trí', value: 'Phía nam Biển Đông, ngoài khơi Nam Trung Bộ.' },
+        { label: 'Đơn vị hành chính', value: 'Đặc khu Trường Sa, tỉnh Khánh Hòa.' },
+        { label: 'Địa hình', value: 'Các đảo nổi, bãi đá và rạn san hô phân bố trên vùng biển rộng; những đảo tiêu biểu gồm Trường Sa Lớn, Song Tử Tây, Nam Yết, Sinh Tồn và Sơn Ca.' },
+        { label: 'Đời sống', value: 'Đời sống trên đảo gắn với biển, hoạt động của cư dân và nhiệm vụ bảo vệ chủ quyền biển đảo.' }
+      ]
     }
+  };
+  var ALWAYS_VISIBLE_PROVINCES = {
+    'ha-noi': true,
+    'hai-phong': true,
+    'hue': true,
+    'da-nang': true,
+    'ho-chi-minh': true,
+    'can-tho': true
+  };
+  var CITY_LABEL_OFFSETS = {
+    'ha-noi': { x: -5, y: -8 },
+    'hai-phong': { x: 5, y: 8 }
   };
 
   var ctx = null, svgEl = null, $svg = null, vb0 = null, view = null;
+  var labelLeaderLayer = null;
   var activeId = null, popupId = null, pinned = false;
   var showTimer = null, hideTimer = null, popupHovered = false;
   var lastPointer = 'mouse';                 // 'mouse' | 'touch' | 'pen'
@@ -54,6 +79,10 @@
     $('#map-container').html(svgText);
     $svg = $('#vietnam-map');
     svgEl = $svg[0];
+    var mapDescription = svgEl.querySelector('#map-desc');
+    if (mapDescription) {
+      mapDescription.textContent = 'Ranh giới 34 tỉnh/thành phố từ GeoJSON của Free-GIS-Data (nguyenduy1133), đã làm mịn đường biên. Tên sáu thành phố trực thuộc Trung ương luôn hiển thị; tên tỉnh khác xuất hiện khi được trỏ hoặc chọn. Dấu sao chỉ vị trí thủ đô Hà Nội. Hoàng Sa và Trường Sa được thể hiện riêng, không theo vị trí và tỷ lệ thật.';
+    }
     var p = svgEl.getAttribute('viewBox').split(/\s+/).map(Number);
     vb0 = { x: p[0], y: p[1], w: p[2], h: p[3] };
     view = $.extend({}, vb0);
@@ -84,6 +113,11 @@
     layer.setAttribute('id', 'highlight-layer');
     layer.setAttribute('pointer-events', 'none');
     svgEl.insertBefore(layer, svgEl.querySelector('#labels'));
+
+    labelLeaderLayer = document.createElementNS(NS, 'g');
+    labelLeaderLayer.setAttribute('id', 'label-leaders');
+    labelLeaderLayer.setAttribute('pointer-events', 'none');
+    svgEl.insertBefore(labelLeaderLayer, svgEl.querySelector('#labels'));
 
     updateLabels();
   }
@@ -123,6 +157,11 @@
         '<div class="p-4">' +
           '<h3 class="font-display text-lg font-bold text-deep-700 leading-snug pr-8">' + esc(island.name) + '</h3>' +
           '<p class="text-sm text-gray-700 mt-2">' + esc(island.description) + '</p>' +
+          '<dl class="island-details text-sm mt-3">' +
+            island.details.map(function (item) {
+              return '<div><dt class="font-semibold text-forest-700">' + esc(item.label) + '</dt><dd class="text-gray-700 mt-0.5">' + esc(item.value) + '</dd></div>';
+            }).join('') +
+          '</dl>' +
         '</div>';
     }
     var s = u.summary;
@@ -349,17 +388,30 @@
     setView({ x: cx - (cx - view.x) * s, y: cy - (cy - view.y) * s, w: w, h: view.h * s });
   }
 
-  /** Cỡ chữ cố định ~9px trên màn hình; số nhãn hiển thị tăng theo mức zoom và bề rộng bản đồ */
+  /** Luôn hiện tên các thành phố trực thuộc trung ương; hiện tên tỉnh khi đang chọn. */
   function updateLabels() {
     if (!svgEl) { return; }
     var m = svgEl.getScreenCTM ? svgEl.getScreenCTM() : null;
     var a = m ? m.a : 0.7;
-    var width = svgEl.getBoundingClientRect().width || 360;
-    var n = Math.max(5, Math.min(34, Math.round(6 * zoomLevel() * (width / 360))));
     $svg.find('#labels').css('font-size', (9 / a) + 'px');
+    labelLeaderLayer.textContent = '';
     $svg.find('.province-label').each(function () {
-      var rank = +this.getAttribute('data-rank');
-      this.classList.toggle('is-hidden', rank > n && !this.classList.contains('is-active'));
+      var id = this.getAttribute('data-for');
+      var offset = CITY_LABEL_OFFSETS[id];
+      var isVisible = ALWAYS_VISIBLE_PROVINCES[id] || this.classList.contains('is-active');
+      this.classList.toggle('is-hidden', !isVisible);
+      this.setAttribute('dx', offset ? (offset.x / a).toFixed(2) : '0');
+      this.setAttribute('dy', offset ? (offset.y / a).toFixed(2) : '0');
+
+      if (offset && isVisible) {
+        var line = document.createElementNS(NS, 'line');
+        line.setAttribute('class', 'province-label-leader');
+        line.setAttribute('x1', this.getAttribute('x'));
+        line.setAttribute('y1', this.getAttribute('y'));
+        line.setAttribute('x2', (+this.getAttribute('x') + offset.x / a).toFixed(2));
+        line.setAttribute('y2', (+this.getAttribute('y') + offset.y / a).toFixed(2));
+        labelLeaderLayer.appendChild(line);
+      }
     });
   }
 

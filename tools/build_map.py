@@ -127,7 +127,6 @@ def fx_spratly(x, y):
             by + (SPR_MAXLAT - y) * S * SPRATLY_SCALE)
 
 paths_main, paths_inset, label_pts = {}, {}, {}
-areas = {}
 for pid, f in items:
     geom = shape(f["geometry"])
     main_d, inset_d = [], []
@@ -154,16 +153,12 @@ for pid, f in items:
     big = max(mainland, key=lambda p: p.area)
     rp = big.representative_point()
     label_pts[pid] = px(rp.x, rp.y)
-    areas[pid] = sum(p.area for p in mainland)
-
-# Hạng theo diện tích (1 = lớn nhất) để JS quyết định nhãn nào hiện ở mức zoom thấp
-rank = {pid: r + 1 for r, (pid, _) in enumerate(sorted(areas.items(), key=lambda kv: -kv[1]))}
 
 # --- Kích thước viewBox ---
 VB_W = round((111.5 - LON0) * K * S)
 VB_H = round((LAT0 - 8.0) * S)
 
-# Khung phụ
+# Vị trí hiển thị riêng cho các quần đảo (không theo tỷ lệ thực)
 par_x0, par_y0 = px(109.0 - 0.2, 17.35)
 par_x1, par_y1 = px(110.9 + 0.2, 15.45)
 spr_x0, spr_y0 = px(SPRATLY_ORIGIN[0] - 0.25, SPRATLY_ORIGIN[1] + 0.25)
@@ -182,22 +177,20 @@ def esc(s): return s.replace("&", "&amp;").replace('"', "&quot;")
 out = []
 out.append(f'<svg xmlns="http://www.w3.org/2000/svg" id="vietnam-map" viewBox="0 0 {VB_W} {VB_H}" role="group" aria-labelledby="map-title map-desc">')
 out.append('<title id="map-title">Bản đồ hành chính Việt Nam – 34 đơn vị cấp tỉnh</title>')
-out.append('<desc id="map-desc">Ranh giới 34 tỉnh/thành phố từ GeoJSON của Free-GIS-Data (nguyenduy1133), đã làm mịn đường biên. Dấu sao chỉ vị trí thủ đô Hà Nội. Hoàng Sa và Trường Sa nằm trong khung phụ, không theo vị trí và tỷ lệ thật.</desc>')
+out.append('<desc id="map-desc">Ranh giới 34 tỉnh/thành phố từ GeoJSON của Free-GIS-Data (nguyenduy1133), đã làm mịn đường biên. Tên sáu thành phố trực thuộc Trung ương luôn hiển thị; tên tỉnh khác xuất hiện khi được trỏ hoặc chọn. Dấu sao chỉ vị trí thủ đô Hà Nội. Hoàng Sa và Trường Sa được thể hiện riêng, không theo vị trí và tỷ lệ thật.</desc>')
 out.append('<g id="provinces">')
 for pid, _ in sorted(items, key=lambda t: t[0]):
     if paths_main[pid]:
         out.append(f'<path id="province-{pid}" class="province" data-province-id="{pid}" d="{paths_main[pid]}"/>')
 out.append('</g>')
-out.append('<g id="insets">')
-out.append(f'<rect class="inset-frame" x="{par_x0:.1f}" y="{par_y0:.1f}" width="{par_x1 - par_x0:.1f}" height="{par_y1 - par_y0:.1f}" rx="4" fill="none"/>')
-out.append(f'<rect class="inset-frame" x="{spr_x0:.1f}" y="{spr_y0:.1f}" width="{spr_w:.1f}" height="{spr_h:.1f}" rx="4" fill="none"/>')
+out.append('<g id="islands">')
 out.append(f'<text class="inset-label" x="{par_x0 + 4:.1f}" y="{par_y0 + 10:.1f}">Quần đảo Hoàng Sa</text>')
 out.append(f'<text class="inset-label" x="{spr_x0 + 4:.1f}" y="{spr_y0 + 10:.1f}">Quần đảo Trường Sa</text>')
 for pid in ("da-nang", "khanh-hoa"):
     d = paths_inset[pid]
     island_id = "hoang-sa" if pid == "da-nang" else "truong-sa"
     out.append(f'<path id="province-{pid}-islands" class="province province-islands" data-province-id="{pid}" data-island-id="{island_id}" d="{d}"/>')
-# vùng bấm trong suốt phủ khung phụ để dễ chạm
+# Vùng bấm trong suốt bao quanh hình quần đảo để dễ chạm
 out.append(f'<rect class="province-hit" data-province-id="da-nang" data-island-id="hoang-sa" x="{par_x0:.1f}" y="{par_y0:.1f}" width="{par_x1 - par_x0:.1f}" height="{par_y1 - par_y0:.1f}" fill="transparent"/>')
 out.append(f'<rect class="province-hit" data-province-id="khanh-hoa" data-island-id="truong-sa" x="{spr_x0:.1f}" y="{spr_y0:.1f}" width="{spr_w:.1f}" height="{spr_h:.1f}" fill="transparent"/>')
 capital_x, capital_y = px(105.8342, 21.0278)
@@ -206,7 +199,7 @@ out.append('</g>')
 out.append('<g id="labels" aria-hidden="true">')
 for pid, _ in sorted(items, key=lambda t: t[0]):
     x, y = label_pts[pid]
-    out.append(f'<text class="province-label" data-for="{pid}" data-rank="{rank[pid]}" x="{x:.1f}" y="{y:.1f}">{esc(NAMES[pid])}</text>')
+    out.append(f'<text class="province-label" data-for="{pid}" x="{x:.1f}" y="{y:.1f}">{esc(NAMES[pid])}</text>')
 out.append('</g>')
 out.append('</svg>')
 
