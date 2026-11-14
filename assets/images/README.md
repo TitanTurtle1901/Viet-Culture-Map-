@@ -3,7 +3,7 @@
 Structure: `img/<Province>/<category>/`
 
 Each locality has four folders:
-- `province`: province cover / representative image
+- `province`: province cover / representative image; used as the detail-page background when its path is set in `summary.image.file`
 - `destinations`: landmarks, attractions and destinations
 - `culture`: festivals, arts, traditions, costumes and cultural heritage
 - `specialties`: local dishes, ingredients and regional specialties

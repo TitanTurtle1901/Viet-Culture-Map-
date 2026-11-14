@@ -5,8 +5,8 @@
   "region": "Duyên hải Nam Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Vịnh biển Nha Trang và tháp Chăm Khánh Hòa – ảnh đại diện chưa xác minh giấy phép.",
+      "file":"assets/images/Khánh Hòa/province/backgroundKhanhhoa.jpg" ,
+      "alt": "Vịnh biển Nha Trang và tháp Chăm Khánh Hòa ",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -61,8 +61,8 @@
         "originArea": "Khánh Hòa cũ – Nha Trang.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Vịnh Nha Trang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Khánh Hòa/destinations/vinh-nha-trang.jpg",
+          "alt": "Vịnh Nha Trang ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -89,8 +89,8 @@
         "originArea": "Khánh Hòa cũ – Nha Trang.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Tháp Bà Pô Nagar – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Khánh Hòa/destinations/thap-ba-ponagar.jpg",
+          "alt": "Tháp Bà Pô Nagar ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -116,8 +116,8 @@
         "originArea": "Ninh Thuận cũ – Phan Rang.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Tháp Pô Klong Garai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Ninh Thuận/destinations/thap-po-klong-garai.jpg",
+          "alt": "Tháp Pô Klong Garai",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -145,8 +145,8 @@
         "originArea": "Ninh Thuận cũ – vùng Bắc Phan Rang.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Tháp Hòa Lai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Ninh Thuận/destinations/thap-hoa-lai.jpg",
+          "alt": "Tháp Hòa Lai ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -172,8 +172,8 @@
         "originArea": "Ninh Thuận cũ – vùng Ninh Hải.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Vườn quốc gia Núi Chúa và vịnh Vĩnh Hy – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Ninh Thuận/destinations/vuon-quoc-gia-nui-chua.jpg",
+          "alt": "Vườn quốc gia Núi Chúa và vịnh Vĩnh Hy ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -200,8 +200,8 @@
         "originArea": "Ninh Thuận cũ – làng Bàu Trúc, Phước Dân.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Làng gốm Chăm Bàu Trúc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Ninh Thuận/destinations/lang-gom-bau-truc.jpg",
+          "alt": "Làng gốm Chăm Bàu Trúc",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -228,8 +228,8 @@
         "originArea": "Ninh Thuận cũ – vùng Phước Dân.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Làng dệt thổ cẩm Chăm Mỹ Nghiệp – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Ninh Thuận/destinations/lang-det-tho-cam.jpg",
+          "alt": "Làng dệt thổ cẩm Chăm Mỹ Nghiệp ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -257,8 +257,8 @@
         "originArea": "Khánh Hòa cũ – các đảo yến và vùng ven biển.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Yến sào Khánh Hòa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Khánh Hòa/specialties/yen-sao-khanh-hoa.jpg",
+          "alt": "Yến sào Khánh Hòa ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -284,8 +284,8 @@
         "originArea": "Khánh Hòa cũ – Ninh Hòa.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Nem Ninh Hòa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Khánh Hòa/specialties/nem-Ninh-hoa.jpg",
+          "alt": "Nem Ninh Hòa ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -313,8 +313,8 @@
         "originArea": "Khánh Hòa cũ – Nha Trang.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Bún cá Nha Trang – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Khánh Hòa/specialties/bun-ca-Nha-Trang.jpg",
+          "alt": "Bún cá Nha Trang ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -342,8 +342,8 @@
         "originArea": "Ninh Thuận cũ – các vùng trồng nho Phan Rang, Ninh Hải và phụ cận.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Nho Ninh Thuận – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Ninh Thuận/specialties/nho-Ninh-Thuan.jpg",
+          "alt": "Nho Ninh Thuận ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -363,18 +363,18 @@
         ]
       },
       {
-        "id": "tao-ninh-thuan",
-        "name": "Táo Ninh Thuận",
+        "id": "tao-xanh-ninh-thuan",
+        "name": "Táo xanh Ninh Thuận",
         "category": "Nông sản; trái cây",
         "originArea": "Ninh Thuận cũ – các vùng trồng táo vùng Phan Rang.",
         "currentProvinceId": "khanh-hoa",
         "image": {
-          "file": null,
-          "alt": "Táo Ninh Thuận – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file":"assets/images/Ninh Thuận/specialties/tao-xanh-Ninh-Thuan.jpg",
+          "alt": "Táo xanh Ninh Thuận ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
-        "origin": "Táo Ninh Thuận gắn với Ninh Thuận cũ – các vùng trồng táo vùng Phan Rang.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
+        "origin": "Táo xanh Ninh Thuận gắn với Ninh Thuận cũ – các vùng trồng táo vùng Phan Rang.. Tư liệu hiện có chưa đủ để khẳng định sản phẩm chỉ xuất hiện tại một địa phương.",
         "ingredients": [
           "Táo địa phương."
         ],
@@ -395,7 +395,7 @@
         {
           "id": "cong-dong-cham-khanh-hoa",
           "name": "Cộng đồng Chăm",
-          "originArea": "Ninh Thuận cũ – các làng Chăm Bàlamôn và Bàni.",
+          "originArea": "Ninh Thuận cũ – các làng Chăm Bà la môn và Bàn i.",
           "description": "Cộng đồng Chăm duy trì hệ thống nghi lễ, kiến trúc tháp, làng nghề gốm, dệt và ngôn ngữ – nghệ thuật riêng. Chăm Bàlamôn và Chăm Bàni có các thực hành tôn giáo khác nhau, cần phân biệt khi mô tả.",
           "sourceIds": [
             "src-191",
@@ -606,8 +606,8 @@
         "name": "Nghề làm gốm Chăm Bàu Trúc",
         "category": "Nghề thủ công; mỹ thuật truyền thống",
         "image": {
-          "file": null,
-          "alt": "Nghề làm gốm Chăm Bàu Trúc – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Ninh Thuận/culture/lang-gom-bau-truc.jpg",
+          "alt": "Nghề làm gốm Chăm Bàu Trúc ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -631,8 +631,8 @@
         "name": "Dệt thổ cẩm Chăm Mỹ Nghiệp",
         "category": "Nghề dệt; mỹ thuật truyền thống",
         "image": {
-          "file": null,
-          "alt": "Dệt thổ cẩm Chăm Mỹ Nghiệp – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Ninh Thuận/culture/lang-det-tho-cam.jpg",
+          "alt": "Dệt thổ cẩm Chăm Mỹ Nghiệp ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -656,8 +656,8 @@
         "name": "Hò bá trạo",
         "category": "Diễn xướng dân gian; tín ngưỡng biển",
         "image": {
-          "file": null,
-          "alt": "Hò bá trạo – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Khánh Hòa/culture/ho-ba-trao.jpg",
+          "alt": "Hò bá trạo ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },

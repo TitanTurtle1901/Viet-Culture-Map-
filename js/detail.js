@@ -102,7 +102,6 @@
       ? '<p class="mt-3 text-sm text-white/85">Hợp nhất từ: ' + prov.formerUnits.map(function (f) { return '<span class="inline-block bg-white/15 rounded-full px-3 py-0.5 mr-1.5 mb-1">' + esc(f.name) + '</span>'; }).join('') + '</p>' : '';
     var status = prov.metadata && prov.metadata.researchStatus;
     $('#detail-banner').html(
-      '<div class="banner-silhouette" data-silhouette="' + esc(unit.id) + '" aria-hidden="true"></div>' +
       '<div class="relative max-w-7xl mx-auto px-4 sm:px-6 pt-10 pb-12 sm:pb-16">' +
         '<nav aria-label="Breadcrumb" class="text-sm text-white/75 mb-5"><a class="hover:text-ochre-400" href="index.html">Trang chủ</a> <span aria-hidden="true">›</span> ' +
           '<a class="hover:text-ochre-400" href="explore.html">Khám phá</a> <span aria-hidden="true">›</span> <span aria-current="page">' + esc(unit.name) + '</span></nav>' +
@@ -120,7 +119,15 @@
         '</div>' +
       '</div>'
     );
-    U.hydrateSilhouettes($('#detail-banner'));
+    var $banner = $('#detail-banner').attr('data-province-id', unit.id).removeClass('has-province-background');
+    var bannerElement = $banner[0];
+    var imageFile = prov.summary.image && prov.summary.image.file;
+    bannerElement.style.removeProperty('--province-background-image');
+    if (imageFile && imageFile.indexOf('assets/images/') === 0) {
+      var imageUrl = new global.URL(imageFile, global.location.href).href;
+      bannerElement.style.setProperty('--province-background-image', 'url("' + imageUrl + '")');
+      $banner.addClass('has-province-background');
+    }
   }
 
   /* ---------- Tab Tổng quan ---------- */

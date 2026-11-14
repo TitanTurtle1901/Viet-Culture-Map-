@@ -5,8 +5,8 @@
   "region": "Trung du và miền núi phía Bắc",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Ảnh đại diện Tỉnh Cao Bằng; ảnh chưa xác minh giấy phép.",
+      "file": "assets/images/Cao Bằng/province/background_CaoBang.jpg",
+      "alt": "Ảnh đại diện tỉnh Cao Bằng .",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -66,8 +66,8 @@
         "originArea": "Cao Bằng trước sắp xếp năm 2025",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Cao Bằng/destinations/cong_vien_dia_chat.jpg",
+          "alt": "Cảnh quan Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -96,8 +96,8 @@
         "originArea": "Cao Bằng cũ – khu vực Trùng Khánh.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Thác Bản Giốc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Cao Bằng/destinations/Ban-Gioc-Waterfall.jpg",
+          "alt": "Thác Bản Giốc",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -127,8 +127,8 @@
         "originArea": "Cao Bằng cũ – xã Trường Hà, huyện Hà Quảng cũ.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Khu di tích quốc gia đặc biệt Pác Bó – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Cao Bằng/destinations/Pac-Bo-Historical-Site.jpg",
+          "alt": "Khu di tích quốc gia đặc biệt Pác Bó – ảnh do người dùng cung cấp, chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -158,8 +158,8 @@
         "originArea": "Cao Bằng cũ – vùng Trùng Khánh.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Động Ngườm Ngao – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Cao Bằng/destinations/Dong-Nguom-Ngao.jpg",
+          "alt": "Động Ngườm Ngao",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -189,8 +189,8 @@
         "originArea": "Cao Bằng cũ – huyện Nguyên Bình cũ.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Vườn quốc gia Phja Oắc – Phja Đén – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Cao Bằng/destinations/Vuon-Quoc-gia Phja-Oac-Phja-Den.jpg",
+          "alt": "Vườn quốc gia Phja Oắc – Phja Đén",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -219,8 +219,8 @@
         "originArea": "Cao Bằng cũ – huyện Trà Lĩnh cũ.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Hồ Thang Hen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Cao Bằng/destinations/Ho-Thang-Hen.jpg",
+          "alt": "Hồ Thang Hen",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -251,8 +251,8 @@
         "originArea": "Cao Bằng cũ – vùng Trùng Khánh.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Hạt dẻ Trùng Khánh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Cao Bằng/specialties/hat-de-Trung-Khanh.jpg",
+          "alt": "Hạt dẻ Trùng Khánh",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -278,8 +278,8 @@
         "originArea": "Cao Bằng cũ.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Lạp sườn Cao Bằng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Cao Bằng/specialties/lap-suon.jpg",
+          "alt": "Lạp sườn Cao Bằng",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -308,8 +308,8 @@
         "originArea": "Cao Bằng cũ – vùng Phia Đén, Nguyên Bình.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Miến dong Phia Đén – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Cao Bằng/specialties/mien-dong-phjia-den.jpg",
+          "alt": "Miến dong Phia Đén",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -335,8 +335,8 @@
         "originArea": "Cao Bằng cũ.",
         "currentProvinceId": "cao-bang",
         "image": {
-          "file": null,
-          "alt": "Khẩu sli – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Cao Bằng/specialties/khau-sli.jpg",
+          "alt": "Khẩu sli",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -498,8 +498,8 @@
         "name": "Hát Then – đàn tính",
         "category": "Âm nhạc truyền thống; Diễn xướng nghi lễ",
         "image": {
-          "file": null,
-          "alt": "Hát Then – đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Cao Bằng/culture/Then-Singing-and-Tinh-Zither.jpg",
+          "alt": "Hát Then – đàn tính ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },

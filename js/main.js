@@ -26,6 +26,7 @@
 
   /* ---------- Ảnh đại diện / ảnh giữ chỗ ---------- */
   var silhouettes = null; // Promise<{id: {d, vb}}>
+  var mapPreviewIds = { 'da-nang': 1, 'gia-lai': 1, 'son-la': 1, 'khanh-hoa': 1, 'cao-bang': 1, 'lao-cai': 1 };
 
   function loadSilhouettes() {
     if (!silhouettes) {
@@ -51,17 +52,30 @@
     return silhouettes;
   }
 
-  /** Đổ hình dạng địa giới (từ chính dữ liệu bản đồ) vào các phần tử [data-silhouette] */
+  function provinceMapPreview(id, map) {
+    var province = map[id];
+    if (!province) { return ''; }
+    return '<svg viewBox="' + province.vb + '" aria-hidden="true" focusable="false">' +
+      '<path class="map-focus" d="' + province.d + '"/></svg>';
+  }
+
+  /** Đổ mảnh địa giới từ dữ liệu bản đồ vào thumbnail */
   function hydrateSilhouettes($root) {
-    var $targets = $root.find('[data-silhouette]:not([data-hydrated])');
+    var $targets = $root.find('[data-silhouette]:not([data-hydrated]), [data-province-map]:not([data-hydrated])');
     if (!$targets.length) { return; }
     loadSilhouettes().then(function (map) {
       $targets.each(function () {
-        var s = map[this.getAttribute('data-silhouette')];
+        var id = this.getAttribute('data-province-map') || this.getAttribute('data-silhouette');
+        var s = map[id];
         if (!s) { return; }
-        $(this).attr('data-hydrated', '1').html('<svg viewBox="' + s.vb + '" aria-hidden="true"><path d="' + s.d + '"/></svg>');
+        var html = this.hasAttribute('data-province-map')
+          ? provinceMapPreview(id, map)
+          : '<svg viewBox="' + s.vb + '" aria-hidden="true"><path d="' + s.d + '"/></svg>';
+        $(this).attr('data-hydrated', '1').html(html);
       });
-    }).catch(function () { /* bản đồ lỗi: giữ nền màu */ });
+    }).catch(function () {
+      $targets.filter('[data-province-map]').siblings('.thumb-note').text('Không tải được bản đồ địa giới');
+    });
   }
 
   /**
@@ -73,6 +87,11 @@
     var macro = unit.macro || '';
     if (img && img.file) {
       return '<div class="thumb ' + (className || '') + '" data-region="' + macro + '"><img loading="lazy" src="' + esc(img.file) + '" alt="' + esc(img.alt || unit.name) + '"></div>';
+    }
+    if (mapPreviewIds[unit.id]) {
+      return '<div class="thumb province-map-thumb ' + (className || '') + '" data-region="' + macro + '" role="img" aria-label="Mảnh bản đồ địa giới ' + esc(unit.name) + ' sau sáp nhập">' +
+             '<div class="province-map-preview" data-province-map="' + esc(unit.id) + '"></div>' +
+             '<span class="thumb-note">Mảnh bản đồ địa giới</span></div>';
     }
     return '<div class="thumb ' + (className || '') + '" data-region="' + macro + '" role="img" aria-label="Hình dạng địa giới ' + esc(unit.name) + '">' +
            '<div class="silhouette" data-silhouette="' + esc(unit.id) + '"></div>' +

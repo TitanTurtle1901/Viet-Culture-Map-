@@ -5,8 +5,8 @@
   "region": "Tây Bắc",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Tỉnh Lào Cai – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "file": "assets/images/Lào Cai/province/background_LaoCai.jpg",
+      "alt": "Ảnh nền tỉnh Lào Cai ",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -67,8 +67,8 @@
         "originArea": "Lào Cai cũ – khu vực Sa Pa.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Khu du lịch quốc gia Sa Pa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Lào Cai/destinations/Sa-Pa-National-Tourist-Area.jpg",
+          "alt": "Khu du lịch quốc gia Sa Pa",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -95,8 +95,8 @@
         "originArea": "Lào Cai cũ – dãy Hoàng Liên Sơn.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Đỉnh Fansipan – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Lào Cai/destinations/đinh-fansipan.jpg",
+          "alt": "Đỉnh Fansipan",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -122,8 +122,8 @@
         "originArea": "Lào Cai cũ – vùng Bắc Hà.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Không gian du lịch Bắc Hà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Lào Cai/destinations/khong-gian-du-lich-bac-ha.jpg",
+          "alt": "Không gian du lịch Bắc Hà",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -150,8 +150,8 @@
         "originArea": "Lào Cai cũ – vùng Bát Xát.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Y Tý – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Lào Cai/destinations/y-ty.jpg",
+          "alt": "Y Tý ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -177,8 +177,8 @@
         "originArea": "Yên Bái cũ – vùng Mù Cang Chải.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Ruộng bậc thang Mù Cang Chải – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Yên Bái/destinations/ruong-bac-thnag-mu-cang-chai.jpg",
+          "alt": "Ruộng bậc thang Mù Cang Chải",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -205,8 +205,8 @@
         "originArea": "Yên Bái cũ – vùng Nghĩa Lộ.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Cánh đồng Mường Lò – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Yên Bái/destinations/canh-dong-muong-lò.jpg",
+          "alt": "Cánh đồng Mường Lò ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -233,8 +233,8 @@
         "originArea": "Yên Bái cũ – vùng hồ Thác Bà.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Hồ Thác Bà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Yên Bái/destinations/ho-thac-ba.jpg",
+          "alt": "Hồ Thác Bà ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -262,8 +262,8 @@
         "originArea": "Lào Cai cũ – không gian chợ vùng cao Bắc Hà và các cộng đồng miền núi phía Bắc.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Thắng cố vùng Bắc Hà – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Lào Cai/specialties/thang-co-vung-bac-ha.jpg",
+          "alt": "Thắng cố vùng Bắc Hà .",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -290,8 +290,8 @@
         "originArea": "Yên Bái cũ – vùng Tú Lệ, Văn Chấn.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Cốm nếp Tú Lệ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Yên Bái/specialties/com-nep-tu-le.jpg",
+          "alt": "Cốm nếp Tú Lệ.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -317,8 +317,8 @@
         "originArea": "Yên Bái cũ – vùng Tú Lệ.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Gạo nếp Tú Lệ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Yên Bái/specialties/gao-nep-tu-le.jpg",
+          "alt": "Gạo nếp Tú Lệ ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -344,8 +344,8 @@
         "originArea": "Yên Bái cũ – vùng Suối Giàng.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Chè Shan tuyết Suối Giàng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Yên Bái/specialties/che-shan-tuyet-suoi-giang.jpg",
+          "alt": "Chè Shan tuyết Suối Giàng",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -371,8 +371,8 @@
         "originArea": "Lào Cai cũ – các vùng trồng Séng Cù, gồm Mường Khương và một số địa bàn.",
         "currentProvinceId": "lao-cai",
         "image": {
-          "file": null,
-          "alt": "Gạo Séng Cù – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Lào Cai/specialties/gao-seng-cu.jpg",
+          "alt": "Gạo Séng Cù ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -603,8 +603,8 @@
         "name": "Múa Xòe Thái",
         "category": "Múa dân gian; nghệ thuật cộng đồng",
         "image": {
-          "file": null,
-          "alt": "Múa Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Lào Cai/culture/xoe-thai.jpg",
+          "alt": "Múa Xòe Thái",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -626,8 +626,8 @@
         "name": "Hát Then và đàn tính",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": null,
-          "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Lào Cai/culture/hat-then-dan-tinh.jpg",
+          "alt": "Hát Then và đàn tính ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -649,8 +649,8 @@
         "name": "Khèn Mông",
         "category": "Nhạc cụ truyền thống; múa dân gian",
         "image": {
-          "file": null,
-          "alt": "Khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Yên Bái/culture/khen-mong.jpg",
+          "alt": "Khèn Mông",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
