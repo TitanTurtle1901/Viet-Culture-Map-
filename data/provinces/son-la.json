@@ -5,8 +5,8 @@
   "region": "Trung du và miền núi phía Bắc",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Tỉnh Sơn La – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "file": "assets/images/Sơn La/province/backgroundSonla.jpg",
+      "alt": "Tỉnh Sơn La",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -60,8 +60,8 @@
         "originArea": "Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Cao nguyên Mộc Châu – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/cao-nguyen-moc-chau.jpg",
+          "alt": "Cao nguyên Mộc Châu ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -90,8 +90,8 @@
         "originArea": "Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Di tích Nhà tù Sơn La – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/di-tich-nha-tu-son-la.jpg",
+          "alt": "Di tích Nhà tù Sơn La ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -119,8 +119,8 @@
         "originArea": "Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Tà Xùa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/ta-xua.jpg",
+          "alt": "Tà Xùa ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -148,8 +148,8 @@
         "originArea": "Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Vùng du lịch cộng đồng Ngọc Chiến – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/vung-du-lich-cong-dong-Ngoc-Chien.jpg",
+          "alt": "Vùng du lịch cộng đồng Ngọc Chiến ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -178,8 +178,8 @@
         "originArea": "Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Hồ thủy điện Sơn La – vùng lòng hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/ho-thuy-dien-Son-la.jpg",
+          "alt": "Hồ thủy điện Sơn La – vùng lòng hồ ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -207,8 +207,8 @@
         "originArea": "Sơn La và Điện Biên – tuyến đèo liên tỉnh.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Đèo Pha Đin – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/deo-pha-din.jpg",
+          "alt": "Đèo Pha Đin ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -236,8 +236,8 @@
         "originArea": "Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Thung lũng mận Nà Ka – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Sơn La/destinations/thung-lung-man-na-ka.jpg",
+          "alt": "Thung lũng mận Nà Ka ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -268,8 +268,8 @@
         "originArea": "Cộng đồng Thái ở Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Pa pỉnh tộp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/specialties/pa-pinh-top.jpg",
+          "alt": "Pa pỉnh tộp ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -299,8 +299,8 @@
         "originArea": "Mộc Châu, Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Chè Mộc Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/specialties/che-moc-chau.jpg",
+          "alt": "Chè Mộc Châu ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -327,8 +327,8 @@
         "originArea": "Mộc Châu, Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Sữa và sản phẩm sữa Mộc Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/specialties/sua-moc-chau.jpg",
+          "alt": "Sữa và sản phẩm sữa Mộc Châu ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -354,8 +354,8 @@
         "originArea": "Mộc Châu và các vùng trồng mận của Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Mận hậu Sơn La – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/specialties/man-hau.jpg",
+          "alt": "Mận hậu Sơn La ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -381,8 +381,8 @@
         "originArea": "Các cộng đồng Thái và vùng núi Sơn La.",
         "currentProvinceId": "son-la",
         "image": {
-          "file": null,
-          "alt": "Thịt trâu gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/specialties/thit-trau-gac-bep.jpg",
+          "alt": "Thịt trâu gác bếp ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -613,12 +613,12 @@
     },
     "arts": [
       {
-        "id": "xo-thai",
+        "id": "xoe-thai",
         "name": "Nghệ thuật Xòe Thái",
         "category": "Múa dân gian; diễn xướng cộng đồng",
         "image": {
-          "file": null,
-          "alt": "Nghệ thuật Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/culture/xoe_thai.jpg",
+          "alt": "Nghệ thuật Xòe Thái",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -642,8 +642,8 @@
         "name": "Nghệ thuật trình diễn khèn Mông",
         "category": "Âm nhạc; nhạc cụ truyền thống",
         "image": {
-          "file": null,
-          "alt": "Nghệ thuật trình diễn khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Sơn La/culture/khen_mong.jpg",
+          "alt": "Nghệ thuật trình diễn khèn Mông",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -655,31 +655,6 @@
         "instrumentsOrPerformance": "Trình diễn độc tấu hoặc kết hợp múa, có thể xuất hiện trong sinh hoạt, lễ tết và hoạt động cộng đồng.",
         "culturalValue": "Lưu giữ tri thức chế tác, diễn tấu và biểu đạt bản sắc Mông.",
         "recognition": "Có hồ sơ di sản tại cơ sở dữ liệu địa phương; cần tra quyết định ghi danh cụ thể khi công bố cấp.",
-        "sourceIds": [
-          "src-265"
-        ],
-        "originUnitIds": [
-          "son-la"
-        ]
-      },
-      {
-        "id": "khap-thai",
-        "name": "Khắp Thái",
-        "category": "Dân ca; hát truyền thống",
-        "image": {
-          "file": null,
-          "alt": "Khắp Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
-          "sourceId": null,
-          "permissionStatus": "unverified"
-        },
-        "communityOrArea": "Cộng đồng Thái ở Sơn La.",
-        "origin": null,
-        "originArea": "Cộng đồng Thái ở Sơn La.",
-        "currentProvinceId": "son-la",
-        "characteristics": "Hát lời thơ, giao duyên, chúc tụng và kể chuyện; làn điệu và ngôn ngữ có biến thể theo nhóm địa phương.",
-        "instrumentsOrPerformance": "Hát trong lễ hội, sinh hoạt cộng đồng và dịp giao lưu; có thể kết hợp nhạc cụ truyền thống.",
-        "culturalValue": "Truyền tải ngôn ngữ, tri thức và quan hệ xã hội.",
-        "recognition": "Không tự gán danh hiệu UNESCO.",
         "sourceIds": [
           "src-265"
         ],
