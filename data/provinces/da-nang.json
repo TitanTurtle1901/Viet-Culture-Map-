@@ -5,8 +5,8 @@
   "region": "Duyên hải Nam Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Thành phố Đà Nẵng – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "file": "assets/images/Đà Nẵng/province/backgroundDaNang.jpg",
+      "alt": "Thành phố Đà Nẵng ",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -63,8 +63,8 @@
         "originArea": "Quảng Nam cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Đô thị cổ Hội An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Quảng Nam/destinations/do-thi-co-hoi-an.jpg",
+          "alt": "Đô thị cổ Hội An ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -93,8 +93,8 @@
         "originArea": "Quảng Nam cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Thánh địa Mỹ Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Quảng Nam/destinations/thanh-dia-my-son.jpg",
+          "alt": "Thánh địa Mỹ Sơn ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -123,8 +123,8 @@
         "originArea": "Đà Nẵng cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Danh thắng Ngũ Hành Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Đà Nẵng/destinations/ngu-hanh-son.jpg",
+          "alt": "Danh thắng Ngũ Hành Sơn ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -152,8 +152,8 @@
         "originArea": "Đà Nẵng cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Bán đảo Sơn Trà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Đà Nẵng/destinations/ban-dao-son-tra.jpg",
+          "alt": "Bán đảo Sơn Trà ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -181,8 +181,8 @@
         "originArea": "Quảng Nam cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Cù Lao Chàm – Khu dự trữ sinh quyển thế giới – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Quảng Nam/destinations/cu-lao-cham.jpg",
+          "alt": "Cù Lao Chàm – Khu dự trữ sinh quyển thế giới ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -211,8 +211,8 @@
         "originArea": "Đà Nẵng cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Khu du lịch Bà Nà – Núi Chúa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Đà Nẵng/destinations/khu-du-lich-ba-na-nui-chua.jpg",
+          "alt": "Khu du lịch Bà Nà – Núi Chúa ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -241,8 +241,8 @@
         "originArea": "Đà Nẵng cũ và vùng giáp Huế.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Vịnh Lăng Cô – đèo Hải Vân – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Đà Nẵng/destinations/vinh-lang-co-hai-van.jpg",
+          "alt": "Vịnh Lăng Cô – đèo Hải Vân ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -273,8 +273,8 @@
         "originArea": "Quảng Nam cũ và Đà Nẵng.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Mì Quảng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Đà Nẵng/specialties/mi-quang.jpg",
+          "alt": "Mì Quảng ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -304,8 +304,8 @@
         "originArea": "Quảng Nam cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Cao lầu Hội An – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Quảng Nam/specialties/cao-lau.jpg",
+          "alt": "Cao lầu Hội An ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -334,8 +334,8 @@
         "originArea": "Đà Nẵng cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Nước mắm Nam Ô – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Đà Nẵng/specialties/nuoc-mam-nam-o.jpg",
+          "alt": "Nước mắm Nam Ô ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -362,8 +362,8 @@
         "originArea": "Đà Nẵng cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Bánh tráng Túy Loan – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Đà Nẵng/specialties/banh-trang-tuy-loan.jpg",
+          "alt": "Bánh tráng Túy Loan ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -392,8 +392,8 @@
         "originArea": "Quảng Nam cũ.",
         "currentProvinceId": "da-nang",
         "image": {
-          "file": null,
-          "alt": "Bánh ít lá gai – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Quảng Nam/specialties/banh-it-la-gai.jpg",
+          "alt": "Bánh ít lá gai ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -618,8 +618,8 @@
         "name": "Bài chòi Trung Bộ",
         "category": "Diễn xướng dân gian",
         "image": {
-          "file": null,
-          "alt": "Bài chòi Trung Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Đà Nẵng/culture/bai-choi.jpg",
+          "alt": "Bài chòi Trung Bộ ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -645,8 +645,8 @@
         "name": "Tuồng xứ Quảng",
         "category": "Sân khấu truyền thống",
         "image": {
-          "file": null,
-          "alt": "Tuồng xứ Quảng – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Đà Nẵng/culture/tuong-xu-quang.jpg",
+          "alt": "Tuồng xứ Quảng ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -671,8 +671,8 @@
         "name": "Hò bá trạo trong lễ Cầu ngư",
         "category": "Diễn xướng nghi lễ",
         "image": {
-          "file": null,
-          "alt": "Hò bá trạo trong lễ Cầu ngư – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Đà Nẵng/culture/ho-ba-trao-trong-le-cau-ngu.jpg",
+          "alt": "Hò bá trạo trong lễ Cầu ngư ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
