@@ -5,8 +5,8 @@
   "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
   "summary": {
     "image": {
-      "file": "assets/images/Gia Lai/province/backgroundGiaLai.jpg",
-      "alt": "Cảnh quan cao nguyên và duyên hải Gia Lai ",
+      "file": null,
+      "alt": "Cảnh quan cao nguyên và duyên hải Gia Lai – ảnh đại diện chưa xác minh giấy phép.",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -58,8 +58,8 @@
         "originArea": "Gia Lai cũ – Pleiku.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Gia Lai/destinations/ho-t'nung.jpg",
-          "alt": "Biển Hồ T’Nưng ",
+          "file": null,
+          "alt": "Biển Hồ T’Nưng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -85,8 +85,8 @@
         "originArea": "Gia Lai cũ – huyện Chư Păh trước đây.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Gia Lai/destinations/nui-lua-chu-dang-ya.jpg",
-          "alt": "Núi lửa Chư Đăng Ya ",
+          "file": null,
+          "alt": "Núi lửa Chư Đăng Ya – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -112,8 +112,8 @@
         "originArea": "Gia Lai cũ – khu vực Đông Trường Sơn.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Gia Lai/destinations/vuon-quoc-gia-kon-ka-kinh.jpg",
-          "alt": "Vườn quốc gia Kon Ka Kinh ",
+          "file": null,
+          "alt": "Vườn quốc gia Kon Ka Kinh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -140,8 +140,8 @@
         "originArea": "Gia Lai cũ – vùng Kbang.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Gia Lai/destinations/khu-bao-ton-quoc-gia-kon-chu-rang.jpg",
-          "alt": "Khu bảo tồn thiên nhiên Kon Chư Răng ",
+          "file": null,
+          "alt": "Khu bảo tồn thiên nhiên Kon Chư Răng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -167,8 +167,8 @@
         "originArea": "Bình Định cũ – Tây Sơn.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Bình Định/destinations/bao-tang-quang-trung.jpg",
-          "alt": "Bảo tàng Quang Trung",
+          "file": null,
+          "alt": "Bảo tàng Quang Trung – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -194,8 +194,8 @@
         "originArea": "Bình Định cũ – vùng Tuy Phước.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Bình Định/destinations/thap-banh-it.jpg",
-          "alt": "Tháp Bánh Ít ",
+          "file": null,
+          "alt": "Tháp Bánh Ít – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -221,8 +221,8 @@
         "originArea": "Bình Định cũ – Quy Nhơn.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Bình Định/destinations/eo-gio.jpg",
-          "alt": "Eo Gió ",
+          "file": null,
+          "alt": "Eo Gió – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -250,8 +250,8 @@
         "originArea": "Gia Lai cũ – Pleiku.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Gia Lai/specialties/pho-kho-gia-lai.jpg",
-          "alt": "Phở khô Gia Lai ",
+          "file": null,
+          "alt": "Phở khô Gia Lai – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -279,8 +279,8 @@
         "originArea": "Gia Lai cũ – vùng Krông Pa.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Gia Lai/specialties/bo-mot-nang-muoi-kien-vang.jpg",
-          "alt": "Bò một nắng muối kiến vàng",
+          "file": null,
+          "alt": "Bò một nắng muối kiến vàng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -308,8 +308,8 @@
         "originArea": "Bình Định cũ – các làng nghề và đô thị vùng Quy Nhơn.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Bình Định/specialties/banh-it-la-gai.jpg",
-          "alt": "Bánh ít lá gai ",
+          "file": null,
+          "alt": "Bánh ít lá gai – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -337,8 +337,8 @@
         "originArea": "Bình Định cũ – khu vực làng Bàu Đá.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Bình Định/specialties/ruou-bau-da.jpg",
-          "alt": "Rượu Bàu Đá ",
+          "file": null,
+          "alt": "Rượu Bàu Đá – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -365,8 +365,8 @@
         "originArea": "Bình Định cũ – khu vực Chợ Huyện, Tuy Phước.",
         "currentProvinceId": "gia-lai",
         "image": {
-          "file": "assets/images/Bình Định/specialties/nem-chua-cho-huyen.jpg",
-          "alt": "Nem Chợ Huyện ",
+          "file": null,
+          "alt": "Nem Chợ Huyện – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -585,8 +585,8 @@
         "name": "Cồng chiêng Bahnar và Jrai",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": "assets/images/Gia Lai/culture/cong-chieng-Bahnar-va-Jrai.jpg",
-          "alt": "Cồng chiêng Bahnar và Jrai ",
+          "file": null,
+          "alt": "Cồng chiêng Bahnar và Jrai – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -611,8 +611,8 @@
         "name": "Nghệ thuật Bài chòi Bình Định",
         "category": "Diễn xướng dân gian; trò chơi dân gian",
         "image": {
-          "file": "assets/images/Bình Định/culture/nghe-thuat-bai-choi.jpg",
-          "alt": "Nghệ thuật Bài chòi Bình Định ",
+          "file": null,
+          "alt": "Nghệ thuật Bài chòi Bình Định – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -633,16 +633,16 @@
       },
       {
         "id": "hat-boi-binh-dinh",
-        "name": " Hát bội Bình Định",
+        "name": "Tuồng / Hát bội Bình Định",
         "category": "Sân khấu truyền thống",
         "image": {
-          "file": "assets/images/Bình Định/culture/hat-boi.jpg",
-          "alt": " Hát bội Bình Định ",
+          "file": null,
+          "alt": "Tuồng / Hát bội Bình Định – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
         "communityOrArea": "Bình Định cũ – không gian văn hóa Quy Nhơn và các vùng phụ cận.",
-        "origin": "Nghệ thuậthát bội có lịch sử phát triển ở Bình Định và miền Trung.",
+        "origin": "Nghệ thuật tuồng/hát bội có lịch sử phát triển ở Bình Định và miền Trung.",
         "originArea": "Bình Định cũ – không gian văn hóa Quy Nhơn và các vùng phụ cận.",
         "currentProvinceId": "gia-lai",
         "characteristics": "Sân khấu ước lệ, động tác hình thể, hóa trang, phục trang và âm nhạc truyền thống.",
