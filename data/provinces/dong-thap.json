@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Cửu Long",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Đồng Tháp/province/Province-Cover.jpg",
       "alt": "Phong cảnh sông nước và hoa sen Đồng Tháp – ảnh đại diện chưa xác minh giấy phép.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -58,7 +58,7 @@
         "originArea": "Đồng Tháp cũ – vùng Đồng Tháp Mười.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/destinations/vuon-quoc-gia-tram-chim.jpg",
           "alt": "Vườn quốc gia Tràm Chim – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -86,7 +86,7 @@
         "originArea": "Đồng Tháp cũ – vùng Tháp Mười.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/destinations/khu-di-tich-go-thap.jpg",
           "alt": "Khu di tích Gò Tháp – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -114,7 +114,7 @@
         "originArea": "Đồng Tháp cũ – vùng Cao Lãnh.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/destinations/khu-di-tich-xeo-quyt.jpg",
           "alt": "Khu di tích Xẻo Quýt – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -141,7 +141,7 @@
         "originArea": "Đồng Tháp cũ – Sa Đéc.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/destinations/lang-hoa-sa-dec.jpg",
           "alt": "Làng hoa Sa Đéc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -169,7 +169,7 @@
         "originArea": "Đồng Tháp cũ – Cao Lãnh.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/destinations/khu-di-tich-nguyen-sinh-sac.jpg",
           "alt": "Khu di tích Nguyễn Sinh Sắc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -196,7 +196,7 @@
         "originArea": "Tiền Giang cũ – khu vực Mỹ Tho.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/destinations/con-thoi-son.jpg",
           "alt": "Cồn Thới Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -225,7 +225,7 @@
         "originArea": "Đồng Tháp cũ – Lai Vung.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/specialties/nem-lai-vung-dong-thap.jpg",
           "alt": "Nem Lai Vung – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -254,7 +254,7 @@
         "originArea": "Đồng Tháp cũ – huyện Lai Vung trước sắp xếp.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/specialties/vuon-quyt-hong-lai-vung-dong-thap.jpg",
           "alt": "Quýt hồng Lai Vung – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -281,7 +281,7 @@
         "originArea": "Đồng Tháp cũ – vùng Cao Lãnh.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/specialties/xoai-cao-lanh.jpg",
           "alt": "Xoài Cao Lãnh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -308,7 +308,7 @@
         "originArea": "Tiền Giang cũ – không gian đô thị Mỹ Tho.",
         "currentProvinceId": "dong-thap",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/specialties/hu-tieu-my-tho-tiren-giang.jpg",
           "alt": "Hủ tiếu Mỹ Tho – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -476,7 +476,7 @@
         "name": "Đờn ca tài tử Nam Bộ",
         "category": "Âm nhạc truyền thống; nghệ thuật trình diễn",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/nulture/don-ca-tai-tu.jpg",
           "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -502,7 +502,7 @@
         "name": "Cải lương Nam Bộ",
         "category": "Sân khấu truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Tháp/nulture/cai-luong-nam-bo.jpg",
           "alt": "Cải lương Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
