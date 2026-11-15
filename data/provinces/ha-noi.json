@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Hồng",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Hà Nội/province/Province-Cover.jpg",
       "alt": "Ảnh đại diện toàn cảnh Hà Nội – chưa chọn ảnh do chưa xác minh giấy phép sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -77,7 +77,7 @@
         "originArea": "Kinh đô Thăng Long trong lịch sử; khu vực trung tâm Hà Nội hiện nay",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/thanh-thang-long.jpg",
           "alt": "Khu di tích trung tâm Hoàng thành Thăng Long – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -110,7 +110,7 @@
         "originArea": "Không gian kinh đô Thăng Long; khu vực nội đô Hà Nội",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/van-mieu.jpg",
           "alt": "Văn Miếu – Quốc Tử Giám – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -143,7 +143,7 @@
         "originArea": "Không gian đô thị lịch sử Thăng Long – Hà Nội",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/ho-hoan-kiem.jpg",
           "alt": "Hồ Hoàn Kiếm và đền Ngọc Sơn – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -175,7 +175,7 @@
         "originArea": "Cổ Loa, vùng Đông Anh lịch sử; gắn với kinh đô Âu Lạc",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/di-tich-co-loa.jpg",
           "alt": "Khu di tích Cổ Loa – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -205,7 +205,7 @@
         "originArea": "Hương Sơn, vùng Mỹ Đức lịch sử",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/chua-huong.jpg",
           "alt": "Quần thể Hương Sơn – Chùa Hương – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -236,7 +236,7 @@
         "originArea": "Đường Lâm, vùng văn hóa xứ Đoài; địa danh hành chính cũ thuộc thị xã Sơn Tây",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/lang-co-duong-lam.jpg",
           "alt": "Làng cổ Đường Lâm – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -267,7 +267,7 @@
         "originArea": "Làng Bát Tràng và vùng ven sông Hồng; truyền thống hình thành khoảng thế kỷ XIV–XV",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/su-bat-trang.jpg",
           "alt": "Làng nghề gốm sứ Bát Tràng – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -300,7 +300,7 @@
         "originArea": "Không gian đô thị Hà Nội; hình thành và phát triển trong đời sống phố thị đầu thế kỷ XX, không khẳng định phở chỉ có ở Hà Nội",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/specialties/pho-ha-noi.jpg",
           "alt": "Phở Hà Nội – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -326,7 +326,7 @@
         "originArea": "Làng Thanh Trì lịch sử; nay thuộc phường Vĩnh Hưng, Hà Nội",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/specialties/banh-cuon-thanh-tri.jpg",
           "alt": "Bánh cuốn Thanh Trì – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -358,7 +358,7 @@
         "originArea": "Làng Vòng, địa danh lịch sử Dịch Vọng; địa giới phường hiện hành cần cập nhật sau sắp xếp 2025",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/specialties/com-lang-vong.jpg",
           "alt": "Cốm làng Vòng – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -385,7 +385,7 @@
         "originArea": "Không gian phố thị Hà Nội; gắn với phố Chả Cá và văn hóa ẩm thực đô thị",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/specialties/cha-ca-lang-vong.jpg",
           "alt": "Chả cá Lã Vọng – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -411,7 +411,7 @@
         "originArea": "Làng Bát Tràng, nay thuộc xã Bát Tràng, Hà Nội",
         "currentProvinceId": "ha-noi",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/destinations/su-bat-trang.jpg",
           "alt": "Gốm sứ Bát Tràng – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -561,7 +561,7 @@
         "name": "Ca trù",
         "category": "Âm nhạc truyền thống; hát thơ",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/culture/ca-tru.jpg",
           "alt": "Ca trù – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -586,7 +586,7 @@
         "name": "Hội hát Chèo Tàu Tổng Gối",
         "category": "Diễn xướng dân gian; hát hội",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/culture/hoi-hat-cheo-tau-tong-goi.jpg",
           "alt": "Hội hát Chèo Tàu Tổng Gối – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -609,7 +609,7 @@
         "name": "Múa rối nước vùng Thạch Thất",
         "category": "Nghệ thuật trình diễn dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nội/culture/mua-roi-nuoc.jpg",
           "alt": "Múa rối nước vùng Thạch Thất – ảnh chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
