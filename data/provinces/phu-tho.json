@@ -5,7 +5,7 @@
   "region": "Trung du và miền núi phía Bắc",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Phú Thọ/province/Province-Cover.jpg",
       "alt": "Tỉnh Phú Thọ – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -63,7 +63,7 @@
         "originArea": "Phú Thọ cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/destinations/den-Hung.jpg",
           "alt": "Khu di tích lịch sử Đền Hùng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -91,7 +91,7 @@
         "originArea": "Phú Thọ cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/destinations/Xuan-Son-National-Park.jpg",
           "alt": "Vườn quốc gia Xuân Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -118,7 +118,7 @@
         "originArea": "Vĩnh Phúc cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/destinations/danh-thang-tay-thien.jpg",
           "alt": "Khu di tích danh thắng Tây Thiên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -145,7 +145,7 @@
         "originArea": "Vĩnh Phúc cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/destinations/vuon-quoc-gia-tam-dao.jpg",
           "alt": "Vườn quốc gia Tam Đảo – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -172,7 +172,7 @@
         "originArea": "Hòa Bình cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/destinations/ho-hoa-binh.jpg",
           "alt": "Hồ Hòa Bình – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -199,7 +199,7 @@
         "originArea": "Hòa Bình cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/destinations/cong-dong-mai-chau.jpg",
           "alt": "Không gian du lịch cộng đồng Mai Châu – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -229,7 +229,7 @@
         "originArea": "Phú Thọ cũ – huyện Đoan Hùng trước đây.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/specialties/buoi-doan-hung.jpg",
           "alt": "Bưởi Đoan Hùng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -256,7 +256,7 @@
         "originArea": "Phú Thọ cũ – vùng Thanh Sơn, cộng đồng Mường.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/specialties/Thanh-Son-Fermented-Pork.jpg",
           "alt": "Thịt chua Thanh Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -286,7 +286,7 @@
         "originArea": "Phú Thọ cũ.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/specialties/che-bat-tien.jpg",
           "alt": "Chè Bát Tiên Phú Thọ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -313,7 +313,7 @@
         "originArea": "Hòa Bình cũ – cộng đồng Mường và các nhóm cư dân miền núi.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/specialties/com-lam-vung-hoa-binh.jpg",
           "alt": "Cơm lam vùng Hòa Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -343,7 +343,7 @@
         "originArea": "Phú Thọ cũ – vùng Việt Trì và lân cận.",
         "currentProvinceId": "phu-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/specialties/Tai-Rice-Cake.jpg",
           "alt": "Bánh tai Phú Thọ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -607,7 +607,7 @@
         "name": "Hát Xoan Phú Thọ",
         "category": "Dân ca; diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/culture/hat-xoan-phu-tho.jpg",
           "alt": "Hát Xoan Phú Thọ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -633,7 +633,7 @@
         "name": "Hát Soọng cô",
         "category": "Dân ca; diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/culture/hat-soong-co.jpg",
           "alt": "Hát Soọng cô – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -658,7 +658,7 @@
         "name": "Âm nhạc cồng chiêng Mường",
         "category": "Âm nhạc truyền thống; diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Thọ/culture/am-nhac-cong-chieng-muong.jpg",
           "alt": "Âm nhạc cồng chiêng Mường – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
