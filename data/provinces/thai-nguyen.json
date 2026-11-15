@@ -5,7 +5,7 @@
   "region": "Trung du và miền núi phía Bắc",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Thái Nguyên/province/Province-Cover.jpg",
       "alt": "Tỉnh Thái Nguyên – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -63,7 +63,7 @@
         "originArea": "Bắc Kạn cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/ba-be.jpg",
           "alt": "Hồ Ba Bể và Vườn quốc gia Ba Bể – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -93,7 +93,7 @@
         "originArea": "Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/ATK-dinh-hoa.jpg",
           "alt": "Khu di tích lịch sử quốc gia đặc biệt ATK Định Hóa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -122,7 +122,7 @@
         "originArea": "Bắc Kạn cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/cho-don.jpg",
           "alt": "Khu di tích lịch sử ATK Chợ Đồn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -152,7 +152,7 @@
         "originArea": "Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/ho-nui-coc.jpg",
           "alt": "Hồ Núi Cốc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -182,7 +182,7 @@
         "originArea": "Bắc Kạn cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/ho-va-rung.jpg",
           "alt": "Cảnh quan hồ và rừng vùng Ba Bể – Chợ Đồn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -212,7 +212,7 @@
         "originArea": "Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/dien-duom.jpg",
           "alt": "Di tích đền Đuổm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -241,7 +241,7 @@
         "originArea": "Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/destinations/vung-che-tan-cuong.jpg",
           "alt": "Vùng chè Tân Cương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -273,7 +273,7 @@
         "originArea": "Tân Cương, Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/specialties/che-tan-cuong.jpg",
           "alt": "Chè Tân Cương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -301,7 +301,7 @@
         "originArea": "Bắc Kạn cũ – vùng Na Rì.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/specialties/mien-dong-na-ri.jpg",
           "alt": "Miến dong Na Rì – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -328,7 +328,7 @@
         "originArea": "Bờ Đậu, Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/specialties/banh-chung-bo-dau.jpg",
           "alt": "Bánh chưng Bờ Đậu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -358,7 +358,7 @@
         "originArea": "Định Hóa, Thái Nguyên cũ.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/specialties/com-lam-dinh-hoa.jpg",
           "alt": "Cơm lam Định Hóa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -387,7 +387,7 @@
         "originArea": "Bắc Kạn cũ – các cộng đồng Tày/Nùng ở một số địa bàn.",
         "currentProvinceId": "thai-nguyen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/specialties/khau-nhuc.jpg",
           "alt": "Khâu nhục vùng Ba Bể – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -623,7 +623,7 @@
         "name": "Hát Then và đàn tính",
         "category": "Âm nhạc; diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/culture/hat-then-va-dan-tinh.jpg",
           "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -646,7 +646,7 @@
         "name": "Hát Soọng Cô",
         "category": "Dân ca; hát giao duyên",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/culture/hat-soong-co.jpg",
           "alt": "Hát Soọng Cô – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -671,7 +671,7 @@
         "name": "Múa Tắc Xình",
         "category": "Múa dân gian; diễn xướng lễ hội",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/culture/mua-tac-xinh.jpg",
           "alt": "Múa Tắc Xình – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -696,7 +696,7 @@
         "name": "Hát Sli của người Nùng",
         "category": "Dân ca; hát đối đáp",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Nguyên/culture/hat-sli.jpg",
           "alt": "Hát Sli của người Nùng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
