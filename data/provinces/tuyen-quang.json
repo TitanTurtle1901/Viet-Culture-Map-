@@ -5,7 +5,7 @@
   "region": "Đông Bắc và Tây Bắc",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Tuyên Quang/province/Province-Cover.jpg",
       "alt": "Tỉnh Tuyên Quang – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -67,7 +67,7 @@
         "originArea": "Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/Cao-nguyen-da-dong-van.jpg",
           "alt": "Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -97,7 +97,7 @@
         "originArea": "Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/cot-co-lung-cu.jpg",
           "alt": "Cột cờ Lũng Cú – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -127,7 +127,7 @@
         "originArea": "Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/Đeo-Ma-Pi-eng.jpg",
           "alt": "Đèo Mã Pí Lèng và hẻm vực Tu Sản – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -156,7 +156,7 @@
         "originArea": "Tuyên Quang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/tan-trao.jpg",
           "alt": "Khu di tích lịch sử Tân Trào – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -186,7 +186,7 @@
         "originArea": "Tuyên Quang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/Na-Hang-Lam-Binh.jpg",
           "alt": "Khu du lịch sinh thái Na Hang – Lâm Bình – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -215,7 +215,7 @@
         "originArea": "Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/hoang-su-phi.jpg",
           "alt": "Ruộng bậc thang Hoàng Su Phì – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -244,7 +244,7 @@
         "originArea": "Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/destinations/cho-tinh-khau-vai.jpg",
           "alt": "Không gian chợ tình Khâu Vai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -275,7 +275,7 @@
         "originArea": "Hàm Yên, Tuyên Quang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/specialties/cam-sanh-ham-yen.jpg",
           "alt": "Cam sành Hàm Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -302,7 +302,7 @@
         "originArea": "Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/specialties/Che-Shan-tuyet.jpg",
           "alt": "Chè Shan tuyết Tây Côn Lĩnh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -329,7 +329,7 @@
         "originArea": "Các cộng đồng vùng cao Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/specialties/thang-co.jpg",
           "alt": "Thắng cố – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -357,7 +357,7 @@
         "originArea": "Cộng đồng Mông tại Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/specialties/men-men.jpg",
           "alt": "Mèn mén – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -385,7 +385,7 @@
         "originArea": "Các cộng đồng vùng núi Tuyên Quang và Hà Giang cũ.",
         "currentProvinceId": "tuyen-quang",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/specialties/thit-treo-gac-bep.jpg",
           "alt": "Thịt treo gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -648,7 +648,7 @@
         "name": "Hát Then – đàn tính",
         "category": "Âm nhạc nghi lễ và diễn xướng",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/culture/Hat-then-dan-tinh.jpg",
           "alt": "Hát Then – đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -674,7 +674,7 @@
         "name": "Khèn Mông",
         "category": "Âm nhạc và múa truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/culture/khen-mong.jpg",
           "alt": "Khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -699,7 +699,7 @@
         "name": "Dân ca và trống đồng Lô Lô",
         "category": "Âm nhạc và diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Tuyên Quang/culture/dan-ca-va-trong-dong-lo-lo.jpg",
           "alt": "Dân ca và trống đồng Lô Lô – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
