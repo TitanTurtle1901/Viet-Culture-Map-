@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Cửu Long",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/An Giang/specialties/Province-Cover.jpg",
       "alt": "Ảnh đại diện tổng hợp tỉnh An Giang: không gian sông nước, núi Bảy Núi và biển đảo (chưa xác minh giấy phép sử dụng).",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -79,7 +79,7 @@
         "originArea": "Không gian văn hóa Óc Eo thuộc tỉnh An Giang cũ; khu vực Óc Eo – Ba Thê, trước đây thuộc huyện Thoại Sơn",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/Oc-Eo-Archaeological-Site.jpg",
           "alt": "Khu di tích khảo cổ Óc Eo – Ba Thê (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -112,7 +112,7 @@
         "originArea": "Cù lao Ông Hổ, xã Mỹ Hòa Hưng, tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/khu-luu-niem-chu-tich-ton-duc-thang.webp",
           "alt": "Khu lưu niệm Chủ tịch Tôn Đức Thắng (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -143,7 +143,7 @@
         "originArea": "Núi Sam – Châu Đốc, tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/mieu-ba-chua-xu-nui-sam.jpg",
           "alt": "Miếu Bà Chúa Xứ Núi Sam (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -177,7 +177,7 @@
         "originArea": "Vùng Bảy Núi – tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/rung-tram-tra-su-an-giang.jpg",
           "alt": "Rừng tràm Trà Sư (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -209,7 +209,7 @@
         "originArea": "Vùng Thất Sơn/Bảy Núi, tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/nui-cam.jpg",
           "alt": "Núi Cấm – Thiên Cấm Sơn (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -241,7 +241,7 @@
         "originArea": "Tri Tôn, tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/khu-du-lich-doi-tuc-dup.jpg",
           "alt": "Đồi Tức Dụp (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -272,7 +272,7 @@
         "originArea": "Đặc khu Phú Quốc, địa bàn tỉnh Kiên Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/vuon-quoc-gia-phu-quoc.jpg",
           "alt": "Vườn quốc gia Phú Quốc (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -304,7 +304,7 @@
         "originArea": "Huyện Kiên Hải, tỉnh Kiên Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/Dao-Nam-Du.jpg",
           "alt": "Quần đảo Nam Du (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -336,7 +336,7 @@
         "originArea": "Hà Tiên, tỉnh Kiên Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/thach-dong.jpg",
           "alt": "Thạch Động Hà Tiên (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -368,7 +368,7 @@
         "originArea": "Hà Tiên, tỉnh Kiên Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/destinations/thang-canh-mui-nai.jpg",
           "alt": "Bãi biển Mũi Nai Hà Tiên (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -402,7 +402,7 @@
         "originArea": "Châu Đốc, tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/specialties/dac_san_mam_chau_doc_an_giang.jpg",
           "alt": "Các loại mắm Châu Đốc (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -430,7 +430,7 @@
         "originArea": "Vùng Bảy Núi, gắn với cộng đồng Khmer ở Tri Tôn và Tịnh Biên thuộc tỉnh An Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/specialties/duong-thot-not-bay-nui.jpg",
           "alt": "Đường thốt nốt Bảy Núi (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -459,7 +459,7 @@
         "originArea": "Vùng Bảy Núi, tỉnh An Giang cũ; có liên hệ với nguyên liệu và nghề thốt nốt Khmer",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/specialties/banh-bo-thot-not.jpg",
           "alt": "Bánh bò thốt nốt (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -489,7 +489,7 @@
         "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/specialties/nuoc-mam-phu-quoc.jpg",
           "alt": "Nước mắm truyền thống Phú Quốc (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -518,7 +518,7 @@
         "originArea": "Đặc khu Phú Quốc, tỉnh Kiên Giang cũ",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/specialties/goi-ca-trich-dac-san-phu-quoc.jpg",
           "alt": "Gỏi cá trích Phú Quốc (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -549,7 +549,7 @@
         "originArea": "Cộng đồng Chăm Islam ở An Giang cũ, đặc biệt tại các khu vực cư trú Chăm ven sông Hậu",
         "currentProvinceId": "an-giang",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/specialties/tung-lo-mo-bo-nuong-thom-ngon.jpg",
           "alt": "Tung lò mò – lạp xưởng bò Chăm (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1013,7 +1013,7 @@
         "name": "Đờn ca tài tử Nam Bộ",
         "category": "Âm nhạc truyền thống; nghệ thuật trình diễn dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/culture/don-ca-tai-tu-nam-bo.jpg",
           "alt": "Nghệ nhân biểu diễn Đờn ca tài tử Nam Bộ (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1040,7 +1040,7 @@
         "name": "Nghệ thuật sân khấu Dì kê của người Khmer",
         "category": "Nghệ thuật sân khấu; diễn xướng dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/culture/du-ke-nguoi-khmer.jpg",
           "alt": "Nghệ thuật sân khấu Dì kê của người Khmer (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1067,7 +1067,7 @@
         "name": "Nghệ thuật diễn tấu trống Chhay-dăm của người Khmer",
         "category": "Nghệ thuật trình diễn dân gian; nhạc cụ truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/culture/dien-tau-trong-chhay-dam-nguoi-khmer.jpeg",
           "alt": "Nghệ thuật diễn tấu trống Chhay-dăm của người Khmer (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1093,7 +1093,7 @@
         "name": "Dàn nhạc ngũ âm Khmer",
         "category": "Âm nhạc truyền thống; nhạc cụ dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/An Giang/culture/nhac-ngu-am-khmer.jpg",
           "alt": "Dàn nhạc ngũ âm Khmer (chưa xác minh giấy phép sử dụng).",
           "sourceId": null,
           "permissionStatus": "unverified"
