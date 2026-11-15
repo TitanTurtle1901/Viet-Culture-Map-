@@ -5,7 +5,7 @@
   "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Lâm Đồng/province/Province-Cover.jpg",
       "alt": "Tỉnh Lâm Đồng – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -66,7 +66,7 @@
         "originArea": "Lâm Đồng cũ – Đà Lạt.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/ho-xuan-huong.jpg",
           "alt": "Hồ Xuân Hương và không gian trung tâm Đà Lạt – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -93,7 +93,7 @@
         "originArea": "Lâm Đồng cũ – Đà Lạt.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/ho-truyen-lam.jpg",
           "alt": "Khu du lịch quốc gia Hồ Tuyền Lâm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -120,7 +120,7 @@
         "originArea": "Lâm Đồng cũ – vùng Đà Lạt/Lạc Dương.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/Langbiang-Mountain.jpg",
           "alt": "Núi Lang Biang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -148,7 +148,7 @@
         "originArea": "Bình Thuận cũ – Phan Thiết và vùng ven biển.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/khu-du-lich-quoc-gia-mui-ne.jpg",
           "alt": "Khu du lịch quốc gia Mũi Né – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -176,7 +176,7 @@
         "originArea": "Đắk Nông cũ – vùng Tà Đùng.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/ho-ta-dung.jpg",
           "alt": "Hồ Tà Đùng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -204,7 +204,7 @@
         "originArea": "Bình Thuận cũ – khu vực Hòa Thắng.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/bau-trang.jpg",
           "alt": "Bàu Trắng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -231,7 +231,7 @@
         "originArea": "Đắk Nông cũ – các khu vực địa chất và điểm di sản trong tỉnh cũ.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/destinations/cong-vien-dia-chat.jpg",
           "alt": "Công viên địa chất toàn cầu UNESCO Đắk Nông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -261,7 +261,7 @@
         "originArea": "Lâm Đồng cũ – các vùng cao nguyên, trong đó có Cầu Đất và Di Linh.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/cafe-lam-dong.jpg",
           "alt": "Cà phê Lâm Đồng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -288,7 +288,7 @@
         "originArea": "Bình Thuận cũ – vùng trồng thanh long ven biển.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/thanh-long-binh-thuan.jpg",
           "alt": "Thanh long Bình Thuận – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -315,7 +315,7 @@
         "originArea": "Bình Thuận cũ – Phan Thiết.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/nuoc-mam-phan-thiet.jpg",
           "alt": "Nước mắm Phan Thiết – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -342,7 +342,7 @@
         "originArea": "Lâm Đồng cũ – Đà Lạt.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/vang-da-lat.jpg",
           "alt": "Rượu vang Đà Lạt – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -369,7 +369,7 @@
         "originArea": "Đắk Nông cũ – vùng trồng hồ tiêu.",
         "currentProvinceId": "lam-dong",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/tieu-hat-dak-nong.jpg",
           "alt": "Hạt tiêu Đắk Nông – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -607,7 +607,7 @@
         "name": "Âm nhạc cồng chiêng Tây Nguyên",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/Cong-Chieng-TayNguyen.jpg",
           "alt": "Âm nhạc cồng chiêng Tây Nguyên – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -634,7 +634,7 @@
         "name": "Nghệ thuật diễn xướng Chăm",
         "category": "Múa, âm nhạc và diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/Nghe-thuat-mua-Cham.jpg",
           "alt": "Nghệ thuật diễn xướng Chăm – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -659,7 +659,7 @@
         "name": "Dân ca và diễn xướng dân gian K’Ho",
         "category": "Dân ca; diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Lâm Đồng/specialties/dien-xuong-dan-k'ho.jpg",
           "alt": "Dân ca và diễn xướng dân gian K’Ho – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
