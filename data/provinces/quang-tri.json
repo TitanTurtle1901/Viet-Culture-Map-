@@ -5,7 +5,7 @@
   "region": "Bắc Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Quảng Trị/destinations/Quang-Tri-Ancient-Citadel.jpg",
       "alt": "Tỉnh Quảng Trị – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -64,7 +64,7 @@
         "originArea": "Quảng Bình cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Bình/destinations/Phong-Nha-Ke-Bang-National-Park.jpg",
           "alt": "Vườn quốc gia Phong Nha – Kẻ Bàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -92,7 +92,7 @@
         "originArea": "Quảng Trị cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/destinations/Quang-Tri-Ancient-Citadel.jpg",
           "alt": "Thành cổ Quảng Trị – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -119,7 +119,7 @@
         "originArea": "Quảng Trị cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/destinations/Vinh-Moc-Tunnels.jpg",
           "alt": "Địa đạo Vịnh Mốc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -146,7 +146,7 @@
         "originArea": "Quảng Trị cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/destinations/Hien-Luong-Bridge-and-Ben-Hai-River.jpg",
           "alt": "Di tích đôi bờ Hiền Lương – Bến Hải – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -174,7 +174,7 @@
         "originArea": "Quảng Trị cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/destinations/nghia-trang-liet-si-truong-son.jpg",
           "alt": "Nghĩa trang liệt sĩ Trường Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -201,7 +201,7 @@
         "originArea": "Quảng Trị cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/destinations/Con-Co-Island.jpg",
           "alt": "Đặc khu Cồn Cỏ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -228,7 +228,7 @@
         "originArea": "Quảng Bình cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Bình/destinations/di-tich-hang-tam-co.jpg",
           "alt": "Di tích Hang Tám Cô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -257,7 +257,7 @@
         "originArea": "Quảng Bình cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Bình/specialties/Dried-Sweet-Potato.jpg",
           "alt": "Khoai deo Quảng Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -284,7 +284,7 @@
         "originArea": "Quảng Bình cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Bình/specialties/Tapioca-Dumplings.jpg",
           "alt": "Bánh bột lọc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -314,7 +314,7 @@
         "originArea": "Quảng Bình cũ.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Bình/specialties/Quang-Binh-Thick-Noodle-Soup.jpg",
           "alt": "Cháo canh Quảng Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -342,7 +342,7 @@
         "originArea": "Quảng Trị cũ – vùng Khe Sanh, Hướng Hóa.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/specialties/ca-phe-khe-sanh.jpg",
           "alt": "Cà phê Khe Sanh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -369,7 +369,7 @@
         "originArea": "Quảng Trị cũ – vùng biển Cửa Việt.",
         "currentProvinceId": "quang-tri",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/specialties/nuoc-mam-vung-cua-viet.jpg",
           "alt": "Nước mắm vùng Cửa Việt – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -589,7 +589,7 @@
         "name": "Hò khoan Lệ Thủy",
         "category": "Dân ca; diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Bình/culture/Le-Thuy-Ho-Khoan-Folk-Singing.jpg",
           "alt": "Hò khoan Lệ Thủy – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -614,7 +614,7 @@
         "name": "Nghệ thuật Bài chòi Trung Bộ",
         "category": "Diễn xướng dân gian; âm nhạc",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/culture/nghe-thuat-bai-choi-trung-bo.jpg",
           "alt": "Nghệ thuật Bài chòi Trung Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -640,7 +640,7 @@
         "name": "Dân ca và hò lao động vùng ven biển",
         "category": "Dân ca; diễn xướng dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Trị/culture/ho-lao-dong-vung-bien.jpg",
           "alt": "Dân ca và hò lao động vùng ven biển – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
