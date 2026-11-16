@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Hồng và trung du, miền núi phía Bắc (vùng chuyển tiếp)",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Bắc Ninh (cũ)/province/Province-Cover.webp",
       "alt": "Thành phố Bắc Ninh – ảnh đại diện; quyền sử dụng chưa xác minh.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -85,7 +85,7 @@
         "originArea": "Đình Bảng, tỉnh Bắc Ninh cũ; trung tâm thờ tự triều Lý.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/destinations/den-do-ly-bat-de.jpg",
           "alt": "Đền Đô (Đền Lý Bát Đế) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -113,7 +113,7 @@
         "originArea": "Xã Phật Tích, huyện Tiên Du, tỉnh Bắc Ninh cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/destinations/chua-phat-tich.jpg",
           "alt": "Chùa Phật Tích (Vạn Phúc tự) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -141,7 +141,7 @@
         "originArea": "Không gian Dâu – Luy Lâu, tỉnh Bắc Ninh cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/destinations/chua-dau.jpg",
           "alt": "Chùa Dâu (Diên Ứng tự) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -169,7 +169,7 @@
         "originArea": "Làng Đông Hồ, tỉnh Bắc Ninh cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/destinations/lang-tranh-dong-ho.jpg",
           "alt": "Làng tranh dân gian Đông Hồ – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -198,7 +198,7 @@
         "originArea": "Trí Yên, tỉnh Bắc Giang cũ; gắn với trung tâm Phật giáo Trúc Lâm.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/destinations/Vinh-Nghiem-Pagoda.jpg",
           "alt": "Chùa Vĩnh Nghiêm và kho mộc bản kinh Phật – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -228,7 +228,7 @@
         "originArea": "Vân Hà, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/destinations/chua-bo-da.jpg",
           "alt": "Chùa Bổ Đà (Tứ Ân Tự) – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -257,7 +257,7 @@
         "originArea": "Sơn Động và vùng Tây Yên Tử, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/destinations/tay-yen-tu.jpg",
           "alt": "Không gian văn hóa – sinh thái Tây Yên Tử – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -287,7 +287,7 @@
         "originArea": "Thành Xương Giang, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/destinations/khu-di-tich-chien-thang-xuong-giang.jpg",
           "alt": "Khu di tích lịch sử Chiến thắng Xương Giang – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -314,7 +314,7 @@
         "originArea": "Yên Thế, tỉnh Bắc Giang cũ; gắn với phong trào khởi nghĩa do Hoàng Hoa Thám lãnh đạo.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/destinations/khu-di-tich-khoi-nghia-yen-the.jpg",
           "alt": "Quần thể di tích Khởi nghĩa Yên Thế – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -341,7 +341,7 @@
         "originArea": "Nghĩa Phương, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/destinations/khu-du-lich-sinh-thai-suoi-mo.jpg",
           "alt": "Khu du lịch sinh thái Suối Mỡ – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -372,7 +372,7 @@
         "originArea": "Đình Bảng, tỉnh Bắc Ninh cũ; hiện thuộc phường Từ Sơn.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/specialties/Husband-and-Wife-Cake.webp",
           "alt": "Bánh phu thê Đình Bảng – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -403,7 +403,7 @@
         "originArea": "Lục Ngạn, tỉnh Bắc Giang cũ; vùng chuyên canh cây ăn quả của khu vực trung du.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/specialties/Luc-Ngan-Lychee.jpeg",
           "alt": "Vải thiều Lục Ngạn – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -430,7 +430,7 @@
         "originArea": "Chũ và vùng Lục Ngạn, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/specialties/My-Chu-Noodles.jpg",
           "alt": "Mỳ Chũ – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -457,7 +457,7 @@
         "originArea": "Yên Thế, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/specialties/ga-doi-yen-the.jpg",
           "alt": "Gà đồi Yên Thế – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -485,7 +485,7 @@
         "originArea": "Làng Kế, xã Dĩnh Kế cũ; nay thuộc phường Bắc Giang.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/specialties/banh-da-ke.jpg",
           "alt": "Bánh đa Kế – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -513,7 +513,7 @@
         "originArea": "Làng Vân, phường Vân Hà, tỉnh Bắc Giang cũ.",
         "currentProvinceId": "bac-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/specialties/ruu-lang-van.jpg",
           "alt": "Rượu làng Vân – chưa chọn ảnh vì chưa xác minh giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -905,7 +905,7 @@
         "name": "Dân ca Quan họ Bắc Ninh",
         "category": "Âm nhạc truyền thống; hát đối đáp dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/culture/Quan-Ho-Folk-Singing-Tradition.png",
           "alt": "Liền anh, liền chị Quan họ – chưa xác minh quyền sử dụng ảnh.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -927,7 +927,7 @@
         "name": "Nghề làm tranh dân gian Đông Hồ",
         "category": "Mỹ thuật dân gian; thủ công mỹ nghệ truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/culture/Dong-Ho-Folk-Painting-Art.jpg",
           "alt": "Nghệ nhân in tranh Đông Hồ – chưa xác minh quyền sử dụng ảnh.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -949,7 +949,7 @@
         "name": "Thực hành Then của người Tày, Nùng",
         "category": "Nghi lễ tín ngưỡng; âm nhạc và diễn xướng dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Giang (cũ)/culture/thuc-hanh-then-tay-nung.jpg",
           "alt": "Nghệ nhân thực hành Then và đàn tính – chưa xác minh quyền sử dụng ảnh.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -971,7 +971,7 @@
         "name": "Ca trù",
         "category": "Âm nhạc truyền thống; hát thơ",
         "image": {
-          "file": null,
+          "file": "assets/images/Bắc Ninh (cũ)/culture/ca-tru-mien-bac.jpg",
           "alt": "Đào nương biểu diễn Ca trù – chưa xác minh quyền sử dụng ảnh.",
           "sourceId": null,
           "permissionStatus": "unverified"
