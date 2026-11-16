@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Hồng",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Hưng Yên/destinations/Pho-Hien-Historical-Site.jpg",
       "alt": "Phố Hiến và cảnh quan làng quê Hưng Yên – ảnh đại diện chưa xác minh giấy phép.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -61,7 +61,7 @@
         "originArea": "Hưng Yên cũ – khu vực Hưng Yên, Phố Hiến.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/destinations/Pho-Hien-Historical-Site.jpg",
           "alt": "Quần thể di tích Phố Hiến – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -89,7 +89,7 @@
         "originArea": "Thái Bình cũ – khu vực Vũ Thư.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/destinations/Keo-Pagoda.jpg",
           "alt": "Chùa Keo (Thần Quang tự) – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -116,7 +116,7 @@
         "originArea": "Thái Bình cũ – làng Đồng Xâm.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/destinations/lang-nghe-cham-bac-dong.jpg",
           "alt": "Làng nghề chạm bạc Đồng Xâm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -143,7 +143,7 @@
         "originArea": "Hưng Yên cũ – vùng Chử Đồng Tử – Tiên Dung.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/destinations/deb-hoa-da-trach.jpg",
           "alt": "Đền Đa Hòa – đền Dạ Trạch – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -170,7 +170,7 @@
         "originArea": "Thái Bình cũ – vùng Hưng Hà.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/destinations/den-tien-la.jpg",
           "alt": "Đền Tiên La – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -197,7 +197,7 @@
         "originArea": "Hưng Yên cũ – vùng Văn Lâm.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/destinations/chua-nom.jpg",
           "alt": "Chùa Nôm và làng Nôm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -226,7 +226,7 @@
         "originArea": "Hưng Yên cũ – vùng Phố Hiến và các vùng trồng nhãn.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/specialties/nhan-long.jpg",
           "alt": "Nhãn lồng Hưng Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -254,7 +254,7 @@
         "originArea": "Thái Bình cũ – khu vực Làng Nguyễn, Đông Hưng.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/specialties/Cay-Cake.jpg",
           "alt": "Bánh cáy Làng Nguyễn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -283,7 +283,7 @@
         "originArea": "Hưng Yên cũ – xã Đông Tảo và vùng phụ cận.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/specialties/ga-dong-tao.jpg",
           "alt": "Gà Đông Tảo – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -310,7 +310,7 @@
         "originArea": "Hưng Yên cũ – khu vực Bần Yên Nhân.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/specialties/Ban-Soybean-Sauce.jpg",
           "alt": "Tương Bần – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -339,7 +339,7 @@
         "originArea": "Thái Bình cũ – vùng biển Diêm Điền.",
         "currentProvinceId": "hung-yen",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/specialties/mam-cay-diem-dien.jpg",
           "alt": "Mắm cáy Diêm Điền – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -538,7 +538,7 @@
         "name": "Chèo Thái Bình",
         "category": "Sân khấu truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/culture/hat-cheo.jpg",
           "alt": "Chèo Thái Bình – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -563,7 +563,7 @@
         "name": "Hát Trống quân Hưng Yên",
         "category": "Dân ca; diễn xướng đối đáp",
         "image": {
-          "file": null,
+          "file": "assets/images/Hưng Yên/culture/hat-trong-quan.jpg",
           "alt": "Hát Trống quân Hưng Yên – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -588,7 +588,7 @@
         "name": "Nghệ thuật chạm bạc Đồng Xâm",
         "category": "Nghề thủ công; mỹ nghệ kim loại",
         "image": {
-          "file": null,
+          "file": "assets/images/Thái Bình/culture/nghe-thuat-cham-bac-dong.jpg",
           "alt": "Nghệ thuật chạm bạc Đồng Xâm – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
