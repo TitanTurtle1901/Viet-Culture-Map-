@@ -5,8 +5,8 @@
   "region": "Bắc Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Thành phố Huế – ảnh đại diện chưa xác minh quyền sử dụng.",
+      "file": "assets/images/Huế/province/backgroundHue.jpg",
+      "alt": "Thành phố Huế ",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -61,8 +61,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Quần thể di tích Cố đô Huế – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/co-do-hue.jpg",
+          "alt": "Quần thể di tích Cố đô Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -91,8 +91,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Chùa Thiên Mụ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/chua-thien-mu.jpg",
+          "alt": "Chùa Thiên Mụ ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -120,8 +120,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Ứng Lăng – Lăng Khải Định – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/lang-khai-dinh.jpg",
+          "alt": "Ứng Lăng – Lăng Khải Định ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -149,8 +149,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Hệ sinh thái và điểm đến Bạch Mã – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/bach-ma.jpg",
+          "alt": "Hệ sinh thái và điểm đến Bạch Mã ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -178,8 +178,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Hệ đầm phá Tam Giang – Cầu Hai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/he-dam-pha-tam-giang-cau-hai.jpg",
+          "alt": "Hệ đầm phá Tam Giang – Cầu Hai ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -207,8 +207,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Vịnh Lăng Cô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/vinh-lang-co.jpg",
+          "alt": "Vịnh Lăng Cô ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -236,8 +236,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Di tích Trấn Hải Thành và cửa biển Thuận An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Huế/destinations/cua-bien-thuan-an.jpg",
+          "alt": "Di tích Trấn Hải Thành và cửa biển Thuận An ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -267,8 +267,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Bún bò Huế – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/specialties/bun-bo-hue.jpg",
+          "alt": "Bún bò Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -297,8 +297,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Cơm hến – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/specialties/com-hen.jpg",
+          "alt": "Cơm hến ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -327,8 +327,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Bánh khoái – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/specialties/banh-khoai.jpg",
+          "alt": "Bánh khoái ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -357,8 +357,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Mè xửng Huế – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/specialties/me-xung-hue.jpg",
+          "alt": "Mè xửng Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -387,8 +387,8 @@
         "originArea": "Thành phố Huế.",
         "currentProvinceId": "hue",
         "image": {
-          "file": null,
-          "alt": "Tôm chua Huế – ảnh sản phẩm chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/specialties/tom-chua-hue.jpg",
+          "alt": "Tôm chua Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -596,8 +596,8 @@
         "name": "Nhã nhạc cung đình Huế",
         "category": "Âm nhạc cung đình",
         "image": {
-          "file": null,
-          "alt": "Nhã nhạc cung đình Huế – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/culture/nha-nhac-cung-dinh-hue.jpg"  ,
+          "alt": "Nhã nhạc cung đình Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -622,8 +622,8 @@
         "name": "Ca Huế",
         "category": "Âm nhạc thính phòng truyền thống",
         "image": {
-          "file": null,
-          "alt": "Ca Huế – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/culture/ca-hue.jpg",
+          "alt": "Ca Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
@@ -647,8 +647,8 @@
         "name": "Tuồng cung đình Huế",
         "category": "Sân khấu truyền thống",
         "image": {
-          "file": null,
-          "alt": "Tuồng cung đình Huế – ảnh tư liệu chưa xác minh quyền sử dụng.",
+          "file": "assets/images/Huế/culture/tuong-cung-dinh-hue.jpg",
+          "alt": "Tuồng cung đình Huế ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
