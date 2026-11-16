@@ -5,7 +5,7 @@
   "region": "Trung du và miền núi phía Bắc",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Điện Biên/province/Province-Cover.jpg",
       "alt": "Ảnh đại diện Tỉnh Điện Biên; ảnh chưa xác minh giấy phép.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -69,7 +69,7 @@
         "originArea": "Điện Biên cũ – thành phố Điện Biên Phủ, huyện Điện Biên và các địa bàn liên quan trước sắp xếp.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/destinations/di-tich-chien-truong-dien-bien-phu.jpg",
           "alt": "Di tích quốc gia đặc biệt Chiến trường Điện Biên Phủ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -101,7 +101,7 @@
         "originArea": "Điện Biên cũ – xã Mường Phăng, huyện Điện Biên cũ.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/destinations/muong-phang.jpg",
           "alt": "Khu di tích Sở Chỉ huy Chiến dịch Điện Biên Phủ tại Mường Phăng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -132,7 +132,7 @@
         "originArea": "Điện Biên cũ – xã Sín Thầu, huyện Mường Nhé cũ.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/destinations/a-pa-chai.jpg",
           "alt": "Cột mốc giao điểm biên giới A Pa Chải – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -162,7 +162,7 @@
         "originArea": "Điện Biên cũ – khu vực Mường Phăng và vùng phụ cận.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/destinations/ho-pa-khoang.jpg",
           "alt": "Hồ Pá Khoang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -192,7 +192,7 @@
         "originArea": "Điện Biên cũ – các bản người Thái, Lào và các cộng đồng khác.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/destinations/pa-khoang-bun-pha.jpg",
           "alt": "Bản văn hóa cộng đồng vùng Điện Biên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -224,7 +224,7 @@
         "originArea": "Điện Biên cũ – vùng lòng chảo Mường Thanh và các vùng trồng lúa.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/specialties/gao-dien-bien.jpg",
           "alt": "Gạo Điện Biên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -251,7 +251,7 @@
         "originArea": "Cộng đồng Thái tại Điện Biên và vùng Tây Bắc.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/specialties/pa-pinh-top.jpg",
           "alt": "Pa pỉnh tộp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -279,7 +279,7 @@
         "originArea": "Các cộng đồng vùng Tây Bắc, trong đó có cộng đồng Thái tại Điện Biên.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/specialties/Smoked-Buffalo-Meat.jpg",
           "alt": "Thịt trâu gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -307,7 +307,7 @@
         "originArea": "Điện Biên cũ – huyện Tủa Chùa cũ.",
         "currentProvinceId": "dien-bien",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/specialties/che-shan-tuyet-tua-chua.jpg",
           "alt": "Chè Shan tuyết Tủa Chùa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -529,7 +529,7 @@
         "name": "Múa Xòe Thái",
         "category": "Nghệ thuật trình diễn dân gian; Dân vũ",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/culture/Piu-Xoe-Folk-Dance.webp",
           "alt": "Múa Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -554,7 +554,7 @@
         "name": "Hát Then – đàn tính",
         "category": "Âm nhạc truyền thống; Diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Điện Biên/culture/hat-then-dien-bien.jpg",
           "alt": "Hát Then – đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
