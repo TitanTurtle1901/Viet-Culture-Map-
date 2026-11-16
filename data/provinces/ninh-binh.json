@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Hồng",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Ninh Bình/destinations/Trang-An-Scenic-Landscape-Complex.jpg",
       "alt": "Tỉnh Ninh Bình – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -62,7 +62,7 @@
         "originArea": "Ninh Bình cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/destinations/trang-an-danh-trang.jpg",
           "alt": "Quần thể danh thắng Tràng An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -90,7 +90,7 @@
         "originArea": "Ninh Bình cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/destinations/Hoa-Lu-Ancient-Capital.jpg",
           "alt": "Cố đô Hoa Lư – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -118,7 +118,7 @@
         "originArea": "Ninh Bình cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/destinations/Tam-Coc-Bich-Dong.jpg",
           "alt": "Tam Cốc – Bích Động – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -146,7 +146,7 @@
         "originArea": "Ninh Bình cũ và vùng giáp ranh các tỉnh lân cận.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/destinations/vuon-quoc-gia-cuc-phuong.jpg",
           "alt": "Vườn quốc gia Cúc Phương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -173,7 +173,7 @@
         "originArea": "Ninh Bình cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/destinations/quan-the-nha-tho-da-phat-diem.jpg",
           "alt": "Quần thể nhà thờ đá Phát Diệm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -200,7 +200,7 @@
         "originArea": "Nam Định cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Nam Định/destinations/phu-day.jpg",
           "alt": "Quần thể di tích Phủ Dầy – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -227,7 +227,7 @@
         "originArea": "Hà Nam cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Nam/destinations/Tam-Chuc-Tourist-Complex.jpg",
           "alt": "Quần thể chùa Tam Chúc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -256,7 +256,7 @@
         "originArea": "Ninh Bình cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/specialties/de-nui.jpg",
           "alt": "Dê núi Ninh Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -285,7 +285,7 @@
         "originArea": "Ninh Bình cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/specialties/com-chay.jpg",
           "alt": "Cơm cháy Ninh Bình – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -313,7 +313,7 @@
         "originArea": "Ninh Bình cũ – vùng Yên Mạc.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/specialties/Yen-Mac-Fermented-Pork-Roll.jpg",
           "alt": "Nem chua Yên Mạc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -343,7 +343,7 @@
         "originArea": "Ninh Bình cũ – vùng Kim Sơn.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/specialties/ruou-kim-son.jpg",
           "alt": "Rượu Kim Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -372,7 +372,7 @@
         "originArea": "Nam Định cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Nam Định/specialties/pho.jpg",
           "alt": "Phở Nam Định – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -401,7 +401,7 @@
         "originArea": "Nam Định cũ.",
         "currentProvinceId": "ninh-binh",
         "image": {
-          "file": null,
+          "file": "assets/images/Nam Định/specialties/Siu-Chau-Candy.jpg",
           "alt": "Kẹo Sìu Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -590,7 +590,7 @@
         "name": "Hát văn / chầu văn",
         "category": "Âm nhạc nghi lễ; diễn xướng tín ngưỡng",
         "image": {
-          "file": null,
+          "file": "assets/images/Nam Định/culture/Hat-Van-Ritual-Singing.jpg",
           "alt": "Hát văn / chầu văn – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -615,7 +615,7 @@
         "name": "Hát Xẩm",
         "category": "Dân ca; diễn xướng dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/culture/hat-xam.jpg",
           "alt": "Hát Xẩm – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -641,7 +641,7 @@
         "name": "Chèo vùng đồng bằng Bắc Bộ",
         "category": "Sân khấu truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Ninh Bình/culture/cheo-vung-dong-bang-bac-bo.jpg",
           "alt": "Chèo vùng đồng bằng Bắc Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
