@@ -5,7 +5,7 @@
   "region": "Đông Bắc",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Lạng Sơn/province/Province-Cover.jpg",
       "alt": "Tỉnh Lạng Sơn – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -65,7 +65,7 @@
         "originArea": "Lạng Sơn – khu vực Lộc Bình cũ.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/khu-du-lich-mau-son.jpg",
           "alt": "Khu du lịch Mẫu Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -93,7 +93,7 @@
         "originArea": "Lạng Sơn – khu vực đô thị Lạng Sơn cũ.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/Tam-Thanh-Caves.png",
           "alt": "Cụm danh thắng Tam Thanh – Nhị Thanh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -121,7 +121,7 @@
         "originArea": "Lạng Sơn – khu vực đô thị Lạng Sơn cũ.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/thanh-nha-mac-lang-son.jpg",
           "alt": "Thành nhà Mạc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -149,7 +149,7 @@
         "originArea": "Lạng Sơn – vùng Bắc Sơn cũ.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/thung-lung-bac-son.jpg",
           "alt": "Thung lũng Bắc Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -177,7 +177,7 @@
         "originArea": "Lạng Sơn – vùng Chi Lăng cũ.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/ai-chi-lang.jpg",
           "alt": "Ải Chi Lăng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -205,7 +205,7 @@
         "originArea": "Lạng Sơn – vùng Đồng Đăng, Cao Lộc cũ.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/cong-khau-huu-nghi.jpg",
           "alt": "Cửa khẩu quốc tế Hữu Nghị – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -232,7 +232,7 @@
         "originArea": "Lạng Sơn – nhiều địa bàn trong tỉnh.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/destinations/cong-vien-dia-chat-toan-cau-lang-son.jpg",
           "alt": "Công viên địa chất toàn cầu UNESCO Lạng Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -262,7 +262,7 @@
         "originArea": "Lạng Sơn – các cơ sở ẩm thực tại nhiều địa bàn.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/specialties/Mac-Mat-Roasted-Duck.jpg",
           "alt": "Vịt quay Lạng Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -290,7 +290,7 @@
         "originArea": "Lạng Sơn – không gian đô thị và các địa bàn trong tỉnh.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/specialties/pho-chua-lang-son.jpg",
           "alt": "Phở chua Lạng Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -318,7 +318,7 @@
         "originArea": "Cộng đồng và ẩm thực Lạng Sơn; món ăn cũng có biến thể ở một số địa phương miền núi phía Bắc.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/specialties/Khau-Nhuc-Braised-Pork.jpg",
           "alt": "Khâu nhục – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -347,7 +347,7 @@
         "originArea": "Lạng Sơn – vùng Chi Lăng.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/specialties/na-chi-lang.jpg",
           "alt": "Na Chi Lăng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -374,7 +374,7 @@
         "originArea": "Lạng Sơn – vùng Bắc Sơn.",
         "currentProvinceId": "lang-son",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/specialties/quyt-bac-son.jpg",
           "alt": "Quýt Bắc Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -606,7 +606,7 @@
         "name": "Hát Sli của người Nùng",
         "category": "Dân ca; hát giao duyên",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/culture/hat-sli-nung.jpg",
           "alt": "Hát Sli của người Nùng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -631,7 +631,7 @@
         "name": "Hát Then và đàn tính",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/culture/Tay-Then-Singing-and-Dan-Tinh-Instrument.jpg",
           "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -657,7 +657,7 @@
         "name": "Múa sư tử của người Tày, Nùng",
         "category": "Múa dân gian; diễn xướng lễ hội",
         "image": {
-          "file": null,
+          "file": "assets/images/Lạng Sơn/culture/mua-su-tu-tay-nung.jpg",
           "alt": "Múa sư tử của người Tày, Nùng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
