@@ -5,7 +5,7 @@
   "region": "Đông Nam Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/TP HCM/destinations/Independence-Palace.jpg",
       "alt": "Thành phố Hồ Chí Minh – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -75,7 +75,7 @@
         "originArea": "TP. Hồ Chí Minh cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/TP HCM/destinations/Independence-Palace.jpg",
           "alt": "Di tích lịch sử Dinh Độc Lập – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -104,7 +104,7 @@
         "originArea": "TP. Hồ Chí Minh cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/TP HCM/destinations/Cu-Chi-Tunnels.jpg",
           "alt": "Địa đạo Củ Chi – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -133,7 +133,7 @@
         "originArea": "TP. Hồ Chí Minh cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/TP HCM/destinations/Can-Gio-Biosphere-Reserve.jpg",
           "alt": "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -163,7 +163,7 @@
         "originArea": "Bà Rịa – Vũng Tàu cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/destinations/Con-Dao-Prison.jpg",
           "alt": "Nhà tù Côn Đảo – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -192,7 +192,7 @@
         "originArea": "Bà Rịa – Vũng Tàu cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/destinations/White-Palace.jpg",
           "alt": "Bạch Dinh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -221,7 +221,7 @@
         "originArea": "Bình Dương cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Dương/destinations/chua-ba-thien-hau.jpg",
           "alt": "Chùa Bà Thiên Hậu Thủ Dầu Một – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -250,7 +250,7 @@
         "originArea": "Bà Rịa – Vũng Tàu cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/destinations/nha-lon-long-son.jpg",
           "alt": "Nhà Lớn Long Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -281,7 +281,7 @@
         "originArea": "TP. Hồ Chí Minh cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/TP HCM/specialties/com-tam-sai-gon.jpg",
           "alt": "Cơm tấm Sài Gòn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -311,7 +311,7 @@
         "originArea": "TP. Hồ Chí Minh cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/TP HCM/specialties/hu-tieu-nam-vang.jpg",
           "alt": "Hủ tiếu Nam Vang và hủ tiếu Sài Gòn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -340,7 +340,7 @@
         "originArea": "Bà Rịa – Vũng Tàu cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/specialties/Vung-Tau-Mini-Savory-Pancakes.jpg",
           "alt": "Bánh khọt Vũng Tàu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -370,7 +370,7 @@
         "originArea": "Bà Rịa – Vũng Tàu cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/specialties/goi-ca-trich.jpg",
           "alt": "Gỏi cá trích Côn Đảo – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -399,7 +399,7 @@
         "originArea": "Bình Dương cũ.",
         "currentProvinceId": "ho-chi-minh",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Dương/specialties/mang-cut.jpg",
           "alt": "Măng cụt Lái Thiêu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -618,7 +618,7 @@
         "name": "Đờn ca tài tử Nam Bộ",
         "category": "Âm nhạc truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/culture/don-ca-tai-tu.jpg",
           "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -642,7 +642,7 @@
         "name": "Cải lương Nam Bộ",
         "category": "Sân khấu; nghệ thuật biểu diễn",
         "image": {
-          "file": null,
+          "file": "assets/images/TP HCM/culture/Cai-Luong-Theatre.jpg",
           "alt": "Cải lương Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -667,7 +667,7 @@
         "name": "Múa và diễn xướng truyền thống Chơ-ro",
         "category": "Dân vũ; diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Bà Rịa - Vũng Tàu/culture/mua-va-dien-xuong-truyen-thong.jpg",
           "alt": "Múa và diễn xướng truyền thống Chơ-ro – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
