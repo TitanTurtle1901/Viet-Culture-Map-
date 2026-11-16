@@ -5,7 +5,7 @@
   "region": "Đông Nam Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Tây Ninh/province/Province-Cover.jpg",
       "alt": "Tỉnh Tây Ninh – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -62,7 +62,7 @@
         "originArea": "Tây Ninh cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/nui-ba-den.jpg",
           "alt": "Núi Bà Đen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -92,7 +92,7 @@
         "originArea": "Tây Ninh cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/Cao-Dai-Holy-See.jpg",
           "alt": "Tòa Thánh Cao Đài Tây Ninh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -122,7 +122,7 @@
         "originArea": "Tây Ninh cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/can-cu-trung-uong-cuc-mien-nam.jpg",
           "alt": "Di tích Căn cứ Trung ương Cục miền Nam – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -151,7 +151,7 @@
         "originArea": "Tây Ninh cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/vuon-quoc-gia-lo-go-xa-mat.jpg",
           "alt": "Vườn quốc gia Lò Gò – Xa Mát – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -180,7 +180,7 @@
         "originArea": "Long An cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/Tan-Lap-Floating-Village.jpg",
           "alt": "Khu du lịch sinh thái Làng nổi Tân Lập – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -209,7 +209,7 @@
         "originArea": "Long An cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/nha-tram-cot-can-duoc.jpg",
           "alt": "Nhà trăm cột Cần Đước – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -238,7 +238,7 @@
         "originArea": "Tây Ninh cũ và vùng giáp ranh.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/destinations/ho-dau-tieng.jpg",
           "alt": "Hồ Dầu Tiếng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -269,7 +269,7 @@
         "originArea": "Tây Ninh cũ – Trảng Bàng.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/specialties/Trang-Bang-Dew-Wetted-Rice-Paper.jpg",
           "alt": "Bánh tráng phơi sương Trảng Bàng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -299,7 +299,7 @@
         "originArea": "Tây Ninh cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/specialties/Tay-Ninh-Chili-Shrimp-Salt.jpg",
           "alt": "Muối tôm Tây Ninh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -329,7 +329,7 @@
         "originArea": "Vùng chân núi Bà Đen, Tây Ninh cũ.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/specialties/mang-cau-ba-den.jpg",
           "alt": "Mãng cầu Bà Đen – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -384,7 +384,7 @@
         "originArea": "Long An cũ – vùng Cần Đước.",
         "currentProvinceId": "tay-ninh",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/specialties/Can-Duoc-Fresh-Sausage.jpg",
           "alt": "Lạp xưởng Cần Đước – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -579,7 +579,7 @@
         "name": "Nhạc lễ Cao Đài",
         "category": "Âm nhạc nghi lễ tôn giáo",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/culture/nhac-le-cao-dai.jpg",
           "alt": "Nhạc lễ Cao Đài – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -604,7 +604,7 @@
         "name": "Đờn ca tài tử Nam Bộ",
         "category": "Âm nhạc truyền thống; diễn xướng",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/culture/don-ca-tai-tu-nam-bo-tay-ninh.jpg",
           "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -630,7 +630,7 @@
         "name": "Hò và dân ca vùng Long An",
         "category": "Dân ca; hò lao động",
         "image": {
-          "file": null,
+          "file": "assets/images/Tây Ninh/culture/ho-ly-va-dan-ca-long-an.jpg",
           "alt": "Hò và dân ca vùng Long An – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
