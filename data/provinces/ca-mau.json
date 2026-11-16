@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Cửu Long",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Cà Mau/destinations/kham-pha-khu-du-lich-mui-ca-mau-tai-vung-cuc-nam-to-quoc-1662715357.jpg",
       "alt": "Ảnh đại diện tổng hợp tỉnh Cà Mau: rừng ngập mặn, bờ biển và không gian văn hóa Bạc Liêu – chưa xác minh giấy phép sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -76,7 +76,7 @@
         "originArea": "Tỉnh Cà Mau cũ – vùng Đất Mũi, huyện Ngọc Hiển cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/destinations/kham-pha-khu-du-lich-mui-ca-mau-tai-vung-cuc-nam-to-quoc-1662715357.jpg",
           "alt": "Cột mốc GPS 0001 và rừng ngập mặn tại Khu du lịch Mũi Cà Mau – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -110,7 +110,7 @@
         "originArea": "Tỉnh Cà Mau cũ – vùng U Minh, địa bàn U Minh và Trần Văn Thời cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/destinations/U-Minh-Ha-National-Park.jpg",
           "alt": "Rừng tràm và hệ sinh thái đất ngập nước tại Vườn quốc gia U Minh Hạ – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -144,7 +144,7 @@
         "originArea": "Tỉnh Cà Mau cũ – khu vực Khánh Bình Tây, huyện Trần Văn Thời cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/destinations/Hon-Da-Bac-Historical-Site.jpg",
           "alt": "Cụm đảo đá Hòn Đá Bạc và khu di tích CM12 – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -177,7 +177,7 @@
         "originArea": "Tỉnh Cà Mau cũ – vùng biển huyện Ngọc Hiển cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/destinations/hon-khoai.jpg",
           "alt": "Toàn cảnh cụm đảo Hòn Khoai ngoài khơi Cà Mau – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -209,7 +209,7 @@
         "originArea": "Tỉnh Cà Mau cũ – vùng Rạch Gốc, Ngọc Hiển cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/destinations/Ben-Vam-Lung.jpg",
           "alt": "Nhà niệm hương và khu di tích Bến Vàm Lũng – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -241,7 +241,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – thành phố Bạc Liêu trước năm 2025.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/destinations/khu_luu_niem_nhac_si_cao_van_lau_bac_lieu_du_lich_thu_duc_1_ (1).jpg",
           "alt": "Khu lưu niệm Cao Văn Lầu với tượng nhạc sĩ và không gian biểu diễn đờn ca tài tử – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -274,7 +274,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – khu trung tâm đô thị Bạc Liêu.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/destinations/nha-cong-tu-bac-lieu.jpg",
           "alt": "Mặt tiền Nhà Công tử Bạc Liêu – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -305,7 +305,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – vùng ven biển Nhà Mát.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/destinations/Quan-Am-phat-dai.jpg",
           "alt": "Tượng Quán Thế Âm tại Quán Âm Phật Đài Bạc Liêu – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -337,7 +337,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – khu vực Tắc Sậy, Giá Rai cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/destinations/nha-tho-tay-say.jpg",
           "alt": "Toàn cảnh Nhà thờ Tắc Sậy – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -368,7 +368,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – khu vực Vĩnh Hưng.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/destinations/thap-co-vinh-hung.jpg",
           "alt": "Tháp cổ Vĩnh Hưng – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -401,7 +401,7 @@
         "originArea": "Tỉnh Cà Mau cũ; khu vực nuôi cua nước lợ ở các địa bàn thuộc phạm vi chỉ dẫn địa lý.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/specialties/Ca-Mau-Crab.jpg",
           "alt": "Cua biển Cà Mau – ảnh sản phẩm chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -429,7 +429,7 @@
         "originArea": "Tỉnh Cà Mau cũ – vùng Rạch Gốc và các khu vực ven biển có rừng ngập mặn.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/specialties/Salted-Three-Spot-Crab.jpg",
           "alt": "Ba khía muối Rạch Gốc – ảnh sản phẩm chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -459,7 +459,7 @@
         "originArea": "Tỉnh Cà Mau cũ – các vùng ven biển, trong đó Rạch Gốc là địa danh gắn với nghề làm tôm khô.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/specialties/tom-kho-ca-mau.jpg",
           "alt": "Tôm khô Cà Mau – ảnh sản phẩm chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -488,7 +488,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – các cánh đồng muối ven biển.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/specialties/muoi-bac-lieu.jpg",
           "alt": "Ruộng muối Bạc Liêu – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -517,7 +517,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – thị trấn Ngan Dừa, huyện Hồng Dân cũ.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/specialties/banh-tam-ngan-dua.jpg",
           "alt": "Bánh tằm Ngan Dừa ăn cùng xíu mại và bì – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -547,7 +547,7 @@
         "originArea": "Tỉnh Bạc Liêu cũ – khu vực đô thị Bạc Liêu.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/specialties/Bac-Lieu-Spicy-Beef-Noodle-Soup.jpg",
           "alt": "Tô bún bò cay Bạc Liêu – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -577,7 +577,7 @@
         "originArea": "Tỉnh Cà Mau cũ – vùng U Minh.",
         "currentProvinceId": "ca-mau",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/specialties/Lau-mam-u-minh.jpg",
           "alt": "Lẩu mắm U Minh với rau đồng và cá đồng – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1009,7 +1009,7 @@
         "name": "Đờn ca tài tử Nam Bộ",
         "category": "Âm nhạc truyền thống; Nghệ thuật trình diễn dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/culture/don-ca-tai-tu.jpg",
           "alt": "Nghệ nhân biểu diễn đờn ca tài tử Nam Bộ – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1037,7 +1037,7 @@
         "name": "Vọng cổ và nghệ thuật sân khấu cải lương",
         "category": "Âm nhạc; Sân khấu truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Bạc Liêu/culture/nghe-thuat-san-khau-cai-luong.jpg",
           "alt": "Trình diễn vọng cổ/cải lương tại không gian văn hóa Bạc Liêu – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1064,7 +1064,7 @@
         "name": "Nghệ thuật Nhạc trống lớn của người Khmer",
         "category": "Âm nhạc truyền thống; Nghệ thuật dân gian Khmer",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/culture/nghe-thuat-trong-lon-khmer.jpg",
           "alt": "Nghệ nhân Khmer biểu diễn nhạc trống lớn – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -1089,7 +1089,7 @@
         "name": "Múa truyền thống Khmer",
         "category": "Múa dân gian; Nghệ thuật trình diễn",
         "image": {
-          "file": null,
+          "file": "assets/images/Cà Mau/culture/mua-truyen-thong-khmer.jpg",
           "alt": "Đội múa Khmer trong hoạt động văn hóa cộng đồng – ảnh chưa xác minh giấy phép.",
           "sourceId": null,
           "permissionStatus": "unverified"
