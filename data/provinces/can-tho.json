@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Cửu Long",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Cần Thơ/destinations/Cai-Rang-Floating-Market.jpg",
       "alt": "Thành phố Cần Thơ – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -65,7 +65,7 @@
         "originArea": "Cần Thơ cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Cần Thơ/destinations/Cai-Rang-Floating-Market.jpg",
           "alt": "Chợ nổi Cái Răng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -94,7 +94,7 @@
         "originArea": "Cần Thơ cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Cần Thơ/destinations/Binh-Thuy-Ancient-House.jpg",
           "alt": "Nhà cổ Bình Thủy – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -123,7 +123,7 @@
         "originArea": "Hậu Giang cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Hậu Giang/destinations/Lung-Ngoc-Hoang-Nature-Reserve.jpg",
           "alt": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -152,7 +152,7 @@
         "originArea": "Sóc Trăng cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/destinations/Bat-Pagoda.jpg",
           "alt": "Chùa Mahatup (Chùa Dơi) – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -181,7 +181,7 @@
         "originArea": "Sóc Trăng cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/destinations/Clay-Pagoda.jpg",
           "alt": "Chùa Kh’Leang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -239,7 +239,7 @@
         "originArea": "Cần Thơ cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Cần Thơ/destinations/Son-Islet.jpg",
           "alt": "Cồn Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -270,7 +270,7 @@
         "originArea": "Sóc Trăng cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/specialties/Pia-Pastry.jpg",
           "alt": "Bánh pía Sóc Trăng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -300,7 +300,7 @@
         "originArea": "Sóc Trăng cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/specialties/Fermented-Fish-Noodle-Soup.jpg",
           "alt": "Bún nước lèo Sóc Trăng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -331,7 +331,7 @@
         "originArea": "Cần Thơ cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Cần Thơ/specialties/banh-tet-la-cam.jpg",
           "alt": "Bánh tét lá cẩm – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -361,7 +361,7 @@
         "originArea": "Sóc Trăng cũ – vùng Vĩnh Châu.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/specialties/hanh-tim-vinh-chau.jpg",
           "alt": "Hành tím Vĩnh Châu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -388,7 +388,7 @@
         "originArea": "Hậu Giang cũ.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Hậu Giang/specialties/khom-cau-duc.jpg",
           "alt": "Khóm Cầu Đúc – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -415,7 +415,7 @@
         "originArea": "Sóc Trăng cũ và vùng canh tác phù hợp.",
         "currentProvinceId": "can-tho",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/specialties/gao-st25.jpg",
           "alt": "Gạo ST25 – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -689,7 +689,7 @@
         "name": "Đờn ca tài tử Nam Bộ",
         "category": "Âm nhạc truyền thống; diễn xướng",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/culture/don-ca-tai-tu.jpg",
           "alt": "Đờn ca tài tử Nam Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -716,7 +716,7 @@
         "name": "Sân khấu Dù kê Khmer",
         "category": "Sân khấu truyền thống; diễn xướng",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/culture/san-khau-du-khe-khmer.jpg",
           "alt": "Sân khấu Dù kê Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -741,7 +741,7 @@
         "name": "Sân khấu Rô băm Khmer",
         "category": "Múa – kịch; sân khấu truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/culture/san-khau-ro-bam.jpg",
           "alt": "Sân khấu Rô băm Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -766,7 +766,7 @@
         "name": "Dàn nhạc ngũ âm Khmer",
         "category": "Âm nhạc; nhạc cụ truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Sóc Trăng/culture/nhac-ngu-am-khmer.jpg",
           "alt": "Dàn nhạc ngũ âm Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
