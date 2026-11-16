@@ -5,7 +5,7 @@
   "region": "Duyên hải Nam Trung Bộ và Tây Nguyên",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Quảng Ngãi/province/Province-Cover.jpg",
       "alt": "Tỉnh Quảng Ngãi – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -61,7 +61,7 @@
         "originArea": "Quảng Ngãi cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/dac-khu-ly-son.jpg",
           "alt": "Đặc khu Lý Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -90,7 +90,7 @@
         "originArea": "Quảng Ngãi cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/khu-chung-tich-son-my.jpg",
           "alt": "Khu chứng tích Sơn Mỹ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -117,7 +117,7 @@
         "originArea": "Quảng Ngãi cũ – vùng Sa Huỳnh.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/van-hoa-sa-huynh.jpg",
           "alt": "Không gian văn hóa Sa Huỳnh – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -144,7 +144,7 @@
         "originArea": "Quảng Ngãi cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/bien-my-khe-quang-ngai.jpg",
           "alt": "Biển Mỹ Khê Quảng Ngãi – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -171,7 +171,7 @@
         "originArea": "Kon Tum cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/Wooden-Church.jpg",
           "alt": "Nhà thờ gỗ Kon Tum – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -198,7 +198,7 @@
         "originArea": "Kon Tum cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/mang-den.jpg",
           "alt": "Khu du lịch sinh thái Măng Đen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -226,7 +226,7 @@
         "originArea": "Kon Tum cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/destinations/vuon-quoc-gia-chu-mom-ray.jpg",
           "alt": "Vườn quốc gia Chư Mom Ray – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -255,7 +255,7 @@
         "originArea": "Quảng Ngãi cũ – đặc khu Lý Sơn.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/specialties/Ly-Son-Solo-Garlic.jpg",
           "alt": "Tỏi Lý Sơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -283,7 +283,7 @@
         "originArea": "Quảng Ngãi cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/specialties/mach-nha-quang-ngai.jpg",
           "alt": "Mạch nha Quảng Ngãi – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -311,7 +311,7 @@
         "originArea": "Kon Tum cũ – vùng núi Ngọc Linh.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/specialties/Ngoc-Linh-Ginseng.jpg",
           "alt": "Sâm Ngọc Linh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -338,7 +338,7 @@
         "originArea": "Kon Tum cũ – vùng Măng Đen.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/specialties/ca-phe-mang-den.jpg",
           "alt": "Cà phê Măng Đen – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -365,7 +365,7 @@
         "originArea": "Quảng Ngãi cũ – vùng sông Trà và sông Vệ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/specialties/To-Don-Local-Specialty.jpg",
           "alt": "Don Quảng Ngãi – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -586,7 +586,7 @@
         "name": "Nghệ thuật Bài chòi",
         "category": "Nghệ thuật trình diễn dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/culture/bai-choi-quang-ngai.jpg",
           "alt": "Nghệ thuật Bài chòi – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -611,7 +611,7 @@
         "name": "Không gian âm nhạc cồng chiêng Ba Na – Xơ Đăng",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/culture/cong-chieng-ba-na-xo-dang.jpg",
           "alt": "Không gian âm nhạc cồng chiêng Ba Na – Xơ Đăng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -636,7 +636,7 @@
         "name": "Diễn xướng và hội đua thuyền tứ linh",
         "category": "Diễn xướng dân gian; lễ hội",
         "image": {
-          "file": null,
+          "file": "assets/images/Quảng Ngãi/culture/dien-xuong-hoi-dua-thuyen-tu-linh.jpg",
           "alt": "Diễn xướng và hội đua thuyền tứ linh – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -696,3 +696,4 @@
     }
   ]
 }
+
