@@ -5,7 +5,7 @@
   "region": "Đồng bằng sông Hồng và duyên hải Bắc Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/TP Hải Phòng/province/Province-Cover.jpg",
       "alt": "Thành phố Hải Phòng – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -65,7 +65,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/Lan-Ha-Bay-and-Cat-Ba-Island.jpg",
           "alt": "Quần đảo Cát Bà – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -94,7 +94,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/do-son.jpg",
           "alt": "Khu du lịch Đồ Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -123,7 +123,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/Bach-Dang-Historical-Relic.jpg",
           "alt": "Khu di tích Bạch Đằng Giang – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -152,7 +152,7 @@
         "originArea": "Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/Con-Son-Kiep-Bac-Historical-Complex.jpg",
           "alt": "Quần thể Côn Sơn – Kiếp Bạc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -182,7 +182,7 @@
         "originArea": "Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/chua-nham-duong.jpg",
           "alt": "Chùa Nhẫm Dương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -211,7 +211,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/doanh-thien-ton-giao-du-hang.jpg",
           "alt": "Chùa Dư Hàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -240,7 +240,7 @@
         "originArea": "Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/destinations/lang-co-thanh-mien-hai-duong.jpg",
           "alt": "Không gian làng nghề và di tích vùng Thanh Miện – Hải Dương cũ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -271,7 +271,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/specialties/Crab-Noodle-Soup.jpg",
           "alt": "Bánh đa cua Hải Phòng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -301,7 +301,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/specialties/nem-cua-be.jpg",
           "alt": "Nem cua bể – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -331,7 +331,7 @@
         "originArea": "Hải Phòng cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/specialties/Vietnamese-Baguette-Sticks.jpg",
           "alt": "Bánh mì que Hải Phòng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -360,7 +360,7 @@
         "originArea": "Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/specialties/Mung-Bean-Pastry.jpg",
           "alt": "Bánh đậu xanh Hải Dương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -389,7 +389,7 @@
         "originArea": "Thanh Hà, Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/specialties/vai-thieu-thanh-ha.jpg",
           "alt": "Vải thiều Thanh Hà – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -608,7 +608,7 @@
         "name": "Hát đúm Thủy Nguyên",
         "category": "Hát dân gian; diễn xướng giao duyên",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/culture/hat-dum-thuy-nguyen.jpg",
           "alt": "Hát đúm Thủy Nguyên – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -633,7 +633,7 @@
         "name": "Múa rối nước vùng đồng bằng",
         "category": "Sân khấu dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/culture/Hong-Phong-Water-Puppetry.jpg",
           "alt": "Múa rối nước vùng đồng bằng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -658,7 +658,7 @@
         "name": "Ca trù trong không gian văn hóa Bắc Bộ",
         "category": "Âm nhạc thính phòng truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/TP Hải Phòng/culture/hat-ca-tru-hai-phong.jpg",
           "alt": "Ca trù trong không gian văn hóa Bắc Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
