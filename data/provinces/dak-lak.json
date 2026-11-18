@@ -99,7 +99,7 @@
         "originArea": "Đắk Lắk cũ – huyện Buôn Đôn cũ.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Đắk Lắk/destinations/Buon-Don.jpg",
           "alt": "Không gian văn hóa – du lịch Buôn Đôn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -129,7 +129,7 @@
         "originArea": "Đắk Lắk cũ – khu vực Krông Ana/Cư Kuin trước sắp xếp.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Đắk Lắk/destinations/Dray-Sap-and-Dray-Nur-Waterfalls.jpg",
           "alt": "Thác Dray Nur – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -159,7 +159,7 @@
         "originArea": "Đắk Lắk cũ – huyện Lắk cũ.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Đắk Lắk/destinations/Lak-lake.jpg",
           "alt": "Hồ Lắk – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -189,7 +189,7 @@
         "originArea": "Phú Yên cũ – huyện Tuy An cũ.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/destinations/Ganh-Da-Dia-Reef.jpg",
           "alt": "Danh thắng quốc gia đặc biệt Gành Đá Đĩa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -220,7 +220,7 @@
         "originArea": "Phú Yên cũ – thành phố Tuy Hòa cũ.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/destinations/Nhan-Tower.jpg",
           "alt": "Tháp Nhạn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -250,7 +250,7 @@
         "originArea": "Phú Yên cũ – thị xã Đông Hòa cũ.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/destinations/Vinh-Vung-Ro.jpg",
           "alt": "Vịnh Vũng Rô – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -282,7 +282,7 @@
         "originArea": "Đắk Lắk cũ – khu vực Buôn Ma Thuột và các vùng trồng cà phê.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Đắk Lắk/specialties/Buon-Ma-Thuot-Coffee.jpg",
           "alt": "Cà phê Buôn Ma Thuột – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -338,7 +338,7 @@
         "originArea": "Cộng đồng các dân tộc Tây Nguyên, trong đó có địa bàn Đắk Lắk cũ.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Đắk Lắk/specialties/Com-Lam.jpg",
           "alt": "Cơm lam – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -366,7 +366,7 @@
         "originArea": "Phú Yên cũ – cộng đồng ngư dân và nghề cá ngừ đại dương.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/specialties/Ocean-Tuna-Eye-Soup.jpg",
           "alt": "Cá ngừ đại dương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -393,7 +393,7 @@
         "originArea": "Phú Yên cũ – vùng đầm, vịnh Sông Cầu.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/specialties/Tom-hum-Song-Cau.jpg",
           "alt": "Tôm hùm Sông Cầu – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -647,7 +647,7 @@
         "name": "Không gian văn hóa cồng chiêng Tây Nguyên",
         "category": "Âm nhạc truyền thống; Diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Đắk Lắk/culture/Central-Highlands-Gong-Culture-Space.jpeg",
           "alt": "Không gian văn hóa cồng chiêng Tây Nguyên – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -672,7 +672,7 @@
         "name": "Nghệ thuật Bài Chòi",
         "category": "Diễn xướng dân gian; Trò chơi – âm nhạc",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/culture/Bai-Choi-Folk-Performance.jpg",
           "alt": "Nghệ thuật Bài Chòi – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -697,7 +697,7 @@
         "name": "Trình diễn trống đôi – cồng ba – chiêng năm",
         "category": "Nghệ thuật trình diễn dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Phú Yên/culture/Trình diễn trống đôi – cồng ba – chiêng năm.jpg",
           "alt": "Trình diễn trống đôi – cồng ba – chiêng năm – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"

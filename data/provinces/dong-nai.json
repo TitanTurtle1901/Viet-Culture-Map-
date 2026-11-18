@@ -5,7 +5,7 @@
   "region": "Đông Nam Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Đồng Nai/province/Đồng Nai.jpg",
       "alt": "Thành phố Đồng Nai – ảnh đại diện; quyền sử dụng chưa xác minh.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -76,7 +76,7 @@
         "originArea": "Đồng Nai cũ và các vùng giáp ranh sinh thái.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Nai/destinations/Cat-Tien-National-Park.jpg",
           "alt": "Vườn quốc gia Cát Tiên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -107,7 +107,7 @@
         "originArea": "Bình Phước cũ – huyện Bù Gia Mập cũ.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Phước/destinations/Bu-Gia-Map-National-Park.jpg",
           "alt": "Vườn quốc gia Bù Gia Mập – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -138,7 +138,7 @@
         "originArea": "Đồng Nai cũ – khu vực rừng và hồ Trị An.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Nai/destinations/Khu dự trữ sinh quyển thế giới Đồng Nai.jpg",
           "alt": "Khu dự trữ sinh quyển thế giới Đồng Nai – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -168,7 +168,7 @@
         "originArea": "Đồng Nai cũ – hồ Trị An và vùng phụ cận.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Nai/destinations/Hồ Trị An.jpg",
           "alt": "Hồ Trị An – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -199,7 +199,7 @@
         "originArea": "Bình Phước cũ – thị xã Phước Long cũ.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Phước/destinations/Thac-Mo-Lake.jpg",
           "alt": "Núi Bà Rá – hồ Thác Mơ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -261,7 +261,7 @@
         "originArea": "Đồng Nai cũ – thành phố Biên Hòa cũ.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Nai/destinations/Cù lao Phố và di tích thương cảng Biên Hòa.jpg",
           "alt": "Cù lao Phố và các di tích thương cảng Biên Hòa – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -293,7 +293,7 @@
         "originArea": "Bình Phước cũ – vùng nguyên liệu điều.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Phước/specialties/Binh-Phuoc-Cashew-Nuts.jpg",
           "alt": "Hạt điều Bình Phước – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -320,7 +320,7 @@
         "originArea": "Đồng Nai cũ – vùng Tân Triều, Vĩnh Cửu cũ.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Đồng Nai/specialties/Bưởi Tân Triều.jpg",
           "alt": "Bưởi Tân Triều – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -348,7 +348,7 @@
         "originArea": "Bình Phước cũ – vùng Lộc Ninh.",
         "currentProvinceId": "dong-nai",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Phước/specialties/Hồ tiêu Lộc Ninh.jpg",
           "alt": "Hồ tiêu Lộc Ninh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -638,7 +638,7 @@
         "name": "Cồng chiêng trong đời sống văn hóa S’tiêng",
         "category": "Âm nhạc truyền thống; Diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Bình Phước/culture/Cồng chiêng trong đời sống văn hóa S’tiêng.jpg",
           "alt": "Cồng chiêng trong đời sống văn hóa S’tiêng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
