@@ -155,7 +155,7 @@
         "originArea": "Bến Tre cũ – Ba Tri; nơi Nguyễn Đình Chiểu sinh sống, dạy học và sáng tác.",
         "currentProvinceId": "vinh-long",
         "image": {
-          "file": "assets/images/Vĩnh Long/destinations/mo-va-khu-luu-niem-nguyen-dinh-chieu.jpg",
+          "file": "assets/images/Bến Tre (cũ)/destinations/mo-va-khu-luu-niem-nguyen-dinh-chieu.jpg",
           "alt": "Mộ và Khu lưu niệm Nguyễn Đình Chiểu – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -215,7 +215,7 @@
         "originArea": "Trà Vinh cũ – trung tâm văn hóa Khmer vùng Trà Vinh.",
         "currentProvinceId": "vinh-long",
         "image": {
-          "file": "assets/images/Vĩnh Long/destinations/ao-ba-om-chua-ang.jpg",
+          "file": "assets/images/Trà Vinh (cũ)/destinations/ao-ba-om-chua-ang.jpg",
           "alt": "Khu danh thắng Ao Bà Om và chùa Âng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -246,7 +246,7 @@
         "originArea": "Trà Vinh cũ – không gian văn hóa Khmer tại Trà Vinh.",
         "currentProvinceId": "vinh-long",
         "image": {
-          "file": "assets/images/Vĩnh Long/destinations/bao-tang-van-hoa-dan-toc-khme.jpg",
+          "file": "assets/images/Trà Vinh (cũ)/destinations/bao-tang-van-hoa-dan-toc-khme.jpg",
           "alt": "Bảo tàng Văn hóa dân tộc Khmer – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -277,7 +277,7 @@
         "originArea": "Trà Vinh cũ – vùng ven biển Duyên Hải.",
         "currentProvinceId": "vinh-long",
         "image": {
-          "file": "assets/images/Vĩnh Long/destinations/bien-ba-dong.jpg",
+          "file": "assets/images/Trà Vinh (cũ)/destinations/bien-ba-dong.jpg",
           "alt": "Biển Ba Động – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -367,7 +367,7 @@
         "originArea": "Trà Vinh cũ – vùng Trà Cuôn, nay thuộc tỉnh Vĩnh Long.",
         "currentProvinceId": "vinh-long",
         "image": {
-          "file": "assets/images/Vĩnh Long/specialties/banh-tet-tra-cuon.jpg",
+          "file": "assets/images/Trà Vinh (cũ)/specialties/banh-tet-tra-cuon.jpg",
           "alt": "Bánh tét Trà Cuôn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -476,7 +476,7 @@
         "originArea": "Bến Tre cũ – vùng Chợ Lách và Cái Mơn.",
         "currentProvinceId": "vinh-long",
         "image": {
-          "file": "assets/images/Vĩnh Long/specialties/sau-rieng-cai-mon.jpg",
+          "file": "assets/images/Bến Tre (cũ)/specialties/sau-rieng-cai-mon.jpg",
           "alt": "Sầu riêng Cái Mơn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -844,7 +844,7 @@
         "name": "Hát Sắc bùa Phú Lễ",
         "category": "Diễn xướng dân gian; hát chúc tụng",
         "image": {
-          "file": "assets/images/Vĩnh Long/culture/hat-sac-bua-phu-le.jpg",
+          "file": "assets/images/Bến Tre (cũ)/culture/hat-sac-bua-phu-le.jpg",
           "alt": "Hát Sắc bùa Phú Lễ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -869,7 +869,7 @@
         "name": "Nghệ thuật Rô-băm Khmer",
         "category": "Sân khấu múa – kịch truyền thống",
         "image": {
-          "file": "assets/images/Vĩnh Long/culture/ro-bam-khmer.jpg",
+          "file": "assets/images/Trà Vinh (cũ)/culture/ro-bam-khmer.jpg",
           "alt": "Nghệ thuật Rô-băm Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -894,7 +894,7 @@
         "name": "Sân khấu Dù kê Khmer",
         "category": "Sân khấu ca kịch truyền thống",
         "image": {
-          "file": "assets/images/Vĩnh Long/culture/du-ke-khmer.jpg",
+          "file": "assets/images/Trà Vinh (cũ)/culture/du-ke-khmer.jpg",
           "alt": "Sân khấu Dù kê Khmer – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
