@@ -5,7 +5,7 @@
   "region": "Tây Bắc",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Lai Châu/province/Lai Châu.jpg",
       "alt": "Tỉnh Lai Châu – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -63,7 +63,7 @@
         "originArea": "Lai Châu cũ – khu vực Tam Đường và giáp ranh Lào Cai.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/O-Quy-Ho-Pass.jpg",
           "alt": "Đèo Ô Quy Hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -90,7 +90,7 @@
         "originArea": "Lai Châu cũ – khu vực đèo Ô Quy Hồ.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Cầu kính Rồng Mây.jpg",
           "alt": "Khu du lịch sinh thái Cầu kính Rồng Mây – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -117,7 +117,7 @@
         "originArea": "Lai Châu cũ – cộng đồng người Mông.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Bản du lịch cộng đồng Sin Suối Hồ.jpg",
           "alt": "Bản du lịch cộng đồng Sin Suối Hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -145,7 +145,7 @@
         "originArea": "Lai Châu cũ – vùng chè Tân Uyên.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Tan-Uyen-Tea-Hills.jpg",
           "alt": "Đồi chè Tân Uyên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -173,7 +173,7 @@
         "originArea": "Lai Châu cũ – khu vực thành phố Lai Châu trước sắp xếp.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Động Pu Sam Cáp.jpg",
           "alt": "Động Pu Sam Cáp – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -200,7 +200,7 @@
         "originArea": "Lai Châu cũ – vùng núi Hoàng Liên Sơn.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Đỉnh Putaleng.jpg",
           "alt": "Đỉnh Putaleng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -227,7 +227,7 @@
         "originArea": "Lai Châu cũ – cộng đồng các dân tộc vùng thành phố Lai Châu trước đây.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Chợ đêm San Thàng.jpg",
           "alt": "Chợ đêm San Thàng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -256,7 +256,7 @@
         "originArea": "Các cộng đồng Thái và một số cộng đồng vùng Tây Bắc, trong đó có Lai Châu.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/specialties/Thịt trâu gác bếp.jpg",
           "alt": "Thịt trâu gác bếp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -284,7 +284,7 @@
         "originArea": "Cộng đồng Thái ở Lai Châu và vùng Tây Bắc.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/specialties/Pa-Pinh-Top-Grilled-Fish.jpg",
           "alt": "Pa pỉnh tộp – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -312,7 +312,7 @@
         "originArea": "Lai Châu và các địa bàn Tây Bắc có nguyên liệu lá tạo màu tự nhiên.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/specialties/20-1200x676-1.jpg",
           "alt": "Xôi tím – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -340,7 +340,7 @@
         "originArea": "Lai Châu cũ – vùng chè Tân Uyên.",
         "currentProvinceId": "lai-chau",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/destinations/Chè Tân Uyên.jpg",
           "alt": "Chè Tân Uyên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -546,7 +546,7 @@
         "name": "Hát Then và đàn tính",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/culture/Hát Then và đàn tính.jpg",
           "alt": "Hát Then và đàn tính – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -572,7 +572,7 @@
         "name": "Múa Xòe Thái",
         "category": "Múa dân gian; nghệ thuật cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/culture/Múa Xòe Thái.jpg",
           "alt": "Múa Xòe Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -597,7 +597,7 @@
         "name": "Nghệ thuật trình diễn khèn Mông",
         "category": "Âm nhạc và múa dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Lai Châu/culture/Nghệ thuật trình diễn khèn Mông.jpg",
           "alt": "Nghệ thuật trình diễn khèn Mông – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"

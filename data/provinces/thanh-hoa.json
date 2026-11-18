@@ -5,7 +5,7 @@
   "region": "Bắc Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Thanh Hóa/province/Thanh Hóa.jpg",
       "alt": "Tỉnh Thanh Hóa – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -62,7 +62,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/destinations/Ho-Dynasty-Citadel.jpg",
           "alt": "Thành nhà Hồ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -120,7 +120,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/destinations/Pu-Luong-Nature-Reserve.jpg",
           "alt": "Khu bảo tồn thiên nhiên Pù Luông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -150,7 +150,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/destinations/Bãi biển Sầm Sơn.jpg",
           "alt": "Bãi biển Sầm Sơn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -179,7 +179,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/destinations/Suối cá Cẩm Lương.jpg",
           "alt": "Suối cá Cẩm Lương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -208,7 +208,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/destinations/Vườn quốc gia Bến En.jpg",
           "alt": "Vườn quốc gia Bến En – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -237,7 +237,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/destinations/Cầu Hàm Rồng và quần thể di tích Hàm Rồng.jpg",
           "alt": "Cầu Hàm Rồng và quần thể di tích Hàm Rồng – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -268,7 +268,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/specialties/Thanh-Hoa-Fermented-Pork-Sausage.jpg",
           "alt": "Nem chua Thanh Hóa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -299,7 +299,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/specialties/Chả tôm.jpg",
           "alt": "Chả tôm Thanh Hóa – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -329,7 +329,7 @@
         "originArea": "Tứ Trụ, Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/specialties/Bánh gai Tứ Trụ.jpg",
           "alt": "Bánh gai Tứ Trụ – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -360,7 +360,7 @@
         "originArea": "Hà Yên, Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/specialties/Mắm tép Hà Yên.jpg",
           "alt": "Mắm tép Hà Yên – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -389,7 +389,7 @@
         "originArea": "Thanh Hóa.",
         "currentProvinceId": "thanh-hoa",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/specialties/Chè lam Phủ Quảng.jpg",
           "alt": "Chè lam Phủ Quảng – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -620,7 +620,7 @@
         "name": "Hò sông Mã",
         "category": "Dân ca; hò lao động",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/culture/Hò sông Mã.jpg",
           "alt": "Hò sông Mã – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -645,7 +645,7 @@
         "name": "Trò Xuân Phả",
         "category": "Diễn xướng dân gian; trò diễn lễ hội",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/culture/Xuan-Pha-Traditional-Performance.jpg",
           "alt": "Trò Xuân Phả – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -671,7 +671,7 @@
         "name": "Dân ca Đông Anh",
         "category": "Dân ca; diễn xướng dân gian",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/culture/Dân ca Đông Anh.jpg",
           "alt": "Dân ca Đông Anh – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -696,7 +696,7 @@
         "name": "Khắp Thái",
         "category": "Dân ca; hát truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Thanh Hóa/culture/Khắp Thái.jpg",
           "alt": "Khắp Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"

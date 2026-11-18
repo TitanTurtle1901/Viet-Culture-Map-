@@ -5,7 +5,7 @@
   "region": "Bắc Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Hà Tĩnh/province/Hà Tĩnh.jpg",
       "alt": "Biển Thiên Cầm và núi Hồng Lĩnh – ảnh đại diện chưa xác minh giấy phép.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -63,7 +63,7 @@
         "originArea": "Hà Tĩnh (đơn vị giữ nguyên).",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/destinations/Khu di tích Ngã ba Đồng Lộc.jpg",
           "alt": "Khu di tích Ngã ba Đồng Lộc – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -90,7 +90,7 @@
         "originArea": "Hà Tĩnh – vùng Tiên Điền.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/destinations/Nguyen-Du-Memorial-Site.jpg",
           "alt": "Khu di tích Nguyễn Du – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -117,7 +117,7 @@
         "originArea": "Hà Tĩnh – dãy Hồng Lĩnh, khu vực Can Lộc cũ.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/destinations/Huong-Tich-Pagoda.jpg",
           "alt": "Chùa Hương Tích – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -144,7 +144,7 @@
         "originArea": "Hà Tĩnh – khu vực Cẩm Xuyên cũ.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/destinations/Biển Thiên Cầm.jpg",
           "alt": "Biển Thiên Cầm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -171,7 +171,7 @@
         "originArea": "Hà Tĩnh – khu vực Cẩm Xuyên cũ.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/destinations/Hồ Kẻ Gỗ.jpg",
           "alt": "Hồ Kẻ Gỗ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -198,7 +198,7 @@
         "originArea": "Hà Tĩnh – vùng Hương Sơn.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/destinations/Khu di tích Hải Thượng Lãn Ông.jpg",
           "alt": "Khu di tích Hải Thượng Lãn Ông Lê Hữu Trác – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -227,7 +227,7 @@
         "originArea": "Hà Tĩnh – vùng Phúc Trạch, Hương Khê.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/specialties/Bưởi Phúc Trạch.jpg",
           "alt": "Bưởi Phúc Trạch – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -281,7 +281,7 @@
         "originArea": "Hà Tĩnh – các cơ sở sản xuất trong tỉnh.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/specialties/Cu-Do-Peanut-Candy.jpg",
           "alt": "Kẹo cu đơ Hà Tĩnh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -337,7 +337,7 @@
         "originArea": "Hà Tĩnh – vùng biển Lộc Hà cũ.",
         "currentProvinceId": "ha-tinh",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/specialties/Mực Thạch Kim – Cửa Sót.jpg",
           "alt": "Mực Thạch Kim – Cửa Sót – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -488,7 +488,7 @@
         "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
         "category": "Dân ca; âm nhạc truyền thống",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/culture/Vi-and-Giam-Folk-Singing.jpg",
           "alt": "Dân ca Ví, Giặm Nghệ Tĩnh – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -513,7 +513,7 @@
         "name": "Ca trù",
         "category": "Âm nhạc thính phòng; diễn xướng",
         "image": {
-          "file": null,
+          "file": "assets/images/Hà Tĩnh/culture/Ca-Tru-Traditional-Music.jpg",
           "alt": "Ca trù – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"

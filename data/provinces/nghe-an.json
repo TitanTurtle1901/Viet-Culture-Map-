@@ -5,7 +5,7 @@
   "region": "Bắc Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
+      "file": "assets/images/Nghệ An/province/Nghệ An.jpg",
       "alt": "Tỉnh Nghệ An – ảnh đại diện chưa xác minh quyền sử dụng.",
       "sourceId": null,
       "permissionStatus": "unverified"
@@ -65,7 +65,7 @@
         "originArea": "Nghệ An – quê hương Chủ tịch Hồ Chí Minh.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Kim-Lien-Historical-Site.jpg",
           "alt": "Khu di tích quốc gia đặc biệt Kim Liên – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -93,7 +93,7 @@
         "originArea": "Nghệ An – vùng Con Cuông và miền tây Nghệ An.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Pu-Mat-National-Park.jpg",
           "alt": "Vườn quốc gia Pù Mát – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -121,7 +121,7 @@
         "originArea": "Nghệ An – khu vực Vườn quốc gia Pù Mát.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Thác Khe Kèm.jpg",
           "alt": "Thác Khe Kèm – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -148,7 +148,7 @@
         "originArea": "Nghệ An – vùng ven biển Cửa Lò cũ.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Biển Cửa Lò.jpg",
           "alt": "Biển Cửa Lò – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -175,7 +175,7 @@
         "originArea": "Nghệ An – vùng Thanh Chương.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Đảo chè Thanh Chương.jpg",
           "alt": "Đảo chè Thanh Chương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -202,7 +202,7 @@
         "originArea": "Nghệ An – tuyến giao thông chiến lược trong kháng chiến chống Mỹ.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Khu di tích lịch sử Truông Bồn.jpg",
           "alt": "Khu di tích lịch sử Truông Bồn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -229,7 +229,7 @@
         "originArea": "Nghệ An – vùng Diễn Châu cũ.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/destinations/Đền Cuông.jpg",
           "alt": "Đền Cuông – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -258,7 +258,7 @@
         "originArea": "Nghệ An – vùng Thanh Chương.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/specialties/Thanh-Chuong-Fermented-Jackfruit.jpg",
           "alt": "Nhút Thanh Chương – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -287,7 +287,7 @@
         "originArea": "Nghệ An – vùng Nam Đàn.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/specialties/Tương Nam Đàn.jpg",
           "alt": "Tương Nam Đàn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -316,7 +316,7 @@
         "originArea": "Nghệ An – các vùng trồng cam thuộc khu vực Nghệ An.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/specialties/Cam Vinh.jpg",
           "alt": "Cam Vinh – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -343,7 +343,7 @@
         "originArea": "Nghệ An – không gian đô thị Vinh và các địa bàn trong tỉnh.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/specialties/Nghe-An-Eel-Porridge.jpg",
           "alt": "Cháo lươn Nghệ An – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -372,7 +372,7 @@
         "originArea": "Nghệ An – vùng Nam Đàn và các cơ sở chế biến liên quan.",
         "currentProvinceId": "nghe-an",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/specialties/Giò bê Nam Đàn.jpg",
           "alt": "Giò bê Nam Đàn – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -593,7 +593,7 @@
         "name": "Dân ca Ví, Giặm Nghệ Tĩnh",
         "category": "Dân ca; nghệ thuật trình diễn",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/culture/Vi-and-Giam-Folk-Singing.jpg",
           "alt": "Dân ca Ví, Giặm Nghệ Tĩnh – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -641,7 +641,7 @@
         "name": "Dân ca và nhạc cụ truyền thống người Thái",
         "category": "Âm nhạc truyền thống; diễn xướng cộng đồng",
         "image": {
-          "file": null,
+          "file": "assets/images/Nghệ An/culture/Dân ca và nhạc cụ truyền thống người Thái.jpg",
           "alt": "Dân ca và nhạc cụ truyền thống người Thái – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
