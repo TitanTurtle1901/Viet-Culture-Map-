@@ -24,6 +24,32 @@
       '</div></article>';
   }
 
+  /* Hiệu ứng đếm số từ 0 khi cuộn tới (giống trang Giới thiệu) */
+  function countUp(el) {
+    var end = +el.getAttribute('data-count');
+    var reduce = global.matchMedia && global.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) { el.textContent = D.formatNumber(end, 0); return; }
+    var t0 = global.performance.now(), dur = 1200;
+    function tick(t) {
+      var p = Math.min((t - t0) / dur, 1);
+      el.textContent = D.formatNumber(Math.round(end * (1 - Math.pow(1 - p, 3))), 0);
+      if (p < 1) { global.requestAnimationFrame(tick); }
+    }
+    global.requestAnimationFrame(tick);
+  }
+
+  function observeCounters($root) {
+    if (!('IntersectionObserver' in global)) { return; } // giữ nguyên số tĩnh
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (!en.isIntersecting) { return; }
+        countUp(en.target);
+        io.unobserve(en.target);
+      });
+    }, { threshold: 0.6 });
+    $root.find('[data-count]').each(function () { io.observe(this); });
+  }
+
   function init() {
     D.loadContext().then(function (ctx) {
       // Địa phương nổi bật
@@ -44,10 +70,11 @@
         specs += u.searchNames.specialties.length;
       });
       function stat(n, label) {
-        return '<li class="bg-white/10 rounded-2xl p-5"><p class="font-display text-4xl font-bold text-ochre-400">' + D.formatNumber(n, 0) + '</p><p class="text-sm mt-1">' + label + '</p></li>';
+        return '<li class="bg-white/10 rounded-2xl p-5"><p class="font-display text-4xl font-bold text-ochre-400" data-count="' + n + '">' + D.formatNumber(n, 0) + '</p><p class="text-sm mt-1">' + label + '</p></li>';
       }
       $('#about-stats').html(stat(ctx.units.length, 'đơn vị cấp tỉnh hiện hành') + stat(former, 'đơn vị tiền thân được kế thừa') + stat(places, 'địa điểm trong hồ sơ') + stat(specs, 'đặc sản trong hồ sơ'));
 
+      observeCounters($('#about-stats'));
       U.hydrateSilhouettes($('#featured-grid, #region-grid'));
       U.observeReveal($(document));
     }).catch(function (err) {

@@ -26,7 +26,6 @@
 
   /* ---------- Ảnh đại diện / ảnh giữ chỗ ---------- */
   var silhouettes = null; // Promise<{id: {d, vb}}>
-  var mapPreviewIds = { 'da-nang': 1, 'gia-lai': 1, 'son-la': 1, 'khanh-hoa': 1, 'cao-bang': 1, 'lao-cai': 1 };
 
   function loadSilhouettes() {
     if (!silhouettes) {
@@ -80,7 +79,7 @@
 
   /**
    * Ảnh đại diện địa phương. Có file ảnh đã xác minh -> <img>.
-   * Chưa có -> nền theo miền + hình dạng địa giới thật của tỉnh (không dùng ảnh không rõ nguồn).
+   * Chưa có -> nền theo miền + mảnh bản đồ địa giới thật của tỉnh (không dùng ảnh không rõ nguồn).
    */
   function provinceThumb(unit, className) {
     var img = unit.summary && unit.summary.image;
@@ -88,14 +87,10 @@
     if (img && img.file) {
       return '<div class="thumb ' + (className || '') + '" data-region="' + macro + '"><img loading="lazy" src="' + esc(img.file) + '" alt="' + esc(img.alt || unit.name) + '"></div>';
     }
-    if (mapPreviewIds[unit.id]) {
-      return '<div class="thumb province-map-thumb ' + (className || '') + '" data-region="' + macro + '" role="img" aria-label="Mảnh bản đồ địa giới ' + esc(unit.name) + ' sau sáp nhập">' +
-             '<div class="province-map-preview" data-province-map="' + esc(unit.id) + '"></div>' +
-             '<span class="thumb-note">Mảnh bản đồ địa giới</span></div>';
-    }
-    return '<div class="thumb ' + (className || '') + '" data-region="' + macro + '" role="img" aria-label="Hình dạng địa giới ' + esc(unit.name) + '">' +
-           '<div class="silhouette" data-silhouette="' + esc(unit.id) + '"></div>' +
-           '<span class="thumb-note">Chưa có ảnh được cấp phép</span></div>';
+    // Chưa có ảnh được cấp phép -> mảnh bản đồ địa giới của tỉnh (áp dụng cho cả 34 tỉnh, thành phố)
+    return '<div class="thumb province-map-thumb ' + (className || '') + '" data-region="' + macro + '" role="img" aria-label="Mảnh bản đồ địa giới ' + esc(unit.name) + ' sau sáp nhập">' +
+           '<div class="province-map-preview" data-province-map="' + esc(unit.id) + '"></div>' +
+           '<span class="thumb-note">Mảnh bản đồ địa giới</span></div>';
   }
 
   /** Ảnh giữ chỗ cho địa điểm / đặc sản / nghệ thuật: dùng ảnh nếu có file, nếu không dùng biểu tượng theo loại */
@@ -176,10 +171,10 @@
             '<span class="leading-tight"><span class="hdr-text font-display font-bold text-lg block">Viet Culture Map</span>' +
             '<span class="hdr-text text-[11px] opacity-80 block -mt-0.5">Bản đồ văn hóa Việt Nam</span></span></a>' +
           '<nav class="hidden lg:flex items-center gap-7" aria-label="Điều hướng chính">' +
-            '<a href="index.html" class="' + cls(page === 'home' && hash !== '#ban-do' && hash !== '#gioi-thieu') + '">Trang chủ</a>' +
+            '<a href="index.html" class="' + cls(page === 'home' && hash !== '#ban-do') + '">Trang chủ</a>' +
             '<a href="explore.html" class="' + cls(page === 'explore' || page === 'detail') + '">Khám phá</a>' +
             '<a href="index.html#ban-do" class="' + cls(page === 'home' && hash === '#ban-do') + '">Bản đồ</a>' +
-            '<a href="index.html#gioi-thieu" class="' + cls(page === 'home' && hash === '#gioi-thieu') + '">Giới thiệu</a>' +
+            '<a href="about.html" class="' + cls(page === 'about') + '">Giới thiệu</a>' +
           '</nav>' +
           '<div class="flex items-center gap-1.5 sm:gap-2">' +
             '<button type="button" id="search-toggle" class="hdr-text w-11 h-11 rounded-full hover:bg-white/10 flex items-center justify-center" aria-label="Tìm kiếm" aria-expanded="false" aria-controls="search-panel">' + ICON.search + '</button>' +
@@ -198,7 +193,7 @@
             '<a href="index.html" class="py-3 font-medium text-deep-700 border-b border-cream-200">Trang chủ</a>' +
             '<a href="explore.html" class="py-3 font-medium text-deep-700 border-b border-cream-200">Khám phá</a>' +
             '<a href="index.html#ban-do" class="py-3 font-medium text-deep-700 border-b border-cream-200">Bản đồ</a>' +
-            '<a href="index.html#gioi-thieu" class="py-3 font-medium text-deep-700 mb-3">Giới thiệu</a>' +
+            '<a href="about.html" class="py-3 font-medium text-deep-700 mb-3">Giới thiệu</a>' +
             accountMobile +
           '</nav></div>' +
       '</header>'
@@ -221,7 +216,7 @@
             '<li><a class="hover:text-ochre-400" href="index.html">Trang chủ</a></li>' +
             '<li><a class="hover:text-ochre-400" href="explore.html">Khám phá</a></li>' +
             '<li><a class="hover:text-ochre-400" href="index.html#ban-do">Bản đồ</a></li>' +
-            '<li><a class="hover:text-ochre-400" href="index.html#gioi-thieu">Giới thiệu</a></li>' +
+            '<li><a class="hover:text-ochre-400" href="about.html">Giới thiệu</a></li>' +
             '<li><a class="hover:text-ochre-400" href="login.html">Đăng nhập / Đăng ký</a></li></ul></div>' +
           '<div><h2 class="font-semibold text-white mb-3">Nguồn dữ liệu</h2><ul class="space-y-2 text-sm">' +
             '<li>Hồ sơ nội dung: <a class="underline hover:text-ochre-400" href="data/sources.json" target="_blank" rel="noopener">354 nguồn tham khảo</a> (Nghị quyết 202/2025/QH15, Cục Thống kê, cổng thông tin địa phương…)</li>' +
@@ -279,7 +274,7 @@
       setTimeout(function () { global.location.reload(); }, 500);
     });
 
-    // Cập nhật trạng thái active khi đổi hash (Bản đồ / Giới thiệu)
+    // Cập nhật trạng thái active khi đổi hash (Bản đồ)
     $(global).on('hashchange', function () { renderHeader(); onScroll(); });
 
     // Hiệu ứng xuất hiện khi cuộn
