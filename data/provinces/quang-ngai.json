@@ -198,7 +198,7 @@
         "originArea": "Kon Tum cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": "assets/images/Quảng Ngãi/destinations/mang-den.jpg",
+          "file": "assets/images/Kom Tum (cũ)/destinations/mang-den.jpg",
           "alt": "Khu du lịch sinh thái Măng Đen – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -226,7 +226,7 @@
         "originArea": "Kon Tum cũ.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": "assets/images/Quảng Ngãi/destinations/vuon-quoc-gia-chu-mom-ray.jpg",
+          "file": "assets/images/Kom Tum (cũ)/destinations/vuon-quoc-gia-chu-mom-ray.jpg",
           "alt": "Vườn quốc gia Chư Mom Ray – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -338,7 +338,7 @@
         "originArea": "Kon Tum cũ – vùng Măng Đen.",
         "currentProvinceId": "quang-ngai",
         "image": {
-          "file": "assets/images/Quảng Ngãi/specialties/ca-phe-mang-den.jpg",
+          "file": "assets/images/Kom Tum (cũ)/specialties/ca-phe-mang-den.jpg",
           "alt": "Cà phê Măng Đen – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -611,7 +611,7 @@
         "name": "Không gian âm nhạc cồng chiêng Ba Na – Xơ Đăng",
         "category": "Âm nhạc truyền thống; diễn xướng nghi lễ",
         "image": {
-          "file": "assets/images/Quảng Ngãi/culture/cong-chieng-ba-na-xo-dang.jpg",
+          "file": "assets/images/Kom Tum (cũ)/culture/cong-chieng-ba-na-xo-dang.jpg",
           "alt": "Không gian âm nhạc cồng chiêng Ba Na – Xơ Đăng – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -696,4 +696,3 @@
     }
   ]
 }
-
