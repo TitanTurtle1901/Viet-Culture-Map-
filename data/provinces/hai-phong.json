@@ -182,7 +182,7 @@
         "originArea": "Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": "assets/images/TP Hải Phòng/destinations/chua-nham-duong.jpg",
+          "file": "assets/images/Hải Dương (cũ)/destinations/chua-nham-duong.jpg",
           "alt": "Chùa Nhẫm Dương – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -240,7 +240,7 @@
         "originArea": "Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": "assets/images/TP Hải Phòng/destinations/lang-co-thanh-mien-hai-duong.jpg",
+          "file": "assets/images/Hải Dương (cũ)/destinations/lang-co-thanh-mien-hai-duong.jpg",
           "alt": "Không gian làng nghề và di tích vùng Thanh Miện – Hải Dương cũ – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -389,7 +389,7 @@
         "originArea": "Thanh Hà, Hải Dương cũ.",
         "currentProvinceId": "hai-phong",
         "image": {
-          "file": "assets/images/TP Hải Phòng/specialties/vai-thieu-thanh-ha.jpg",
+          "file": "assets/images/Hải Dương (cũ)/specialties/vai-thieu-thanh-ha.jpg",
           "alt": "Vải thiều Thanh Hà – ảnh sản phẩm chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
@@ -658,7 +658,7 @@
         "name": "Ca trù trong không gian văn hóa Bắc Bộ",
         "category": "Âm nhạc thính phòng truyền thống",
         "image": {
-          "file": "assets/images/TP Hải Phòng/culture/hat-ca-tru-hai-phong.jpg",
+          "file": "assets/images/Hải Dương (cũ)/culture/hat-ca-tru-hai-phong.jpg",
           "alt": "Ca trù trong không gian văn hóa Bắc Bộ – ảnh tư liệu chưa xác minh quyền sử dụng.",
           "sourceId": null,
           "permissionStatus": "unverified"
