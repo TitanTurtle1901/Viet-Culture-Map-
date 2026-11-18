@@ -5,8 +5,8 @@
   "region": "Tây Nguyên và Duyên hải Nam Trung Bộ",
   "summary": {
     "image": {
-      "file": null,
-      "alt": "Ảnh đại diện Tỉnh Đắk Lắk; ảnh chưa xác minh giấy phép.",
+      "file": "assets/images/Đắk Lắk/province/dak-lak.jpg",
+      "alt": "Ảnh đại diện Tỉnh Đắk Lắk.",
       "sourceId": null,
       "permissionStatus": "unverified"
     },
@@ -68,13 +68,13 @@
         "originArea": "Đắk Lắk cũ – khu vực Buôn Đôn và Ea Súp.",
         "currentProvinceId": "dak-lak",
         "image": {
-          "file": null,
-          "alt": "Vườn quốc gia Yok Đôn – ảnh minh họa chưa xác minh tác giả và giấy phép sử dụng.",
+          "file": "assets/images/Đắk Lắk/destinations/Vuon-Quoc-gia-Yok-Don.jpg",
+          "alt": "Vườn quốc gia Yok Đôn ",
           "sourceId": null,
           "permissionStatus": "unverified"
         },
         "location": "Khu vực Buôn Đôn, tỉnh Đắk Lắk; địa chỉ cấp xã hiện hành cần cập nhật.",
-        "coordinates": null,
+        "coordinates": "assets/images/Đắk Lắk/destinations/Buon-Don.jpg",
         "shortDescription": "Khu bảo tồn rừng khộp và cảnh quan sinh thái đặc trưng Tây Nguyên.",
         "fullDescription": "Yok Đôn bảo tồn các kiểu rừng khộp, rừng thường xanh và đa dạng sinh học; các hoạt động trải nghiệm phải tuân thủ quy định bảo tồn.",
         "highlights": [
