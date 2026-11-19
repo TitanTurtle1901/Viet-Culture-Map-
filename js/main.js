@@ -104,6 +104,19 @@
            '<span class="thumb-note">Chưa có ảnh được cấp phép</span></div>';
   }
 
+  /* Ảnh không tải được (file thiếu/sai tên) -> thay bằng biểu tượng giữ chỗ thay vì hiện icon ảnh vỡ.
+     Sự kiện `error` không nổi bọt nên dùng pha capture trên document (đăng ký một lần). */
+  document.addEventListener('error', function (e) {
+    var t = e.target;
+    if (!t || t.tagName !== 'IMG' || !t.closest) { return; }
+    var th = t.closest('.thumb');
+    if (!th || th.getAttribute('data-img-failed')) { return; }
+    th.setAttribute('data-img-failed', '1');
+    th.setAttribute('role', 'img');
+    th.setAttribute('aria-label', (t.getAttribute('alt') || '') + ' – không tải được ảnh');
+    th.innerHTML = '<div class="thumb-icon">' + ICON.pin + '</div><span class="thumb-note">Ảnh không tải được</span>';
+  }, true);
+
   function macroBadge(ctx, macroId) {
     var r = ctx.macroById[macroId];
     return r ? '<span class="badge badge-region-' + macroId + '">' + esc(r.label) + '</span>' : '';
